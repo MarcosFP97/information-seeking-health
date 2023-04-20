@@ -63,7 +63,7 @@ if __name__ == "__main__":
   parser = argparse.ArgumentParser()
   parser.add_argument("model", nargs='?', default="gpt-4")
   parser.add_argument("prompt", nargs='?', default="prompts/usc.txt")
-  parser.add_argument("topics", nargs='?', default="../../../evaluation/misinfo-resources-2022/topics/misinfo-2022-topics.xml")
+  parser.add_argument("topics", nargs='?', default="evaluation/misinfo-resources-2022/topics/misinfo-2022-topics.xml")
   args = parser.parse_args()
   openai.api_key = API_KEY
   prompt = load_prompt(args.prompt)
