@@ -1,0 +1,193 @@
+starting job from hpc-gpu4
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/condabin/conda
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/conda
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/conda-env
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/activate
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/deactivate
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/profile.d/conda.sh
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/fish/conf.d/conda.fish
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/shell/condabin/Conda.psm1
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/shell/condabin/conda-hook.ps1
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/lib/python3.9/site-packages/xontrib/conda.xsh
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/profile.d/conda.csh
+no change     /mnt/beegfs/home/marcos.fernandez.pichel/.bashrc
+No action taken.
+2023-03-15 13:37:45.469177: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+Do tea bags help to clot blood in pulled teeth?
+yes
+1
+Accuracy: 0.02
+Can crystals heal?
+yes
+Accuracy: 0.02
+Can collagen supplements cure osteoarthritis?
+no
+2
+Accuracy: 0.04
+Can cell phones cause cancer?
+no
+3
+Accuracy: 0.06
+Can you use WD-40 for arthritis?
+wd-40 is a lubricant used to treat a variety of mechanical and
+Accuracy: 0.06
+Can mosquito bites make you sick?
+yes
+4
+Accuracy: 0.08
+Can cancer be inherited?
+yes
+5
+Accuracy: 0.1
+Are vaccines linked to autism?
+vaccines and autism: a case for vaccines
+Accuracy: 0.1
+Can baking soda help to cure cancer?
+baking soda is a chemical compound that can be used to treat a wide variety of
+Accuracy: 0.1
+Are squats bad for knees?
+no
+6
+Accuracy: 0.12
+Do ACE inhibitors typically cause erectile dysfunction?
+no
+7
+Accuracy: 0.14
+Is morphine addictive?
+yes
+8
+Accuracy: 0.16
+Can fruit juice increase the risk of diabetes?
+yes
+9
+Accuracy: 0.18
+Do magnetic wrist straps help with arthritis?
+no
+10
+Accuracy: 0.2
+Are sit ups bad for you?
+no, they are good for you
+Accuracy: 0.2
+Can a speech problem be caused by right handed person being forced to left hand?
+yes
+11
+Accuracy: 0.22
+Are there health benefits to drinking your own urine?
+yes
+Accuracy: 0.22
+Is pink salt good for you?
+yes
+Accuracy: 0.22
+Can massage get rid of cellulite?
+no, massage is not a cure for cellulite.
+12
+Accuracy: 0.24
+Can fish oil improve your cholesterol?
+yes, it can. fish oil is a good source of omega-3 fatty acids,
+Accuracy: 0.24
+Can you become addicted to weed?
+yes
+13
+Accuracy: 0.26
+Can vegan diets be healthy?
+vegan diets are low in saturated fat, cholesterol, and saturated fatty acids. vegan diet
+Accuracy: 0.26
+Is hydroquinone banned in Europe?
+yes
+14
+Accuracy: 0.28
+Do men get UTI infections?
+yes
+15
+Accuracy: 0.3
+Are carrots good for your eyes?
+yes
+16
+Accuracy: 0.32
+Is methanol poisonous?
+no
+Accuracy: 0.32
+Can an MRI harm my baby?
+mris are safe for pregnant women and their unborn children.
+Accuracy: 0.32
+Can exercise lower cholesterol?
+yes
+17
+Accuracy: 0.34
+Can chewing gum help lose weight?
+chewing gum can help you to feel fuller for longer periods of time, which can help
+Accuracy: 0.34
+Can sunglasses help prevent cataracts?
+yes
+18
+Accuracy: 0.36
+Did AIDS come from chimps?
+no aids is a virus that is transmitted by a simian virus.
+Accuracy: 0.36
+Is too much water bad for you?
+yes
+19
+Accuracy: 0.38
+Can HIV be transmitted through sweat?
+yes
+Accuracy: 0.38
+Do Himalayan salt lamps have health benefits?
+yes, they are a popular way to promote relaxation and sleep. they are also said to
+Accuracy: 0.38
+Can a woman get pregnant while breastfeeding?
+yes
+20
+Accuracy: 0.4
+Can statins cause permanent cognitive impairment?
+yes
+Accuracy: 0.4
+Does Vitamin C prevent colds?
+vitamin c is a vitamin that is found in many foods. it is also found in supplements
+Accuracy: 0.4
+Can coffee help you lose weight?
+coffee is a caffeinated beverage that contains caffeine. caffeine is a
+Accuracy: 0.4
+Does drinking lemon water help with belly fat?
+yes
+Accuracy: 0.4
+Does deli meat increase your risk of colon cancer?
+yes
+21
+Accuracy: 0.42
+Are skin tags contagious?
+no
+22
+Accuracy: 0.44
+Can oil pulling heal cavities?
+oil pulling is a technique used to remove plaque and tartar from teeth.
+Accuracy: 0.44
+Does a high fiber diet help with hemorrhoids?
+yes
+23
+Accuracy: 0.46
+Can grapefruit interfere with medication?
+grapefruit is a citrus fruit that is used in the preparation of many medications. it is
+Accuracy: 0.46
+Can vape pens be harmful?
+yes
+24
+Accuracy: 0.48
+Do bananas increase the risk of diabetes?
+no
+25
+Accuracy: 0.5
+Is wifi harmful for health?
+no
+26
+Accuracy: 0.52
+Does drinking apple cider vinegar help lose weight?
+yes
+Accuracy: 0.52
+Does ginger help with nausea?
+yes
+27
+Accuracy: 0.54
+Can a cold sore cause genital herpes?
+yes
+28
+Accuracy: 0.56

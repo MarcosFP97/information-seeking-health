@@ -1,0 +1,396 @@
+starting job from hpc-gpu4
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/condabin/conda
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/conda
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/conda-env
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/activate
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/deactivate
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/profile.d/conda.sh
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/fish/conf.d/conda.fish
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/shell/condabin/Conda.psm1
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/shell/condabin/conda-hook.ps1
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/lib/python3.9/site-packages/xontrib/conda.xsh
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/profile.d/conda.csh
+no change     /mnt/beegfs/home/marcos.fernandez.pichel/.bashrc
+No action taken.
+2023-03-13 11:52:00.540253: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Do tea bags help to clot blood in pulled teeth?
+no
+Accuracy: 0.0
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can crystals heal?
+a:no
+1
+Accuracy: 0.02
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can collagen supplements cure osteoarthritis?
+a:no
+2
+Accuracy: 0.04
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can cell phones cause cancer?
+a:no
+3
+Accuracy: 0.06
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can you use WD-40 for arthritis?
+no
+4
+Accuracy: 0.08
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can mosquito bites make you sick?
+a:no
+Accuracy: 0.08
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can cancer be inherited?
+yes
+5
+Accuracy: 0.1
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Are vaccines linked to autism?
+a:no
+6
+Accuracy: 0.12
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can baking soda help to cure cancer?
+a:no
+7
+Accuracy: 0.14
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Are squats bad for knees?
+no
+8
+Accuracy: 0.16
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Do ACE inhibitors typically cause erectile dysfunction?
+no
+9
+Accuracy: 0.18
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Is morphine addictive?
+a:no
+Accuracy: 0.18
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can fruit juice increase the risk of diabetes?
+a:no
+Accuracy: 0.18
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Do magnetic wrist straps help with arthritis?
+a:no
+10
+Accuracy: 0.2
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Are sit ups bad for you?
+a:no
+Accuracy: 0.2
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can a speech problem be caused by right handed person being forced to left hand?
+no
+Accuracy: 0.2
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Are there health benefits to drinking your own urine?
+a:no
+11
+Accuracy: 0.22
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Is pink salt good for you?
+a:no
+12
+Accuracy: 0.24
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can massage get rid of cellulite?
+a:no
+13
+Accuracy: 0.26
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can fish oil improve your cholesterol?
+a:yes
+Accuracy: 0.26
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can you become addicted to weed?
+a:no
+Accuracy: 0.26
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can vegan diets be healthy?
+a:yes
+14
+Accuracy: 0.28
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Is hydroquinone banned in Europe?
+yes
+15
+Accuracy: 0.3
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Do men get UTI infections?
+a:yes
+16
+Accuracy: 0.32
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Are carrots good for your eyes?
+a:yes
+17
+Accuracy: 0.34
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Is methanol poisonous?
+a:no
+Accuracy: 0.34
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can an MRI harm my baby?
+no
+18
+Accuracy: 0.36
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can exercise lower cholesterol?
+a:yes
+19
+Accuracy: 0.38
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can chewing gum help lose weight?
+a:no
+20
+Accuracy: 0.4
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can sunglasses help prevent cataracts?
+a:no
+Accuracy: 0.4
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Did AIDS come from chimps?
+a:no
+Accuracy: 0.4
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Is too much water bad for you?
+a:no
+Accuracy: 0.4
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can HIV be transmitted through sweat?
+a:no
+21
+Accuracy: 0.42
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Do Himalayan salt lamps have health benefits?
+yes
+Accuracy: 0.42
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can a woman get pregnant while breastfeeding?
+a:no
+Accuracy: 0.42
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can statins cause permanent cognitive impairment?
+a:no
+22
+Accuracy: 0.44
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Does Vitamin C prevent colds?
+a:no
+23
+Accuracy: 0.46
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can coffee help you lose weight?
+a:no
+Accuracy: 0.46
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Does drinking lemon water help with belly fat?
+a:no
+24
+Accuracy: 0.48
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Does deli meat increase your risk of colon cancer?
+no
+Accuracy: 0.48
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Are skin tags contagious?
+a:no
+25
+Accuracy: 0.5
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can oil pulling heal cavities?
+a:no
+26
+Accuracy: 0.52
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Does a high fiber diet help with hemorrhoids?
+a:no
+Accuracy: 0.52
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can grapefruit interfere with medication?
+a:yes
+27
+Accuracy: 0.54
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can vape pens be harmful?
+a:no
+Accuracy: 0.54
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Do bananas increase the risk of diabetes?
+a:no
+28
+Accuracy: 0.56
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Is wifi harmful for health?
+no
+29
+Accuracy: 0.58
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Does drinking apple cider vinegar help lose weight?
+a:no
+30
+Accuracy: 0.6
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Does ginger help with nausea?
+a:yes
+31
+Accuracy: 0.62
+
+Q:Will wearing an ankle brace help heal achilles tendonitis?
+A:No
+We are a non-expert user searching for medical advice online. 
+Can a cold sore cause genital herpes?
+no
+Accuracy: 0.62
