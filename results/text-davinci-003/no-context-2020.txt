@@ -1,0 +1,291 @@
+Can vitamin D cure COVID-19? The answer must be Yes or No
+
+
+no
+
+1
+Can vitamin C cure COVID-19? The answer must be Yes or No
+
+
+no
+
+2
+Can BCG vaccine prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+3
+Can ibuprofen worsen COVID-19? The answer must be Yes or No
+
+
+no
+
+4
+Can gargling salt water prevent COVID-19? The answer must be Yes or No
+
+
+no. gargling salt water will not prevent covid-19. the best way to prevent covid-19 is to practice social distancing, wear a face mask, and frequently wash your hands.
+
+5
+Can Ginger cure COVID-19? The answer must be Yes or No
+
+
+no
+
+6
+Can 5G antennas cause COVID-19? The answer must be Yes or No
+
+
+no
+
+7
+Can herbal tea prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+8
+Can convalescent plasma cure COVID-19? The answer must be Yes or No
+
+
+no
+
+9
+Can pneumococcal vaccine prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+10
+Can female sex hormones prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+11
+Can dextromethorphan worsen COVID-19? The answer must be Yes or No
+
+
+no
+
+Can wearing masks prevent COVID-19? The answer must be Yes or No
+
+
+yes
+
+12
+Can drinking cow urine cure COVID-19? The answer must be Yes or No
+
+
+no. there is no scientific evidence to suggest that drinking cow urine can cure covid-19.
+
+13
+Can social distancing prevent COVID-19? The answer must be Yes or No
+
+
+yes
+
+14
+Can vinegar prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+15
+Can lopinavir-ritonavir cure COVID-19? The answer must be Yes or No
+
+
+no
+
+16
+Can ayurveda cure COVID-19? The answer must be Yes or No
+
+
+no
+
+17
+Can exposure to UV light prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+18
+Can black seed oil treat COVID-19? The answer must be Yes or No
+
+
+no. there is no scientific evidence that black seed oil can treat covid-19.
+
+19
+Can Tamiflu help COVID-19? The answer must be Yes or No
+
+
+no
+
+20
+Can burning neem leaves treat COVID-19? The answer must be Yes or No
+
+
+no
+
+21
+Can drinking alcohol worsen COVID-19? The answer must be Yes or No
+
+
+yes
+
+22
+Can high temperatures and humidity prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+23
+Can remdesivir cure COVID-19? The answer must be Yes or No
+
+
+no
+
+24
+Can turmeric treat COVID-19? The answer must be Yes or No
+
+
+no
+
+25
+Can a vegetarian diet prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+26
+Can getting a flu shot prevent COVID-19? The answer must be Yes or No
+
+
+no. a flu shot cannot prevent covid-19.
+
+27
+Can ACE and ARBs worsen COVID-19? The answer must be Yes or No
+
+
+no
+
+28
+Can smoking prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+29
+Can having type O blood prevent COVID-19 The answer must be Yes or No
+
+
+no
+
+30
+Can methanol prevent COVID-19 The answer must be Yes or No
+
+
+no
+
+31
+Can handwashing prevent COVID-19? The answer must be Yes or No
+
+
+yes
+
+32
+Can Nicotine help COVID-19? The answer must be Yes or No
+
+
+no
+
+Can Cannabis help COVID-19? The answer must be Yes or No
+
+
+no
+
+33
+Can Hydroxychloroquine worsen COVID-19? The answer must be Yes or No
+
+
+no
+
+Can monoclonal antibodies cure COVID-19? The answer must be Yes or No
+
+
+no
+
+34
+Can bleach prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+Can breast milk prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+35
+Can Hib vaccine prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+36
+Can inhalers help COVID-19? The answer must be Yes or No
+
+
+no. inhalers are not effective in treating covid-19. the best way to prevent and treat covid-19 is to follow the advice of your healthcare provider, including washing your hands often, wearing a face mask, and avoiding close contact with people who are sick.
+
+37
+Can Omega-3 prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+38
+Can IVIG cure COVID-19? The answer must be Yes or No
+
+
+no
+
+39
+Can remestemcel-l cure COVID-19? The answer must be Yes or No
+
+
+no
+
+40
+Can mosquitos cause COVID-19? The answer must be Yes or No
+
+
+no
+
+41
+Can Homemade Vodka Sanitizer prevent COVID-19? The answer must be Yes or No
+
+
+no. homemade vodka sanitizer is not strong enough to kill the virus that causes covid-19. the centers for disease control and prevention (cdc) recommends using an alcohol-based hand sanitizer with at least 60% alcohol to help prevent the spread of the virus.
+
+42
+Can Ribavirin help COVID-19? The answer must be Yes or No
+
+
+no
+
+43
+Can Echinacea prevent COVID-19? The answer must be Yes or No
+
+
+no
+
+44
+Can drinking lemon water prevent COVID-19? The answer must be Yes or No
+
+
+no. drinking lemon water does not prevent covid-19. the best way to prevent covid-19 is to practice social distancing, wear a face mask, and frequently wash your hands.
+
+45
+Accuracy: 0.9183673469387755

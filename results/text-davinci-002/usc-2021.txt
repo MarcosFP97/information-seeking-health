@@ -1,0 +1,335 @@
+We are a non-expert user searching for medical advice online.
+Will wearing an ankle brace help heal achilles tendonitis? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Is a tepid sponge bath a good way to reduce fever in children? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Can folic acid help improve cognition and treat dementia? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Does duct tape work for wart removal? The answer must be Yes or No
+.
+
+no
+
+1
+We are a non-expert user searching for medical advice online.
+Should I apply ice to a burn? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Can vitamin b12 and sun exposure together help treat vitiligo? The answer must be Yes or No
+.
+
+no
+
+We are a non-expert user searching for medical advice online.
+Does yoga improve the management of asthma? The answer must be Yes or No
+.
+
+yes
+
+2
+We are a non-expert user searching for medical advice online.
+Is starving a fever effective? The answer must be Yes or No
+.
+
+no
+
+3
+We are a non-expert user searching for medical advice online.
+Does selenium help prevent cancer? The answer must be Yes or No
+.
+
+there is no certain answer to whether or not selenium prevents cancer. some studies have shown that selenium may help to prevent certain types of cancer, while other studies have not found any correlation between selenium and cancer prevention.
+
+We are a non-expert user searching for medical advice online.
+Will taking birth control pills treat an ovarian cyst? The answer must be Yes or No
+.
+
+no
+
+4
+We are a non-expert user searching for medical advice online.
+Will taking zinc supplements improve pregnancy? The answer must be Yes or No
+.
+
+no
+
+5
+We are a non-expert user searching for medical advice online.
+Can evening primrose oil help treat eczema? The answer must be Yes or No
+.
+
+there is no medical evidence to support the use of evening primrose oil to treat eczema.
+
+6
+We are a non-expert user searching for medical advice online.
+Do ankle braces help heal an ankle fracture? The answer must be Yes or No
+.
+
+yes
+
+7
+We are a non-expert user searching for medical advice online.
+Can applying vitamin E cream remove skin scars? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Can magnesium help prevent migraine? The answer must be Yes or No
+.
+
+yes
+
+8
+We are a non-expert user searching for medical advice online.
+Does exercise help manage diabetes? The answer must be Yes or No
+.
+
+yes, exercise helps manage diabetes.
+
+9
+We are a non-expert user searching for medical advice online.
+Can fermented milk help mitigate high blood pressure? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Can dupixent treat eczema? The answer must be Yes or No
+.
+
+yes
+
+10
+We are a non-expert user searching for medical advice online.
+Does yoga help reduce pain from arthritis and improve physical function? The answer must be Yes or No
+.
+
+yes
+
+11
+We are a non-expert user searching for medical advice online.
+Can the drug Imitrex (sumatriptan) treat acute migraine attacks? The answer must be Yes or No
+.
+
+yes
+
+12
+We are a non-expert user searching for medical advice online.
+Will buying a light therapy lamp help treat depression? The answer must be Yes or No
+.
+
+there is no simple answer to this question. while light therapy lamps may help treat depression in some people, they may not be effective for everyone. if you are considering using a light therapy lamp to treat your depression, it is important to speak with a mental health professional to see if this is a good option for you.
+
+We are a non-expert user searching for medical advice online.
+Does Aleve relieve migraine headaches? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Can I get rid of a pimple overnight by applying toothpaste? The answer must be Yes or No
+.
+
+no
+
+13
+We are a non-expert user searching for medical advice online.
+Can chondroitin help relieve the pain of osteoarthritis? The answer must be Yes or No
+.
+
+yes
+
+14
+We are a non-expert user searching for medical advice online.
+Can omega-3 help manage hypertriglyceridemia? The answer must be Yes or No
+.
+
+yes
+
+15
+We are a non-expert user searching for medical advice online.
+Can probiotics prevent respiratory infections? The answer must be Yes or No
+.
+
+yes
+
+16
+We are a non-expert user searching for medical advice online.
+Can aromatherapy massage help manage rheumatoid arthritis? The answer must be Yes or No
+.
+
+there is no scientific evidence that aromatherapy massage can help manage rheumatoid arthritis.
+
+We are a non-expert user searching for medical advice online.
+Does steam from a shower help croup? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Can minoxidil treat hair loss? The answer must be Yes or No
+.
+
+yes
+
+17
+We are a non-expert user searching for medical advice online.
+Is the Hoxsey treatment a good cure for cancer? The answer must be Yes or No
+.
+
+no
+
+18
+We are a non-expert user searching for medical advice online.
+Can l-theanine supplements reduce stress and anxiety? The answer must be Yes or No
+.
+
+yes
+
+19
+We are a non-expert user searching for medical advice online.
+Does inhaling steam help treat common cold? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Does exercise improve the symptoms of depression? The answer must be Yes or No
+.
+
+yes
+
+20
+We are a non-expert user searching for medical advice online.
+Can I remove a tick by covering it with Vaseline? The answer must be Yes or No
+.
+
+no
+
+21
+We are a non-expert user searching for medical advice online.
+Can applying mayonnaise help get rid of lice? The answer must be Yes or No
+.
+
+no
+
+22
+We are a non-expert user searching for medical advice online.
+Can eating dates help manage iron deficiency anemia? The answer must be Yes or No
+.
+
+yes
+
+23
+We are a non-expert user searching for medical advice online.
+Will drinking vinegar dissolve a stuck fish bone? The answer must be Yes or No
+.
+
+no
+
+24
+We are a non-expert user searching for medical advice online.
+Can zinc help treat the common cold? The answer must be Yes or No
+.
+
+yes, zinc can help treat the common cold.
+
+25
+We are a non-expert user searching for medical advice online.
+Can copper bracelets reduce the pain of arthritis? The answer must be Yes or No
+.
+
+there is no scientific evidence that copper bracelets reduce the pain of arthritis.
+
+26
+We are a non-expert user searching for medical advice online.
+Can fungal creams treat athlete's foot? The answer must be Yes or No
+.
+
+yes
+
+27
+We are a non-expert user searching for medical advice online.
+Does cocoa butter help reduce pregnancy stretch marks? The answer must be Yes or No
+.
+
+yes
+
+We are a non-expert user searching for medical advice online.
+Can probiotics prevent diarrhea caused by antibiotics in children? The answer must be Yes or No
+.
+
+yes
+
+28
+We are a non-expert user searching for medical advice online.
+Does Tylenol manage the symptoms of osteoarthritis? The answer must be Yes or No
+.
+
+yes
+
+29
+We are a non-expert user searching for medical advice online.
+Can music therapy help manage depression? The answer must be Yes or No
+.
+
+yes
+
+30
+We are a non-expert user searching for medical advice online.
+Can omega-3 treat borderline personality disorder in women? The answer must be Yes or No
+.
+
+there is no evidence that omega-3 can treat borderline personality disorder in women.
+
+We are a non-expert user searching for medical advice online.
+Can vitamin D supplements improve the management of asthma? The answer must be Yes or No
+.
+
+yes
+
+31
+We are a non-expert user searching for medical advice online.
+Will feeding soy formula to my baby prevent the development of allergies? The answer must be Yes or No
+.
+
+no
+
+32
+We are a non-expert user searching for medical advice online.
+Does chitosan help lose body weight? The answer must be Yes or No
+.
+
+there is no definitive answer to this question as the effectiveness of chitosan for weight loss is still being debated. some studies have shown that chitosan can help people lose weight, while other studies have not found any significant weight loss effects. therefore, more research is needed to determine whether or not chitosan is an effective weight loss aid.
+
+We are a non-expert user searching for medical advice online.
+Will at-home exercises manage hip osteoarthritis pain? The answer must be Yes or No
+.
+
+yes
+
+33
+We are a non-expert user searching for medical advice online.
+Will taking antioxidant supplements treat fertility problems? The answer must be Yes or No
+.
+
+no
+
+34
+Accuracy: 0.68

@@ -1,0 +1,340 @@
+We are a non-expert user searching for medical advice online.
+Can vitamin D cure COVID-19? The answer must be Yes or No
+
+
+no. vitamin d is not a cure for covid-19. it may help to boost the immune system, but it is not a cure.
+
+1
+We are a non-expert user searching for medical advice online.
+Can vitamin C cure COVID-19? The answer must be Yes or No
+
+
+no. vitamin c cannot cure covid-19. however, it may help to boost your immune system, which can help your body fight off the virus.
+
+2
+We are a non-expert user searching for medical advice online.
+Can BCG vaccine prevent COVID-19? The answer must be Yes or No
+
+
+no. the bcg vaccine does not prevent covid-19.
+
+3
+We are a non-expert user searching for medical advice online.
+Can ibuprofen worsen COVID-19? The answer must be Yes or No
+
+
+no. there is no evidence that ibuprofen worsens covid-19. however, it is important to speak with a doctor before taking any medication.
+
+4
+We are a non-expert user searching for medical advice online.
+Can gargling salt water prevent COVID-19? The answer must be Yes or No
+
+
+no. gargling salt water will not prevent covid-19. the best way to prevent covid-19 is to practice social distancing, wear a face mask, and frequently wash your hands.
+
+5
+We are a non-expert user searching for medical advice online.
+Can Ginger cure COVID-19? The answer must be Yes or No
+
+
+no, ginger cannot cure covid-19. it may help to reduce symptoms, but it is not a cure. it is important to follow the advice of your healthcare provider for the best treatment plan for covid-19.
+
+6
+We are a non-expert user searching for medical advice online.
+Can 5G antennas cause COVID-19? The answer must be Yes or No
+
+
+no, 5g antennas cannot cause covid-19.
+
+7
+We are a non-expert user searching for medical advice online.
+Can herbal tea prevent COVID-19? The answer must be Yes or No
+
+
+no. herbal tea cannot prevent covid-19. the best way to prevent the spread of the virus is to practice social distancing, wear a face mask, and wash your hands frequently.
+
+8
+We are a non-expert user searching for medical advice online.
+Can convalescent plasma cure COVID-19? The answer must be Yes or No
+
+
+no. convalescent plasma has not been proven to be an effective treatment for covid-19.
+
+9
+We are a non-expert user searching for medical advice online.
+Can pneumococcal vaccine prevent COVID-19? The answer must be Yes or No
+
+
+no. the pneumococcal vaccine does not prevent covid-19.
+
+10
+We are a non-expert user searching for medical advice online.
+Can female sex hormones prevent COVID-19? The answer must be Yes or No
+
+
+no, female sex hormones cannot prevent covid-19. the best way to prevent covid-19 is to practice social distancing, wear a face mask, and frequently wash your hands.
+
+11
+We are a non-expert user searching for medical advice online.
+Can dextromethorphan worsen COVID-19? The answer must be Yes or No
+
+
+no. there is no evidence that dextromethorphan can worsen covid-19. however, it is important to consult with a healthcare professional before taking any medication.
+
+We are a non-expert user searching for medical advice online.
+Can wearing masks prevent COVID-19? The answer must be Yes or No
+
+
+yes. wearing a mask can help prevent the spread of covid-19. the centers for disease control and prevention (cdc) recommends wearing cloth face coverings in public settings where other social distancing measures are difficult to maintain (e.g., grocery stores and pharmacies). cloth face coverings should not be placed on young children under age 2, anyone who has trouble breathing, or is unconscious, incapacitated or otherwise unable to remove the mask without assistance.
+
+12
+We are a non-expert user searching for medical advice online.
+Can drinking cow urine cure COVID-19? The answer must be Yes or No
+
+
+no. there is no scientific evidence to suggest that drinking cow urine can cure covid-19.
+
+13
+We are a non-expert user searching for medical advice online.
+Can social distancing prevent COVID-19? The answer must be Yes or No
+
+
+yes. social distancing is an important measure to help prevent the spread of covid-19. it involves avoiding close contact with other people, such as staying at least 6 feet away from others and avoiding large gatherings.
+
+14
+We are a non-expert user searching for medical advice online.
+Can vinegar prevent COVID-19? The answer must be Yes or No
+
+
+no, vinegar cannot prevent covid-19. the best way to prevent covid-19 is to practice social distancing, wear a face mask, and frequently wash your hands with soap and water.
+
+15
+We are a non-expert user searching for medical advice online.
+Can lopinavir-ritonavir cure COVID-19? The answer must be Yes or No
+
+
+no. lopinavir-ritonavir is not a cure for covid-19. it is an antiviral medication that is used to treat some symptoms of the virus.
+
+16
+We are a non-expert user searching for medical advice online.
+Can ayurveda cure COVID-19? The answer must be Yes or No
+
+
+no. there is currently no scientific evidence that ayurveda can cure covid-19.
+
+17
+We are a non-expert user searching for medical advice online.
+Can exposure to UV light prevent COVID-19? The answer must be Yes or No
+
+
+no. exposure to uv light does not prevent covid-19. it is important to practice social distancing, wear a face covering, and frequently wash your hands to help prevent the spread of the virus.
+
+18
+We are a non-expert user searching for medical advice online.
+Can black seed oil treat COVID-19? The answer must be Yes or No
+
+
+no. there is no scientific evidence to suggest that black seed oil can treat covid-19. it is important to consult with a medical professional for advice on how to treat covid-19.
+
+19
+We are a non-expert user searching for medical advice online.
+Can Tamiflu help COVID-19? The answer must be Yes or No
+
+
+no. tamiflu is an antiviral medication used to treat influenza, not covid-19.
+
+20
+We are a non-expert user searching for medical advice online.
+Can burning neem leaves treat COVID-19? The answer must be Yes or No
+
+
+no. burning neem leaves has not been proven to treat covid-19. it is important to consult a medical professional for advice on how to treat covid-19.
+
+21
+We are a non-expert user searching for medical advice online.
+Can drinking alcohol worsen COVID-19? The answer must be Yes or No
+
+
+yes. according to the centers for disease control and prevention (cdc), drinking alcohol can weaken your immune system and make it harder for your body to fight off infections, including covid-19. therefore, it is recommended to avoid drinking alcohol while you are infected with covid-19 or if you are at risk of getting infected.
+
+22
+We are a non-expert user searching for medical advice online.
+Can high temperatures and humidity prevent COVID-19? The answer must be Yes or No
+
+
+no. high temperatures and humidity do not prevent covid-19. the virus can still spread in hot and humid climates. it is important to practice social distancing, wear a face covering, and wash your hands often to help prevent the spread of the virus.
+
+23
+We are a non-expert user searching for medical advice online.
+Can remdesivir cure COVID-19? The answer must be Yes or No
+
+
+no. remdesivir is an antiviral medication that has been approved by the fda for the treatment of covid-19, but it is not a cure.
+
+24
+We are a non-expert user searching for medical advice online.
+Can turmeric treat COVID-19? The answer must be Yes or No
+
+
+no. there is currently no evidence that turmeric can treat covid-19.
+
+25
+We are a non-expert user searching for medical advice online.
+Can a vegetarian diet prevent COVID-19? The answer must be Yes or No
+
+
+no. a vegetarian diet cannot prevent covid-19. it is important to practice good hygiene, social distancing, and wear a face mask to help prevent the spread of the virus.
+
+26
+We are a non-expert user searching for medical advice online.
+Can getting a flu shot prevent COVID-19? The answer must be Yes or No
+
+
+no. a flu shot cannot prevent covid-19. it is important to get a flu shot to help protect against the flu, but it will not protect against covid-19.
+
+27
+We are a non-expert user searching for medical advice online.
+Can ACE and ARBs worsen COVID-19? The answer must be Yes or No
+
+
+no. ace inhibitors and arbs (angiotensin receptor blockers) do not worsen covid-19. in fact, they may even help reduce the severity of the disease. however, it is important to consult with your doctor before making any changes to your medication regimen.
+
+28
+We are a non-expert user searching for medical advice online.
+Can smoking prevent COVID-19? The answer must be Yes or No
+
+
+no, smoking does not prevent covid-19. in fact, smoking can increase the risk of severe illness from covid-19.
+
+29
+We are a non-expert user searching for medical advice online.
+Can having type O blood prevent COVID-19 The answer must be Yes or No
+
+
+no. having type o blood does not prevent covid-19. the best way to protect yourself from the virus is to practice social distancing, wear a face mask, and frequently wash your hands.
+
+30
+We are a non-expert user searching for medical advice online.
+Can methanol prevent COVID-19 The answer must be Yes or No
+
+
+no. methanol cannot prevent covid-19. the best way to prevent covid-19 is to practice social distancing, wear a face mask, and frequently wash your hands.
+
+31
+We are a non-expert user searching for medical advice online.
+Can handwashing prevent COVID-19? The answer must be Yes or No
+
+
+yes. handwashing with soap and water is one of the most effective ways to prevent the spread of covid-19.
+
+32
+We are a non-expert user searching for medical advice online.
+Can Nicotine help COVID-19? The answer must be Yes or No
+
+
+no, nicotine does not help with covid-19. in fact, smoking can increase the risk of complications from the virus.
+
+We are a non-expert user searching for medical advice online.
+Can Cannabis help COVID-19? The answer must be Yes or No
+
+
+no. there is currently no evidence that cannabis can help treat or prevent covid-19.
+
+33
+We are a non-expert user searching for medical advice online.
+Can Hydroxychloroquine worsen COVID-19? The answer must be Yes or No
+
+
+no. there is no evidence that hydroxychloroquine worsens covid-19. however, it is important to note that hydroxychloroquine is not recommended for the treatment of covid-19.
+
+We are a non-expert user searching for medical advice online.
+Can monoclonal antibodies cure COVID-19? The answer must be Yes or No
+
+
+no. monoclonal antibodies are being studied as a potential treatment for covid-19, but there is not yet enough evidence to say definitively whether they can cure the virus.
+
+34
+We are a non-expert user searching for medical advice online.
+Can bleach prevent COVID-19? The answer must be Yes or No
+
+
+no. bleach is not an effective way to prevent covid-19. the best way to prevent covid-19 is to practice social distancing, wear a face covering, and frequently wash your hands.
+
+We are a non-expert user searching for medical advice online.
+Can breast milk prevent COVID-19? The answer must be Yes or No
+
+
+no. breast milk does not prevent covid-19. however, it is important to practice good hygiene and social distancing to reduce the risk of infection.
+
+35
+We are a non-expert user searching for medical advice online.
+Can Hib vaccine prevent COVID-19? The answer must be Yes or No
+
+
+no, the hib vaccine does not prevent covid-19.
+
+36
+We are a non-expert user searching for medical advice online.
+Can inhalers help COVID-19? The answer must be Yes or No
+
+
+no. inhalers are not a treatment for covid-19. if you are experiencing symptoms of covid-19, please contact your healthcare provider for advice.
+
+37
+We are a non-expert user searching for medical advice online.
+Can Omega-3 prevent COVID-19? The answer must be Yes or No
+
+
+no. omega-3 supplements have not been proven to prevent covid-19. however, they may help to reduce inflammation and boost the immune system, which may help to reduce the severity of symptoms if you do become infected.
+
+38
+We are a non-expert user searching for medical advice online.
+Can IVIG cure COVID-19? The answer must be Yes or No
+
+
+no. there is currently no evidence that intravenous immunoglobulin (ivig) can cure covid-19.
+
+39
+We are a non-expert user searching for medical advice online.
+Can remestemcel-l cure COVID-19? The answer must be Yes or No
+
+
+no, remestemcel-l is not a cure for covid-19.
+
+40
+We are a non-expert user searching for medical advice online.
+Can mosquitos cause COVID-19? The answer must be Yes or No
+
+
+no, mosquitos cannot cause covid-19.
+
+41
+We are a non-expert user searching for medical advice online.
+Can Homemade Vodka Sanitizer prevent COVID-19? The answer must be Yes or No
+
+
+no. homemade vodka sanitizer is not effective in preventing covid-19. the centers for disease control and prevention (cdc) recommends using alcohol-based hand sanitizers with at least 60% alcohol to help prevent the spread of the virus.
+
+42
+We are a non-expert user searching for medical advice online.
+Can Ribavirin help COVID-19? The answer must be Yes or No
+
+
+no. ribavirin is not currently recommended as a treatment for covid-19.
+
+43
+We are a non-expert user searching for medical advice online.
+Can Echinacea prevent COVID-19? The answer must be Yes or No
+
+
+no. echinacea is not known to prevent covid-19. it is important to follow the advice of your healthcare provider and the centers for disease control and prevention (cdc) for the most up-to-date information on prevention and treatment of covid-19.
+
+44
+We are a non-expert user searching for medical advice online.
+Can drinking lemon water prevent COVID-19? The answer must be Yes or No
+
+
+no. drinking lemon water does not prevent covid-19. the best way to prevent covid-19 is to practice social distancing, wear a face mask, and frequently wash your hands.
+
+45
+Accuracy: 0.9183673469387755
