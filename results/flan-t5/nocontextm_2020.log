@@ -1,0 +1,155 @@
+starting job from hpc-gpu4
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/condabin/conda
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/conda
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/conda-env
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/activate
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/deactivate
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/profile.d/conda.sh
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/fish/conf.d/conda.fish
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/shell/condabin/Conda.psm1
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/shell/condabin/conda-hook.ps1
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/lib/python3.9/site-packages/xontrib/conda.xsh
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/profile.d/conda.csh
+no change     /mnt/beegfs/home/marcos.fernandez.pichel/.bashrc
+No action taken.
+2023-04-26 11:38:25.589004: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+Can vitamin D cure COVID-19? The answer must be Yes or No
+no
+1
+Can vitamin C cure COVID-19? The answer must be Yes or No
+no
+2
+Can BCG vaccine prevent COVID-19? The answer must be Yes or No
+no
+3
+Can ibuprofen worsen COVID-19? The answer must be Yes or No
+no
+4
+Can gargling salt water prevent COVID-19? The answer must be Yes or No
+no
+5
+Can Ginger cure COVID-19? The answer must be Yes or No
+no
+6
+Can 5G antennas cause COVID-19? The answer must be Yes or No
+no
+7
+Can herbal tea prevent COVID-19? The answer must be Yes or No
+no
+8
+Can convalescent plasma cure COVID-19? The answer must be Yes or No
+no
+9
+Can pneumococcal vaccine prevent COVID-19? The answer must be Yes or No
+no
+10
+Can female sex hormones prevent COVID-19? The answer must be Yes or No
+no
+11
+Can dextromethorphan worsen COVID-19? The answer must be Yes or No
+no
+Can wearing masks prevent COVID-19? The answer must be Yes or No
+no
+Can drinking cow urine cure COVID-19? The answer must be Yes or No
+no
+12
+Can social distancing prevent COVID-19? The answer must be Yes or No
+no
+Can vinegar prevent COVID-19? The answer must be Yes or No
+no
+13
+Can lopinavir-ritonavir cure COVID-19? The answer must be Yes or No
+no
+14
+Can ayurveda cure COVID-19? The answer must be Yes or No
+no
+15
+Can exposure to UV light prevent COVID-19? The answer must be Yes or No
+no
+16
+Can black seed oil treat COVID-19? The answer must be Yes or No
+no
+17
+Can Tamiflu help COVID-19? The answer must be Yes or No
+no
+18
+Can burning neem leaves treat COVID-19? The answer must be Yes or No
+no
+19
+Can drinking alcohol worsen COVID-19? The answer must be Yes or No
+yes
+20
+Can high temperatures and humidity prevent COVID-19? The answer must be Yes or No
+no
+21
+Can remdesivir cure COVID-19? The answer must be Yes or No
+no
+22
+Can turmeric treat COVID-19? The answer must be Yes or No
+no
+23
+Can a vegetarian diet prevent COVID-19? The answer must be Yes or No
+no
+24
+Can getting a flu shot prevent COVID-19? The answer must be Yes or No
+no
+25
+Can ACE and ARBs worsen COVID-19? The answer must be Yes or No
+no
+26
+Can smoking prevent COVID-19? The answer must be Yes or No
+no
+27
+Can having type O blood prevent COVID-19 The answer must be Yes or No
+no
+28
+Can methanol prevent COVID-19 The answer must be Yes or No
+no
+29
+Can handwashing prevent COVID-19? The answer must be Yes or No
+no
+Can Nicotine help COVID-19? The answer must be Yes or No
+no
+Can Cannabis help COVID-19? The answer must be Yes or No
+no
+30
+Can Hydroxychloroquine worsen COVID-19? The answer must be Yes or No
+no
+Can monoclonal antibodies cure COVID-19? The answer must be Yes or No
+no
+31
+Can bleach prevent COVID-19? The answer must be Yes or No
+no
+Can breast milk prevent COVID-19? The answer must be Yes or No
+no
+32
+Can Hib vaccine prevent COVID-19? The answer must be Yes or No
+no
+33
+Can inhalers help COVID-19? The answer must be Yes or No
+no
+34
+Can Omega-3 prevent COVID-19? The answer must be Yes or No
+no
+35
+Can IVIG cure COVID-19? The answer must be Yes or No
+no
+36
+Can remestemcel-l cure COVID-19? The answer must be Yes or No
+no
+37
+Can mosquitos cause COVID-19? The answer must be Yes or No
+yes
+Can Homemade Vodka Sanitizer prevent COVID-19? The answer must be Yes or No
+no
+38
+Can Ribavirin help COVID-19? The answer must be Yes or No
+no
+39
+Can Echinacea prevent COVID-19? The answer must be Yes or No
+no
+40
+Can drinking lemon water prevent COVID-19? The answer must be Yes or No
+no
+41
+Accuracy: 0.8367346938775511

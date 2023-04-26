@@ -1,0 +1,202 @@
+starting job from hpc-gpu4
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/condabin/conda
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/conda
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/conda-env
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/activate
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/bin/deactivate
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/profile.d/conda.sh
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/fish/conf.d/conda.fish
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/shell/condabin/Conda.psm1
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/shell/condabin/conda-hook.ps1
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/lib/python3.9/site-packages/xontrib/conda.xsh
+no change     /mnt/beegfs/groups/irgroup/software/miniconda3/etc/profile.d/conda.csh
+no change     /mnt/beegfs/home/marcos.fernandez.pichel/.bashrc
+No action taken.
+2023-04-26 12:30:34.671287: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can vitamin D cure COVID-19?
+no
+1
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can vitamin C cure COVID-19?
+no
+2
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can BCG vaccine prevent COVID-19?
+no
+3
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can ibuprofen worsen COVID-19?
+no
+4
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can gargling salt water prevent COVID-19?
+no
+5
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Ginger cure COVID-19?
+no
+6
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can 5G antennas cause COVID-19?
+no
+7
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can herbal tea prevent COVID-19?
+no
+8
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can convalescent plasma cure COVID-19?
+no
+9
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can pneumococcal vaccine prevent COVID-19?
+no
+10
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can female sex hormones prevent COVID-19?
+no
+11
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can dextromethorphan worsen COVID-19?
+no
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can wearing masks prevent COVID-19?
+no
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can drinking cow urine cure COVID-19?
+no
+12
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can social distancing prevent COVID-19?
+yes
+13
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can vinegar prevent COVID-19?
+no
+14
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can lopinavir-ritonavir cure COVID-19?
+no
+15
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can ayurveda cure COVID-19?
+no
+16
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can exposure to UV light prevent COVID-19?
+no
+17
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can black seed oil treat COVID-19?
+yes
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Tamiflu help COVID-19?
+yes
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can burning neem leaves treat COVID-19?
+no
+18
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can drinking alcohol worsen COVID-19?
+yes
+19
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can high temperatures and humidity prevent COVID-19?
+no
+20
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can remdesivir cure COVID-19?
+no
+21
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can turmeric treat COVID-19?
+no
+22
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can a vegetarian diet prevent COVID-19?
+no
+23
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can getting a flu shot prevent COVID-19?
+no
+24
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can ACE and ARBs worsen COVID-19?
+no
+25
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can smoking prevent COVID-19?
+no
+26
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can having type O blood prevent COVID-19
+no
+27
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can methanol prevent COVID-19
+no
+28
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can handwashing prevent COVID-19?
+yes
+29
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Nicotine help COVID-19?
+no
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Cannabis help COVID-19?
+no
+30
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Hydroxychloroquine worsen COVID-19?
+no
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can monoclonal antibodies cure COVID-19?
+no
+31
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can bleach prevent COVID-19?
+no
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can breast milk prevent COVID-19?
+no
+32
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Hib vaccine prevent COVID-19?
+no
+33
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can inhalers help COVID-19?
+yes
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Omega-3 prevent COVID-19?
+no
+34
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can IVIG cure COVID-19?
+no
+35
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can remestemcel-l cure COVID-19?
+no
+36
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can mosquitos cause COVID-19?
+yes
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Homemade Vodka Sanitizer prevent COVID-19?
+no
+37
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Ribavirin help COVID-19?
+yes
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can Echinacea prevent COVID-19?
+no
+38
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can drinking lemon water prevent COVID-19?
+no
+39
+Accuracy: 0.7959183673469388
