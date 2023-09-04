@@ -1,16 +1,22 @@
 import argparse
 import re
 import xml.etree.ElementTree as ET
-from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer
+import torch
+from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
-hf_auth = 'xxxxxxxxxxxxxxxxxxxx'
-model_id = 'meta-llama/Llama-2-7b-hf'
-CONFIG = AutoConfig.from_pretrained(
-    model_id,
-    use_auth_token=hf_auth
+hf_auth = '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'
+model_id = "meta-llama/Llama-2-7b-chat-hf"
+tokenizer = AutoTokenizer.from_pretrained(
+    "meta-llama/Llama-2-7b-chat-hf", 
+    token= hf_auth
 )
-MODEL = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf", config=CONFIG)
-TOKENIZER = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", config=CONFIG)
+
+model = AutoModelForCausalLM.from_pretrained(
+    "meta-llama/Llama-2-7b-chat-hf",
+    torch_dtype=torch.bfloat16,
+    low_cpu_mem_usage=True,
+    token=hf_auth
+)
 
 def load_prompt(path:str):
   with open(path) as f:
