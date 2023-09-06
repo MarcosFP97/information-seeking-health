@@ -2,21 +2,25 @@ import argparse
 import re
 import xml.etree.ElementTree as ET
 import torch
-from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from langchain import HuggingFacePipeline, PromptTemplate,  LLMChain
+from transformers import AutoTokenizer
 
 hf_auth = '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'
-model_id = "meta-llama/Llama-2-7b-chat-hf"
-tokenizer = AutoTokenizer.from_pretrained(
-    "meta-llama/Llama-2-7b-chat-hf", 
-    token= hf_auth
-)
+model = "meta-llama/Llama-2-13b-chat-hf"
 
-model = AutoModelForCausalLM.from_pretrained(
-    "meta-llama/Llama-2-7b-chat-hf",
+tokenizer = AutoTokenizer.from_pretrained(model)
+pipeline = transformers.pipeline(
+    "text-generation",
+    model=model,
+    tokenizer=tokenizer,
     torch_dtype=torch.bfloat16,
-    low_cpu_mem_usage=True,
-    token=hf_auth
+    trust_remote_code=True,
+    token=hf_auth,
+    device_map="auto",
+    max_length=1000,
+    eos_token_id=tokenizer.eos_token_id
 )
+MODEL = HuggingFacePipeline(pipeline = pipeline, model_kwargs = {'temperature':0})
 
 def load_prompt(path:str):
   with open(path) as f:
@@ -36,12 +40,12 @@ def predict(prompt:str, answers: dict):
   n = len(answers)
   hits = 0
   for k, v in answers.items():
-    #ICl: # llama_prompt = prompt + '\nQ:Will wearing an ankle brace help heal achilles tendonitis?\nA:No\nQ:Does yoga improve the management of asthma?\nA:Yes\nQ:Is starving a fever effective?\nA:No\n' + k + ' The answer must be Yes or No'
-    llama_prompt = prompt
-    print(llama_prompt)
-    inputs = TOKENIZER(llama_prompt, return_tensors="pt")
-    outputs = MODEL.generate(**inputs)
-    response = TOKENIZER.batch_decode(outputs, skip_special_tokens=True)
+    template = f"""
+                {prompt} 
+                {query} """
+    prompt = PromptTemplate(template=template, input_variables=["prompt", "query"])
+    llm_chain = LLMChain(prompt=prompt, llm=MODEL)
+    response = llm_chain.run(prompt,k)    
     response = response.lower()
     print(response)
 
