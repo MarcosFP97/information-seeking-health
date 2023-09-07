@@ -9,7 +9,7 @@ def load_context(
   context:str
 )-> str:
   if context:
-    with open('./contexts/'+context) as f:
+    with open('./contexts/'+context+'.txt') as f:
       context = f.read()
   return context
 
@@ -30,13 +30,13 @@ def load_answers(
   answers = {}
   root = ET.parse('evaluation/misinfo-resources-'+str(year)+'/topics/misinfo-'+str(year)+'-topics.xml').getroot()
   for topic in root.findall('topic'):
-    if year==2022:
+    if year=="2022":
       query = topic.find("question").text 
       answer = topic.find("answer").text 
-    elif year==2021:
+    elif year=="2021":
       query = topic.find("query").text 
       answer = topic.find("stance").text
-    elif year==2020:
+    elif year=="2020":
       query = topic.find("description").text 
       answer = topic.find("answer").text
     answers[query.rstrip()] = answer
@@ -53,9 +53,9 @@ def predict(
   hits = 0
   
   if must:
-    outputfile = expert + str(year) + '.txt'
-  else:
     outputfile = expert + str(year) + 'm.txt'
+  else:
+    outputfile = expert + str(year) + '.txt'
 
   with open('./outputs/llama/'+outputfile, 'w+') as f:
     for k, v in eval.items():
