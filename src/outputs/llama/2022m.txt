@@ -1,0 +1,346 @@
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Do tea bags help to clot blood in pulled teeth? The answer must be yes or no." This is your answer: [/INST]
+  no.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can crystals heal? The answer must be yes or no." This is your answer: [/INST]
+  no.
+1
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can collagen supplements cure osteoarthritis? The answer must be yes or no." This is your answer: [/INST]
+  no. collagen supplements cannot cure osteoarthritis. while collagen is an important protein that provides structure and strength to joints, taking collagen supplements will not reverse or cure osteoarthritis. in fact, there is limited scientific evidence to support the use of collagen supplements for treating osteoarthritis. instead, treatment for osteoarthritis typically involves a combination of medication, physical therapy, and lifestyle changes.
+2
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can cell phones cause cancer? The answer must be yes or no." This is your answer: [/INST]
+  no, cell phones do not cause cancer. numerous scientific studies have been conducted on the potential health effects of radiofrequency (rf) energy, which is emitted by cell phones, and none of these studies have found any evidence that rf energy exposure from cell phones causes cancer. in fact, many organizations, including the world health organization (who), the national cancer institute (nci), and the federal communications commission (fcc), have concluded that there is no evidence that cell phones pose a health risk.
+
+it's important to note that some earlier studies
+3
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can you use WD-40 for arthritis? The answer must be yes or no." This is your answer: [/INST]
+  no.
+4
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can mosquito bites make you sick? The answer must be yes or no." This is your answer: [/INST]
+  no.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can cancer be inherited? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+5
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Are vaccines linked to autism? The answer must be yes or no." This is your answer: [/INST]
+  no, vaccines are not linked to autism. there is no scientific evidence to support a causal link between vaccines and autism. in fact, numerous studies have consistently shown that vaccines are safe and effective in preventing serious diseases. the myth that vaccines are linked to autism originated in a 1998 paper by andrew wakefield that was later found to be fraudulent and retracted. the paper claimed to show a link between the measles, mumps, and rubella (mmr) vaccine and the development of autism
+6
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can baking soda help to cure cancer? The answer must be yes or no." This is your answer: [/INST]
+  no, baking soda cannot cure cancer. while some studies have suggested that baking soda may have anti-cancer properties and could potentially be used as a complementary treatment for certain types of cancer, it is not a proven or reliable treatment for cancer. in fact, the american cancer society states that "there is no scientific evidence to support the claim that baking soda can cure cancer." it is important to consult with a qualified healthcare professional before attempting to use any alternative or complementary treatments for cancer.
+7
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Are squats bad for knees? The answer must be yes or no." This is your answer: [/INST]
+  no. squats are not inherently bad for the knees when performed correctly and within appropriate limits. in fact, squats can help strengthen the muscles around the knee joint, improving its stability and resilience. however, it's important to use proper form and technique to avoid putting unnecessary stress on the knees.
+8
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Do ACE inhibitors typically cause erectile dysfunction? The answer must be yes or no." This is your answer: [/INST]
+  no, ace inhibitors do not typically cause erectile dysfunction.
+9
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Is morphine addictive? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+10
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can fruit juice increase the risk of diabetes? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+11
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Do magnetic wrist straps help with arthritis? The answer must be yes or no." This is your answer: [/INST]
+  no.
+12
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Are sit ups bad for you? The answer must be yes or no." This is your answer: [/INST]
+  no.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can a speech problem be caused by right handed person being forced to left hand? The answer must be yes or no." This is your answer: [/INST]
+  no.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Are there health benefits to drinking your own urine? The answer must be yes or no." This is your answer: [/INST]
+  no, there are no health benefits to drinking your own urine. in fact, it can be harmful and lead to serious health problems. urine contains waste products and toxins that the body is trying to eliminate, and reabsorbing these substances through drinking urine can cause kidney damage, infection, and other health issues. additionally, urine can contain high levels of salt, which can be harmful to people with certain medical conditions such as kidney disease or heart disease. it is not recommended to drink urine for any reason, and it is important to prioritize safe and
+13
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Is pink salt good for you? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can massage get rid of cellulite? The answer must be yes or no." This is your answer: [/INST]
+  no.
+14
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can fish oil improve your cholesterol? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can you become addicted to weed? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+15
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can vegan diets be healthy? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+16
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Is hydroquinone banned in Europe? The answer must be yes or no." This is your answer: [/INST]
+  no.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Do men get UTI infections? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+17
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Are carrots good for your eyes? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+18
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Is methanol poisonous? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+19
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can an MRI harm my baby? The answer must be yes or no." This is your answer: [/INST]
+  no, an mri will not harm your baby.
+20
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can exercise lower cholesterol? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+21
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can chewing gum help lose weight? The answer must be yes or no." This is your answer: [/INST]
+  no.
+22
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can sunglasses help prevent cataracts? The answer must be yes or no." This is your answer: [/INST]
+  no.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Did AIDS come from chimps? The answer must be yes or no." This is your answer: [/INST]
+  no, aids did not come from chimps. the origin of hiv, the virus that causes aids, is still a topic of ongoing research and debate, but the current scientific consensus is that it is not derived from chimpanzees or any other non-human primates.
+
+the evidence for this includes:
+
+1. the genetic differences between hiv and the viruses found in chimps and other non-human primates are too great to suggest a direct evolutionary relationship.
+2. the geographic distribution of hiv does not match the range of chimpanze
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Is too much water bad for you? The answer must be yes or no." This is your answer: [/INST]
+  no.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can HIV be transmitted through sweat? The answer must be yes or no." This is your answer: [/INST]
+  no, hiv cannot be transmitted through sweat.
+23
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Do Himalayan salt lamps have health benefits? The answer must be yes or no." This is your answer: [/INST]
+  no.
+24
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can a woman get pregnant while breastfeeding? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+25
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can statins cause permanent cognitive impairment? The answer must be yes or no." This is your answer: [/INST]
+  no. statins, a type of cholesterol-lowering medication, have not been shown to cause permanent cognitive impairment. while some studies have suggested a potential link between statin use and cognitive side effects, such as memory loss or confusion, these effects are typically mild and temporary. in fact, a large review of clinical trials published in the journal of clinical psychopharmacology found that statins had no significant effect on cognitive function. additionally, the american heart association states that "there is no evidence to suggest that statins cause long-term cognitive problems
+26
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Does Vitamin C prevent colds? The answer must be yes or no." This is your answer: [/INST]
+  no.
+27
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can coffee help you lose weight? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+28
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Does drinking lemon water help with belly fat? The answer must be yes or no." This is your answer: [/INST]
+  no.
+29
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Does deli meat increase your risk of colon cancer? The answer must be yes or no." This is your answer: [/INST]
+  no.
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Are skin tags contagious? The answer must be yes or no." This is your answer: [/INST]
+  no, skin tags are not contagious.
+30
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can oil pulling heal cavities? The answer must be yes or no." This is your answer: [/INST]
+  no. oil pulling cannot heal cavities. while oil pulling has been touted as a natural remedy for various health issues, there is limited scientific evidence to support its effectiveness in treating dental caries or cavities. in fact, the american dental association (ada) states that oil pulling is not a reliable method for preventing or treating cavities. instead, the ada recommends regular brushing with fluoride toothpaste, flossing, and dental check-ups as the most effective ways to maintain good oral health and prevent cavities.
+31
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Does a high fiber diet help with hemorrhoids? The answer must be yes or no." This is your answer: [/INST]
+  yes. a high fiber diet can help with hemorrhoids.
+32
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can grapefruit interfere with medication? The answer must be yes or no." This is your answer: [/INST]
+  yes. grapefruit can interfere with certain medications, so the answer is yes.
+33
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can vape pens be harmful? The answer must be yes or no." This is your answer: [/INST]
+  yes, vape pens can be harmful.
+34
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Do bananas increase the risk of diabetes? The answer must be yes or no." This is your answer: [/INST]
+  no.
+35
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Is wifi harmful for health? The answer must be yes or no." This is your answer: [/INST]
+  no.
+36
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Does drinking apple cider vinegar help lose weight? The answer must be yes or no." This is your answer: [/INST]
+  no.
+37
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Does ginger help with nausea? The answer must be yes or no." This is your answer: [/INST]
+  yes.
+38
+<s>[INST] <<SYS>>
+
+<</SYS>>
+
+" Can a cold sore cause genital herpes? The answer must be yes or no." This is your answer: [/INST]
+  no. cold sores and genital herpes are caused by different viruses and cannot be transmitted from one to the other.
+Accuracy:0.76

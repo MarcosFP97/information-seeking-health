@@ -34,10 +34,14 @@ def load_answers(
       query = topic.find("question").text 
       answer = topic.find("answer").text 
     elif year=="2021":
-      query = topic.find("query").text 
-      answer = topic.find("stance").text
-    elif year=="2020":
       query = topic.find("description").text 
+      answer = topic.find("stance").text
+      if answer=="helpful":
+        answer = 'yes'
+      else:
+        answer = 'no'
+    elif year=="2020":
+      query = topic.find("question").text 
       answer = topic.find("answer").text
     answers[query.rstrip()] = answer
   return answers

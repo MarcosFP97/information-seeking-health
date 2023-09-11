@@ -8,20 +8,22 @@ from typing import List
 
 def get_labels(run: str) -> List[int]:
     hits = []
-    pattern1 = re.compile(r'[A-Za-z0-9\(\)\-\'\s]*\?')
+    #### AQUÍ PONER UN IF PARA CUANDO ES LLAMA Y CUANDO NO
+    pattern1 = re.compile(r'\"[A-Za-z0-9\(\)\-\'\"\s\?\!\.\,]*?\"([A-Za-z0-9\(\)\-\'\"\s\:])*([\/INST\]])?')
     pattern2 = re.compile(r'[0-9]+\n')
-    stoppattern = re.compile(r'Accuracy: [0-9].[0-9]+\n')
+    stoppattern = re.compile(r'Accuracy:[0-9].[0-9]+\n')
     query = False
 
-    with open(run, 'r') as pf:
+    with open("../src/outputs/"+run, 'r') as pf:
         data = pf.readlines()
         count = 0
         for line in data:
             is_q = pattern1.match(line)
             is_n = pattern2.findall(line)
             is_stop = stoppattern.match(line)
+
             if is_stop and query:
-                # print("Stop:", is_stop[0])
+                print("Stop:", is_stop[0])
                 hits.append(0)
 
             elif query and is_n:
@@ -30,7 +32,7 @@ def get_labels(run: str) -> List[int]:
                 query = False
 
             if is_q:
-                # print(is_q[0])
+                # print("Query:",is_q[0])
                 count+=1
                 if query:
                     hits.append(0)
@@ -38,6 +40,8 @@ def get_labels(run: str) -> List[int]:
                     query = True
             else:
                 continue
+    print("Len hits",hits) #### CHEQUEAR POR QUÉ 0.88
+    print(len(hits))
     print(np.mean(hits))
     return hits
 
@@ -60,12 +64,19 @@ if __name__=="__main__":
     parser.add_argument("run1")
     parser.add_argument("run2")
     args = parser.parse_args()
-    root = ET.parse("../../../../evaluation/misinfo-resources-"+str(args.year)+"/topics/misinfo-"+str(args.year)+"-topics.xml").getroot()
+    root = ET.parse("../src/evaluation/misinfo-resources-"+str(args.year)+"/topics/misinfo-"+str(args.year)+"-topics.xml").getroot()
     
     ground_truth = []
     for topic in root.findall('topic'):
-        answer = topic.find("stance").text
-        if answer=="helpful":
+        if args.year=="2021":
+            answer = topic.find("stance").text
+            if answer=="helpful":
+                answer = 'yes'
+            else:
+                answer = 'no'
+        else:
+            answer = topic.find("answer").text
+        if answer=="yes":
             ground_truth.append(1)
         else:
             ground_truth.append(0)
