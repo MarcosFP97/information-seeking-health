@@ -9,7 +9,7 @@ def load_context(
   context:str
 )-> str:
   if context:
-    with open('./contexts/'+context+'.txt') as f:
+    with open('../contexts/'+context+'.txt') as f:
       context = f.read()
   return context
 
@@ -28,7 +28,7 @@ def load_answers(
   year:int
 )-> dict:
   answers = {}
-  root = ET.parse('evaluation/misinfo-resources-'+str(year)+'/topics/misinfo-'+str(year)+'-topics.xml').getroot()
+  root = ET.parse('../evaluation/misinfo-resources-'+str(year)+'/topics/misinfo-'+str(year)+'-topics.xml').getroot()
   for topic in root.findall('topic'):
     if year=="2022":
       query = topic.find("question").text 
@@ -61,7 +61,7 @@ def predict(
   else:
     outputfile = expert + str(year) + '.txt'
 
-  with open('./outputs/llama/'+outputfile, 'w+') as f:
+  with open('../outputs/zero-shot/llama/'+outputfile, 'w+') as f:
     for k, v in eval.items():
       if not must:
         prompt = get_prompt(context+' '+k)
