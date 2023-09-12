@@ -431,4 +431,4 @@ there is limited scientific evidence to support the claim that drinking apple ci
   as a committee of leading scientific experts and medical doctors, we have reviewed the latest and highest quality of research from pubmed and have determined that a cold sore cannot cause genital herpes. the two conditions are caused by different viruses and are not related. while both cold sores and genital herpes can be caused by members of the herpesviridae family, they are distinct entities with different symptoms, transmission routes, and modes of infection.
 
 cold sores, also known as oral herpes, are caused by the herpes simplex virus type 1 (h
-Accuracy:0.74
+Accuracy:0.82

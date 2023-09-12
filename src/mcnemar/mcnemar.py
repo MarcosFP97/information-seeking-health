@@ -8,13 +8,16 @@ from typing import List
 
 def get_labels(run: str) -> List[int]:
     hits = []
-    #### AQUÍ PONER UN IF PARA CUANDO ES LLAMA Y CUANDO NO
-    pattern1 = re.compile(r'\"[A-Za-z0-9\(\)\-\'\"\s\?\!\.\,]*?\"([A-Za-z0-9\(\)\-\'\"\s\:])*([\/INST\]])?')
-    pattern2 = re.compile(r'[0-9]+\n')
+
+    if "llama" in run: ### different pattern to process llama files
+        pattern1 = re.compile(r'\"[A-Za-z0-9\(\)\-\'\"\s\?\!\.\,]*?\"([A-Za-z0-9\(\)\-\'\"\s\:])*([\/INST\]])?')
+    else:
+        pattern1 = re.compile(r'[A-Za-z0-9\(\)\-\'\s]*\?')
+    pattern2 = re.compile(r'^[0-9]+\n')
     stoppattern = re.compile(r'Accuracy:[0-9].[0-9]+\n')
     query = False
 
-    with open("../src/outputs/"+run, 'r') as pf:
+    with open("../../outputs/"+run, 'r') as pf:
         data = pf.readlines()
         count = 0
         for line in data:
@@ -40,7 +43,7 @@ def get_labels(run: str) -> List[int]:
                     query = True
             else:
                 continue
-    print("Len hits",hits) #### CHEQUEAR POR QUÉ 0.88
+    # print("Hits",hits) #### CHEQUEAR POR QUÉ 0.88
     print(len(hits))
     print(np.mean(hits))
     return hits
@@ -64,7 +67,7 @@ if __name__=="__main__":
     parser.add_argument("run1")
     parser.add_argument("run2")
     args = parser.parse_args()
-    root = ET.parse("../src/evaluation/misinfo-resources-"+str(args.year)+"/topics/misinfo-"+str(args.year)+"-topics.xml").getroot()
+    root = ET.parse("../../evaluation/misinfo-resources-"+str(args.year)+"/topics/misinfo-"+str(args.year)+"-topics.xml").getroot()
     
     ground_truth = []
     for topic in root.findall('topic'):
@@ -86,11 +89,11 @@ if __name__=="__main__":
 
     # # Class labels predicted by model 1
     model1= get_labels(args.run1)
-    print(len(model1))
+    # print(len(model1))
     y_model1 = np.array(model1) ### esta sería una run de 2022 de un clasificador y abajo del mismo o de otro
 
     # Class labels predicted by model 2
     model2 = get_labels(args.run2)
-    print(len(model2))
+    # print(len(model2))
     y_model2 = np.array(model2)
     eval_mcnemar(y_target, y_model1, y_model2)

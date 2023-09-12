@@ -286,4 +286,4 @@ Can a cold sore cause genital herpes?
 
 no, cold sores are caused by the herpes simplex virus type 1 (hsv-1) and genital herpes is caused by the herpes simplex virus type 2 (hsv-2). while it is possible to transmit hsv-1 from the mouth to the genitals, it is not common.
 
-Accuracy: 0.66
+Accuracy:0.66
