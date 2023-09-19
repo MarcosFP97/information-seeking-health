@@ -3,7 +3,7 @@ import re
 import xml.etree.ElementTree as ET
 from llama_cpp import Llama
 
-MODEL = Llama(model_path="./models/llama-2-13b-chat.Q8_0.gguf", n_ctx=2000, n_gpu_layers=0)
+MODEL = Llama(model_path="../models/llama-2-13b-chat.Q8_0.gguf", n_ctx=2000, n_gpu_layers=0)
 
 def load_context(
   context:str

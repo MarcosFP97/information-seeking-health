@@ -6,12 +6,16 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 MODEL = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-xl")
 TOKENIZER = AutoTokenizer.from_pretrained("google/flan-t5-xl")
 
-def load_prompt(path:str):
+def load_prompt(
+    path:str
+)-> str:
   with open(path) as f:
     content = f.read()
   return content
 
-def load_answers(path:str):
+def load_answers(
+  path:str
+)-> dict:
   answers = dict()
   root = ET.parse(path).getroot()
   for topic in root.findall('topic'):
@@ -20,7 +24,10 @@ def load_answers(path:str):
     answers[query.rstrip()] = answer
   return answers
 
-def predict(prompt:str, answers: dict):
+def predict(
+    prompt:str, 
+    answers: dict
+)-> None:
   n = len(answers)
   hits = 0
   for k, v in answers.items():
