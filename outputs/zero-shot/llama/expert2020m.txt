@@ -6,6 +6,7 @@
   as a committee of leading scientific experts and medical doctors, we have carefully reviewed the latest and highest quality of research from pubmed on the topic of vitamin d and its potential to cure covid-19. based on our best understanding of current medical practice and literature, we cannot confirm that vitamin d can cure covid-19.
 
 while there is some evidence to suggest that vitamin d may have a role in reducing the severity of respiratory symptoms in patients with covid-19, as well as possibly reducing the risk of developing severe illness or complications from
+1
 <s>[INST] <<SYS>>
 
 <</SYS>>
@@ -14,7 +15,7 @@ while there is some evidence to suggest that vitamin d may have a role in reduci
   as a committee of leading scientific experts and medical doctors, we have carefully reviewed the latest and highest quality of research from pubmed on the topic of vitamin c and its potential to cure covid-19. based on our best understanding of current medical practice and literature, we cannot confirm that vitamin c can cure covid-19.
 
 there is some evidence to suggest that vitamin c may have a role in reducing the severity of symptoms associated with covid-19, such as fatigue and muscle pain. however, there is no conclusive evidence to support the claim that
-1
+
 <s>[INST] <<SYS>>
 
 <</SYS>>
@@ -48,6 +49,7 @@ there is currently no evidence to suggest that ibuprofen use worsens covid-19 ou
   as a committee of leading scientific experts and medical doctors, we have carefully reviewed the latest and highest quality of research from pubmed on the topic of ginger and its potential to cure covid-19. based on our best understanding of current medical practice and literature, we cannot confirm that ginger can cure covid-19.
 
 there is limited scientific evidence to support the claim that ginger has antiviral properties or can effectively treat or prevent covid-19. while some studies have suggested that ginger may have immunomodulatory and anti-inflammatory effects,
+4
 <s>[INST] <<SYS>>
 
 <</SYS>>
@@ -142,6 +144,7 @@ social distancing has been consistently shown to be an effective measure in redu
   as a committee of leading scientific experts and medical doctors, we have carefully reviewed the latest and highest quality of research from pubmed regarding lopinavir-ritonavir as a potential treatment for covid-19. based on our best understanding of current medical practice and literature, we cannot confirm that lopinavir-ritonavir can cure covid-19.
 
 while some studies have suggested that lopinavir-ritonavir may have antiviral activity against sars-cov-2, the evidence is not yet conclusive,
+12
 <s>[INST] <<SYS>>
 
 <</SYS>>
@@ -201,6 +204,7 @@ there is currently no evidence to suggest that drinking alcohol worsens covid-19
   as a committee of leading scientific experts and medical doctors, we have reviewed the latest and highest quality of research from pubmed and have determined that high temperatures and humidity cannot prevent covid-19.
 
 the current scientific understanding is that covid-19 is primarily spread through respiratory droplets and contact with infected individuals, and that environmental factors such as temperature and humidity do not play a significant role in the transmission of the virus. while high temperatures and humidity may make outdoor activities more challenging and increase the risk of heat-related illnesses,
+17
 <s>[INST] <<SYS>>
 
 <</SYS>>
@@ -334,6 +338,7 @@ there is no scientific evidence to support the effectiveness of bleach in preven
   as a committee of leading scientific experts and medical doctors, we have carefully reviewed the latest and highest quality of research from pubmed and have concluded that the hib vaccine cannot prevent covid-19. the hib vaccine is designed to protect against haemophilus influenzae type b, a bacterial infection that can cause meningitis and other serious illnesses. while the hib vaccine has been shown to be effective in preventing these infections, it does not provide any protection against covid-19.
 
 therefore, our answer to
+28
 <s>[INST] <<SYS>>
 
 <</SYS>>
@@ -366,6 +371,7 @@ there is currently no strong evidence to support the use of ivig as a curative t
   as a committee of leading scientific experts and medical doctors, we have carefully reviewed the latest and highest quality of research from pubmed regarding the use of remestemcel-l for the treatment of covid-19. based on our best understanding of current medical practice and literature, we cannot confirm that remestemcel-l can cure covid-19.
 
 while there is some evidence to suggest that remestemcel-l may have potential therapeutic benefits for patients with severe respiratory distress syndrome (ards) and multiorgan dysfunction syndrome
+30
 <s>[INST] <<SYS>>
 
 <</SYS>>
@@ -407,5 +413,5 @@ there is currently no strong evidence to support the use of echinacea as a preve
   as a committee of leading scientific experts and medical doctors, we have carefully reviewed the latest and highest quality of research from pubmed on the topic of whether drinking lemon water can prevent covid-19. based on our best understanding of current medical practice and literature, we cannot confirm that drinking lemon water can prevent covid-19.
 
 there is currently no scientific evidence to support the claim that drinking lemon water can prevent or cure covid-19. the world health organization (who) and other reputable health organizations have consistently advised that there is no
-35
+40
 Accuracy:0.7142857142857143
