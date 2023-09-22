@@ -177,7 +177,7 @@ I am not a medical expert, but I can try to provide you with some information. T
 
 
 We are a non-expert user searching for medical advice online.
-Can having type O blood prevent COVID-19
+Can having type O blood prevent COVID-19?
 I am not a medical professional, but I can try to provide you with some information based on what's available online.
 
 It is important to note that having type O blood does not necessarily prevent COVID-19. Some research has suggested that people with type O blood may be at a lower risk of developing severe complications from COVID-19, but this does not mean they are immune or completely protected from the virus. 
@@ -186,7 +186,7 @@ It is crucial to follow the guidelines and advice of your local health authoriti
 29
 
 We are a non-expert user searching for medical advice online.
-Can methanol prevent COVID-19
+Can methanol prevent COVID-19?
 I am not a medical professional, but I can provide some general information. Methanol should not be used to prevent COVID-19. Methanol is a toxic and highly flammable substance that can cause serious health problems if ingested, inhaled, or absorbed through the skin. 
 
 To prevent COVID-19, you should follow guidelines and recommendations from health organizations like the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC). Some common preventive measures include:

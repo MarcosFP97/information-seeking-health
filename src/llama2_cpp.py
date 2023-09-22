@@ -19,8 +19,11 @@ def get_prompt(
     prompt = (
         '<s>[INST] <<SYS>>\n'
         '\n<</SYS>>\n\n'
-        f'"{message}" '
-        f'This is your answer: [/INST]'
+        '\nQ:Will wearing an ankle brace help heal achilles tendonitis?\nA:No\n'
+        'Q:Does yoga improve the management of asthma?\nA:Yes\n'
+        'Q:Is starving a fever effective?\nA:No\n'
+        f'Q:"{message}" '
+        f'A: [/INST]'
     )
     return prompt
 
@@ -61,7 +64,7 @@ def predict(
   else:
     outputfile = expert + str(year) + '.txt'
 
-  with open('../outputs/zero-shot/llama/'+outputfile, 'w+') as f:
+  with open('../outputs/few-shot/llama/'+outputfile, 'w+') as f:
     for k, v in eval.items():
       if not must:
         prompt = get_prompt(context+' '+k)

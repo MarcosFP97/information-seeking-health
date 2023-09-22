@@ -69,23 +69,28 @@ if __name__=="__main__":
     args = parser.parse_args()
     root = ET.parse("../../evaluation/misinfo-resources-"+str(args.year)+"/topics/misinfo-"+str(args.year)+"-topics.xml").getroot()
     
-    ground_truth = []
+    ground_truth = {}
     for topic in root.findall('topic'):
         if args.year=="2021":
+            query = topic.find("description").text
             answer = topic.find("stance").text
             if answer=="helpful":
                 answer = 'yes'
             else:
                 answer = 'no'
         else:
+            if args.year=="2022":
+                query = topic.find("question").text
+            elif args.year=="2020":
+                query = topic.find("description").text
             answer = topic.find("answer").text
         if answer=="yes":
-            ground_truth.append(1)
+            ground_truth[query] = 1
         else:
-            ground_truth.append(0)
+            ground_truth[query] = 0
 
     # The correct target (class) labels
-    y_target = np.array(ground_truth) #### esto lo sacaría del fichero de xml de 2022 por ejemplo
+    y_target = np.array(list(ground_truth.values())) #### esto lo sacaría del fichero de xml de 2022 por ejemplo
 
     # # Class labels predicted by model 1
     model1= get_labels(args.run1)
