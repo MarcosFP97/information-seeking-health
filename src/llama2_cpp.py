@@ -72,7 +72,7 @@ def predict(
         prompt = get_prompt(context+' '+k+' The answer must be yes or no.')
       print(prompt)
       f.write(prompt+'\n')
-      output = MODEL(prompt, temperature=0, echo=False)
+      output = MODEL(prompt, temperature=0, echo=False, max_tokens=2048)
       response = output['choices'][0]['text']
       response = response.lower()
       f.write(response+'\n')

@@ -10,7 +10,7 @@ def get_labels(run: str) -> List[int]:
     hits = []
 
     if "llama" in run: ### different pattern to process llama files
-        pattern1 = re.compile(r'\"[A-Za-z0-9\(\)\-\'\"\s\?\!\.\,]*?\"([A-Za-z0-9\(\)\-\'\"\s\:])*([\/INST\]])?')
+        pattern1 = re.compile(r'(Q:)?\"[A-Za-z0-9\(\)\-\'\"\s\?\!\.\,]*?\"([A-Za-z0-9\(\)\-\'\"\s\:])*([\/INST\]])?')
     else:
         pattern1 = re.compile(r'[A-Za-z0-9\(\)\-\'\s]*\?')
     pattern2 = re.compile(r'^[0-9]+\n')
@@ -33,7 +33,7 @@ def get_labels(run: str) -> List[int]:
                 # print("Números", is_n[0])
                 hits.append(1)
                 query = False
-
+            
             if is_q:
                 # print("Query:",is_q[0])
                 count+=1
