@@ -21,7 +21,7 @@ def get_prompt(
         '\n<</SYS>>\n\n'
         '\nQ:Will wearing an ankle brace help heal achilles tendonitis?\nA:No\n'
         'Q:Does yoga improve the management of asthma?\nA:Yes\n'
-        'Q:Is starving a fever effective?\nA:No\n'
+        # 'Q:Is starving a fever effective?\nA:No\n'
         f'Q:"{message}" '
         f'A: [/INST]'
     )
