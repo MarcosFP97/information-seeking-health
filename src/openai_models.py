@@ -5,7 +5,7 @@ import argparse
 import xml.etree.ElementTree as ET
 import tiktoken
 
-API_KEY="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"
+API_KEY=""
 
 '''
 This method loads a context from file.
@@ -134,20 +134,37 @@ def ask(
 
         enc = tiktoken.encoding_for_model(model)
         logit_bias = {enc.encode("yes")[0]:50, enc.encode("no")[0]:50}
-        response = openai.ChatCompletion.create(
-            model=model,
-            messages=[
-                {"role": "system", "content": "You are a chatbot"},
-                {"role": "user", "content": prompt},
-            ],
-            logit_bias=logit_bias,
-            max_tokens=1,
-            temperature=0 # to ensure reproducibility
-        )
 
-        result = ''
-        for choice in response.choices:
-            result += choice.message.content    
+        if model=="gpt-3.5-turbo" or model=="gpt-4":
+          response = openai.ChatCompletion.create(
+              model=model,
+              messages=[
+                  {"role": "system", "content": "You are a chatbot"},
+                  {"role": "user", "content": prompt},
+              ],
+              logit_bias=logit_bias,
+              max_tokens=1,
+              temperature=0 # to ensure reproducibility
+          )
+
+          result = ''
+          for choice in response.choices:
+              result += choice.message.content    
+
+        else:
+          response = openai.Completion.create(
+            engine=model,
+            prompt=prompt,
+            temperature=0,
+            max_tokens=1,
+            logit_bias=logit_bias,
+            top_p=1.0,
+            frequency_penalty=0.0,
+            presence_penalty=0.0
+          )
+          response = response['choices'][0]['text']+'\n'
+          result = response.lower()
+
         f.write(result+'\n')
         print(result)
         hit = evaluate(result,v)
@@ -163,9 +180,9 @@ def ask(
 if __name__ == "__main__":
     openai.api_key = API_KEY
     parser = argparse.ArgumentParser()
-    parser.add_argument("model", nargs='?', default="gpt-3.5-turbo")
+    parser.add_argument("model", nargs='?', default="text-davinci-003")
     parser.add_argument("context", nargs='?', default="") 
-    parser.add_argument("year", nargs='?', default=2022)
+    parser.add_argument("year", nargs='?', default=2021)
     args = parser.parse_args()
     context = load_context(args.context)
     eval = load_answers(args.year)

@@ -13,19 +13,32 @@ def load_context(
       context = f.read()
   return context
 
+'''
+This method generates a formatted prompt to input the model
+Args:
+    - message: main message to be included in the prompt
+Return:
+    - returns the formatted prompt
+'''
 def get_prompt(
-    message: str,
+    context: str,
+    system:bool,
+    question:str
 ) -> str:
+  if system:
     prompt = (
-        '<s>[INST] <<SYS>>\n'
-        '\n<</SYS>>\n\n'
-        '\nQ:Will wearing an ankle brace help heal achilles tendonitis?\nA:No\n'
-        'Q:Does yoga improve the management of asthma?\nA:Yes\n'
-        # 'Q:Is starving a fever effective?\nA:No\n'
-        f'Q:"{message}" '
-        f'A: [/INST]'
+        f'{context}\n'
+        f'You are a helpful medical assistant.\n'
+        f'{question}\n'
     )
-    return prompt
+  else:
+    prompt = (
+        f'{context}\n'
+        f'You are a helpful medical assistant.\n'
+        f'{question}\n'
+    )
+
+  return prompt
 
 def load_answers(
   year:int
@@ -54,22 +67,19 @@ def predict(
   eval: dict,
   expert: str, 
   year: int,
-  must:bool
+  syst:bool
 )-> int:
   number_questions = len(eval)
   hits = 0
   
-  if must:
-    outputfile = expert + str(year) + 'm.txt'
+  if syst:
+    outputfile = expert + str(year) + '_s.txt'
   else:
     outputfile = expert + str(year) + '.txt'
 
-  with open('../outputs/few-shot/llama/'+outputfile, 'w+') as f:
+  with open('../outputs/zero-shot/llama/'+outputfile, 'w+') as f:
     for k, v in eval.items():
-      if not must:
-        prompt = get_prompt(context+' '+k)
-      else:
-        prompt = get_prompt(context+' '+k+' The answer must be yes or no.')
+      prompt = get_prompt(context+' '+k)
       print(prompt)
       f.write(prompt+'\n')
       output = MODEL(prompt, temperature=0, echo=False, max_tokens=2048)
@@ -90,8 +100,8 @@ def predict(
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("context", nargs='?', default="")
-    parser.add_argument("year", nargs='?', default=2022)
-    parser.add_argument("force", nargs='?', default=False)
+    parser.add_argument("year", nargs='?', default="2021")
+    parser.add_argument("force", nargs='?', default=True)
     args = parser.parse_args()
     context = load_context(args.context)
     eval = load_answers(args.year)
