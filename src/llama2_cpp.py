@@ -27,15 +27,20 @@ def get_prompt(
 ) -> str:
   if system:
     prompt = (
-        f'{context}\n'
+        f'<s>[INST] <<SYS>>\n'
+        f'<</SYS>>\n'
         f'You are a helpful medical assistant.\n'
-        f'{question}\n'
+        f'{context}\n'
+        f'Q: {question} A: [\INST]\n'
     )
   else:
     prompt = (
+        f'<s>[INST] <<SYS>>\n'
+        f'<</SYS>>\n'
         f'{context}\n'
-        f'You are a helpful medical assistant.\n'
-        f'{question}\n'
+        f'Q: Will wearing an ankle brace help heal achilles tendonitis?\n'
+        f'A: No.\n'
+        f'Q: {question} A: [\INST]\n'
     )
 
   return prompt
@@ -77,12 +82,12 @@ def predict(
   else:
     outputfile = expert + str(year) + '.txt'
 
-  with open('../outputs/zero-shot/llama/'+outputfile, 'w+') as f:
+  with open('../outputs/few-shot/llama/'+outputfile, 'w+') as f:
     for k, v in eval.items():
-      prompt = get_prompt(context+' '+k)
+      prompt = get_prompt(context, syst, k)
       print(prompt)
       f.write(prompt+'\n')
-      output = MODEL(prompt, temperature=0, echo=False, max_tokens=2048)
+      output = MODEL(prompt, temperature=0, echo=False, max_tokens=64)
       response = output['choices'][0]['text']
       response = response.lower()
       f.write(response+'\n')
@@ -99,9 +104,9 @@ def predict(
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("context", nargs='?', default="")
-    parser.add_argument("year", nargs='?', default="2021")
-    parser.add_argument("force", nargs='?', default=True)
+    parser.add_argument("context", nargs='?', default="expert")
+    parser.add_argument("year", nargs='?', default="2022")
+    parser.add_argument("force", nargs='?', default=False)
     args = parser.parse_args()
     context = load_context(args.context)
     eval = load_answers(args.year)

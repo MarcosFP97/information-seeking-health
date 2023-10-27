@@ -1,0 +1,340 @@
+You are a helpful medical assistant.
+
+Do tea bags help to clot blood in pulled teeth?
+
+no
+
+You are a helpful medical assistant.
+
+Can crystals heal?
+
+no
+
+1
+You are a helpful medical assistant.
+
+Can collagen supplements cure osteoarthritis?
+
+no
+
+2
+You are a helpful medical assistant.
+
+Can cell phones cause cancer?
+
+no
+
+3
+You are a helpful medical assistant.
+
+Can you use WD-40 for arthritis?
+
+no
+
+4
+You are a helpful medical assistant.
+
+Can mosquito bites make you sick?
+
+yes
+
+5
+You are a helpful medical assistant.
+
+Can cancer be inherited?
+
+yes
+
+6
+You are a helpful medical assistant.
+
+Are vaccines linked to autism?
+
+no
+
+7
+You are a helpful medical assistant.
+
+Can baking soda help to cure cancer?
+
+no
+
+8
+You are a helpful medical assistant.
+
+Are squats bad for knees?
+
+no
+
+9
+You are a helpful medical assistant.
+
+Do ACE inhibitors typically cause erectile dysfunction?
+
+no
+
+10
+You are a helpful medical assistant.
+
+Is morphine addictive?
+
+yes
+
+11
+You are a helpful medical assistant.
+
+Can fruit juice increase the risk of diabetes?
+
+yes
+
+12
+You are a helpful medical assistant.
+
+Do magnetic wrist straps help with arthritis?
+
+no
+
+13
+You are a helpful medical assistant.
+
+Are sit ups bad for you?
+
+no
+
+You are a helpful medical assistant.
+
+Can a speech problem be caused by right handed person being forced to left hand?
+
+no
+
+You are a helpful medical assistant.
+
+Are there health benefits to drinking your own urine?
+
+no
+
+14
+You are a helpful medical assistant.
+
+Is pink salt good for you?
+
+yes
+
+You are a helpful medical assistant.
+
+Can massage get rid of cellulite?
+
+no
+
+15
+You are a helpful medical assistant.
+
+Can fish oil improve your cholesterol?
+
+yes
+
+You are a helpful medical assistant.
+
+Can you become addicted to weed?
+
+no
+
+You are a helpful medical assistant.
+
+Can vegan diets be healthy?
+
+yes
+
+16
+You are a helpful medical assistant.
+
+Is hydroquinone banned in Europe?
+
+no
+
+You are a helpful medical assistant.
+
+Do men get UTI infections?
+
+yes
+
+17
+You are a helpful medical assistant.
+
+Are carrots good for your eyes?
+
+yes
+
+18
+You are a helpful medical assistant.
+
+Is methanol poisonous?
+
+yes
+
+19
+You are a helpful medical assistant.
+
+Can an MRI harm my baby?
+
+no
+
+20
+You are a helpful medical assistant.
+
+Can exercise lower cholesterol?
+
+yes
+
+21
+You are a helpful medical assistant.
+
+Can chewing gum help lose weight?
+
+no
+
+22
+You are a helpful medical assistant.
+
+Can sunglasses help prevent cataracts?
+
+yes
+
+23
+You are a helpful medical assistant.
+
+Did AIDS come from chimps?
+
+yes
+
+24
+You are a helpful medical assistant.
+
+Is too much water bad for you?
+
+no
+
+You are a helpful medical assistant.
+
+Can HIV be transmitted through sweat?
+
+no
+
+25
+You are a helpful medical assistant.
+
+Do Himalayan salt lamps have health benefits?
+
+yes
+
+You are a helpful medical assistant.
+
+Can a woman get pregnant while breastfeeding?
+
+yes
+
+26
+You are a helpful medical assistant.
+
+Can statins cause permanent cognitive impairment?
+
+no
+
+27
+You are a helpful medical assistant.
+
+Does Vitamin C prevent colds?
+
+no
+
+28
+You are a helpful medical assistant.
+
+Can coffee help you lose weight?
+
+no
+
+You are a helpful medical assistant.
+
+Does drinking lemon water help with belly fat?
+
+no
+
+29
+You are a helpful medical assistant.
+
+Does deli meat increase your risk of colon cancer?
+
+yes
+
+30
+You are a helpful medical assistant.
+
+Are skin tags contagious?
+
+no
+
+31
+You are a helpful medical assistant.
+
+Can oil pulling heal cavities?
+
+no
+
+32
+You are a helpful medical assistant.
+
+Does a high fiber diet help with hemorrhoids?
+
+yes
+
+33
+You are a helpful medical assistant.
+
+Can grapefruit interfere with medication?
+
+yes
+
+34
+You are a helpful medical assistant.
+
+Can vape pens be harmful?
+
+yes
+
+35
+You are a helpful medical assistant.
+
+Do bananas increase the risk of diabetes?
+
+no
+
+36
+You are a helpful medical assistant.
+
+Is wifi harmful for health?
+
+no
+
+37
+You are a helpful medical assistant.
+
+Does drinking apple cider vinegar help lose weight?
+
+no
+
+38
+You are a helpful medical assistant.
+
+Does ginger help with nausea?
+
+yes
+
+39
+You are a helpful medical assistant.
+
+Can a cold sore cause genital herpes?
+
+no
+
+Accuracy:0.78

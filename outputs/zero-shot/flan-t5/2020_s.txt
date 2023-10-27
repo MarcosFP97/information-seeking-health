@@ -1,285 +1,266 @@
-
 You are a helpful medical assistant.
+
 Can vitamin D cure COVID-19?
 
 no
 1
-
 You are a helpful medical assistant.
+
 Can vitamin C cure COVID-19?
 
 no
 2
-
 You are a helpful medical assistant.
+
 Can BCG vaccine prevent COVID-19?
 
-no
-3
-
+bcg vaccine is not a vaccine.
 You are a helpful medical assistant.
+
 Can ibuprofen worsen COVID-19?
 
-no
-4
-
+ibuprofen is not known to worsen covid-19.
 You are a helpful medical assistant.
+
 Can gargling salt water prevent COVID-19?
 
-no
-5
-
+gargling salt water can help to loosen mucus and loosen sput
 You are a helpful medical assistant.
+
 Can Ginger cure COVID-19?
 
 no
-6
-
+3
 You are a helpful medical assistant.
+
 Can 5G antennas cause COVID-19?
 
 no
-7
-
+4
 You are a helpful medical assistant.
+
 Can herbal tea prevent COVID-19?
 
 no
-8
-
+5
 You are a helpful medical assistant.
+
 Can convalescent plasma cure COVID-19?
 
-yes
-
+convalescent plasma is a blood product that is used to treat patients with severe acute respiratory
 You are a helpful medical assistant.
+
 Can pneumococcal vaccine prevent COVID-19?
 
-no
-9
-
+no, the pneumococcal vaccine is not effective against covid-19.
+6
 You are a helpful medical assistant.
+
 Can female sex hormones prevent COVID-19?
 
-no
-10
-
+no, sex hormones do not prevent covid-19.
+7
 You are a helpful medical assistant.
+
 Can dextromethorphan worsen COVID-19?
 
 no
-
 You are a helpful medical assistant.
+
 Can wearing masks prevent COVID-19?
 
-yes
-11
-
+no, masks are not effective in preventing covid-19.
 You are a helpful medical assistant.
+
 Can drinking cow urine cure COVID-19?
 
 no
-12
-
+8
 You are a helpful medical assistant.
+
 Can social distancing prevent COVID-19?
 
-yes
-13
-
+distancing is the act of separating oneself from another person.
 You are a helpful medical assistant.
+
 Can vinegar prevent COVID-19?
 
 no
-14
-
+9
 You are a helpful medical assistant.
+
 Can lopinavir-ritonavir cure COVID-19?
 
 yes
-
 You are a helpful medical assistant.
+
 Can ayurveda cure COVID-19?
 
 no
-15
-
+10
 You are a helpful medical assistant.
+
 Can exposure to UV light prevent COVID-19?
 
 no
-16
-
+11
 You are a helpful medical assistant.
+
 Can black seed oil treat COVID-19?
 
-no
-17
-
+yes
 You are a helpful medical assistant.
+
 Can Tamiflu help COVID-19?
 
-yes
-
+tamiflu is an antiviral drug that can be used to treat colds and flu
 You are a helpful medical assistant.
+
 Can burning neem leaves treat COVID-19?
 
-no
-18
-
+yes
 You are a helpful medical assistant.
+
 Can drinking alcohol worsen COVID-19?
 
-yes
-19
-
+no
 You are a helpful medical assistant.
+
 Can high temperatures and humidity prevent COVID-19?
 
 no
-20
-
+12
 You are a helpful medical assistant.
+
 Can remdesivir cure COVID-19?
 
 yes
-
 You are a helpful medical assistant.
+
 Can turmeric treat COVID-19?
 
-no
-21
-
+yes
 You are a helpful medical assistant.
+
 Can a vegetarian diet prevent COVID-19?
 
 no
-22
-
+13
 You are a helpful medical assistant.
+
 Can getting a flu shot prevent COVID-19?
 
-no
-23
-
+yes
 You are a helpful medical assistant.
+
 Can ACE and ARBs worsen COVID-19?
 
 no
-24
-
+14
 You are a helpful medical assistant.
+
 Can smoking prevent COVID-19?
 
-no
-25
-
+no, smoking is not a preventable cause of covid-19.
+15
 You are a helpful medical assistant.
+
 Can having type O blood prevent COVID-19?
 
 no
-26
-
+16
 You are a helpful medical assistant.
+
 Can methanol prevent COVID-19?
 
-no
-27
-
+methanol is a type of alcohol.
 You are a helpful medical assistant.
+
 Can handwashing prevent COVID-19?
 
 yes
-28
-
+17
 You are a helpful medical assistant.
+
 Can Nicotine help COVID-19?
 
-no
-
+nicotine is a drug that can be used to treat nicotine addiction. nicotine is 
 You are a helpful medical assistant.
+
 Can Cannabis help COVID-19?
 
-no
-29
-
+cannabis has been used to treat a variety of conditions, including covid-19.
 You are a helpful medical assistant.
+
 Can Hydroxychloroquine worsen COVID-19?
 
-yes
-30
-
+no
 You are a helpful medical assistant.
+
 Can monoclonal antibodies cure COVID-19?
 
-yes
-
+monoclonal antibodies are used to treat a variety of diseases.
 You are a helpful medical assistant.
+
 Can bleach prevent COVID-19?
 
 no
-
 You are a helpful medical assistant.
+
 Can breast milk prevent COVID-19?
 
 no
-31
-
+18
 You are a helpful medical assistant.
+
 Can Hib vaccine prevent COVID-19?
 
-no
-32
-
+yes
 You are a helpful medical assistant.
+
 Can inhalers help COVID-19?
 
-yes
-
+inhalers are not used to treat covid-19.
 You are a helpful medical assistant.
+
 Can Omega-3 prevent COVID-19?
 
-no
-33
-
+omega-3 is a fatty acid that is found in fish and shellfish.
 You are a helpful medical assistant.
+
 Can IVIG cure COVID-19?
 
-no
-34
-
+ivig is not a cure for covid-19.
 You are a helpful medical assistant.
+
 Can remestemcel-l cure COVID-19?
 
-no
-35
-
+yes
 You are a helpful medical assistant.
+
 Can mosquitos cause COVID-19?
 
-no
-36
-
+yes
 You are a helpful medical assistant.
+
 Can Homemade Vodka Sanitizer prevent COVID-19?
 
 no
-37
-
+19
 You are a helpful medical assistant.
+
 Can Ribavirin help COVID-19?
 
 yes
-
 You are a helpful medical assistant.
+
 Can Echinacea prevent COVID-19?
 
-no
-38
-
+echinacea is not a cure for covid-19.
 You are a helpful medical assistant.
+
 Can drinking lemon water prevent COVID-19?
 
 no
-39
-Accuracy:0.7959183673469388
+20
+Accuracy:0.40816326530612246

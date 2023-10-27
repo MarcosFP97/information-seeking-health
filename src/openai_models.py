@@ -5,7 +5,7 @@ import argparse
 import xml.etree.ElementTree as ET
 import tiktoken
 
-API_KEY=""
+API_KEY="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"
 
 '''
 This method loads a context from file.
@@ -37,14 +37,13 @@ def get_prompt(
 ) -> str:
   if system:
     prompt = (
-        f'{context}\n'
-        f'You are a helpful medical assistant.\n'
-        f'{question}\n'
+      f'You are a helpful medical assistant.\n'
+      f'{context}\n'  
+      f'{question}\n'
     )
   else:
     prompt = (
         f'{context}\n'
-        f'You are a helpful medical assistant.\n'
         f'{question}\n'
     )
 
@@ -180,9 +179,9 @@ def ask(
 if __name__ == "__main__":
     openai.api_key = API_KEY
     parser = argparse.ArgumentParser()
-    parser.add_argument("model", nargs='?', default="text-davinci-003")
+    parser.add_argument("model", nargs='?', default="text-davinci-002")
     parser.add_argument("context", nargs='?', default="") 
-    parser.add_argument("year", nargs='?', default=2021)
+    parser.add_argument("year", nargs='?', default=2022)
     args = parser.parse_args()
     context = load_context(args.context)
     eval = load_answers(args.year)

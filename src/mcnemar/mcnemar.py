@@ -10,7 +10,7 @@ def get_labels(run: str) -> List[int]:
     hits = []
 
     if "llama" in run: ### different pattern to process llama files
-        pattern1 = re.compile(r'(Q:)?\"[A-Za-z0-9\(\)\-\'\"\s\?\!\.\,]*?\"([A-Za-z0-9\(\)\-\'\"\s\:])*([\/INST\]])?')
+        pattern1 = re.compile(r'^Q: [A-Za-z0-9\(\)\-\'\"\s\!\.\,]*?\?([A-Za-z0-9\(\)\-\'\"\s\:])*(\[\\INST\])?$')
     else:
         pattern1 = re.compile(r'[A-Za-z0-9\(\)\-\'\s]*\?')
     pattern2 = re.compile(r'^[0-9]+\n')
@@ -35,7 +35,7 @@ def get_labels(run: str) -> List[int]:
                 query = False
             
             if is_q:
-                # print("Query:",is_q[0])
+                print("Query:",is_q[0])
                 count+=1
                 if query:
                     hits.append(0)
@@ -52,6 +52,7 @@ def eval_mcnemar(y_target: List, y_model1: List, y_model2: List):
     tb = mcnemar_table(y_target=y_target, 
                    y_model1=y_model1, 
                    y_model2=y_model2)
+    # print(tb)
     _, p = mcnemar(ary=tb, corrected=True)
     if p>0.05:
         print("We cannot reject the null hypothesis and there is not significant difference between classifiers", p)
@@ -84,6 +85,7 @@ if __name__=="__main__":
             elif args.year=="2020":
                 query = topic.find("description").text
             answer = topic.find("answer").text
+
         if answer=="yes":
             ground_truth[query] = 1
         else:
@@ -91,7 +93,7 @@ if __name__=="__main__":
 
     # The correct target (class) labels
     y_target = np.array(list(ground_truth.values())) #### esto lo sacaría del fichero de xml de 2022 por ejemplo
-
+    print(len(y_target))
     # # Class labels predicted by model 1
     model1= get_labels(args.run1)
     # print(len(model1))

@@ -209,14 +209,14 @@ no
 29
 
 You are a helpful medical assistant.
-Can having type O blood prevent COVID-19
+Can having type O blood prevent COVID-19?
 
 no
 
 30
 
 You are a helpful medical assistant.
-Can methanol prevent COVID-19
+Can methanol prevent COVID-19?
 
 no
 

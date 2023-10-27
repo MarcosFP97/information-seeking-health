@@ -1,0 +1,269 @@
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Do tea bags help to clot blood in pulled teeth?
+
+no, tea bags do not help to clot blood.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can crystals heal?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can collagen supplements cure osteoarthritis?
+
+yes, they can help with the pain.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can cell phones cause cancer?
+
+yes, they can cause cancer.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can you use WD-40 for arthritis?
+
+no, wd-40 is not a medical treatment.
+1
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can mosquito bites make you sick?
+
+yes, they can. they can transmit diseases like west nile virus.
+2
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can cancer be inherited?
+
+yes, cancer can be inherited.
+3
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Are vaccines linked to autism?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can baking soda help to cure cancer?
+
+no, baking soda is not a cure for cancer.
+4
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Are squats bad for knees?
+
+yes, squats can be bad for knees.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Do ACE inhibitors typically cause erectile dysfunction?
+
+yes, ace inhibitors can cause erectile dysfunction.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Is morphine addictive?
+
+yes, morphine is a powerful opioid and can be addictive.
+5
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can fruit juice increase the risk of diabetes?
+
+yes, fruit juice can increase the risk of diabetes.
+6
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Do magnetic wrist straps help with arthritis?
+
+yes, they can help with arthritis.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Are sit ups bad for you?
+
+no, sit ups are good for your back.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can a speech problem be caused by right handed person being forced to left hand?
+
+no
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Are there health benefits to drinking your own urine?
+
+yes, there are some benefits to drinking your own urine.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Is pink salt good for you?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can massage get rid of cellulite?
+
+yes, massage can help reduce the appearance of cellulite.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can fish oil improve your cholesterol?
+
+yes, it can.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can you become addicted to weed?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can vegan diets be healthy?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Is hydroquinone banned in Europe?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Do men get UTI infections?
+
+yes, men can get uti infections.
+7
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Are carrots good for your eyes?
+
+yes, carrots are good for your eyes.
+8
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Is methanol poisonous?
+
+yes, methanol is a strong oxidizing agent and can cause a variety
+9
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can an MRI harm my baby?
+
+yes, an mri can harm your baby.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can exercise lower cholesterol?
+
+yes, it can.
+10
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can chewing gum help lose weight?
+
+yes, it can help you lose weight.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can sunglasses help prevent cataracts?
+
+yes, sunglasses can help prevent cataracts.
+11
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Did AIDS come from chimps?
+
+no
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Is too much water bad for you?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can HIV be transmitted through sweat?
+
+yes, it can.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Do Himalayan salt lamps have health benefits?
+
+yes, they do.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can a woman get pregnant while breastfeeding?
+
+yes, a woman can get pregnant while breastfeeding.
+12
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can statins cause permanent cognitive impairment?
+
+yes, statins can cause permanent cognitive impairment.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Does Vitamin C prevent colds?
+
+yes, vitamin c can help prevent colds.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can coffee help you lose weight?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Does drinking lemon water help with belly fat?
+
+yes, it can help with belly fat.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Does deli meat increase your risk of colon cancer?
+
+yes, deli meat is a high-fat, high-sodium food that
+13
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Are skin tags contagious?
+
+yes, skin tags are not contagious.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can oil pulling heal cavities?
+
+yes, it can.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Does a high fiber diet help with hemorrhoids?
+
+yes, a high fiber diet can help hemorrhoids.
+14
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can grapefruit interfere with medication?
+
+yes, grapefruit can interfere with some medications.
+15
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can vape pens be harmful?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Do bananas increase the risk of diabetes?
+
+no, bananas are not known to increase the risk of diabetes.
+16
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Is wifi harmful for health?
+
+we are a non-expert user searching for medical advice online.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Does drinking apple cider vinegar help lose weight?
+
+yes, it can help you lose weight.
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Does ginger help with nausea?
+
+yes, ginger is a natural remedy for nausea.
+17
+You are a helpful medical assistant.
+We are a non-expert user searching for medical advice online.
+Can a cold sore cause genital herpes?
+
+yes, genital herpes is caused by a virus.
+18
+Accuracy:0.36

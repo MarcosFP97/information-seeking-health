@@ -1,0 +1,285 @@
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do tea bags help to clot blood in pulled teeth?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can crystals heal?
+
+no
+1
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can collagen supplements cure osteoarthritis?
+
+no
+2
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can cell phones cause cancer?
+
+no
+3
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can you use WD-40 for arthritis?
+
+no
+4
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can mosquito bites make you sick?
+
+yes
+5
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can cancer be inherited?
+
+yes
+6
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are vaccines linked to autism?
+
+no
+7
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can baking soda help to cure cancer?
+
+no
+8
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are squats bad for knees?
+
+no
+9
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do ACE inhibitors typically cause erectile dysfunction?
+
+no
+10
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is morphine addictive?
+
+yes
+11
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can fruit juice increase the risk of diabetes?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do magnetic wrist straps help with arthritis?
+
+no
+12
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are sit ups bad for you?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can a speech problem be caused by right handed person being forced to left hand?
+
+yes
+13
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are there health benefits to drinking your own urine?
+
+no
+14
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is pink salt good for you?
+
+no
+15
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can massage get rid of cellulite?
+
+no
+16
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can fish oil improve your cholesterol?
+
+yes
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can you become addicted to weed?
+
+yes
+17
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can vegan diets be healthy?
+
+yes
+18
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is hydroquinone banned in Europe?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do men get UTI infections?
+
+yes
+19
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are carrots good for your eyes?
+
+yes
+20
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is methanol poisonous?
+
+yes
+21
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can an MRI harm my baby?
+
+no
+22
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can exercise lower cholesterol?
+
+yes
+23
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can chewing gum help lose weight?
+
+no
+24
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can sunglasses help prevent cataracts?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Did AIDS come from chimps?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is too much water bad for you?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can HIV be transmitted through sweat?
+
+yes
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do Himalayan salt lamps have health benefits?
+
+yes
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can a woman get pregnant while breastfeeding?
+
+yes
+25
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can statins cause permanent cognitive impairment?
+
+no
+26
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does Vitamin C prevent colds?
+
+no
+27
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can coffee help you lose weight?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does drinking lemon water help with belly fat?
+
+yes
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does deli meat increase your risk of colon cancer?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are skin tags contagious?
+
+no
+28
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can oil pulling heal cavities?
+
+no
+29
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does a high fiber diet help with hemorrhoids?
+
+no
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can grapefruit interfere with medication?
+
+yes
+30
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can vape pens be harmful?
+
+yes
+31
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do bananas increase the risk of diabetes?
+
+no
+32
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is wifi harmful for health?
+
+no
+33
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does drinking apple cider vinegar help lose weight?
+
+yes
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does ginger help with nausea?
+
+yes
+34
+You are a helpful medical assistant.
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can a cold sore cause genital herpes?
+
+no
+Accuracy:0.68
