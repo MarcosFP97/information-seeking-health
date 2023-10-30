@@ -80,14 +80,14 @@ def predict(
   if syst:
     outputfile = expert + str(year) + '_s.txt'
   else:
-    outputfile = expert + str(year) + '.txt'
+    outputfile = expert + str(year) + '_1.txt'
 
   with open('../outputs/few-shot/llama/'+outputfile, 'w+') as f:
     for k, v in eval.items():
       prompt = get_prompt(context, syst, k)
       print(prompt)
       f.write(prompt+'\n')
-      output = MODEL(prompt, temperature=0, echo=False, max_tokens=64)
+      output = MODEL(prompt, temperature=0, echo=False, max_tokens=2048)
       response = output['choices'][0]['text']
       response = response.lower()
       f.write(response+'\n')

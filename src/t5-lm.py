@@ -35,10 +35,14 @@ def get_prompt(
     )
   else:
     prompt = (
-        f'<s>[INST] <<SYS>>\n'
-        f'<</SYS>>\n'
         f'{context}\n'
-        f'Q: {question} A: [\INST]\n'
+        f'Q: Will wearing an ankle brace help heal achilles tendonitis?\n'
+        f'A: No.\n'
+        f'Q: Does yoga improve the management of asthma?\n'
+        f'A: Yes.\n'
+        f'Q: Is starving a fever effective?\n'
+        f'A: No.\n'
+        f'Q: {question} A:\n'
     )
 
   return prompt
@@ -79,9 +83,9 @@ def predict(
   if syst:
     outputfile = expert + str(year) + '_s.txt'
   else:
-    outputfile = expert + str(year) + '.txt'
+    outputfile = expert + str(year) + '_1.txt'
 
-  with open('../outputs/zero-shot/flan-t5/'+outputfile, 'w+') as f:
+  with open('../outputs/few-shot/flan-t5/'+outputfile, 'w+') as f:
     for k, v in eval.items():
       prompt = get_prompt(context, syst, k)
       print(prompt)
@@ -108,7 +112,7 @@ if __name__=="__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("context", nargs='?', default="expert")
     parser.add_argument("year", nargs='?', default="2020")
-    parser.add_argument("syst", nargs='?', default=True)
+    parser.add_argument("syst", nargs='?', default=False)
     args = parser.parse_args()
     context = load_context(args.context)
     eval = load_answers(args.year)

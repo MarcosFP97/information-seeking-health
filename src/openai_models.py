@@ -37,14 +37,22 @@ def get_prompt(
 ) -> str:
   if system:
     prompt = (
-      f'You are a helpful medical assistant.\n'
-      f'{context}\n'  
-      f'{question}\n'
+        f'<s>[INST] <<SYS>>\n'
+        f'<</SYS>>\n'
+        f'You are a helpful medical assistant.\n'
+        f'{context}\n'
+        f'Q: {question} A: [\INST]\n'
     )
   else:
     prompt = (
         f'{context}\n'
-        f'{question}\n'
+        f'Q: Will wearing an ankle brace help heal achilles tendonitis?\n'
+        f'A: No.\n'
+        f'Q: Does yoga improve the management of asthma?\n'
+        f'A: Yes.\n'
+        f'Q: Is starving a fever effective?\n'
+        f'A: No.\n'
+        f'Q: {question} A:\n'
     )
 
   return prompt
@@ -115,16 +123,16 @@ def ask(
   context:str,
   expert: str, 
   year: int,
-  syst:bool=True,
+  syst:bool=False,
 )-> float:
   number_questions = len(eval)
   
   if syst:
     outputfile = expert + str(year) + '_s.txt'
   else:
-    outputfile = expert + str(year) + '.txt'
+    outputfile = expert + str(year) + '_3.txt'
 
-  with open('../outputs/zero-shot/'+model+'/'+outputfile, 'w+') as f:
+  with open('../outputs/few-shot/'+model+'/'+outputfile, 'w+') as f:
     hits = 0
     for k, v in eval.items():
         prompt = get_prompt(context, syst, k)
@@ -179,8 +187,8 @@ def ask(
 if __name__ == "__main__":
     openai.api_key = API_KEY
     parser = argparse.ArgumentParser()
-    parser.add_argument("model", nargs='?', default="text-davinci-002")
-    parser.add_argument("context", nargs='?', default="") 
+    parser.add_argument("model", nargs='?', default="gpt-4")
+    parser.add_argument("context", nargs='?', default="expert") 
     parser.add_argument("year", nargs='?', default=2022)
     args = parser.parse_args()
     context = load_context(args.context)
