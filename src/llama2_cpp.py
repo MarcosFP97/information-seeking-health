@@ -3,7 +3,7 @@ import re
 import xml.etree.ElementTree as ET
 from llama_cpp import Llama
 
-MODEL = Llama(model_path="../models/llama-2-13b-chat.Q8_0.gguf", n_ctx=2000, n_gpu_layers=0)
+MODEL = Llama(model_path="../models/llama-2-13b-chat.Q8_0.gguf", n_ctx=2000, n_gpu_layers=0, logit_bias={1217:0.5, 3582:0.5})
 
 def load_context(
   context:str
@@ -87,7 +87,7 @@ def predict(
       prompt = get_prompt(context, syst, k)
       print(prompt)
       f.write(prompt+'\n')
-      output = MODEL(prompt, temperature=0, echo=False, max_tokens=2048)
+      output = MODEL(prompt, temperature=0, echo=False, max_tokens=2)
       response = output['choices'][0]['text']
       response = response.lower()
       f.write(response+'\n')
@@ -104,7 +104,7 @@ def predict(
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("context", nargs='?', default="expert")
+    parser.add_argument("context", nargs='?', default="nonexpert")
     parser.add_argument("year", nargs='?', default="2022")
     parser.add_argument("force", nargs='?', default=False)
     args = parser.parse_args()

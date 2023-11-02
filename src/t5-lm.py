@@ -110,8 +110,8 @@ def predict(
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("context", nargs='?', default="expert")
-    parser.add_argument("year", nargs='?', default="2020")
+    parser.add_argument("context", nargs='?', default="")
+    parser.add_argument("year", nargs='?', default="2022")
     parser.add_argument("syst", nargs='?', default=False)
     args = parser.parse_args()
     context = load_context(args.context)
