@@ -132,7 +132,7 @@ def ask(
   else:
     outputfile = expert + str(year) + '_3.txt'
 
-  with open('../outputs/few-shot/llama/'+outputfile, 'w+') as f:
+  with open('../outputs/few-shot/gpt-4/'+outputfile, 'w+') as f:
     hits = 0
     for k, v in eval.items():
         prompt = get_prompt(context, syst, k)
@@ -188,7 +188,7 @@ if __name__ == "__main__":
     openai.api_key = API_KEY
     parser = argparse.ArgumentParser()
     parser.add_argument("model", nargs='?', default="gpt-4")
-    parser.add_argument("context", nargs='?', default="expert") 
+    parser.add_argument("context", nargs='?', default="") 
     parser.add_argument("year", nargs='?', default=2022)
     args = parser.parse_args()
     context = load_context(args.context)

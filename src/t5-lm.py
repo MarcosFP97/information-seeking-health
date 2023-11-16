@@ -36,12 +36,12 @@ def get_prompt(
   else:
     prompt = (
         f'{context}\n'
-        f'Q: Will wearing an ankle brace help heal achilles tendonitis?\n'
+        f'Q: Will wearing an ankle brace help heal achilles tendonitis?\n' ##### This code is hardcoded to include ICL instances
         f'A: No.\n'
         f'Q: Does yoga improve the management of asthma?\n'
         f'A: Yes.\n'
-        f'Q: Is starving a fever effective?\n'
-        f'A: No.\n'
+        # f'Q: Is starving a fever effective?\n'
+        # f'A: No.\n'
         f'Q: {question} A:\n'
     )
 
@@ -83,7 +83,7 @@ def predict(
   if syst:
     outputfile = expert + str(year) + '_s.txt'
   else:
-    outputfile = expert + str(year) + '_1.txt'
+    outputfile = expert + str(year) + '_2.txt'
 
   with open('../outputs/few-shot/flan-t5/'+outputfile, 'w+') as f:
     for k, v in eval.items():
