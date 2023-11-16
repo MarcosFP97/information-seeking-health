@@ -1,0 +1,644 @@
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"The reasoning behind braces for Achilles Tendonitis is to take some load off the Achilles Tendon. The latest evidence would suggest that not all braces are beneficial in treating Achilles Tendonitis. Some braces could have a negative effect for Achilles Tendonitis, however, some may have a big positive impact. Want instant access to our Achilles Survival Guide?"
+Question:Will wearing an ankle brace help heal achilles tendonitis?
+Your answer:[\INST]
+
+no
+1
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Of course, as your child's temperature climbs, it can make you nervous (especially if he's had a febrile seizure before) and him uncomfortable. If your child is really uncomfortable (so that he can't sleep, for example) and his fever is 103 degrees or higher, then I'd suggest you give him the appropriate dose of acetaminophen or ibuprofen to bring his fever down so that he — and you — can rest. If fever-reducing medication isn't a good option for your child — because he's allergic to the medicine or doesn't take medicine very well, or you'd rather not give him any — a lukewarm bath or sponge bath won't hurt him, and it may help reduce his temperature. (Bathing a child with a fever was a common practice before these fever reducers were available.) Just make sure that the water is lukewarm to warm, not cool, because shivering can actually raise your child's temperature rather than help bring it down. You might also find that your child enjoys a cool washcloth on his forehead."
+Question:Is a tepid sponge bath a good way to reduce fever in children?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Folate deficiency and possible deficiency are defined when the level of plasma/serum folate is <6.8 nmol/L and 13.5 nmol/L, respectively (WHO, 2015). Previous studies showed that low folate level is not only associated with specific domains of cognitive functioning, e.g., episodic recall and recognition (Wahlin et al., 1996; Hassing et al., 1999; Nurk et al., 2005; De Lau et al., 2007), but also associated with all types of dementia, including vascular dementia and AD (Clarke et al., 1998; Ebly et al., 1998; Morris, 2003; Zhuo et al., 2011; Douaud et al., 2013; Cascalheira et al., 2015). In addition, folate/folic acid supplementation is beneficial to the improvement of cognitive functions in aged subjects and cases of mild cognitive impairment (Fioravanti et al., 1997; Morris, 2003; Durga et al., 2007; De Jager et al., 2012; Ma et al., 2019). Moreover, deprivation of folate increases tau phosphorylation, the major component of neurofibrillary tangles (Chan and Shea, 2006). However, there has not been a meta-analysis study to investigate the association between folate deficiency/possible deficiency and the risk of AD, as well as the benefical effect of sufficient folate intake on the prevention of AD. This study aims to investigate the role of folate deficiency/possible deficiency in the risk of AD and the benefical effect of sufficient folate intake on the prevention of AD in addition to updating the association between plasma/serum folate levels and AD."
+Question:Can folic acid help improve cognition and treat dementia?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"I know, doesn't it just seem like duct tape fixes everything? You should:
+Cover the wart with a small piece of duct tape just like you would use a band-aid. Warts deprived of air and sun exposure sometimes die without the need for topical treatments. Remove the tape once a week, wash the skin, and rub off any dead wart tissue. After it has dried thoroughly overnight, re-apply the duct tape. The tape treatment may be needed for eight weeks."
+Question:Does duct tape work for wart removal?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"But that’s the last thing you should do, says Angela Gibson, MD, PhD, who specializes in the surgical treatment of burns and trauma at UW Health’s Burn Center.“It makes you feel better, but the ice could lead to a deepening of the burn because it causes constriction of the blood vessels,” Gibson explains. Nearly a half million people seek treatment for burns every year, and many more deal with mild burns at home. Burn injuries are classified with degrees: first-degree burns affect just the top layer of skin (epidermis), second-degree burns reach the dermis layer in the middle, and third-degree burns affect the full thickness of skin, down to the layer of fat underneath the dermis. Tips for treating burn injuriesWithout proper treatment, even superficial burns can deepen, making healing more difficult. Gibson shares the following tips for treating burn injuries:Know when to see a doctor. How do you know if a burn is bad enough to warrant a trip to the nearest clinic or hospital?"
+Question:Should I apply ice to a burn?
+Your answer:[\INST]
+
+no
+2
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"As with many of us with vitiligo, I hardly sit in the sun at all, and if I do, it’s with my back to the sun since it’s mostly my face that is affected by vitiligo.”Your doctor can check your vitamin D status through a routine blood test to determine whether you’d benefit from supplementation.Other Vitamins and Vitiligo: What’s Recommended?Several studies have looked at vitamin B12 and folic acid in supplements concerning vitiligo. For example, researchers have identified a significantly higher rate of B12 deficiency in some people with vitiligo, along with thyroid dysfunction and diabetes. It can be challenging to identify a direct cause-and-effect relationship. Currently, no vitamin deficiencies are known to be the sole cause of vitiligo. Despite this finding, studies have not consistently found a benefit of taking B12 or folic acid in those who do not have a deficiency. Many people with vitiligo experiment with vitamins and herbal supplements that they believe will benefit their skin and immune system."
+Question:Can vitamin b12 and sun exposure together help treat vitiligo?
+Your answer:[\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Discuss whether yoga is appropriate for you and if it can be incorporated into your overall asthma management plan. Even if yoga makes you feel better, continue to take your asthma medications as prescribed. Reducing or changing your medications without first checking with your doctor could lead to a potentially dangerous asthma flare. Only a doctor can decide when it’s time to stop or step down asthma medications. Next, find a certified yoga instructor who has either knowledge of asthma and/or experience working with asthma patients. Yoga poses must be done correctly."
+Question:Does yoga improve the management of asthma?
+Your answer:[\INST]
+
+yes
+3
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Friday, January 31, 2020 2:29 PM
+Tags:
+common cold,fever,flu
+Is the old adage “feed a cold, starve a fever” true? NorthShore's Robert Mitchell Figura, D.O., puts to rest the truth of this ancient wisdom. The reason people say “feed a cold” is because the body needs energy when it's fighting illness. This applies to both colds and flu, but for different reasons. For a cold, eating healthy food will provide the body the extra energy it needs to fight illness, but can also help the body generate heat. The cold virus replicates faster in a cold environment so raising your body's temperature along with bundling up can stop cold germs in their tracks, said Dr. Figura."
+Question:Is starving a fever effective?
+Your answer:[\INST]
+
+no
+4
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Effects of selenium supplementation for cancer prevention in patients with carcinoma of the skin. A randomized controlled trial. Nutritional Prevention of Cancer Study Group. ↑ Duffield-Lillico AJ, Slate EH, Reid ME, Turnbull BW, Wilkins PA, Combs GF Jr, et al. Selenium supplementation and secondary prevention of nonmelanoma skin cancer in a randomized trial."
+Question:Does selenium help prevent cancer?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"The doctor is correct, that cysts don’t go away any faster while on birth control pills than if not on them at all. However, many physicians use them when a cyst is found. The reasoning for this is that while on the pill, the brain’s normal hormone production that stimulates the ovary gets placed on hold. This prevents the brain from trying to start an ovulation on top of the already present cysts. If this occurred, the new follicles could then be later confused with the previous cysts on ultrasound, thus complicating the picture. Also, when on a birth control pill, once that the cyst has resolved, the physician can then just stop the pill at that point and immediately start ovulation medication if needed."
+Question:Will taking birth control pills treat an ovarian cyst?
+Your answer:[\INST]
+
+no
+5
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:""In other words, zinc bisglycinate improves your overall zinc status better than other zinc supplements. "* Which is, after all, the end goal of a nutritional supplement (to actually work! ).AdvertisementThis ad is displayed using third party content and we do not control its accessibility features.The takeaway. Zinc is one of the most important minerals to prioritize in your day-to-day life, but even more so throughout pregnancy. Not only does it support healthy immune function, but it also helps with the growth and development of the baby2 at the cellular and DNA level. *Combining a zinc-rich diet alongside a prenatal and/or targeted zinc supplement is a great way to reach your 11-milligram baseline goal each day, but remember to stay cognizant of exceeding the 40-milligram limit to protect your body and limit discomfort and unsavory side effects.With benefits linking to healthy pregnancies and immune wellness, zinc should be a staple in your pregnancy nutrition plan to help support both you and your baby."
+Question:Will taking zinc supplements improve pregnancy?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"EPO can be safely used for children and adults with skin conditions. Evening Primrose Oil for Eczema and dermatitis
+Eczema symptoms include redness, scaling, and itching. Experts have determined that eczema may develop when the body struggles to convert fats from the diet into GLA. This is why evening primrose supplements may be helpful for this condition. More than 30 human studies report the benefits of evening primrose oil for eczema and dermatitis. A study of 1,207 patients found that evening primrose oil helped relieve symptoms including itching, crusting, edema (swelling), and redness."
+Question:Can evening primrose oil help treat eczema?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Long term wearing of an ankle brace will weaken your ankle. The Aryse brace is a good exoskeleton construct to protect the ankle and minimizes ankle weakness. The simple answer is Yes. They help speed up recovery from an ankle injury and help decrease future injuries. It is important to wear the correct ankle brace for the result you are trying to achieve."
+Question:Do ankle braces help heal an ankle fracture?
+Your answer:[\INST]
+
+yes
+6
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Objective:
+      We attempted to determine whether topically applied vitamin E has any effect on the cosmetic appearance of scars as suggested by multiple anectodal reports. Methods:
+      Fifteen patients who had undergone skin cancer removal surgery were enrolled in the study. All wounds were primarily closed in 2 layers. After the surgery, the patients were given two ointments each labeled A or B. A was Aquaphor, a regular emollient, and the B was Aquaphor mixed with vitamin E. The scars were randomly divided into parts A and B. Patients were asked to put the A ointment on part A and the B ointment on part B twice daily for 4 weeks."
+Question:Can applying vitamin E cream remove skin scars?
+Your answer:[\INST]
+
+no
+7
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"The efficacy of magnesium oxide and sodium valproate in prevention of migraine headache: a randomized, controlled, double-blind, crossover study. (n.d.). https://lpi.oregonstate.edu/mic/minerals/magnesiumMagnesium fact sheets for health professionals. (2021). https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/Mauskop A, et al."
+Question:Can magnesium help prevent migraine?
+Your answer:[\INST]
+
+yes
+8
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"All in all, to achieve the desired benefits of exercise (improvement in weight, glucose control, endurance, etc. ), an individualized approach is key. One gap in practice is lack of a commonly employed clinical measure of response to an exercise intervention and the need for exercise physiology expertise in tailoring and adjusting sustained exercise interventions.Therapeutic Value of Exercise in Diabetes ManagementDiet and exercise (lifestyle modification) are considered by all diabetes clinical guidelines to be the foundation for diabetes management. Exercise can augment glucose disposal and improve insulin action, and thus can be a tool to aid in glucose regulation. Muscle contraction and contraction-mediated skeletal muscle blood flow leads to glucose uptake via insulin-dependent and independent mechanisms. Exercise-mediated glucose disposal can decrease circulating blood glucose but may be affected by other determinants of systemic glucose metabolism."
+Question:Does exercise help manage diabetes?
+Your answer:[\INST]
+
+yes
+9
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Kefir, A Fermented Probiotic Milk May Help Reduce High BP; These Foods May Help Too! This Article is From Apr 28, 2018 Kefir, A Fermented Probiotic Milk May Help Reduce High BP; These Foods May Help Too! Drinking kefir, a fermented probiotic milk known to help maintain the balance of good bacteria in the digestive system, may have a positive effect on blood pressure FoodNDTV Food DeskUpdated: April 28, 2018 3:01 pm IST                              
+											Drinking kefir, a fermented probiotic milk known to help maintain the balance of good bacteria in the digestive system, may have a positive effect on blood pressure. It is said to promote communication between the gut and brain, a study conducted on rats has found. After nine weeks of kefir supplementation, the treated rats had lower levels of endotoxins, toxic substances associated with a disruption in the cells, lower blood pressure and improved intestinal permeability when compared to the untreated group.In addition to this, kefir supplementation restored the natural balance of four different bacteria in the gut and of an enzyme in the brain essential for normal nervous system function, suggesting that the nervous and digestive systems work together to reduce hypertension."
+Question:Can fermented milk help mitigate high blood pressure?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"The drug performed well in clinical trials, but the eczema community has been waiting to see whether it would do so in the real world. Carol Greenspun
+In the two-and-a-half years since its approval by the U.S Food and Drug Administration in March 2017, opinions have been overwhelmingly favorable. However, some patients have reported side effects or have not benefitted as much as they had hoped. Paul Yamauchi, MD, PhD, a dermatologist in private practice in Santa Monica, California, estimates that between two-thirds and three-fourths of his patients with AD have done well on the drug. “Dupixent doesn’t totally clear the risk of future eczema outbreaks, but it succeeds in managing symptoms,” he said. “Most of my patients experience less itching, a reduction in the rash, better sleep and a better quality of life overall.”
+But Dupixent isn’t a cure, and it’s not perfect."
+Question:Can dupixent treat eczema?
+Your answer:[\INST]
+
+yes
+10
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Kolasinski adds that yoga also can help a person with arthritis build muscle strength and improve balance. In addition, yoga offers people with arthritis a form of exercise that is enjoyable enough to do regularly.“There is no question that people are not exercising enough. Yoga provides an exercise option. It’s not the only thing you do, but it is a component” of an overall healthy regimen that may also include cardiovascular exercises like walking, or a low-fat diet.According to Dr. Kolasinski’s research, people with arthritis who practice yoga regularly will eventually see improved physical function. “Admittedly, these are small studies, but I think yoga can enhance pain management, thereby improving function,” she says.Yoga has other benefits for people with stiff joints due to arthritis. “Stretching exercises in general help improve range of motion, so the fact that you’re stretching in yoga will help flexibility.”On days when you’re experiencing a painful arthritis flare, continuing to do some type of physical activity like yoga, if possible, can help you maintain joint flexibility."
+Question:Does yoga help reduce pain from arthritis and improve physical function?
+Your answer:[\INST]
+
+yes
+11
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"IMITREX Injection also relieved photophobia, phonophobia
+(sound sensitivity), nausea, and vomiting associated with migraine attacks. Similar efficacy was seen when patients self-administered IMITREX Injection
+using the IMITREX STATdose Pen. The efficacy of IMITREX Injection was unaffected by
+whether or not the migraine was associated with aura, duration of attack,
+gender or age of the patient, or concomitant use of common migraine
+ prophylactic drugs (e.g., beta-blockers). Cluster Headache
+The efficacy of IMITREX Injection in the acute treatment
+of cluster headache was demonstrated in 2 randomized, double-blind,
+placebo-controlled, 2-period crossover trials (Studies 4 and 5). Patients 21 to
+65 years of age were enrolled and were instructed to treat a moderate to very
+severe headache within 10 minutes of onset. Headache relief was defined as a
+reduction in headache severity to mild or no pain."
+Question:Can the drug Imitrex (sumatriptan) treat acute migraine attacks?
+Your answer:[\INST]
+
+yes
+12
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Since the results have been so mixed, light therapy should not at this time be definitively considered an effective option for treating depression that is not seasonal. With that said, since side effects are rare and it is easy to buy a light therapy lamp between $50-300, light therapy can be considered a component of a comprehensive treatment plan for depression. If you would like to use light therapy as a part of your treatment plan, make sure to choose a light with 10,000 lux. Make sure as well that the light is fluorescent without any ultraviolet wavelengths. This could mean that you purchase either a full spectrum light with UV rays filtered out, or a broad spectrum light that naturally does not emit UV rays. Can TMS For Depression Work?"
+Question:Will buying a light therapy lamp help treat depression?
+Your answer:[\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"How do they work? The best-known NSAIDs used for acute migraine treatment are ibuprofen (Advil®, Motrin®) and naproxen sodium (Aleve®, Anaprox®), both available over-the-counter (non-prescription) and by prescription. Flurbiprofen, diclofenac potassium (Cataflam®, diclofenac sodium, Voltaren®, Zipsor®), nabumetone, mefenamic acid and others have been demonstrably effective in treating acute migraine. Indomethacin (Indocin®) is another FDA-approved NSAID widely used for the treatment of migraine and other primary headache disorders like hemicrania continua, and Cambia®—a powdered formulation of diclofenac potassium that is dissolved in water and taken as an oral solution—was found to be effective in treating moderate to severe acute migraine in two large clinical trials. There is also evidence that aspirin may be an effective migraine treatment."
+Question:Does Aleve relieve migraine headaches?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Some people develop a chemical burn, or a nasty rash called contact dermatitis, after applying toothpaste on a pimple. Your skin could be feeling sore for days afterward, and toothpaste can make your pimple look worse instead of better. Use Approved Acne Spot Treatments  
+If you're looking for a way to make a blemish heal quickly, there are much better options than toothpaste. These products contain benzoyl peroxide or salicylic acid, all of which can help to reduce redness and speed healing. Acne spot treatment products are milder for your skin than toothpaste, and they're inexpensive."
+Question:Can I get rid of a pimple overnight by applying toothpaste?
+Your answer:[\INST]
+
+no
+13
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Chondroitin trials for osteoarthritis
+Get help
+What is it? Chondroitin is a dietary supplement and a vital part of cartilage. Studies have found that taking chondroitin can prevent cartilage breaking down and can also stimulate its repair mechanisms. Chondroitin has been tested in at least 22 RCTs for osteoarthritis. Evidence is inconsistent but many show that it has significant clinical benefits in reducing pain and painkiller use. Higher quality trials were less likely to show benefit."
+Question:Can chondroitin help relieve the pain of osteoarthritis?
+Your answer:[\INST]
+
+yes
+14
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Just a moment...
+            www.sciencedirect.com
+            Checking if the site connection is secure
+                        Enable JavaScript and cookies to continue
+            www.sciencedirect.com needs to review the security of your connection before proceeding."
+Question:Can omega-3 help manage hypertriglyceridemia?
+Your answer:[\INST]
+
+yes
+15
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Although they only included four RCTs, they found that probiotics have the potential to reduce the incidence of acute otitis media and respiratory infections compared with placebo. Two trials did not separate acute URTIs from the whole respiratory tract. However, the result was similar to this review. We identified two excluded trials that did not show any benefit of probiotics compared with placebo in the duration or incidence of URTIs (Gleeson 2012; Kekkonen 2007). Both trials were performed in endurance athletes; the excessive training may have influenced the effect of the probiotics. We also found one study conducted amongst older people that found that probiotics only can reduce the duration of acute URTIs rather than the number of participants who experienced URTI episodes (Fujita 2013)."
+Question:Can probiotics prevent respiratory infections?
+Your answer:[\INST]
+
+yes
+16
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"“I see it as a self-care, a way to enhance calm, reduce irritability, improve sleep, and encourage a quiet mind.”Related: Yoga for Rheumatoid Arthritis: 8 Tips From an Instructor Living With ArthritisSmall Studies Show Value of Essential Oils for PainWhen 36 adults with RA or other inflammatory conditions had their hands massaged twice a day for five straight days, using either a blend of essential oils or basic coconut oil, the aromatherapy group reported less pain and more strength in their fingers, according to results published in November 2018 in the journal Complementary Therapies in Clinical Practice.And a review of 42 small studies on aromatherapy’s use with all kinds of pain, published in November 2016 in the journal Pain Research and Treatment, concluded that “aromatherapy can successfully treat pain when combined with conventional treatments.”Related: Best and Worst Styles of Yoga for Rheumatoid ArthritisOther RA-Linked Conditions May Be Helped TooIn addition to pain, many people with RA also have problems with sleep and mood. Aromatherapy seems to help here, too.One study of sleep involved 50 Taiwanese nurses who worked rotating night shifts. One-half of them were given weekly aromatherapy massages, while the other half received a regular massage. After a month, the nurses receiving aromatherapy reported better sleep quality, fewer sleep disturbances, and less daytime dysfunction, according to results published in July 2017 in Evidence-Based Complementary and Alternative Medicine.And Iranian researchers examined four studies of the psychological effects of aromatherapy in older women and concluded that symptoms like anxiety and depression improved when aromatherapy was used alongside conventional treatments. This study was published in February 2018 in the journal Medicine.Related: How to Sleep Better With Rheumatoid ArthritisHow Might Essential Oils Work to Ease Joint PainOne way aromatherapy works its magic is that our sense of smell is directly linked to the limbic system in our brain, which is responsible for emotions and our stress response. This is why when you smell intense smoke your body immediately launches into a fight-or-flight response, Chesla says, or why when you sniff a rose bush your whole body relaxes.One study of women tied aromatherapy directly to our sympathetic nervous system, which is controlled by the limbic system."
+Question:Can aromatherapy massage help manage rheumatoid arthritis?
+Your answer:[\INST]
+
+yes
+17
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Steam inhalation
+One of the best home remedies to relieve the symptoms and get rid of croup is steam. Warm steam created from a hot shower helps alleviate congestion and makes breathing a bit easier. The warmth of the moisture will also thin the mucus and make it easier to expel. (4) Though beneficial, steam inhalation should be carefully carried out with adult supervision. So, it is better to avoid the traditional method of steam inhalation where a pot of hot water is kept in front, and you need to inhale the steam by covering your face with a towel. Instead, you can opt for a steamy shower."
+Question:Does steam from a shower help croup?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Does Minoxidil Actually Work As A Treatment For Hair Loss? Yes. Minoxidil has been shown to prevent hair loss in 2 out of 3 men and is currently the only treatment approved by the FDA. Minoxidil’s primary function is to prevent and slow down hair loss; hair regrowth is more of a side effect. Minoxidil cannot create new hair follicles, so it cannot be used to grow hair that has already been lost. Because of this, Minoxidil will be most useful when the hair loss is caught early on so that it can prevent and slow down future loss."
+Question:Can minoxidil treat hair loss?
+Your answer:[\INST]
+
+yes
+18
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"A claim that he seemed to back up since there have been thousands of testimonies from patients stating that Hoxsey's tonic did indeed save their lives by curing them from all sorts of cancers, many of which were considered late stage 4 terminal cases with absolutely no hope of survival.He was arrested more than 100 times during his lifetime and was hounded mercilessly until the government closed down his 17 domestic clinics (main one being in Dallas). He then instructed his head nurse Mildred Nelson to take the treatment down to Tijuana, B.C. Mexico in order to carry on his legacy. Here the clinic is still in business to this day.I also highly recommend the fabulous book When Healing becomes a Crime by Kenny Ausubel, which is meticulously researched and superbly written by a very skilled and creative author. Why is it that after nearly 100 years of our government claiming to be looking for a cure for the scourge of the ages that they have come woefully short of anything even approaching a reasonable and safe treatment, let alone a cure? Perhaps it is because they are not really looking to cure a disease that the medical industry makes hundreds of billions of dollars from each and every year."
+Question:Is the Hoxsey treatment a good cure for cancer?
+Your answer:[\INST]
+
+no
+19
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Countries that typically have a high green tea intake, like China and Japan, have a much lower rate of depression than western countries, where green tea intake is not as high. This may provide evidence of a link between L-theanine and the treatment of anxiety. L-Theanine: A Natural Supplement for Anxiety? Studies show that increasing intake of theanine can significantly reduce symptoms of anxiety, such as a racing heartbeat and increased secretion of immunoglobulin A in saliva. Its effects are somewhat similar to those of a sedative, but L-theanine is far from this prescription drug. It is actually considered to be an effective anxiolytic, which helps to prevent the brain from producing an anxious response to stressful situations."
+Question:Can l-theanine supplements reduce stress and anxiety?
+Your answer:[\INST]
+
+yes
+20
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"The Wonderful Benefits Of Steam Inhalation To Relieve Cough & Cold Symptoms
+Toggle navigation
+£0.00
+(0)
+Bag
+Checkout
+ Reviews
+Follow us on FacebookFollow us on TwitterRead our Blog
+Quality Products
+Highest standard & Reliable
+Fast FREE Delivery
+On orders over £30
+Discreet Delivery
+In Plain Packaging
+14 Day Money Back Guarantee
+Terms and conditions apply
+Excellent Communication
+With quick responses
+HomeBlogTipsThe Wonderful Benefits Of Steam Inhalation To Relieve Cough & Cold Symptoms
+The Wonderful Benefits Of Steam Inhalation To Relieve Cough & Cold Symptoms
+Posted on 14/01/2022
+A well known and popular home remedy for cough and cold symptoms is steam inhalation. It’s more recently being recommended for the relief of some COVID-19 symptoms too. Originally thought to help chest congestion, it’s more commonly used to help clear nasal passages.The warm steam vapour helps to clear mucus in the nose and sinuses by melting it away, clearing the passages and the congestion allowing you to breathe easier. You can use steam inhalation up to three times a day for 10 to 15 minutes at a time if you are experiencing symptoms. Keep reading to find out the benefits of this simple and natural remedy.Clears The Sinuses & Relieves PainThe warm steam helps to relieve the pain often caused by dry, irritated and swollen nasal passages and blood vessels. The vapour also thins any mucus that could be lingering there and helps to clear the sinuses, reducing the blocked, heavy and painful feeling."
+Question:Does inhaling steam help treat common cold?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"It is also not yet known which kind of exercise, or how much, is best or whether the benefits are lost if exercise is stopped.Broadly speaking, keeping active can:help lift mood through improved fitness help improve sleeping patterns increase energy levelshelp block negative thoughts or distract people from daily worrieshelp people feel less alone if they exercise with others.Exercise may also change levels of chemicals in the brain, such as serotonin, endorphins and stress hormones.Depression explainedWhile we all feel sad, moody or low from time to time, some people experience these feelings intensely, for long periods of time (weeks, months or even years) and sometimes without any apparent reason. Depression is more than just a low mood – it’s a serious condition that has an impact on both physical and mental health. One in six women and one in eight men will experience depression at some point in their lives. While the exact cause of depression isn't known, a number of things can be associated with its development. Generally, depression does not result from a single cause, but from a combination of biological factors (such as family history, serious medical illness or drug and alcohol use), early childhood experiences, personality factors, recent stressful life events and other personal factors.Exercise and depression evidenceSome  studies  have found that exercise can be a moderately helpful treatment for mild to moderate depression in adults. Exercise should therefore be considered as an important lifestyle change that is used in addition to other treatments for depression."
+Question:Does exercise improve the symptoms of depression?
+Your answer:[\INST]
+
+yes
+21
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Wash your hands and go about the rest of your day. Avoid using “home remedy” methods of tick removal, such as rubbing fingernail polish or vaseline petrolatum, using rubbing alcohol, or applying a hot extinguished match directly to the tick. In general, these methods do not result in tick detachment. More importantly, some of these methods may actually induce the tick to salivate (drool!) into the wound."
+Question:Can I remove a tick by covering it with Vaseline?
+Your answer:[\INST]
+
+no
+22
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"The school of thought behind mayonnaise as a lice treatment is that the mayonnaise will essentially suffocate the lice. The theory is that applying the mayonnaise to your child’s hair, then applying plastic wrap overnight will prevent the lice from being able to breathe, and the lice will die off. In short, no, mayonnaise does not kill lice. According to the CDC, there is no scientific evidence to support the notion that mayonnaise effectively treats lice. It’s important to realize that lice are considered to be both insects and pests by definition."
+Question:Can applying mayonnaise help get rid of lice?
+Your answer:[\INST]
+
+no
+23
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"So, regular consumption of dates can provide this Vitamin, which is essential in Anemia treatment.Dates increase the amount of iron absorption and prevent Iron deficiencyAccording to the performed studies by different researchers, Vitamin A deficiency leads to Anemia, and this critical and beneficial Vitamin exists in dates, which is an essential factor in synthesizing hemoglobin. Lack of this Vitamin causes low absorption of Iron. Based on nutritionists, consuming Vitamin A together with Iron can prevent iron deficiency. Since dates are rich in Vitamin A, they can be beneficial for treating iron deficiency.Dates improve the level of hematocrit, ferritin and hemoglobinBased on the performed studies, dates effectively treat iron deficiency and Anemia of 8 to 10 aged girls. According to the published research in Pediatric Health, Medicine and Therapeutics Journal, dates have an essential role in improving the Level of Iron and hemoglobin in 8 to 10 aged iron-deficient girls. At the beginning of the research, the mean of their hematocrit, ferritin (the standard measure for Iron), and hemoglobin (Hgb) were 34.24 μg/dL, 47.07 μg/dL, and 11.19 μg/dL, respectively."
+Question:Can eating dates help manage iron deficiency anemia?
+Your answer:[\INST]
+
+yes
+24
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"They can cut or cause an abrasion on the throat on their way down, even if they do not get stuck. In these cases, it may feel as though the bone is stuck in the throat, when in reality, it has already passed through the esophagus toward the stomach.However, if the person is spitting blood, can confirm that the bone has impacted, or is having trouble breathing, they should immediately go to their doctor or the emergency room. They should not go to bed if they suspect that a bone is lodged in their throat.Possible complications of having a fish bone stuck in the throat include:an inability to swallow foodbleedingpuncturing the esophagusinfectionchest painabscessWays to remove a fish bone at homeShare on PinterestDrinking soda may help break down a bone stuck in the throat.There are several potential methods a person can try at home that may help remove the fish bone without medical intervention. However, each person is different and results can vary.To try some fish bone removal methods at home:Cough forcefully.Drink a small amount of vinegar to help break the bone down with the acid.Drink soda. The gases it produces in the stomach can help break down the bone.Drink 1 tablespoon of olive oil to help lubricate and free the bone.Swallow a large bite of banana. This may stick to the bone and dislodge it.Take a large bite of bread and peanut butter."
+Question:Will drinking vinegar dissolve a stuck fish bone?
+Your answer:[\INST]
+
+no
+25
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Even though the research on the efficacy of zinc as a cold remedy has had conflicting results, the National Institutes of Health (NIH) suggests that, “overall zinc appears to be beneficial under certain circumstances.” In fact, several studies have shown that zinc may reduce the number of days you’re sick by inhibiting the replication of the rhinovirus (the virus that’s responsible for the common cold). While your cold may be shorter, that sniffling and sneezing won’t improve in the interim. Plus, some people complain they don’t like the taste of zinc (described as metallic), it can make you nauseous and it may also reduce the effectiveness of any antibiotics or diuretics you may take, cautions the NIH. If taste is an issue, can’t I just take a pill or use a nasal spray? The coating that a zinc lozenge or syrup leaves on your tongue and throat may actually be part of what makes it effective; that’s how it comes into physical contact with the rhinovirus."
+Question:Can zinc help treat the common cold?
+Your answer:[\INST]
+
+yes
+26
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Sellers claim that tiny amounts of copper rub off the bracelet onto the skin, which absorbs it into the body. They claim the copper helps regrow joint cartilage that has been lost because of arthritis, which helps cure the ailment and relieves pain. Do copper bracelets really relieve arthritis?A study published in the journal PLOS One did not substantiate claims about copper bracelets helping heal arthritis. In the study, participants wore one of three bracelets:copper braceletmagnetic wrist strapplacebo bracelets and wrist straps that were neither copper nor magnetized The participants were not told which type of bracelet they were given.Each week, scientists checked the participants for signs of trouble in their joints. They noted any swelling, redness, and pain and also ran weekly blood tests. The participants answered questions about any pain they had."
+Question:Can copper bracelets reduce the pain of arthritis?
+Your answer:[\INST]
+
+no
+27
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Canespie clotrimazol crema 30 g
+Language:
+English
+
+Español
+English
+            Español
+            English
+
+Sign in
+shopping_cart
+Cart
+(0)
+
+
+Search
+Home
+MEDICINES
+Dermatological
+Mycosis
+Canespie clotrimazol crema 30 g
+
+
+
+Canespie clotrimazol crema 30 g
+€10.74
+              Tax included
+Cream indicated for the treatment of 'athlete's foot', fungal infection in the feet that usually cause itching, burning and skin cracks
+Quantity
+
+            Add to cart
+Cream indicated for the treatment of 'athlete's foot', fungal infection in the feet that usually cause itching, burning and skin cracks
+Product Details
+What Canespie Clotrimazole is and what it is used forClotrimazole is an antifungal (medicine used to treat fungal infections).It is indicated for the treatment of ¿athlete's foot¿, which is a superficial infection of the skin caused by fungi and located between the folds of the toes.The main symptoms of athlete's foot are: itching, redness (erythema), cracks between the toes, peeling and can lead to inflammation or pustules. It only appears on the feet. It usually starts between the toes, but can also extend to the sole and sides of the feet.You should see your doctor if it worsens or does not improve after 10 days of treatment.How to use Canespie ClotrimazoleAlways take this medicine exactly as described in this leaflet or as your doctor or pharmacist has told you. If in doubt, consult your doctor or pharmacist again.Cutaneous use.The recommended dose is:An application on the affected area of ​​the feet 2-3 times a day. The treatment should last from 3 to 4 weeks.Apply and spread a small amount of the product to completely cover the affected area and the surrounding area, with special attention between the folds of the toes. Rub until completely absorbed.A strip of cream, about 2 cm, is enough to treat a hand-sized area (back and palm)."
+Question:Can fungal creams treat athlete's foot?
+Your answer:[\INST]
+
+yes
+28
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Cocoa butter lotion won't prevent stretch marks | ReutersDiscover Thomson ReutersDirectory of sitesLoginContactSupportfor-phone-onlyfor-tablet-portrait-upfor-tablet-landscape-upfor-desktop-upfor-wide-desktop-upHealthcare & PharmaUpdated Cocoa butter lotion won't prevent stretch marksBy Reuters Health2 Min ReadNEW YORK (Reuters Health) - Applying cocoa butter lotion during pregnancy does not help prevent the stretch marks that many women develop, according to a new study.Stretch marks, or striae gravidarum as doctors refer to them, typically occur on the abdomen and breasts, but can also appear on the hips, thighs, and buttocks. The cause of the problem is unknown, but many women believe that rubbing cocoa butter on the skin can help prevent the marks.Although scientific evidence supporting the use of cocoa butter is lacking, many physicians and midwives continue to recommend it.In the present study, Dr. A. H Nassar and colleagues sought to settle this issue by examining the stretch marks that arose in 210 pregnant women who were randomly assigned to apply cocoa butter or inactive “placebo” to their abdomen, breasts, and thighs once daily starting during the first trimester of pregnancy.Eighty-three percent of women completed the study, Nassar, from the American University of Beirut Medical Center in Lebanon and colleagues note.Overall, 45 percent of cocoa butter-treated women developed stretch marks compared with 49 percent of women given placebo lotion. Although the percentage is slightly lower in the cocoa butter group, from a statistical standpoint, the difference was not considered significant, meaning that it may have simply arisen by chance.There was also no difference between the groups in the severity of their stretch marks.“Our findings do not support the use of cocoa butter lotion for the prevention of striae gravidarum,” Nassar and colleagues conclude. Further studies, they say, are needed to confirm their findings in other populations and to evaluate the effectiveness of other commonly used products in preventing stretch marks.SOURCE: BJOG: An International Journal of Obstetrics & Gynecology, August 2008.Our Standards: The Thomson Reuters Trust Principles.AppsNewslettersAdvertise with UsAdvertising GuidelinesCookiesTerms of UsePrivacyDo Not Sell My Personal InformationAll quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.© 0 Reuters."
+Question:Does cocoa butter help reduce pregnancy stretch marks?
+Your answer:[\INST]
+
+no
+29
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"NUTRITION & DIETETICSStrengths and limitations of this studyDiarrhoea due to antibiotic therapy is a common complication. Numerous studies have suggested that specific probiotic supplements can prevent antibiotic-associated diarrhoea but none have examined the use of commercially available probiotic yogurt in children.Often studies have examined diarrhoea as an all or none phenomenon, and not a spectrum of disease. We used the Bristol stool scale as an objective measure of stool frequency and consistency and classified these symptoms at different levels of diarrhoea severity.This study shows that giving children on antibiotics a commercially available yogurt with probiotics Lactobacillus rhamnosus GG (LGG), Lactobacillus acidophilus and Bifidobacterium lactis reduced the incidence of gastrointestinal disturbance, including diarrhoea. Probiotic yogurt may have additional benefits of providing energy and nutrients that are lacking with probiotic supplements/capsules.IntroductionGastrointestinal (GI) upset is a well-known complication of broad-spectrum antibiotics, especially the β-lactams, clindamycin and vancomycin. These antibiotics may affect the function of normal bowel flora, cause overgrowth of unfavourable species such as Staphylococcus, Candida, Enterobacteriaceae, Klebsiella and Clostridium or cause changes in intestinal mucosa and motility.1 These changes often present as antibiotic-associated diarrhoea (AAD), which is distressing to both patients and carers and may result in poor compliance with antibiotic therapy.2 The frequency of AAD depends on the definition of diarrhoea and the age of the patient but is estimated to be between 11% and 30% for children on oral antibiotics.3 ,4Probiotics are often recommended on the assumption that ingestion of ‘healthy’ bacteria will reduce the disturbance of gut microbiota and subsequent diarrhoea.5 Like pharmaceuticals, different probiotics exert different actions and have different effects. A number of clinical trials have used probiotics for the prevention of AAD."
+Question:Can probiotics prevent diarrhea caused by antibiotics in children?
+Your answer:[\INST]
+
+yes
+30
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Extended Release tablets (650 mg each) (i.e., Tylenol® Arthritis, Tylenol® Muscle Aches and Body Pain): One tablet every eight hours to a maximum of six tablets per day. How long will it take to work? Acetaminophen typically begins to take effect within one to two hours. When should I not take acetaminophen and call my doctor? Ask a doctor or pharmacist before use if you have serious liver or kidney disease or chronic alcohol use (three or more drinks per day). Do not take acetaminophen if you have an allergy to acetaminophen."
+Question:Does Tylenol manage the symptoms of osteoarthritis?
+Your answer:[\INST]
+
+yes
+31
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"In fact, review of nine studies involving more than 400 participants found that music therapy was effective in "decreasing anxiety levels and improving functioning of depressed individuals." Another recent study conducted by researchers at Bournemouth University, explored the effects of music therapy in treating depression among children and adolescents. Results showed that those who received music therapy in addition to talk therapy had substantially improved self-esteem and significantly reduced depression symptoms compared to the children who received treatment without music therapy. Those in the music therapy cycle also showed improvement in communication, social function, and interactive skills.Psychiatrist Michael Crawford highlights several reasons that may explain why music therapy can be effective. He states that, "first, it provides a sense of meaningfulness and pleasure—music is an aesthetic experience that draws in the otherwise passive patient; second, this kind of therapy engages the body and gets people moving—the physical participation averts depression; and finally, it is relational, in that music helps us engage, communicate, and interact with others. We are hardwired to connect and be social, and music allows us to do that."
+Question:Can music therapy help manage depression?
+Your answer:[\INST]
+
+yes
+32
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"The study authors concluded that omega-3 fish oil in the form of EPA (1000 mg per day) may be a safe and effective therapy for women with moderately severe borderline personality disorder. How to Take Fish Oil for Borderline Personality Disorder Treatment
+Most fish oil supplements contain a combination of EPA and DHA, which are the two major omega-3 fatty acids primarily responsible for fish oil’s health benefits. The most recent study used a concentrated fish oil containing both these fatty acids. In the 2003 Harvard study, however, the researchers used a concentrated form of EPA-only. There is no reason to believe that an EPA-only formulation is necessary, as long as a full 1200 mg of EPA plus DHA or a full 1000 mg of an EPA-only fish oil product is consumed daily. Your fish oil supplement label will list the amount of EPA and DHA omega-3 fatty acids per capsule or serving size."
+Question:Can omega-3 treat borderline personality disorder in women?
+Your answer:[\INST]
+
+yes
+33
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Cochrane Evidence Synthesis and Methods ►
+High quality evidence suggests Vitamin D can reduce asthma attacks 
+A new Cochrane Review published in the Cochrane Library has found evidence from randomized trials that taking an oral vitamin D supplement in addition to standard asthma medication is likely to reduce severe asthma attacks.Scroll to the bottom of this article for a round-up of media coverageAsthma is a common chronic disease, affecting about 300 million people worldwide. The symptoms of asthma include wheezing, coughing, chest tightness, and shortness of breath.Low blood levels of vitamin D have been linked to increased risk of asthma attacks in children and adults with asthma. There has been a growing interest in the potential role of vitamin D in asthma management, because it might help to reduce upper respiratory infections (such as the common cold) that can lead to exacerbations of asthma. Several clinical trials have tested whether taking vitamin D as a supplement has an effect on asthma attacks, symptoms, and lung function in children and adults with asthma.The team of Cochrane researchers found seven trials involving 435 children and two studies, involving 658 adults. The study participants were ethnically diverse, reflecting the broad range of global geographic settings, involving Canada, India, Japan, Poland, the UK, and the US. The majority of people recruited to the studies had mild to moderate asthma, and a minority had severe asthma."
+Question:Can vitamin D supplements improve the management of asthma?
+Your answer:[\INST]
+
+yes
+34
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"(63) confirmed the preventive effect of SFs in a large prospective study including 391 atopic infants. At the end of the first step (1 year of life), 13% of the participants in the study group and 29% of the participants in the control group had an atopic disease. On the contrary, a meta-analysis by Osborne et al. published in 2004 showed contradictory results: feeding with an SF should not be recommended for the prevention of allergy or food intolerance in infants at high risk for these diseases (64). The argument is still greatly controversial, mainly because most of the studies that have been conducted either lacked scientific criteria for diagnosing soy allergy or misinterpreted the conclusions. Thus, further studies are necessary to study not only the prevalence of soy allergy in children with CMA and the entire pediatric population but also the preventive effect of soybean on allergic disease development."
+Question:Will feeding soy formula to my baby prevent the development of allergies?
+Your answer:[\INST]
+
+no
+35
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"A Cochrane database review included 15 clinical trials of 1,219 total participants. Chitosan supplementation slightly improved weight loss (‐1.7 kg on average). However, this review failed to confirm increased fat excretion. The authors concluded that “the effect of chitosan on body weight is minimal and unlikely to be of clinical significance” [15]. Even if chitosan did bind and remove dietary fats, there’s a potential downside to this effect. By attaching to and enhancing the removal of excess fats, it may also increase the elimination of important minerals such as calcium and fat-soluble vitamins like vitamin D and vitamin A [16]."
+Question:Does chitosan help lose body weight?
+Your answer:[\INST]
+
+no
+36
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Push through your heels and bring your body back up to standing. Repeat the sequence 3 times; gradually build up to more reps. Tip: Keeping your feet a little wider than shoulder-distance apart is better for balance when you are struggling with hip pain, says Shroyer. Keep Reading
+Daily Range of Motion Exercises to Help Arthritis Pain
+Arthritis Flare-Ups: What Causes Them and Exactly What to Do When You Have One
+Heat Therapy for Arthritis: Simple Ways to Do It at Home
+Subscribe to CreakyJoints
+Subscribe to CreakyJoints for inspiration and advice on living with chronic pain. Email*
+Δ
+Share
+ Facebook
+ Twitter
+ Email
+Suggested Reading
+Digital Exercise Programs for Osteoarthritis Pain May Be Just as Effective as In-Person Care
+To Boost Bone Density, Doing More High-Intensity Exercise in the Teenage Years Seems Key
+Lupus Patients Who Don’t Exercise Are 3 Times More Likely to Become Depressed
+Just Published
+‘Tis The Season to Set Boundaries
+Coping with Grief to Avoid Flares
+The Current State of Long COVID Research — and What It Means for You
+Browse More
+Webinar
+UR PsA About
+Rheumatoid Arthritis
+Subscribe
+Subscribe to CreakyJoints for more related content. Email
+Δ
+About CreakyJoints
+CreakyJoints is a digital community for millions of arthritis patients and caregivers worldwide who seek education, support, advocacy, and patient-centered research."
+Question:Will at-home exercises manage hip osteoarthritis pain?
+Your answer:[\INST]
+
+yes
+37
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"Just a moment...
+            onlinelibrary.wiley.com
+            Checking if the site connection is secure
+                        Enable JavaScript and cookies to continue
+            onlinelibrary.wiley.com needs to review the security of your connection before proceeding."
+Question:Will taking antioxidant supplements treat fertility problems?
+Your answer:[\INST]
+
+no
+38
+
+Accuracy:0.76

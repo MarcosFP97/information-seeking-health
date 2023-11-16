@@ -1,0 +1,991 @@
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"You might wonder: what do tea bags have to do with pulled teeth?Why the tea bag? Tea bags are a natural way to stop bleeding after dental surgery. This is why they work:Black tea is full of tannins, which are hemostatic (i.e. they cause blood to coagulate, which in turn makes the bleeding stop).Tannins are also astringent. An astringent is something that causes body tissues, including blood vessels, to shrink or constrict.
+ Black tea may be the best choice because it may have more tannins than other types of teas. Allow the tea bag to cool slightly, squeeze out some of the water and place the tea bag over the extraction site. Gently bite on the tea bag for at least 5 minutes. Up to 15 if bleeding was heavy. The pressure and the tannins help to form a blood clot in the tooth socket
+These techniques are also very helpful. Eat soft and healthy foods, drink plenty of liquids, and get plenty of rest with your head slightly elevated (two pillows).
+ They had already used up all their gauze pressure packs and the next stage would usually be attendance to the Emergency Department (ED). The use of a tea bag successfully controlled their bleeding and consequently prevented the patient from attending the hospital and adding further pressure to the ED. This trick can complement our familiar local haemostatic measures, especially during the remote or out-of-hours management of bleeding sockets, due to its accessibility and low cost. Change history08 April 2022A Correction to this paper has been published: https://doi.org/10.1038/s41415-022-4092-2ReferencesChung K T, Wong T Y, Wei C I, Huang Y W, Lin Y. Tannins and human health: a review. Crit Rev Food Sci Nutr 1998; 38: 421-464.Soltani R, Haghighat A, Fanaei M, Asghari G. Evaluation of the effect of green tea extract on the prevention of gingival bleeding after posterior mandibular teeth extraction: a randomized controlled trial. Evid Based Complement Alternat Med 2014; doi: 10.1155/2014/857651.Download referencesAuthor informationAuthors and AffiliationsBy email, Torbay, UKM."
+Question:Do tea bags help to clot blood in pulled teeth?
+Your answer:[\INST]
+
+yes
+1
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"The Scarecrow Press. p. 81. ISBN 978-1-60590-735-2 "There is no scientific evidence that crystal healing has any effect. It has been called a pseudoscience. Pleasant feelings or the apparent successes of crystal healing can be attributed to the placebo effect or cognitive bias—a believer wanting it to be true."
+ Proponents of this technique believe that crystals act as conduits for healing — enabling positive, healing energy to flow into the body as negative, disease-causing energy flows out. But despite the fact that crystal healing has seen an upsurge in popularity in recent years, this alternative treatment is not popular with most medical doctors and scientists, many of whom refer to crystal healing as a pseudoscience. Scientifically speaking, there is no evidence that crystal healing can be used to cure diseases, because diseases have never been found to be the result of a so-called energy flow in the body. Furthermore, no scientific studies have shown that crystals and gems can be differentiated by chemical composition or color to treat a particular ailment. "I am not aware of any [National Science Foundation]-supported studies into the healing powers of crystals," Peter Heaney, a mineral sciences professor at Pennsylvania State University, told the "Washington Post (opens in new tab)" in 2021. He goes on to explain that while crystals can be said to have energy, in accordance with Albert Einstein's mass-energy equivalence of e=mc^2, there is no energy transfer between crystals and human beings.Nevertheless, healing crystals remain popular at health spas and at New Age health clinics, sometimes incorporated into related practices of massage and Reiki.
+ Practitioners believe the intention-based mindset of crystal healing—like what’s cultivated in mindfulness meditation—can help with immunity, focus, emotional processing, stress reduction and nervous system regulation. There are multiple ways to use healing crystals, from meditation to decoration and beyond. Meditation
+Holding or gazing at a crystal that represents a mantra, emotion or intention is a simple and effective way to return to your meditation practice when the mind wanders. “On a more practical level, they serve as a grounding tool,” says Trevisan. Wearing
+Many crystal healers recommend wearing crystals on your skin or in your clothes to benefit most from the vibrational medicine theory."
+Question:Can crystals heal?
+Your answer:[\INST]
+
+no
+2
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Collagen hydrolysate supplements are rich in a number of amino acids (a group of chemical compounds) that play an important role in the creation of collagen. Type II collagen is one of the main proteins in cartilage. It’s been suggested that taking collagen hydrolysate can improve the symptoms of osteoarthritis by stimulating your body’s production of joint collagen. Some studies have suggested that autoimmune diseases like rheumatoid arthritis may be treated by taking a foreign antigen (a substance that causes your immune system to react to it) by mouth, which could dampen down your immune system’s reaction. Taking collagen by mouth may introduce some chemicals that cause joint inflammation into your body and create oral tolerance to these antigens, reducing the effects of inflammatory arthritis.
+ This was, however, a small study and included only 39 subjects. A systematic review focusing on osteoarthritis and cartilage repair found that collagen hydrolysate and undenatured collagen showed some potential as an option for managing osteoarthritis, but further investigation is needed before any definite conclusion on their effectiveness can be made. Uses in Rheumatoid Arthritis  
+Rheumatoid arthritis (RA) happens when the body’s immune system attacks healthy cells by mistake, causing painful swelling mainly in the hand, wrist, and knee joints. In RA, the lining of the joint becomes inflamed, damaging the joint tissue. Research studying the use of collagen supplements in RA has yielded mixed results as well. A study that looked at both OA and RA noted that reports of positive results with oral collagen in RA remain controversial, particularly when compared with conventional therapies such as methotrexate, a drug designed to slow down the progression of RA.
+ The use of collagen is growing due to the satisfactory results in the treatment of OA. However, the possible beneficial effects of collagen for the treatment of OA are currently controversial. The aim of the present meta-analysis was to evaluate the effect of collagen-based supplements on OA symptoms. Methods:
+      PubMed-Medline, Scopus, and Google Scholar databases were searched for randomized placebo-controlled trials evaluating the effect of orally administered collagen on OA symptoms using the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) scale and/or the Visual Analog Scale (VAS). Meta-analysis was conducted using a random-effects model and a generic inverse variance method. Heterogeneity was tested using the I2 statistic index."
+Question:Can collagen supplements cure osteoarthritis?
+Your answer:[\INST]
+
+no
+3
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Scientific Consensus on Cell Phone Safety
+Scientific studies: The FDA’s physicians, scientists, and engineers regularly analyze scientific studies and publications for evidence of health effects of exposure to radio frequency energy from cell phones. The weight of nearly 30 years of scientific evidence has not linked exposure to radio frequency energy from use of cell phones to health problems, such as cancer. Public health data: The FDA also monitors and analyzes public health data on cancer rates in the U.S. population. The data clearly demonstrate no widespread rise in brain and other nervous system cancers in the last 30 years despite the enormous increase in cell phone use during this period. In fact, the rate of brain and other nervous system cancers diagnosed in United States has decreased for the last 15 years or so. See Scientific Evidence for Cell Phone Safety for details on the scientific studies and public health data.
+ Why has there been concern that cell phones may cause cancer? There are two main reasons why people are concerned that cell (or mobile) phones might have the potential to cause certain types of cancer or other health problems: Cell phones emit radiation (in the form of radiofrequency radiation, or radio waves), and cell phone use is widespread. Even a small increase in cancer risk from cell phones would be of concern given how many people use them. Brain and central nervous system cancers have been of particular concern because hand-held phones are used close to the head and because ionizing radiation—a higher energy form of radiation than what cell phones emit—has been found to cause some brain cancers. Many different kinds of studies have been carried out to try to investigate whether cell phone use is dangerous to human health. However, the evidence to date suggests that cell phone use does not cause brain or other kinds of cancer in humans.
+ Because cell phones usually are held near the head when a person is on a call, the main concern has been whether the phones might cause or contribute to tumors in this area, including:
+Malignant (cancerous) brain tumors, such as gliomas
+Non-cancerous tumors of the brain, such as meningiomas
+Non-cancerous tumors of the nerve connecting the brain to the ear (vestibular schwannomas, also known as acoustic neuromas)
+Tumors of the salivary glands
+A few studies have also looked at possible links to other types of cancer. What do studies show? Researchers use 2 main types of studies to try to determine if something might cause cancer:
+Studies done in the lab (using lab animals or cell cultures)
+Studies looking at groups of people
+In most cases neither type of study provides enough evidence on its own to show if something causes cancer in people, so researchers usually look at both lab-based and human studies. The following is a brief summary of some of the major studies that have looked at this issue to date. However, this is not a comprehensive review of all studies that have been done."
+Question:Can cell phones cause cancer?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Ã—
+Return to the course you were viewing
+In This Issue 
+WD-40 acts as a joint lubricant and pain reliever in arthritis. January 1
+  Patients who suffer from arthritis are trying anything to relieve those stiff and aching joints. Some have even tried spraying sore joints with WD-40 as they would to fix a squeaky, door hinge. But this folk remedy is not proven to work and may even be harmful. WD-40 contains petroleum distillates than can cause drying and irritation of the skin. Plus there are reports of people who developed lipoid pneumonia after inhaling the mist from WD-40.
+ WD-40 Does Not Help Arthritis
+The product WD-40 was first developed in 1953 by the chemist Norm Larsen as an industrial lubricant. The name WD-40 stands for “water displacement, 40th attempt.”
+Due to the myth that WD-40 helps arthritis, the WD-40 company website includes the following statement regarding the myth (amongst other cool myths, legends and facts)…
+Myth: WD-40 cures arthritis
+Fact: This popular headline, appearing at least once a year in the tabloids, is completely FALSE. WD-40 Company does not recommend the use of WD-40® for medical purposes and knows no reason why WD-40 would be effective for arthritis pain relief. WD-40 contains petroleum distillates and should be handled with the same precautions for any product containing this type of material. It’s one can with thousands of uses (you can find out more the uses of WD-40 has here) but helping with arthritis is NOT one of them!
+ It is a great product indeed! Reply 
+ Dale Washington says: 
+May 15, 2021 at 5:32 pm 
+I have been told that wd40 products can help a person that has arthritis is this true or false
+Reply 
+ Gwolfe says: 
+July 22, 2021 at 12:12 pm 
+Hi Dale, Some people find WD-40 can help with arthritis, not as a treatment but by being a helping hand for many every day activities. Activities such as helping sliding doors glide easier, unsticking difficult to open windows, keeping scissors and garden tools working smoothly to name a few. Reply 
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment. Get the Relief You Need!"
+Question:Can you use WD-40 for arthritis?
+Your answer:[\INST]
+
+no
+4
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Viruses like West Nile and dengue and parasites like malaria can make you sick. A mosquito gets infected with a virus or parasite when it bites a person or animal that is infected. The infected mosquito can spread germs to other people or animals through bites. Not everyone infected with a mosquito-borne germ gets sick. Prevent Mosquito Bites
+You can protect yourself and your family from mosquito bites. Treat clothing and gear with permethrin.
+ This type of reaction, sometimes called skeeter syndrome, is most common in children. Mosquito bites can cause severe illnesses if the insects carry certain viruses or parasites. Infected mosquitoes can spread West Nile virus, Zika virus, and the viruses that cause malaria, yellow fever and some types of brain infection.Products & ServicesAnti-Itch Products Available at Mayo Clinic StoreBook: Mayo Clinic Book of Home RemediesBook: Mayo Clinic Family Health Book, 5th EditionNewsletter: Mayo Clinic Health Letter — Digital EditionShow more products from Mayo Clinic
+SymptomsMosquito bites often happen on parts of the body that aren't covered by clothing. Symptoms include:
+An itchy, inflamed bump that forms a few minutes after a bite
+A painful spot that looks like a hive and forms within 24 hours after a bite
+Small blisters
+A severe reaction to mosquito bites can cause:
+A large, swollen, inflamed area
+A hive-like rash
+Swelling around the eyes
+Children are more likely to have a severe reaction than are adults. When to see a doctorContact your health care provider if the mosquito bites seem to occur with warning signs of a serious condition. These might include a high fever, severe headache, body aches and signs of infection.
+ However, some mosquitoes can carry viruses that cause disease, including West Nile and Zika. If an infected mosquito bites you and you become sick, you have a mosquito-borne disease. West Nile VirusMost people who get West Nile virus don't have any symptoms. About 1 in 5 will have a fever and other flu-like symptoms. Feeling worn out could take months to go away completely. A few people get a more serious infection that causes brain swelling, or meningitis."
+Question:Can mosquito bites make you sick?
+Your answer:[\INST]
+
+yes
+5
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"They are not inherited and can't be passed on to our children. They are called acquired mutations. Cancers caused by acquired mutations are called sporadic cancers. They are the most common type of cancer. Inherited cancer gene faults
+Some faulty genes that increase the risk of cancer can be passed on from parent to child. These are inherited cancer gene faults.
+ Family Cancer Syndromes
+Cancer is such a common disease that it is no surprise that many families have at least a few members who have had cancer. Sometimes, certain types of cancer seem to run in some families. But only a small portion of all cancers are inherited. This document focuses on those cancers. Genetic Testing for Cancer Risk
+Genetic testing can be useful for people with certain types of cancer that seem to run in their families, but these tests aren't recommended for everyone. Here we offer basic information to help you understand what genetic testing is and how it is used in cancer.
+ 1. Genes contain the information your body uses to grow and function. You have 2 copies of each gene, with 1 copy inherited from each parent. Sometimes, particular mutations, or changes, to genes can increase the risk of developing cancer. These mutations may be a sporadic, one-time change that occurs during your life."
+Question:Can cancer be inherited?
+Your answer:[\INST]
+
+yes
+6
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"However, no links have been found between any vaccine ingredients and ASD. Top of PageMore Information
+Facts About Autism Spectrum Disorders
+IOM Report: Adverse Effects of Vaccines: Evidence and Causality, 2011
+Timeline: Thimerosal in Vaccines (1999-2010)
+Frequently Asked Questions about Thimerosal
+Top of PageRelated Scientific Articles
+DeStefano F, Shimabukuro TT. The MMR Vaccine and Autism.external icon Annu Rev Virol. 2019 Sep 29;6(1):585-600. Taylor LE, Swerdfeger AL, Eslick GD.
+ Is there a connection between vaccines and autism? – Parris
+No, there is no connection between vaccines and autism. Autism is a condition that affects the brain and makes communicating and interacting with other people more difficult. The cause(s) of autism is unknown. But genetics, differences in brain anatomy, and toxic substances in the environment are thought to contribute to children developing the condition.
+ Taylor LE, Swerdfeger AL, Eslick GD. Vaccines are not associated with autism: an evidence-based meta-analysis of case-control and cohort studies. The authors conducted a meta-analysis of case-control and cohort studies that examined the relationship between the receipt of vaccines and development of autism. Five cohort studies involving more than 1.2 million children and five case-control studies involving more than 9,000 children were included in the analysis. The authors concluded that vaccinations, components of vaccines (thimerosal), and combination vaccines (MMR) were not associated with the development of autism or autism spectrum disorder."
+Question:Are vaccines linked to autism?
+Your answer:[\INST]
+
+no
+7
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"The findings are complicated.There’s no scientific evidence to suggest that baking soda can prevent cancer. It’s important to remember that cancer grows quite well in healthy tissue with normal pH levels. Additionally, naturally acidic environments, like the stomach, don’t encourage cancer growth.Once cancer cells begin to grow, they produce an acidic environment that encourages malignant growth. The goal of many researchers is to decrease the acidity of that environment so that the cancer cells aren’t able to thrive.A 2009 study published in Cancer Research found that injecting bicarbonate into mice reduced tumor pH levels and slowed the progression of metastatic breast cancer.The acidic microenvironment of tumors may be related to chemotherapeutic failure in cancer treatment. Cancer cells are difficult to target because the area around them is acidic, though they’re alkaline. Many cancer drugs have trouble passing through these layers.Several studies have evaluated the use of antacid drugs in combination with chemotherapy.Proton pump inhibitors (PPIs) are a class of drugs widely prescribed for the treatment of acid reflux and gastroesophageal reflux disease (GERD).
+Can Baking Soda Help Fight Cancer? By Contributing Writer  - June 08, 2018 
+Chances are you’ve used baking soda to cook, freshen up your refrigerator and brighten your smile, but a study published in the journal Cell says this cheap, simple substance may help chemotherapy attack cancer. Chemotherapy works by destroying actively growing cells, but tumors often cut off the oxygen supply of cells inside of them. This causes the cells to shut down, making it difficult for chemotherapy to work. Scientists at Ludwig Institute for Cancer Research and Moffitt Cancer Center looked at breast and colon cancers in mice and saw an increase in cell activity after giving the mice water mixed with baking soda, also known as bicarbonate soda.
+ Alkaline Water and Cancer
+   Summary  
+Baking soda is an alkaline mineral (meaning it can neutralize acidity) that is used in a variety of ways. Since cancer cells flourish in acidic environments, some people believe that baking soda may help neutralize acidity in the body to help fight against cancer. Baking soda does not prevent or cure cancer, but animal studies and small trials suggest it may help make chemotherapy and other cancer treatments more effective. Though baking soda shows promise as a complementary treatment, the lack of human clinical trials means that you must approach its use with caution. A Word From Verywell  
+A cancer diagnosis is devastating and can make you want to try anything to improve your health."
+Question:Can baking soda help to cure cancer?
+Your answer:[\INST]
+
+no
+8
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Many have been busted, but there’s one that simply refuses to die; “squats are bad for your knees”. But are they really? Are squats bad for your knees? Research would respond with a big fat NO. In fact, squatting may even be very good for your knees.
+ The Health Benefits of Exercise
+  Are Squats Bad for Your Knees? It is believed that deep squats increase pressure on the knee joint, which can contribute to knee pain and degeneration. This is inaccurate. A review of research on this topic found that deep squats don’t contribute any pain or damage to the knee joint compared with half and quarter squats.﻿﻿﻿﻿﻿ This is because the knee displaces the additional tension incurred during a deep squat, ensuring that the weight is balanced throughout the knee and surrounding tissue. Moreover, this review showed that squats can actually be beneficial for knees. When attempted properly, deep squats strengthen the knees.
+ The good news: this avoidance may not be necessary. Sure, squatting with poor form can lead to injury, but many fitness experts say that squats are actually perfectly healthy—if they’re performed correctly. Ahead, fitness experts help us settle the debate. Targeting your quadriceps, calves, hamstrings, adductors, glutes, and hip flexors, squats are an amazing way to strengthen your lower body."
+Question:Are squats bad for knees?
+Your answer:[\INST]
+
+no
+9
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"You might be better off on a medication less likely to cause a problem.High Blood Pressure Drugs Not Likely to Cause EDSome families of high blood pressure drugs rarely cause ED as a side effect. They include:ACE inhibitorsAlpha-blockersCalcium channel blockersARBsACE (angiotensin converting enzyme) inhibitors -- such as Capoten, Lotensin, Prinivil, and Zestril for example -- widen blood vessels and increase blood flow. Erectile dysfunction is rarely a side effect, occurring in less than 1% of patients. There are several different drugs in this category. This seems to be true of all of them. There are also drugs known as calcium channel blockers, such as Amlodipine, Diltiazem, or Verapamil.
+ The currently available ones inhibit l-type channels in humans and seem to have a neutral effect on erectile function (47). Possibly this is because this channel is linked with nNOS activation from cholinergic nerve endings into the penis, which is important for NO release and consequently erection. However, although this channel is inhibited, nNOS from nitrergic nerves will be activated, allowing the erectile process to begin. Another class of antihypertensive drugs is the ACE inhibitors. They act by mimicking the structure of the ACE substrate, directly blocking Ang II formation and at the same time increasing bradykinin levels. The net results are reduced vasoconstriction, decreased sodium and water retention, and increased vasodilation through bradykinin.As a future antihypertensive treatment, there is theoretical evidence that gene therapy may produce long-lasting antihypertensive effects by influencing the genes associated with hypertension.
+ Start visitLearn moreDo Other ACE Inhibitors Cause Erectile Dysfunction?Several other ACE inhibitors are commonly prescribed to treat high blood pressure and other heart health issues. These include benazepril (Lotensin®), enalapril (Vasotec®), candesartan (Atacand®), fosinopril (Monopril®) and others.In general, erectile dysfunction is rarely a side effect of ACE inhibitors. Other medications for high blood pressure, including alpha-blockers and angiotensin-receptor blockers (ARBs), also rarely contribute to ED.Is it Safe to Use ED Medication with Lisinopril?Currently, the most effective treatments for erectile dysfunction are PDE5 inhibitor medications, such as sildenafil (the active ingredient in Viagra®), tadalafil (Cialis®), vardenafil (Levitra®) and avanafil (Stendra®).These medications work by increasing the rate of blood flow to the erectile tissue of your penis, making it easier to get and maintain an erection when you’re sexually aroused. Because PDE5 inhibitors and anti-hypertensive medications both improve blood flow and lower blood pressure, there’s a risk of interactions when ED medications are used with some common medications for high blood pressure. For example, many medications for ED can interact with organic nitrates and nitrites, as well as alpha-blockers used to treat high blood pressure and/or heart failure. Our guide to Viagra and nitrates provides more information on these interactions and their often severe health risks.Research suggests that ACE inhibitors such as lisinopril, on the other hand, do not increase the risk of side effects with ED medications such as sildenafil.If you currently use lisinopril or other medication to control your blood pressure, it’s important to inform your healthcare provider about this before using any ED medications.How to Maintain Healthy ErectionsIf you’re prescribed lisinopril or similar medication to treat high blood pressure, there are several things that you can do to improve your erections and sexual health naturally:Keep active."
+Question:Do ACE inhibitors typically cause erectile dysfunction?
+Your answer:[\INST]
+
+no
+10
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Línea Verde Drug and Addiction Helpline - SUPPORT IN SPAIN
+A not-for-profit, community information project
+Home
+Helpful Topics
+Directory
+About Us
+Site Help
+Contact
+✕
+Directory of Useful Organisations
+Línea Verde Drug and Addiction Helpline
+The Catalan regional government runs a 24 hour helpline (in Spanish or Catalan) for people worried about a possible addiction or dependency, or to give more information and professional guidance to friends and family. The service is confidential and free. SKU: caen89
+Categories: Support - Alcohol-Related, Support - Drug Addiction
+Coverage area and additional information						
+The weblink below also directs to a form to be filled in for a written reply and it is also possible to ask for a face-to-face meeting in Barcelona. Contact information						
+Phone
+(0034) 900900540
+Web
+drogues.gencat.cat/es/ciutadania/busqueu_ajuda/linia-verda/
+Languages
+Spanish & Catalan spoken
+Timetable
+24 hours
+Type of organisation
+Public
+Help the directory team spot any link not working or any change needed in the above information:
+- Home
+        - Think ahead to your future in Spain
+        - Brexit update
+        - Help the charities that help you
+- Helpful Topics- Directory
+- About Us
+- Site Help
+- Contact
+- Disclaimer
+- Privacy Policy
+- Cookie Policy
+SUPPORT IN SPAIN - Email: [email protected] Concept and Coordination: Spanish Approach 
+✕Login
+Username or email *
+Password *
+ Remember me
+Login
+Lost your password? Manage Cookie Consent
+We only use cookies to make this site work better for you and to help us improve it. Functional cookies
+Functional cookies
+Always active							
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+ Some groups demonstrated that preconditioning with morphine alleviated cerebral ischemia injury through activating the mTOR pathway (Arabian et al., 2018b) or mitochondrial KATP channels (Arabian et al., 2018a). However, repeated use of morphine will lead to various side-effects, such as antinociceptive tolerance, dependence, and addiction.Morphine AddictionLong-term treatment with morphine for the management of chronic pain will result in tolerance to the analgesic effect of morphine. In order to overcome tolerance, a higher dose of morphine is often required for the maintenance of analgesia, which will result in the development of severe side-effects, including respiratory depression, withdrawal symptoms, and rewarding effects with a high risk of relapse (Eidson and Murphy, 2019). Morphine addiction has become a major public health issue. An increasing number of studies have revealed that several brain regions, such as the ventral tegmental area (VTA), nucleus accumbens (NAc), and hippocampus (Hipp), are involved in morphine addiction (Kim et al., 2016). Although mechanisms underlying morphine-mediated processes remain the subject of much debate, morphine stimulation activates G protein-coupled opioid receptors and then induces significant molecular changes inside the cell, such as an inhibition of adenylate cyclase activity, and activation of potassium channels (Qu et al., 2017; Yang et al., 2019).
+ By Jon McKenna Medically Reviewed by  Yilang  Tang, MD, PhD  on June 28, 2021 Share Share on Facebook  Share on Twitter  Share on Pinterest  Email  Even when taken as prescribed, morphine can be highly addictive. Here’s why this drug can be so difficult to quit. Your doctor may prescribe morphine to treat severe pain, like the kind that occurs after a serious surgery or during cancer treatment. Morphine—available in extended-release capsule and tablet, injectable, and nasal solution forms—does a wonderful job of reducing acute pain. But it’s important to remember that, if used for a long time, morphine can become addictive.Statistics on morphine indicate that Americans are using the drug less."
+Question:Is morphine addictive?
+Your answer:[\INST]
+
+yes
+11
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"All rights reserved.100 Percent Fruit Juice Does Not Affect Blood Sugar LevelsFebruary 6, 2018Mark L. FuerstJuice is good food and does not contribute to disruption of glucose-insulin homeostasis, as long as its 100% real fruit juice, according to a new study.A comprehensive data analysis suggests that 100% fruit juice does not have a significant effect on fasting blood glucose, fasting blood insulin, or insulin resistance, according to a new study.The findings are consistent with previous research indicating that 100% fruit juice is not associated with an increased risk of developing type 2 diabetes mellitus (T2D) and support a growing body of evidence that 100% fruit juice has no significant effect on glycemic control.Juice is good foodPure, 100% fruit juices can be nutrient-dense foods providing potassium, magnesium, folate, calcium, vitamins A and C, and soluble fiber, as well as an array of bioactive substances, including carotenoids and flavonoids. “Nutritional guidance encourages consumption of fruit as part of a balanced and healthy diet, although guidance often recommends limited consumption of fruit in the form of juice citing concerns over a lack of fiber and the potential for excessive energy intake. Juices also tend to have moderately high-glycemic index ratings, indicating a relatively rapid and high post-prandial glucose response as compared with foods with a lower glycemic index,” stated the researchers, led by Mary M. Murphy of the Center for Chemical Regulation & Food Safety in Washington, DC.Diets lower in these types of simple carbohydrates may be relevant for the prevention and management of some chronic diseases, including type 2 DM.The researchers published their results online December 15, 2017 in Journal of Nutritional Science.A systematic review quantitatively summarized results from randomized controlled trials (RCT) examining the effects of 100% fruit juice on glucose–insulin homeostasis. Using data from 18 RCT, meta-analyses evaluated the mean difference in fasting blood glucose (16 studies), fasting blood insulin (11 studies), the homeostatic model assessment of insulin resistance (HOMA-IR; 7 studies) and glycosylated hemoglobin A1c (HbA1c; 3 studies) between the 100% fruit juice intervention and control groups.The results show 100% fruit juice, as compared with the control group,  had no significant effect on:Fasting blood glucose (−0.13 mmol/L)Fasting blood insulin (−0.24 pmol/L)HOMA-IR (−0.22) or HbA1c (−0.001)Results from stratified analyses and univariate meta-regressions also largely showed no significant associations between 100% fruit juice and the measures of glucose control.“The available RCT indicate that repeated intake of 100% fruit juice does not have a significant effect on glycemic control or measures of insulin resistance,” the researchers stated.
+ Fruit juice, different from SSBs, has been considered a healthier drink. However, to date, the findings of the association between fruit juice intake and risk of type 2 diabetes are mixed according to type of fruit juice [5]–[11]. Several prospective studies suggested that higher intake of sugar-sweetened fruit juice may increase the risk of developing type 2 diabetes [5], [10], while others showed no significant association for 100% fruit juice [6], [8], [9].To our knowledge, no meta-analysis has been published to accurately estimate the strength of the effects of type of fruit juice (sugar-sweetened or 100%) on incidence of type 2 diabetes. Although all four studies included in this meta-analysis showed no significant association between 100% fruit juice and risk of developing type 2 diabetes, there was a positive trend for three [6], [8] of the four studies, and insufficient power may explain the non-significant study findings. Therefore, in this study, we conducted a systematic review and meta-analysis to address this issue.Materials and MethodsLiterature and search strategyThe PRISMA checklist is available as Checklist S1. The Meta-analysis of Observational Studies in Epidemiology (MOOSE) guidelines were followed for the current study [12].
+ Small portions of fruit are better. Does drinking fruit juice increase the risk of diabetes? Studies have found that drinking three portions of fruit juice a week was associated with an eight per cent increase in diabetes risk. Conversely, eating blueberries, grapes, apples and pears was associated with reduced risk. The researchers found that replacing fruit juices with three helpings of certain  whole fruits a week would lower the risk by seven per cent. Some whole fruits reduced the risk more than others."
+Question:Can fruit juice increase the risk of diabetes?
+Your answer:[\INST]
+
+yes
+12
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Magnet therapy or wearing copper jewelry may seem attractive for easing your arthritis pain simply and inexpensively. But studies confirm these treatments are ineffective for arthritis pain. According to studies published over the years, magnetic wrist straps and copper bracelets don’t work on arthritis pain or stiffness. Placebo-controlled trials have been done in both osteoarthritis (OA) and rheumatoid arthritis (RA). A few small studies showed that magnets may offer some pain benefit in osteoarthritis, but these results have not been replicated or expanded to larger trials. “In my research I set out to confuse the heck out of participants so they couldn't tell which device was real and which was a placebo,” says one researcher, Stewart Richmond, PhD, research fellow at the University of York, in England.
+ A: Copper bracelets and magnetic objects are ancient remedies for arthritis. Advertising Policy
+				Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services. Policy
+Magnets were long believed to have healing power, and the discovery of copper in the blood fueled a belief that rheumatism stems from a copper deficiency.
+ There is no scientific evidence to support the use of magnets to treat arthritis. Reviews suggesting that magnetic bracelets can relieve arthritis pain or relieve joint stiffness are likely due to the placebo effect. Despite claims from magnetic bracelet manufacturers, magnetic bracelets do not improve circulation and there is no scientific evidence to suggest that magnetic bracelets can increase blood flow."
+Question:Do magnetic wrist straps help with arthritis?
+Your answer:[\INST]
+
+no
+13
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Are Sit-Ups Really That Bad for You? We Asked Trainers
+Confidence, Community, and Joy
+Byrdie's Instagram
+Byrdie's Pinterest
+Byrdie's Facebook
+Byrdie's Tiktok
+Byrdie's Twitter
+Subscribe
+Email Address
+Subscribe
+Thank you [email] for signing up. Please enter a valid email address. Please enter a valid email address. Contact
+Editorial Policy
+Careers
+Advertise
+Terms of Use and Policies
+Privacy Policy
+Search
+Search
+Close search
+When you visit the site, Dotdash Meredith and its partners may store or retrieve information on your browser, mostly in the form of cookies.
+ Now plank exercises, in which you assume a position and hold it, are the gold standard for working your core, while classic sit-ups and crunches have fallen out of favor. Why the shift? One reason is that sit-ups are hard on your back - they push your curved spine against the floor and work your hip flexors, the muscles that run from the thighs to the lumbar vertebrae in the lower back. When the hip flexors are too strong or too tight, they tug on the lower spine, which can create lower back discomfort. Second, plank exercises recruit a better balance of muscles on the front, sides, and back of the body during exercise than do sit-ups, which target just a few muscles. Finally, activities of daily living, as well as sports and recreational activities, call on your muscles to work together, not in isolation.
+ David Goldman/AP
+From celebrity trainers working in the trendiest Manhattan gyms to the National Institute for Fitness and Sport in Indianapolis and the US Army training exams, sit-ups are developing a bad reputation. Scientists have discovered that the moves, once a staple of basic workout routines, don't reduce waistline circumference or trim belly fat. Sit-ups are also not the best way to strengthen your core or to keep it flexible and strong for the long run.Last week, the US Army announced that after decades of requiring two-minute sit-up tests, it would phase out that portion of its fitness test by the end of 2020. Instead, the Army says it'll make room for some fitness tasks found to be more useful for soldiers' combat readiness, like deadlifts, power throws, and drag-and-carry moves, The Washington Times reported.It's a change that Tony Maloney, a trainer and exercise physiologist at the National Institute for Fitness and Sport in Indianapolis, can get behind. "I'm not a huge fan of sit-ups," Maloney told Business Insider earlier this year. "Reason being, it can cause some spinal problems, especially if they're not done properly.""
+Question:Are sit ups bad for you?
+Your answer:[\INST]
+
+yes
+14
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"The methods used to retrain left-handers were often tortuous, including restraining a resistant child's left hand. In contrast, those who saw left-handedness as inherited, but natural, not only disapproved of forced switching, but also often warned of its putative negative consequences, especially stuttering. These claims were given credence in the 1930s by influential University of Iowa researchers, including psychiatrist S. T. Orton, psychologist L. E. Travis, and their students. From the late 1920s until the 1950s, the Iowa researchers published articles and books connecting the etiology of stuttering to forcing natural left-handers to write and perform other tasks with their right hand. Based on their clinical studies these practitioners concluded that stutterers displayed weak laterality. The Iowa group also published detailed case studies of patients whose stuttering was putatively cured by the restoration of their left-handedness.
+ Can forcing a child who is naturally left-handed to use their right-hand cause stuttering? Wait a moment and try again.Try again
+Please enable Javascript and refresh the page to continue
+ You can see from the messages we have included below that, at least for those that contacted us:
+Their stuttering was directly connected to being forced to change writing hands at a young age
+It had a dramatic negative effect on them, often lasting their whole lives
+In some case at least, once they changed back to writing left-handed their stuttering stopped
+Now this is only anecdotal evidence but it is pretty clear! There has been research over the years that has found the percentage of stutterers who are left handed is much higher than the general population but that was not specifically linked to forced hand change (and would depend whether the people who had been changed were still classed as “left-handers” in the research!). There was also one piece of research as far back as 1940 that actually indicated that lefthanders were LESS likely to be stutterers (but again definitions can cause a problem as the lefthanders who were   forced to change and then stuttered may well have been counted as right-handers!). We have not been able to find any solid research about this and on the British Stammering Association website it is not mentioned apart from very briefly in a couple of contributed articles, again with no actual research background."
+Question:Can a speech problem be caused by right handed person being forced to left hand?
+Your answer:[\INST]
+
+yes
+15
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"When it comes to hydration, water, electrolyte beverages, and most other drinks are likely safer to consume than urine. There are no health benefits to ingesting urine; any other drink is likely to involve fewer health risks. While in small amounts urine is unlikely to cause harm, it will not offer benefits, either. Show Sources SOURCES:Advances in Chronic Kidney Disease: “Chronic Kidney Disease Associated With Environmental Toxins and Exposure.”Cleveland Clinic: “Urinary System.”Current Sports Medicine Reports: “Acute Effects of Sodium Ingestion on Thirst and Cardiovascular Function.”Dermatologic Therapy: “Topical urea in skincare: A review.”Journal of Clinical Microbiology: “Urine Is Not Sterile: Use of Enhanced Urine Culture Techniques To Detect Resident Bacterial Flora in the Adult Female Bladder. "Microbiome: “Bacterial communities in penile skin, male urethra, and vaginas of heterosexual couples with and without bacterial vaginosis.”MSD Manual: “Drug Excretion.”University of California San Francisco Health: “Sodium urine test.”U.S.
+ The U.S. Army Field Manual also instructs soldiers not to drink their own urine in a survival situation. The takeawayDrinking your own urine isn’t advisable. It can introduce bacteria, toxins, and medications into your system. There’s no reason to think that drinking urine would benefit your health in any way.There are much more effective routes for getting a high dose of vitamins and minerals. Last medically reviewed on  March 20, 2018How we reviewed this article:SourcesHistoryHealthline has strict sourcing guidelines and relies on peer-reviewed studies, academic research institutions, and medical associations.
+ For example, a person may drink their own urine following a natural disaster, a shipwreck, or other times when they do not have access to a source of clean water.Are there any benefits?There are no clear health benefits associated with drinking urine. Urine is waste, which means that it contains things that the body does not need or that may be harmful.Urine is mostly water, but it has other components as well. Every day, a person urinates:25 grams (g) of urea, a waste compound that comes from the metabolic breakdown of proteins10 g of electrolytes, such as sodium3 g of phosphate and other organic acids1.5 g of creatinine, a waste product resulting from the breakdown of muscle tissue1 g of uric acid, a chemical created by breaking down substances called purines in food40–80 milligrams of trace proteins, such as albuminResearchers have also found very small quantities of hormones, vitamins, and antibodies in urine. However, there is no evidence that these ingredients are present in large enough quantities to improve health.Urine is a powerful diuretic, which means that it can cause the body to expel more salt and water. While some people use diuretics to lower blood pressure, other strategies are usually safer.Moreover, no research has found that drinking urine can lower blood pressure or otherwise improve heart health.Risks and dangersShare on PinterestA person who drinks urine risks infection, dehydration, and electrolyte imbalances.For most people, drinking urine is unlikely to cause any harm. This is particularly true for healthy people who drink their own urine and who do so only rarely.Young children and people with chronic illnesses may be more vulnerable to contaminants and health problems related to consuming urine.Drinking urine, especially on an ongoing basis, does present some health risks."
+Question:Are there health benefits to drinking your own urine?
+Your answer:[\INST]
+
+no
+16
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Many people get too much sodium, mostly from processed foods and restaurant fare rather than from salt you add to your diet.Research has not shown that Himalayan salt has any unique health benefits compared to other dietary salt. The mineral impurities that give it a pink color, often promoted as healthful, are far too low in concentration to help with your nutrition. You would have to eat a lethal amount of sodium to achieve helpful quantities of the other minerals.Himalayan salt may be good for skin conditions like eczema, although this has not been proven and may also depend on where it’s sourced. The National Eczema Association recommends adding a cup of salt to bathwater as a relief for eczema flare-ups. While the association's recommendation refers to table salt, pink Himalayan salt could also work.Himalayan Salt Health RisksHimalayan salt carries the same risks as any other type of dietary sodium. Getting too much sodium, from any source, can lead to high blood pressure (hypertension), which can worsen many health conditions and raises the risk for heart disease, stroke, and other serious conditions.
+ More importantly, some samples of Himalayan pink salt have been found to contain potentially toxic elements like arsenic, mercury, and lead. Potential Health Benefits of Himalayan Pink SaltWhile Himalayan pink salt can contain minerals that table salt does not, these minerals exist only in very small quantities. Scientists don’t believe that the amount of additional minerals in Himalayan pink salt is great enough to make a significant difference in your diet. Even so, its similar chemical composition means that Himalayan pink salt has many of the same benefits as regular salt, which include: Improved Respiratory HealthMany believe that salt therapy, which involves the inhalation of air infused with salt, is beneficial for respiratory conditions like chronic obstructive pulmonary disease, or COPD. Although much more research on this point is needed, scientists have found statistically significant improvements in questionnaires given to respondents with COPD who used a dry salt inhaler. Prevention of DehydrationSalt is necessary for maintaining adequate and balanced hydration levels in the body.
+ Despite the fact that pink Himalayan salt only contains tiny amounts of additional minerals, many people still claim that it can provide a number of health benefits.The truth is, most of these claims do not have any research to support them. Some of pink Himalayan salt’s commonly promoted health claims include that it can: Improve respiratory diseasesBalance your body’s pHReduce signs of agingImprove sleep qualityRegulate blood sugarIncrease libidoSome of the claims related to the non-dietary uses of pink Himalayan salt may be loosely based on research.The use of salt caves as a treatment for various lung diseases has been evaluated in a few studies. The results suggest that there could be some benefit, but overall, more rigorous research is needed to investigate their effectiveness (7, 8, 9).On the other hand, some of these health claims are actually just normal functions of sodium chloride in the body, so you’ll get these benefits from any kind of salt.For example, researchers have found that very low-salt diets may contribute to sleeping problems (10). This suggests that an adequate amount of salt may be necessary for quality sleep. However, the study did not examine pink Himalayan salt and it is likely a function of the sodium chloride in any salt.Also, the minerals in pink Himalayan salt are not present in large enough quantities to have any effect on balancing the body’s pH. Your lungs and kidneys tightly regulate your body’s pH without the help of pink Himalayan salt."
+Question:Is pink salt good for you?
+Your answer:[\INST]
+
+no
+17
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"If you’d like to try massage to treat cellulite, understand its limitations.Massage isn’t a cure for cellulite but it might temporarily improve skin’s appearance and make cellulite less noticeable. Massage does have many health benefits so it may be worth adding to your wellness regimen. Last medically reviewed on  February 22, 2019How we reviewed this article:SourcesHistoryHealthline has strict sourcing guidelines and relies on peer-reviewed studies, academic research institutions, and medical associations. We avoid using tertiary references. You can learn more about how we ensure our content is accurate and current by reading our editorial policy.Arslan M, et al. (2015).
+ Short answer: no. But you can use massage to limit the appearance of cellulite on your body. In fact, 80 to 90 percent of women have it! It tends to show up in places where fatty tissue is more prevalent (hooray for thighs!). It’s not a sign of poor health in any way.
+ if you have cellulite, you might find yourself asking this question along with 80-90% of women. You’ll often see products and treatments claiming to make cellulite less noticeable, but does massage help cellulite too? Massage is a fantastic way to soothe tight muscles, both for relaxation purposes and to aid recovery after exercise. Even better, the best massage guns allow you to enjoy similar benefits from the comfort of your own home."
+Question:Can massage get rid of cellulite?
+Your answer:[\INST]
+
+no
+18
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"There's some evidence that the beneficial effects of fish oil might be greater for people with moderate to severe high blood pressure than for those with mild blood pressure elevation. High triglycerides and cholesterol. There's strong evidence that omega-3 fatty acids can significantly reduce blood triglyceride levels. There also appears to be a slight improvement in high-density lipoprotein (HDL, or "good") cholesterol, although an increase in levels of low-density lipoprotein (LDL, or "bad") cholesterol also was observed. Rheumatoid arthritis. Studies suggest fish oil supplements might help reduce pain, improve morning stiffness and relieve joint tenderness in people with rheumatoid arthritis.
+ In fact, some studies show that fish oil can elevate low-density lipoprotein (LDL) or “bad” cholesterol.This finding comes from a review in Pharmacy and Therapeutics.The relationship between diet, cholesterol, and disease is complex. While fish oil may benefit heart health for some people, a person with high LDL cholesterol may need to opt for other forms of omega-3.In this article, we will look more closely at whether people should take fish oil for cholesterol, other ways to benefit from omega-3, and other approaches to lowering cholesterol.What is fish oil?Share on PinterestMirageC/Getty ImagesFish oil is a fat that comes from oily fish, such as herring, mackerel, and salmon. It is available as a liquid or in capsules. People can also obtain it from their diet.Many people take fish oil as a supplement due to its omega-3 content. Omega-3 fatty acids are linked to a number of health benefits, including:lowering the chances of heart diseasemildly improving the symptoms of rheumatoid arthritisaiding the growth of a fetus during pregnancyThere are three main types of omega-3. Each has a different effect on the body.
+ — By Anna Schaefer —  Updated on Mar 28, 2019Fish oil basicsHow statins workResearch on fish oilResearch on statinsTakeawayQ&A: Other cholesterol drugs OverviewHigh cholesterol may not always cause symptoms, but it requires treatment all the same. When it comes to controlling your cholesterol, statins are king. Can fish oil work just as well to reduce your cholesterol? Read on to learn how it stacks up. Fish oil basicsFish oil contains omega-3 fatty acids, which are credited with a range of health benefits. Among other things, omega-3 fatty acids have been said to:fight inflammationreduce blood pressureimprove bone healthpromote healthy skinThough it’s found naturally in fish, fish oil is most often taken in supplement form."
+Question:Can fish oil improve your cholesterol?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"References
+Research Report
+Cannabis (Marijuana) Research Report
+Is marijuana addictive? Marijuana use can lead to the development of problem use, known as a marijuana use disorder, which takes the form of addiction in severe cases. Recent data suggest that 30% of those who use marijuana may have some degree of marijuana use disorder.18 People who begin using marijuana before the age of 18 are four to seven times more likely to develop a marijuana use disorder than adults.19
+Marijuana use disorders are often associated with dependence—in which a person feels withdrawal symptoms when not taking the drug. People who use marijuana frequently often report irritability, mood and sleep difficulties, decreased appetite, cravings, restlessness, and/or various forms of physical discomfort that peak within the first week after quitting and last up to 2 weeks.20,21 Marijuana dependence occurs when the brain adapts to large amounts of the drug by reducing production of and sensitivity to its own endocannabinoid neurotransmitters.22,23
+Marijuana use disorder becomes addiction when the person cannot stop using the drug even though it interferes with many aspects of his or her life. Estimates of the number of people addicted to marijuana are controversial, in part because epidemiological studies of substance use often use dependence as a proxy for addiction even though it is possible to be dependent without being addicted. Those studies suggest that 9% of people who use marijuana will become dependent on it,24,25 rising to about 17% in those who start using in their teens.26,27
+In 2015, about 4.0 million people in the United States met the diagnostic criteria for a marijuana use disorder;3 138,000 voluntarily sought treatment for their marijuana use.28
+Rising Potency
+Marijuana potency, as detected in confiscated samples, has steadily increased over the past few decades.
+ 1/14 Addiction is more common in drugs like alcohol or cocaine. But it’s possible to get hooked on marijuana, also known as cannabis. That means you can’t stop using it, even if you want to. Studies show about 1 in 10 adults who use marijuana can get addicted. Your chances go up to 1 in 6 if you use it before age 18. What Is Cannabis Use Disorder (CUD)?
+ One study estimated that approximately 3 in 10 people who use marijuana have marijuana use disorder.1
+Another study estimated that people who use cannabis have about a 10% likelihood of becoming addicted.2
+The risk of developing marijuana use disorder is greater in people who start using marijuana during youth or adolescence and who use marijuana more frequently.3
+The following are signs of marijuana use disorder 4:
+Using more marijuana than intended
+Trying but failing to quit using marijuana
+Spending a lot of time using marijuana
+Craving marijuana
+Using marijuana even though it causes problems at home, school, or work
+Continuing to use marijuana despite social or relationship problems. Giving up important activities with friends and family in favor of using marijuana. Using marijuana in high-risk situations, such as while driving a car. Continuing to use marijuana despite physical or psychological problems. Needing to use more marijuana to get the same high. Experiencing withdrawal symptoms when stopping marijuana use."
+Question:Can you become addicted to weed?
+Your answer:[\INST]
+
+yes
+19
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"The vegan diet - NHS
+Skip to main content
+Search the NHS website
+Search
+                Health A-Z
+                NHS services
+                Live Well
+                Mental health
+                Care and support
+                Pregnancy
+                Home
+                NHS services
+Browse
+                More
+Home
+Live Well
+Eat well
+How to eat a balanced diet
+Back to 
+            How to eat a balanced diet
+      The vegan diet
+A vegan diet is based on plants (such as vegetables, grains, nuts and fruits) and foods made from plants.Vegans do not eat foods that come from animals, including dairy products and eggs. Healthy eating as a vegan
+You can get the nutrients you need from eating a varied and balanced vegan diet including fortified foods and supplements. For a healthy vegan diet:eat at least 5 portions of a variety of fruit and vegetables every daybase meals on potatoes, bread, rice, pasta or other starchy carbohydrates (choose wholegrain where possible)have some fortified dairy alternatives, such as soya drinks and yoghurts (choose lower-fat and lower-sugar options)eat some beans, pulses and other proteinseat nuts and seeds rich in omega-3 fatty acids (such as walnuts) every daychoose unsaturated oils and spreads, and eat in small amountshave fortified foods or supplements containing nutrients that are more difficult to get through a vegan diet, including vitamin D, vitamin B12, iodine, selenium, calcium and irondrink plenty of fluids (the government recommends 6 to 8 cups or glasses a day)If you choose to include foods and drinks that are high in fat, salt or sugar, have them less often and in small amounts.See The Eatwell Guide for more information about a healthy diet. The Eatwell Guide applies to vegetarians, vegans, people of all ethnic origins and those who are a healthy weight for their height, as well as those who are overweight.The only group The Eatwell Guide is not suitable for is children under the age of 2, as they have different needs. Getting the right nutrients from a vegan diet
+With good planning and an understanding of what makes up a healthy, balanced vegan diet, you can get all the nutrients your body needs.If you do not plan your diet properly, you could miss out on essential nutrients, such as calcium, iron, vitamin B12, iodine and selenium. Vegans who are pregnant or breastfeeding
+During pregnancy and when breastfeeding, if you follow a vegan diet you'll need to make sure you get enough vitamins and minerals for your child to develop healthily.Find out more about a vegetarian and vegan diet while pregnant.If you're bringing up your baby or child on a vegan diet, you need to ensure they get a wide variety of foods to provide the energy and vitamins they need for growth.
+ This solely plant-based diet is the strictest form of vegetarianism. You eat no animal products at all—not even eggs or dairy products. Watch your nutrition
+Vegetarian and vegan diets can be healthy, but they can lack certain nutrients. You may have to use a little creativity to ensure you get enough protein, calcium, iron, and vitamin B12. You can find many of these nutrients in eggs and dairy if you're vegetarian, and from plant sources if you're vegan. But you may need an added boost.
+ 2011; ADA 1997).3. Might vegan diets be healthier than other diets?The claim has also been made that well-planned vegan diets may be healthier than other diets (Norris and Messina 2011, xv; B. Davis and Melina 2014, 29). It is this claim that I shall explore in the remainder of this appendix. One way in which this claim could be examined is by focusing on mortality differences between vegans and others. The problem, however, is that no studies exist of populations where omnivores share similar genetic profiles, similar lifestyle patterns, and similar social and environmental factors with a significant number of vegans. Nevertheless, a meta-analysis of seven prospective cohort studies—that is, studies which compare, usually over a long time, those who remain healthy with those who become ill—from the UK, Germany, California, the USA, the Netherlands, and Japan, including 124,706 participants, compared vegetarians with omnivores and found that all-cause mortality was 9% lower amongst vegetarians (T. Huang et al."
+Question:Can vegan diets be healthy?
+Your answer:[\INST]
+
+yes
+20
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Once more, the use of illegal skin lightening creams highlights the dangers of Hydroquinone - nunii
+22
+English
+PROFESSIONNAL ZONE
+Indication
+Hyperpigmentation : Uniq White
+Blemish-prone Skin : Uniq Clear
+ eShop
+The Science (brevets)
+Scientific Partnership
+Results Before & After
+Scientifically Proven Results
+Skin Concerns
+Skin pigmentation
+Melasma
+Uneven Skintone
+Ephelides, Freckles
+Post inflammatory pigmentation
+UV Protection
+About us
+Commitment
+Corporate Social Responsibility
+Nunii by Novelskin
+Select Page
+Once more, the use of illegal skin lightening creams highlights the dangers of Hydroquinone
+ by Simon | 0 comments
+A recent study conducted by researchers working at the Medicines and Consumer Safety division of the Scientific Institute of Public Health and the Department of Toxicology and The Dermato-Cosmetology and Centre for Pharmaceutical Research in Brussels, Belgium, entitled “In vitro Dermal Absorption of Hydroquinone: Protocol Validation and Applicability on Illegal Skin-Whitening Cosmetics”, which was published in the Journal of Skin Pharmacology and Physiology in 2016, has highlighted the serious dangers of hydroquinone penetrating the blood stream by skin absorption with a cumulative toxic effect with daily applications. Hydroquinone is classified as a drug and is banned for the use in cosmetic products in Europe and in many countries such as Japan, Australia and several African states. Nevertheless, it is still too often found in formulations of depigmenting creams sold online all over the world. The main reason being, that sale of such creams represents a multi-billion dollar market. Sadly although HQ does depigment the skin, this ingredient poses a serious public health risk. Hydroquinone (HQ) is a substance which is naturally present in plants and foods such as coffee, cranberries, and blueberries for example, and which isn’t dangerous to consume when ingested occasionally and in small quantities with the foods we eat.
+ 02
+of 09
+   Hydroquinone  
+A possible carcinogen, this ingredient is banned in concentrations higher than 1% in the EU. It has most commonly led to photosensitivity, which means your skin is ultra-sensitive to the sun, among other skin conditions. Recently, it was banned for use in OTC products in the U.S., but you can still get it with a prescription. 03
+of 09
+   Triclosan  
+This ingredient is banned in the EU for being an endocrine disrupter that can lead to a variety of health problems involving our hormones, including obesity and fertility issues. While triclosan is not banned in the U.S., the fact it's found in personal care products is controversial and the ingredient is under investigation in light of recent studies. Triclosan is used as an antibacterial, and is most commonly found in toothpaste, and soap.
+ Why is hydroquinone banned in Europe? Wait a moment and try again.Try again
+Please enable Javascript and refresh the page to continue"
+Question:Is hydroquinone banned in Europe?
+Your answer:[\INST]
+
+yes
+21
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Have gone through menopause. Changes to hormones that happen after menopause often can lead to UTIs. Other risk factors include:
+Interference with the flow of urine. This can occur in conditions such as a stone in the bladder or an enlarged prostate. Changes in the immune system. This can happen with certain conditions, such as diabetes, HIV infection and cancer treatment.
+ Accessed June 10, 2020. Acute simple cystitis in men. Accessed June 10, 2020.
+ Ureters are the twin tubes that carry urine from your kidneys to your bladder. Your urethra is the single tube that carries urine from your bladder past your prostate and to the tip of your penis.If unhealthy bacteria build up anywhere in your urinary tract, this can cause an infection. And while urinary tract infections (UTIs) are much more common in women, men can also get them.The Two Types of Urinary Tract InfectionDoctors usually refer to UTIs as either “upper tract” or “lower tract.” An upper-tract infection is one that happens in the ureters or kidneys. A lower-tract infection is one that happens in the bladder, prostate, or urethra.UTI SymptomsDepending on the location of your UTI, you may have one or more of these symptoms:Frequent bathroom tripsFeeling like you have to pee all the timePain, burning, or discomfort while peeing or just afterPain or tenderness below your stomachWetting the bedCloudy or smelly urineBlood in your urineFeverNauseaPain in the sides or upper backSome men don’t have any symptoms at all.Diagnosing a UTIYour doctor will ask about your symptoms. They will also ask about your sexual history because sex can raise your risk for a UTI.Urine tests can confirm whether you have a UTI. If your doctor thinks the problem might be related to your prostate, you may get a prostate exam."
+Question:Do men get UTI infections?
+Your answer:[\INST]
+
+yes
+22
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"However, you may wonder about the origin of this idea and whether it’s supported by science.This article tells you whether carrots benefit your eyes and provides other tips to keep your vision healthy.Share on Pinterest Carrots and eye healthIt has long been believed that eating carrots promotes eye health and improves your eyesight, especially at night. Though there is truth to this, the association between carrots and eyesight originated from a myth. During World War II, British Royal Air Force pilots first began using radar to target and shoot down enemy planes. In an effort to keep this new technology a secret, the visual accuracy of the pilots — especially at night — was attributed to eating carrots. This led to a longstanding propaganda campaign that promoted carrots for better eyesight. This embellished link between eating carrots and improved night vision remains today.However, although they’re not quite the magic eye food they were marketed to be during World War II, carrots do contain certain compounds that are good for your eyes.
+ Foods rich in lutein have been found to increase pigment density in the macula. The greater pigment density in the macula, the better protected your retina is and the lower your risk for macular degeneration. Because carrots are rich in vitamin A and lutein, they are always a good choice for a nutrient-packed snack. Keep packing those carrot sticks in the school lunches, mom, but don’t expect X-ray vision!
+ If you were following a generally balanced diet, then those extra carrots had no affect on your vision. The connection does make sense, though. Carrots contain beta-carotene, which your body converts into
+      vitamin A
+      , and vitamin A is important for healthy eyesight. However, only a small amount is needed to maintain good vision. Foods that are high in beta-carotene and vitamin A will only impact your vision if your body is deficient in vitamin A. Evidence Against the Health Claim
+        Standard,
+        well-balanced diets
+        in the developed world generally contain a sufficient amount of vitamin A, and eating more carrots will not make a big enough difference to affect eyesight."
+Question:Are carrots good for your eyes?
+Your answer:[\INST]
+
+yes
+23
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Archived from the original on 2017-09-08. Archived from the original on 5 October 2011. The Toxicology of Methanol.
+ Methanol exposure can be extremely dangerous, with significant morbidity and mortality if left untreated. Methanol poisoning is most often due to accidental or intentional ingestions, and accidental epidemic poisonings due to distilling and fermenting errors and beverage contamination. Products that contain methanol include windshield washer fluid, gas line antifreeze, carburetor cleaner, copy machine fluid, perfumes, food warming fuel, and other types of fuels. Exposures can cause varying degrees of toxicity and can require a range of treatments from close laboratory monitoring to antidotal therapy and dialysis. The primary treatments are either ethanol or fomepizole, and unlike ethylene glycol toxicity, dialysis is often recommended. [1][2][3]EtiologyMethanol toxicity can occur via ingestion, dermal absorption, and inhalation.
+ Most methanol poisonings occur as a result of drinking beverages contaminated with methanol or from drinking methanol-containing products. In the industrial setting, inhalation of high concentrations of methanol vapor and absorption of methanol through the skin are as effective as the oral route in producing toxic effects. The characteristic pungent (alcohol) odor of methanol does not provide sufficient warning of low levels of exposure. METHODS OF DISSEMINATION:
+Indoor Air: Methanol can be released into indoor air as a liquid spray (aerosol). Water: Methanol can be used to contaminate water. Food: Methanol may be used to contaminate food."
+Question:Is methanol poisonous?
+Your answer:[\INST]
+
+yes
+24
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"No documented reports have show any harm to patients or babies. The safety of you and your baby is our top priority. Please ask questions and let us know your concerns. We can work together to help address them. What are the benefits of MRI for pregnant people? An MRI is very good at imaging internal organs and other soft tissues.
+ The broader outcome of any rheumatological, inflammatory, or infiltrative skin condition occurred in 123 vs 384 180 births (adjusted HR, 1.36; 95% CI, 1.09 to 1.69) for an adjusted risk difference of 45.3 per 1000 person-years (95% CI, 11.3 to 86.8). Stillbirths and neonatal deaths occurred among 7 MRI-exposed vs 9844 unexposed pregnancies (adjusted RR, 3.70; 95% CI, 1.55 to 8.85) for an adjusted risk difference of 47.5 per 1000 pregnancies (95% CI, 9.7 to 138.2). Conclusions and relevance:
+      Exposure to MRI during the first trimester of pregnancy compared with nonexposure was not associated with increased risk of harm to the fetus or in early childhood. Gadolinium MRI at any time during pregnancy was associated with an increased risk of a broad set of rheumatological, inflammatory, or infiltrative skin conditions and for stillbirth or neonatal death. The study may not have been able to detect rare adverse outcomes. Comment in
+        Magnetic Resonance Imaging Exposure During Pregnancy.
+ Heat produced by the scanner may be able to reach the patient during an MRI (especially if it is a long procedure). However, heat is strongest when it first hits the skin and becomes weaker as it approaches the center of the body (where the baby is located). The MRI machine makes loud sounds. There has been interest in knowing if the MRI could affect fetal hearing Based on several small studies, hearing damage has not been reported with exposure to MRI during pregnancy. There will be contrast used for my MRI. What is a contrast medium?"
+Question:Can an MRI harm my baby?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"2. Exercise on most days of the week and increase your physical activity
+Exercise can improve cholesterol. Moderate physical activity can help raise high-density lipoprotein (HDL) cholesterol, the "good" cholesterol. With your doctor's OK, work up to at least 30 minutes of exercise five times a week or vigorous aerobic activity for 20 minutes three times a week. Adding physical activity, even in short intervals several times a day, can help you begin to lose weight. Consider:
+Taking a brisk daily walk during your lunch hour
+Riding your bike to work
+Playing a favorite sport
+To stay motivated, consider finding an exercise buddy or joining an exercise group.
+ Advertising Policy
+How much exercise is needed to lower cholesterol? Aerobic exercise that’s repetitive and works multiple muscle groups, is the best exercise to reduce cholesterol. The American Heart Association recommends exercising for at least 30 minutes five to seven times per week. “You can start slow and ramp up,” says Dr. Cho. The best exercises to lower cholesterol
+Brisk walks or jogging 
+There’s no need to hit the treadmill or elliptical at full speed. In fact, if you’re not used to running, are overweight or have issues with your joints, it could do more harm to your body than good.
+ However, high levels of LDL cholesterol can be dangerous and put a person at risk of several health issues, including heart attack and stroke.In this article, we look at whether exercise lowers cholesterol. We also explain which types of physical activity to try and suggest other ways in which a person can manage their cholesterol.Types of cholesterolShare on PinterestKARRASTOCK/Getty ImagesIt is worth noting that there are two main types of cholesterol in a person’s body: LDL cholesterol and high-density lipoprotein (HDL), or “good,” cholesterol.When people talk about lowering their cholesterol levels, they are referring to LDL cholesterol. About 38% of adults in the United States have high LDL cholesterol.Can exercise lower cholesterol? According to the AHA, 150 minutes of moderate intensity aerobic exercise per week is enough to lower cholesterol and reduce high blood pressure. Exercise can also help raise HDL cholesterol. A 2013 study showed that walking for 1 hour a day on 5 days of the week for 24 weeks increased the levels of HDL cholesterol in the body.A 2015 study supported this finding, showing that the levels of HDL cholesterol in the body increased after regular high intensity strength training three times per week for 10 weeks."
+Question:Can exercise lower cholesterol?
+Your answer:[\INST]
+
+yes
+25
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"There are several theories why chewing gum may support weight loss, but research doesn’t show strong results.One often-quoted study found that chewing gum may burn about 11 calories an hour. This could be compared to the small extra daily calorie burn found in people who tap their toes or otherwise “fidget” all day, and it is unlikely to produce weight loss. Others propose that the act of chewing may lead to changes in digestive hormones that decrease hunger, thus making it easier to cut calories for weight loss. This makes sense in theory, but short-term controlled trials haven’t shown the expected hormonal change.Chewing gum may aid weight loss by replacing overeating for some. Participants in one controlled study showed a ten percent drop in mid-afternoon snacking when they chewed gum 15 minutes each hour after lunch. But, in a controlled trial that followed overweight people for eight weeks, those who chewed gum 90 minutes a day did not lose weight any more successfully than those who didn’t chew gum.Consider other strategies to avoid extra eating.
+ Not only can it freshen your breath, it can help you overcome cigarette cravings, improve your memory -- and even help you lose weight.Contestants on The Biggest Loser use it regularly, and studies have shown that chewing gum can help control cravings, manage hunger, and promote weight loss.Still, don’t get the idea that chewing a few sticks of gum a day is going to melt off the pounds. A few small studies have shown that chewing gum can help you shave calories. But this won’t lead to significant weight loss unless you also follow a reduced-calorie diet and get regular physical activity.Sugar-free gum is best because it is usually less than 5 calories per piece, compared to 10 calories for regular gum. In fact, diet plans like Weight Watchers, Jenny Craig, and the American Diabetes Association consider sugar-free gum a "free food." )Weight Loss Benefits of Chewing GumResearch from the University of Rhode Island showed that people who chewed gum consumed 68 fewer calories at lunch and did not compensate by eating more later in the day.
+ Why Does Chewing Gum Make You Lose Weight? Chewing gum may not help you burn existing weight, but it can be considered a tool for avoiding unnecessary calories. For some people, popping a piece of gum after a meal can signal that the meal is over—reducing the urge to reach for a snack. Midday and late-night snacking largely contribute to caloric intake, so chewing gum could potentially distract someone from choosing a sugary treat or unhealthy bag of chips between meals. One of the primary claims surrounding chewing gum for weight loss is that it can help curb cravings for unhealthy snacks."
+Question:Can chewing gum help lose weight?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Dr. Davis says sunglasses help to prevent skin cancer around the eyes and good shades also guard against vision loss. "Ultraviolet light can pass through the eye to the lens and cause cataracts," says Dr. Davis. "So, if you wear sunglasses, you decrease your risk over your lifetime of cataract formation." Dr. Davis says to choose sunglasses that are labeled as having broad spectrum coverage or protection against UVA and UVB rays. Look for the same phrases on the sunglasses you buy for your children. "We suggest sunglasses on children as early, and as young, as they will wear them."
+ Protecting Your Eyes with Sunglasses
+Much of the cataract-producing damage caused by the sun’s UV rays can be prevented by wearing proper sunglasses. Studies show that wearing UV-blocking sunglasses when you’re young helps reduce the risks of developing cataracts as you age. The key is selecting sunglasses that provide 100 percent UVA and UVB protection. UVA and UVB are the variations of ultraviolet rays that can be damaging to your eyes. Many people take UV protection for granted when buying sunglasses, but just because the lenses are tinted dark, doesn’t mean they’re equipped to protect your eyes from UV rays. A reliable pair of UV-blocking sunglasses will have UV protection embedded in the lenses rather than just a coating on the lenses.
+ Share this post on your profile with a comment of your own:
+Share on my Profile
+Cancel
+Successfully Shared! View on my Profile
+Back to Article
+                Can Sunglasses Help Prevent Cataracts? May 6, 2022
+Medically reviewed by Susan Kerrigan, MD and Marianne Madsen
+A cataract is an area in the lens of the eye, made up of clumps of protein, that clouds vision and diminishes eyesight. Cataracts are common in older Americans. By age 75, half of all white Americans and around 40 percent of black Americans will have developed cataracts."
+Question:Can sunglasses help prevent cataracts?
+Your answer:[\INST]
+
+yes
+26
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"HIV Originated With Monkeys, Not Chimps, Study Finds
+Skip to contentNewslettersSubscribeMenuScienceNewsHIV Originated With Monkeys, Not Chimps, Study FindsResearchers have found new clues to the deadly disease's origins.ByStefan LovgrenPublished June 12, 2003• 7 min readShareTweetEmailScientists now say that the simian immunodeficiency virus (SIV) in chimpanzees (Pan troglodytes), which is believed to have been transmitted to humans to become HIV-1—the virus that causes AIDS—didn't start its life in chimps.Instead, it was a product of separate viruses jumping from different monkey species into chimps, where they recombined to form a hybrid virus, according to a new study.Researchers believe the chimpanzee virus is a hybrid of the SIVs naturally infecting two different monkeys, the red-capped mangabey (Cercocebus torquatus) and the greater spot-nosed monkey (Cercopithecus nictitans). Chimps eat monkeys, which is likely how they acquired the monkey viruses. The hybrid virus then spread through the chimpanzee species, and was later transmitted to humans to become HIV-1.The study suggests striking parallels between SIV infection of chimps and HIV infection of humans. Just as chimps acquired viruses from two different sources, humans are infected by two distinct AIDS viruses: HIV-1 and the less virulent HIV-2, which humans acquired from sooty mangabey monkeys. "Because of the similarity between chimpanzees and humans, any virus that successfully adapts to spreading among chimps would be a candidate for a further jump to humans—a potential HIV-3," said Paul Sharp of the Institute of Genetics at University of Nottingham in England, who led the study.The discovery also spotlights how many of our most virulent viruses were transmitted across species. The jumping of viruses from animals to humans occurs all the time.
+ Eleanor Lawrence 
+Nature
+                         (1999)Cite this article
+7118 Accesses
+Metrics details
+You have full access to this article via your institution. Download PDF
+Download PDF
+The origin of the virus HIV-1, the main cause of the worldwide AIDS epidemic, has been a matter of debate ever since its discovery in 1983. Its origin in wild primates-the apes and monkeys-has long been accepted, but the question remained-which ones, and how could it have been transmitted? The first question is answered by a report in Nature: Beatrice H. Hahn of the University of Alabama at Birmingham, Alabama, USA, and colleagues [from the USA, France and the UK] provide the most persuasive evidence yet that HIV-1 entered the human population from the chimpanzee, Pan troglodytes, our nearest living relative.From their analysis, it is now almost certain that HIV-1 entered the human population from chimpanzees of the subspecies Pan troglodytes troglodytes, which lives in equatorial west Africa, in Cameroon, Gabon and Equatorial Guinea, where the HIV-1 virus is thought, on other evidence, to have emerged in humans.Chimpanzees, like many other primates, harbour simian immunodeficiency viruses (SIVs). These closely resemble HIV but appear to co-exist far more successfully with their animal hosts, pointing to an ancient association between virus and host.
+ 2). Interestingly, close simian relatives of HIV-1 and HIV-2 were found in chimpanzees (Huet et al. 1990) and sooty mangabeys (Hirsch et al. 1989), respectively. These relationships provided the first evidence that AIDS had emerged in both humans and macaques as a consequence of cross-species infections with lentiviruses from different primate species (Sharp et al. 1994)."
+Question:Did AIDS come from chimps?
+Your answer:[\INST]
+
+yes
+27
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Your fluid intake is probably adequate if:
+You rarely feel thirsty
+Your urine is colorless or light yellow
+Your doctor or dietitian can help you determine the amount of water that's right for you every day. To prevent dehydration and make sure your body has the fluids it needs, make water your beverage of choice. It's a good idea to drink a glass of water:
+With each meal and between meals
+Before, during and after exercise
+If you feel thirsty
+Should I worry about drinking too much water
+Drinking too much water is rarely a problem for healthy, well-nourished adults. Athletes occasionally may drink too much water in an attempt to prevent dehydration during long or intense exercise. When you drink too much water, your kidneys can't get rid of the excess water. The sodium content of your blood becomes diluted.
+ There's no single formula to determine how much water you should drink daily. The popular recommendation of eight glasses a day is a good starting point. You should adjust your intake around this amount depending on your environment, exercise regimen, overall health, and conditions like pregnancy or breastfeeding.What Happens When You Drink Too Much Water?When you drink too much water, you may experience water poisoning, intoxication, or a disruption of brain function. This happens when there's too much water in the cells (including brain cells), causing them to swell. When the cells in the brain swell they cause pressure in the brain. You may start experiencing things like confusion, drowsiness, and headaches.
+ But drinking too much water can also be dangerous. Some conditions can also make your body retain too much water, regardless of how much you drink.All of the major systems of your body depend on water to work properly. Having enough water helps your body:regulate temperatureprevent constipationflush out waste productsperform all major bodily functionsHowever, it’s possible to have too much water in your body. This can cause water toxicity. This is when your body’s water is more than your kidneys can excrete. It can lead to a dangerous electrolyte imbalance.Read on to learn how this can happen, how much water is too much, how to recognize the signs, and what to do.What causes overhydration?You can become overhydrated in two ways: By drinking too much water or if your kidneys retain too much water.In both cases, overhydration can lead to water toxicity, also known as water poisoning."
+Question:Is too much water bad for you?
+Your answer:[\INST]
+
+yes
+28
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"This includes semen, vaginal and anal fluids, blood and breast milk.It's a fragile virus and does not survive outside the body for long.HIV cannot be transmitted through sweat, urine or saliva.The most common way of getting HIV in the UK is through having anal or vaginal sex without a condom.Other ways of getting HIV include:sharing needles, syringes or other injecting equipmenttransmission from mother to baby during pregnancy, birth or breastfeedingThe chance of getting HIV through oral sex is very low and will be dependent on many things, such as whether you receive or give oral sex and the oral hygiene of the person giving the oral sex. Diagnosing HIV
+Seek medical advice as soon as possible if you think you might have been exposed to HIV.You can get tested in a number of places, including at a GP surgery, sexual health clinics and clinics run by charities.Find HIV testing services near youThe only way to find out if you have HIV is to have an HIV test. This involves testing a sample of your blood or saliva for signs of the infection.It's important to be aware that:emergency anti-HIV medicine called post-exposure prophylaxis (PEP) may stop you becoming infected if started within 72 hours of possible exposure to the virus – it's recommended that you start it as soon as possible, ideally within 24 hoursan early diagnosis means you can start treatment sooner, which can improve your chances of controlling the virus, reduce the risk of becoming more unwell and reduce the chance of passing the virus on to othersBoth positive and negative HIV tests may need to be repeated 1 to 3 months after potential exposure to HIV infection (this is known as the window period), but you should not wait this long to seek help:clinics may offer a finger prick blood test, which can give you a result in minutes, but it may take up to a few days to get the results of a more detailed HIV testhome testing or home sampling kits are available to buy online or from pharmacies – depending on the type of test you use, your result will be available in a few minutes or a few daysIf your first test suggests you have HIV, a further blood test will need to be carried out to confirm the result.If this is positive, you'll be referred to a specialist HIV clinic for some more tests and a discussion about your treatment options. Treatment for HIV
+Antiretroviral medicines are used to treat HIV. They work by stopping the virus replicating in the body, allowing the immune system to repair itself and preventing further damage.These come in the form of tablets, which need to be taken every day.HIV is able to develop resistance to a single HIV medicine very easily, but taking a combination of different medicines makes this much less likely.Most people with HIV take a combination of medicines. It's vital these are taken every day as recommended by your doctor.The goal of HIV treatment is to have an undetectable viral load.
+ HIV does not survive long outside the human body (such as on surfaces), and it cannot reproduce outside a human host. It is not transmitted
+By mosquitoes, ticks, or other insects. Through saliva, tears, or sweat. By hugging, shaking hands, sharing toilets, sharing dishes, or closed-mouth or “social” kissing with someone who has HIV. Through other sexual activities that don’t involve the exchange of body fluids (for example, touching). Through the air.
+ Many people, including health-care providers and patient relatives, may easily contact with the sweat of HIV-infected patients. Although reference books assert that HIV does not transmit through sweat, to our knowledge, there is no systemic study which this statement is based upon. This study aims to investigate the potential of sweat to transmit HIV infection.METHODS:This study included 31 treatment-naive HIV RNA-positive patients who were in the acute phase of the infection and 26 subjects with a negative HIV RNA test who had received antiviral treatment. A total of 57 sweat samples collected from intact skin areas were prospectively evaluated by polymerase chain reaction (PCR) for the presence of HIV RNA. HIV RNA levels in the blood samples were also noted.RESULTS:HIV RNA was not detected by PCR in any sweat sample taken from HIV-infected HIV RNA-negative and -positive subjects.CONCLUSION:The findings obtained in this study suggest that sweat by itself has no potential for transmitting HIV infection.Keywords: HIV, HIV transmission route, polymerase chain reaction, sweatHuman immunodeficiency virus (HIV) infection is a worldwide health problem [1]. Although the worldwide incidence of HIV infection has decreased, the prevalence of HIV infection has increased with the increased life expectancy among patients receiving antiviral treatment (ART) [2].Many studies reported that HIV was mainly transmitted through parenteral exposure, sexual activity, and body secretions, such as saliva and semen [1–3] A high HIV RNA level in blood is the greatest risk factor for the transmission of HIV [4] Risk of transmission can be reduced through early diagnosis, protection and decreasing HIV RNA levels by early treatment [5].HIV-positive individuals get in contact with others in their daily lives."
+Question:Can HIV be transmitted through sweat?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Advertising Policy
+“There’s not a lot of evidence to support the idea that Himalayan salt lamps provide some – if any – of the supposed health benefits,” says Dr. Vyas. One study did suggest that negative ions might decrease depression in some people. However, these lamps don’t produce enough negative ions to make a difference. Negative ions, in large enough quantities, have also been shown to kill dust mites in the air. But again, these lamps do not produce enough to have any real benefit. There is also no evidence to support the idea that the lamps can absorb toxins from the air around you.
+ However, there is currently little evidence to support these claims.Do Himalayan salt lamps have any benefits?Although some of their health claims are not supported by science, Himalayan salt lamps may have other benefits.These include:They are attractive: If you like the way they look, they could be an attractive addition to your home.They create a nice ambiance: They could help create a relaxing atmosphere that helps you unwind.They might help limit light in the evening: If you struggle to sleep, using dim lights in the evening may help you get to sleep faster.Overall, these points may make them a great addition to your home.summaryHimalayan salt lamps are inviting, create a warm and relaxing ambiance, and may help you wind down before bedtime.The bottom lineThere is no evidence behind the health claims related to Himalayan salt lamps.While they may be an attractive addition to a room and help create a relaxing environment, there’s little to suggest they do much else.More research on the theories surrounding their potential health benefits is needed. Last medically reviewed on  November 28, 2022How we reviewed this article:HistoryOur experts continually monitor the health and wellness space, and we update our articles when new information becomes available.Current VersionNov 29, 2022Written ByHelen WestEdited ByRachael LinkMedically Reviewed ByDebra Rose Wilson, PhD, MSN, RN, IBCLC, AHN-BC, CHTJan 16, 2018Written ByHelen WestShare this articleBy Helen West, RD — Medically reviewed by Debra Rose Wilson, Ph.D., MSN, R.N., IBCLC, AHN-BC, CHT —  Updated on Nov 29, 2022Read this nextHimalayan Salt Lamp PrecautionsMedically reviewed by Debra Rose Wilson, Ph.D., MSN, R.N., IBCLC, AHN-BC, CHTWhile Himalayan salt lamps are generally considered safe to use in your home, there are risks you should be aware of. Learn more about these lamps and…READ MOREDo Himalayan Salt Lamps Really Work?Medically reviewed by Debra Rose Wilson, Ph.D., MSN, R.N., IBCLC, AHN-BC, CHTManufacturers of Himalayan salt lamps claim they release helpful negative ions into the room and clean the air. But do they really work? READ MOREIs Pink Himalayan Salt Better Than Regular Salt?By Keith Pearson, PhD, RDSome claim pink Himalayan salt provides incredible health benefits, but others say it's no different than regular salt. This article examines the…READ MORECan a Himalayan Salt Bath Treat Eczema or Help Me Lose Weight?Medically reviewed by Gerhard Whitworth, R.N.Himalayan salt baths may be touted for their health benefits, but they're not any healthier than other salt baths.
+ What Are Himalayan Salt Lamps?Himalayan salt lamps are crystals carved from amber-colored rock salt, hollowed out to fit a lightbulb inside. When you light them, they give out a warm, reddish-pink glow.Sellers of these decorative pieces say they do more than light up a room. They claim the lamps can boost mood, improve sleep, ease allergies, help people with asthma breathe better, and clean the air, among other benefits.The claims sound impressive. Yet the scientific evidence to back them up is scarce.The salt in these lamps comes from the Himalayas, a mountain range that stretches about 1,500 miles across Pakistan, India, Bhutan, and Nepal.True Himalayan salt lamps come from the Khewra Salt Mine in Pakistan."
+Question:Do Himalayan salt lamps have health benefits?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"The simple answer is that you can get pregnant while nursing. However, many moms experience a time of delayed fertility during breastfeeding. This is very common and is referred to in many places as the Lactation Amenorrhea Method (LAM) of contraception. As described in The Womanly Art of Breastfeeding, the Lactation Amenorrhea Method of using breastfeeding to delay fertility needs all the following to be true:
+Your periods have not returned. Your baby is exclusively and frequently fed from your breasts- this is especially important to remember when your little one begins sleeping through the night. It means not just that your baby does not have bottles, but also that they do not use a pacifier, in other words that all of your baby’s sucking needs are met at your breast.
+ You may have heard from a friend that nursing can serve as a form of birth control — and while that’s not entirely untrue, it’s not the whole story either.Can you get pregnant while you’re breastfeeding?The simple answer is yes. Although breastfeeding offers some protection from ovulation, the monthly occurrence where you release a mature egg from one of your ovaries, it is possible to ovulate and become pregnant prior to getting your first period.The key players here are the hormones oxytocin and prolactin, which are responsible for milk production and the let-down reflex. Increased levels of these hormones actually suppress the brain from making the main hormone that stimulates the ovary to grow an egg each month. When a mother is breastfeeding exclusively, or even on a consistent basis, it is less likely that she is going to ovulate at all until she starts to wean.That doesn’t mean that you won’t ovulate or conceive. The "protective" effect of breastfeeding becomes progressively less effective the longer it's been since you delivered your baby. Can you get pregnant if you’re breastfeeding and haven’t gotten your period yet?Since ovulation comes before menstruation in your monthly cycle, the absence of your period does not eliminate the chance that you could be ovulating at any given point.
+ You Can’t Get Pregnant While BreastfeedingMedically reviewed by Meredith Wallis, MS, APRN, CNM, IBCLC — By Rhona Lewis  on February 17, 2020Chances of pregnancyWhy it worksFactors that raise riskIf you're TTCBreastfeeding while pregnantFertility treatmentsTakeawayShare on PinterestYou’ve just emerged from a 9-month roller coaster ride and you’re breastfeeding the baby you carried — which is another adventure all on its own. Whether you want to get pregnant again or not, you may want to put some distance between this child and the next.Rather than go on the pill or choose another prescription birth control method, you may wonder whether breastfeeding itself can ensure you don’t get pregnant again for as long as you nurse — be it for 2 months or 2 years. Here’s what you need to know. What are the chances of getting pregnant while breastfeeding? The scoop is that yes, exclusive breastfeeding is a pretty good form of temporary birth control. (See how carefully we qualified that?)"
+Question:Can a woman get pregnant while breastfeeding?
+Your answer:[\INST]
+
+yes
+29
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"A retrospective cohort study attempted to uncover the difference in psychological and cognitive disorders between persistent and non-persistent statin users. After analyzing statin users and ICD-9 codes for psychological diseases the outcomes data from the study showed that non-persistent statin users actually had a greater risk of being diagnosed with cognitive disorders compared with persistent users [24]. The authors hypothesized persistent statin use may be protective against developing cognitive dysfunction. However, the findings may be a result of reverse causality since non-persistent patients may be non-persistent because of their cognitive condition.A systematic review and meta-analysis of randomized controlled trials (RCTs) was designed to address the FDA announcement regarding the effect of statins on cognition as well [6]. Cognitive impairment was rarely reported in trials involving either cognitively normal or impaired participants. Meta-analyses also showed no difference in the incidence of mild cognitive impairment between statin users and non-users.
+ Though these studies did not
+find an increased risk of cognitive impairment with statins, concerns about the lack of
+generalizability to older individuals–who are most at risk for cognitive
+impairment–persisted (9).In this issue of the Journal, Samaras et al. (10) report on the association between statin use and
+cognitive outcomes in older individuals in the MAS (Sydney Memory and Aging Study). The
+investigators performed longitudinal analyses of prospective observational data that
+were collected starting in 2005. After excluding those with prevalent dementia, 1,037
+noninstitutionalized individuals age 70 to 90 years were included. Participants
+underwent baseline medical assessments and neuropsychological testing, which was
+repeated every 2 years over a 6-year period. Neuropsychological assessments were
+remarkably rigorous; 12 standardized cognitive tests covered 5 cognitive domains.
+ In 2012, questions surfaced when the FDA issued a warning that statin users had reported short-term cognitive impairment when taking the drugs. A study published June 29, 2021, by the Journal of the American College of Cardiology (JACC) aimed to shed some additional light on this issue. Researchers looked at data on statin use among 18,446 people, ages 65 or older, who had taken part in a large randomized trial of aspirin. The researchers found that over a follow-up period of almost five years, people who took statins weren’t any more likely than non-users to have dementia. The same was true when it came to other changes in cognition, memory, language, executive function, or a measure called psychomotor speed, which measures how quickly someone can process information. They also found no differences between different types of statins."
+Question:Can statins cause permanent cognitive impairment?
+Your answer:[\INST]
+
+no
+30
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Some of the participants took the vitamin C over a period of several years.Research resultsThe studies showed that it wasn't possible to prevent colds by taking vitamin C every day over a longer period of time. But doing so did shorten the amount of time that people were ill by about 10 percent. In other words, a cold that would have lasted ten days was over in nine days. The cold symptoms were also a bit milder in people who always took vitamin C. These results have now been confirmed by other researchers as well, especially regarding use in children. It didn’t shorten the length of colds in men and women who started taking it only after they became ill.Some of the studies looked at whether vitamin C can prevent colds in people exposed to short periods of very strenuous physical activity, often in connection with extremely cold temperatures. Examples include marathon runners or soldiers doing winter exercises in a mountainous region.The study participants started taking vitamin C two to three weeks before the very strenuous activities, with the aim of preventing colds.
+ But findings have been inconsistent. Overall, experts have found little to no benefit from vitamin C for preventing or treating the common cold. In a July 2007 study, researchers wanted to discover whether taking 200 milligrams or more of vitamin C daily could reduce the frequency, duration, or severity of a cold. After reviewing 60 years of clinical research, they found that when taken after a cold starts, vitamin C supplements do not make a cold shorter or less severe. When taken daily, vitamin C very slightly shortened cold duration -- by 8% in adults and by 14% in children.In 2010, researchers looked at all studies and found that taking vitamin C every day did not prevent the number of colds that a person got. In some cases, it made symptoms improve.The results were different for people who were in very good physical condition, such as marathon runners.
+ October 13, 2020
+The nutrient appears to have modest prevention power.Image: Wavebreakmedia Ltd/Thinkstock Vitamin C is often touted as a natural cold remedy. The nutrient is featured in supplements promising to boost the immune system. Nobel laureate Dr. Linus Pauling famously claimed that taking large doses of vitamin C helps thwart a cold. Is there something to these claims? "The data show that vitamin C is only marginally beneficial when it comes to the common cold," says Dr. Bruce Bistrian, chief of clinical nutrition at Harvard-affiliated Beth Israel Deaconess Medical Center.About vitamin COur bodies don't make vitamin C, but we need it for immune function, bone structure, iron absorption, and healthy skin. We get vitamin C from our diet, usually in citrus fruits, strawberries, green vegetables, and tomatoes."
+Question:Does Vitamin C prevent colds?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"However, the effects of coffee on weight management are mixed. Its benefits include appetite control and improved metabolism, which could aid weight loss.Yet, coffee contains caffeine, which may lead to poor sleep and more sugar cravings in certain individuals — both factors which may negatively impact weight. In addition, many coffee beverages contain added sugar and excessive calories.This article takes a detailed look at how coffee affects your weight. Share on Pinterest Black coffee may promote a healthy weightBlack coffee — without any additional ingredients — is very low in calories and may help you achieve a healthy weight.Coffee is low in caloriesWhen trying to lose weight, you have to create a calorie deficit. You can do this either by increasing physical activity or consuming fewer calories. An easy way to reduce calorie intake is to choose lower-calorie beverages.
+ Here's what you should know about coffee and weight loss, and how much you should drink to lose weight. Yes, coffee can help with weight lossCoffee contains nutrients such as niacin, potassium, magnesium, and antioxidants — which can improve digestive health, support muscle function, and lead to better heart health. It also contains caffeine, which boosts metabolism, improves energy, and can promote weight loss. Here are some health and weight loss-related benefits of this energy-boosting drink:Black coffee is a low-calorie beverage. Weight loss is associated with a calorie deficit, which is when you consume fewer calories than you burn. A popular way to help achieve a calorie deficit is to consume fewer calories than your usual caloric intake.
+      10 Ways Coffee Can Help You Lose Weight | Little's
+  It looks like you're using an outdated browser. Please upgrade your browser for the best experience. Can it really help you shed the pounds? Let’s find out. Coffee is used by people all over the world as a key part of their weight loss strategy."
+Question:Can coffee help you lose weight?
+Your answer:[\INST]
+
+yes
+31
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"<s>  You will need more than one wedge or slice to have an effect, 3-4 slices of fresh lemon added to your water is a good place to start. Drinking this lemon water consistently throughout the day, you will notice a significant difference. To make the drink as healthy as possible used filtered water and organic lemons.Q. Lemon water can promote fullness, support hydration, boost metabolism, and increase weight loss. However, lemon water is no better than regular water when it comes to losing fat.
+ “If losing the fat was as easy as adding lemon to hot water, a myth that needs to be busted!” the nutritionist captioned the post. View this post on Instagram
+A post shared by Kinita Kadakia Patel (@kskadakia)
+Also Read |Weight loss: Seven ways to ‘melt belly fat naturally’ as per Ayurveda
+According to Healthline, lemon water is no better than regular water when it comes to weight loss. However, it can be used as a low-calorie replacement in place of a high-calorie beverage. This can potentially promote weight loss. As for the other health benefits of lemon water, not only does it keep you hydrated, it also works wonders for the skin. According to the outlet, vitamin C in lemons reduce skin wrinkling, dry skin from ageing and damage from the sun.
+ Drinking it instead of higher-calorie beverages could help contribute to weight loss.It Can Keep You Hydrated From carrying nutrients to cells to transporting waste out of the body, drinking enough water to stay hydrated is a critical component of health.Maintaining adequate hydration is essential in everything from regulating body temperature to improving physical performance (5).Some evidence also suggests that staying hydrated can aid in weight loss.Research indicates that increased hydration may increase the breakdown of fats and enhance fat loss (6).Staying well-hydrated may also help reduce water retention, which can cause symptoms like bloating, puffiness and weight gain (7).Since the majority of lemon water is made up of water, it can help with maintaining adequate hydration.Summary: Drinking lemon water could help you stay hydrated, which reduces water retention and may increase fat loss.Drinking Lemon Water May Boost Metabolism Studies show that drinking enough water can potentially help increase your metabolism.Researchers suggest that good hydration enhances the function of mitochondria, a type of organelle found in cells that helps generate energy for the body (6).This leads to an increase in metabolism, which may lead to subsequent weight loss.Drinking water has also been shown to increase metabolism by inducing thermogenesis, a metabolic process in which calories are burned to produce heat.In one study, 14 participants drank 16.9 ounces (0.5 liters) of water. Drinking water was found to increase their metabolic rate by 30% for 30–40 minutes (8).Another study looked at the effects of drinking water in 21 overweight children. Drinking 0.3 ounces of water per 2.2 pounds of body weight (10 ml/kg) increased metabolism by an impressive 25% for 40 minutes (9).Research on lemon water specifically is limited. However, because water is the main ingredient, it likely carries the same metabolism-boosting benefits as regular water.Summary: Studies show that drinking water could increase metabolism by enhancing mitochondrial function and inducing thermogenesis.Lemon Water Can Make You Feel More Full Drinking water is often recommended as a fundamental part of any weight loss regimen, as it can promote satiety and fullness without adding calories.A 2008 study looked at the effects of water on calorie intake in 24 overweight and obese older adults.The study revealed that drinking 16.9 ounces (0.5 liters) of water before breakfast decreased the number of calories consumed in the meal by 13% (10).Another study found that drinking water with a meal decreased hunger and increased satiety during the meal (11).Because lemon water is low in calories and can promote fullness in the same way as regular water, it can be an effective way to help reduce calorie intake.Summary: Regular water and lemon water can help promote satiety and fullness, which may decrease calorie intake and lead to weight loss.It Could Increase Weight Loss Due to its potential beneficial effects on metabolism, satiety and hydration, some evidence suggests that water (including lemon water) could enhance weight loss.In one study, 48 adults were assigned to two diets: a low-calorie diet with 16.9 oz (0.5 liters) of water prior to each meal or a low-calorie diet with no water before meals.At the end of the 12-week study, participants in the water group had lost 44% more weight than participants in the non-water group (12).Other research suggests that increasing water intake could help stimulate weight loss, independent of diet or exercise.A 2009 study measured water intake in 173 overweight women. It found that greater water intake was associated with a greater loss of body weight and fat over time, regardless of diet or physical activity (13).Though these studies focus specifically on regular water, the same results most likely apply to lemon water as well.Summary: Some studies suggest that drinking regular water or lemon water could increase weight loss, regardless of diet or exercise.Lemon Water Is Not Necessarily Better Than Regular Water Lemon water comes with a lot of potential benefits, from promoting hydration to increasing satiety.However, it’s important to note that these benefits all come from its main ingredient — water.Lemon water does contain some additional nutrients from the lemon juice, such as vitamin C and antioxidants, but these are unlikely to have any effect on your weight.Additionally, the alkalizing effect of lemon juice has no clear effects on weight.All that being said, lemon water may have some benefits for preventing kidney stones, due to the acids it contains (14, 15, 16) Summary: Lemon water may be beneficial for weight loss, but has no added benefits over regular water.How to Drink Lemon Water Lemon water is a highly customizable beverage and can be tailored based on personal preference.Recipes usually call for the juice from at least half a lemon mixed with a glass of water. To add more flavor, try adding in a few other ingredients.A few fresh mint leaves or a sprinkle of turmeric are delicious and healthy ways to spice up a glass of lemon water.Many people prefer to start their day with a refreshing glass of lemon water, but it can be enjoyed at any time of day.It can also be consumed hot, like tea, or with a few ice cubes added for a cool and invigorating drink.Despite claims that lemon water has greater benefits when consumed at certain temperatures, there is little evidence to support that it makes a difference.Summary: Lemon water can be customized based on personal preference, and it can be enjoyed hot or cold at any time of day.The Bottom Line Lemon water can promote fullness, support hydration, boost metabolism and increase weight loss.However, lemon water is no better than regular water when it comes to losing fat.That being said, it is tasty, easy to make and can be used as a low-calorie replacement for higher-calorie beverages.In this way, it could potentially help promote weight loss and improve health.How we reviewed this article:HistoryOur experts continually monitor the health and wellness space, and we update our articles when new information becomes available.Share this articleBy Rachael Link, MS, RD on June 11"
+Question:Does drinking lemon water help with belly fat?
+Your answer:[\INST]
+
+no
+32
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Here Dr. Deeter shares some important information about cancer prevention. Nicholas Deeter, DO, Ridgeview Clinics, shares that, “Processed meats are to colon cancer what smoking is to lung cancer.” Processed meats are known carcinogens. In fact, they are classified in the same group of carcinogens (Group 1) as tobacco and alcohol by the International Agency for Research on Cancer (IARC). A diet high in red meats and processed meats—like bacon, hot dogs and deli meat—can raise your colorectal cancer risk significantly. To lower your risk, Dr. Deeter recommends eating less or no processed meats, likewise for red meat. “If giving up red meat is not realistic for you, start with small changes like cutting it out of your meals one day a week, eating smaller, three to four-ounce, portion sizes, and choosing local, organic, grass-fed meat,” he added.
+ They include deli meats, bacon and hot dogs. BY Danielle Underferth
+Processed meats are convenient, affordable and woven into our collective diet. For many, a turkey sandwich is a lunchtime fixture, bacon is a prized breakfast treat and cookouts wouldn't be the same without hotdogs on the grill
+Unfortunately, when these processed meats are preserved, cancer-causing substances form. “Research shows that eating processed meats like bacon and cold cuts can increase your chances for stomach and colorectal cancer,” says Lindsey Wohlford, employee wellness dietitian at MD Anderson Cancer Center. So how much is too much?
+ Eating processed meat increases your risk of bowel and stomach cancer. Red meat, such as beef, lamb and pork, has been classified as a Group 2A carcinogen which means it probably causes cancer. Did you know if you’ve had cancer, maintaining a healthy diet can help prevent it from coming back? How red and processed meat increase cancer risk  Current research shows that there are certain chemicals in red and processed meats – both added and naturally occurring – that cause these foods to be carcinogenic. For example, when a chemical in red meat called haem is broken down in the gut, N-nitroso chemicals are formed and these have been found to damage the cells that line the bowel, which can lead to bowel cancer. These same chemicals also form when processed meat is digested."
+Question:Does deli meat increase your risk of colon cancer?
+Your answer:[\INST]
+
+yes
+33
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"They can vary in colour and size – from a few millimetres up to 5cm wide.Skin tags are usually found on the neck, armpits, around the groin, or under the breasts. They can also grow on the eyelids or under the folds of the buttocks.They can look like warts, but skin tags are usually:smooth and soft (warts tend to be rougher with an irregular surface)knobbly and hang off the skin (warts are usually slightly raised or flat)not contagious (warts spread very easily, so a sudden outbreak or cluster of growths is more likely to be warts)Skin tags do not usually cause any pain or discomfort. Why skin tags occurSkin tags are made of loose collagen fibres and blood vessels surrounded by skin. Collagen is a type of protein found throughout the body. Both men and women can develop skin tags. They tend to occur in older people and people who are obese or have type 2 diabetes.Pregnant women may also be more likely to develop skin tags as a result of changes in their hormone levels.
+ Having a skin condition like Birt-Hogg-Dubé increases your risk of getting noncancerous growths, including skin tags. Skin tags aren’t caused by viruses, bacteria or other organisms that spread infection. Diagnosis and Tests
+How are vaginal skin tags diagnosed? A healthcare provider will usually diagnose skin tags following a brief physical exam.
+ Firstly, they look very similar to warts, which are known to be contagious; and secondly, skin tags can often appear in groups or patches in the same area. The good news is that unlike warts, skin tags can’t spread to other parts of the body. They’re also not contagious, which means that they can’t be passed onto other people. However, that’s not to say that skin tags won’t increase in number or size. This certainly can happen, but if it does, it won’t be due to any germ, bacteria or virus, but to other reasons."
+Question:Are skin tags contagious?
+Your answer:[\INST]
+
+no
+34
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"By reducing the number of bacteria in your mouth, oil pulling can prevent cavities. Once damage from tooth decay has already happened, the oil cannot reverse this damage. A tooth with a hole can only be repaired with a dental filling. If the hole is deep, then a root canal or a crown may be needed. Oil pulling cannot overcome this reality. There is no mineralizing agent in the oil that can remineralize a tooth.
+ Scientists don’t know yet the exact mechanism that makes oil pulling work, they just know that it does. Research has shown that oil pulling reduces the number of cavity-causing bacteria. Further research has also shown that coconut oil is the best acting oil but that sesame is also a very good oil for oil pulling. So if you want to decide which oil to use for oil pulling consider using either sesame or coconut and then go with whichever you prefer. One way in which oil-pulling may work is in the reduction of the acidity in the mouth.
+ While others claim that the oil moisturizes the gums and cures dry mouth, which is known to increase bacteria growth. A Few Words of Caution
+Scientists have found that oil pulling is not as effective as modern mouthwashes when it comes to fighting bacteria that lead to cavities. If oil is accidentally pulled into lungs while swishing, it can lead to lipoid pneumonia, a condition that occurs when lipids accidentally accumulate in the lungs. Some people report developing an upset stomach after oil pulling. Allergic reactions to specific oil types may occur and can lead to dangerous respiratory complications. Tooth decay is not reversible."
+Question:Can oil pulling heal cavities?
+Your answer:[\INST]
+
+no
+35
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Published December 2020. Accessed July 15, 2021. www.dietaryguidelines.gov. A doctor or dietitian can help you learn how to add more high-fiber foods to your diet. If you have hemorrhoids, your doctor may recommend eating more foods
+that are high in fiber. If your hemorrhoids are caused by chronic constipation, try not to eat too many foods with little or no fiber, such as
+cheese
+chips
+fast food
+ice cream
+meat
+prepared foods, such as some frozen and snack foods
+processed foods, such as hot dogs and some microwavable dinners
+ Last Reviewed October 2016
+Share this page
+Print
+Facebook
+Twitter
+Email
+More Options
+WhatsApp
+LinkedIn
+Reddit
+Pinterest
+Copy Link
+Previous:
+                Treatment
+Next:
+                Clinical Trials
+        This content is provided as a service of the National Institute of Diabetes and Digestive and Kidney Diseases
+(NIDDK), part of the National Institutes of Health.
+ To help reduce symptoms of hemorrhoids or the risk of developing them, a person can try avoiding:fried and salty foodschips and other packaged snacksfull-fat dairy productsprepared or heavily processed foodsred meat candies and chocolatessoda, sports drinks, energy drinks, and coffees with added milk, sugar, or creamalcohol excessive caffeine intakeAdditional tips to help treat and prevent piles Several at-home remedies and lifestyle habits may help treat hemorrhoids or reduce the risk of developing them, such as:using over-the-counter (OTC) hemorrhoid creams or suppositories (medications inserted into the rectum) for around 1 week before talking to a healthcare professionalusing OTC laxatives or stool softeners avoiding lifting heavy objects when possible and lifting with the knees trying to avoid straining during bowel movements, holding in bowel movements, or sitting on the toilet too longstaying hydrated by drinking water, fruit juices, clear soups, or other liquids that may help fiber from foods work betterusing OTC pain medicationstaking a sitz bath, sitting in a bath of warm water, several times dailymaintaining a body weight within the recommended healthful rangeavoiding having anal intercoursegetting enough exerciseSummaryEating foods high in fiber, such as pulses (beans, lentils, chickpeas), whole fruits and vegetables, with a high skin-to-flesh ratio and water content, and whole grains, can help ease symptoms of hemorrhoids and prevent them. A person should gradually increase dietary fiber intake to reduce the risk of side effects, such as gas and bloating. People should talk with a doctor about severe or very large hemorrhoids or those that do not improve with at-home care and dietary changes after a week or two. Last medically reviewed on  March 8, 2021UncategorizedVascularNutrition / DietObesity / Weight Loss / FitnessHow we reviewed this article:SourcesMedical News Today has strict sourcing guidelines and draws only from peer-reviewed studies, academic research institutions, and medical journals and associations. We avoid using tertiary references. We link primary sources — including studies, scientific references, and statistics — within each article and also list them in the resources section at the bottom of our articles.
+ A high-fiber diet includes increased amounts of foods, including fruits, vegetables, grains, and legumes. There are many sources for dietary fiber; here are some options:
+Artichokes (cooked)
+Asparagus (cooked)
+Beans (black, navy, pinto) (cooked)
+Broccoli (raw or cooked
+Bran cereal (1/3 cup cooked)
+Brussels sprouts (cooked)
+Carrots (raw or cooked)
+Chickpeas (cooked)
+Fruit (such as apples, bananas, oranges, grapes, berries)
+Mangos
+Nuts & seeds
+Oatmeal
+Oranges
+Pears
+If you're not sure how much fiber is in your diet, many food tracking apps can help. Don't hesitate to get in touch with your gastroenterologist for more information on what to eat and what not to eat with hemorrhoids. Fiber can help treat hemorrhoids by adding bulk to your stool, which helps prevent hemorrhoids from developing or worsening. However, fiber cannot cure hemorrhoids by itself without other treatments."
+Question:Does a high fiber diet help with hemorrhoids?
+Your answer:[\INST]
+
+yes
+36
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Is that true? Answer From Katherine Zeratsky, R.D., L.D. Yes. Grapefruit and certain other citrus fruits, such as Seville oranges, can interfere with several kinds of prescription medications. Don't take these interactions lightly. Some can cause potentially dangerous health problems.
+ - NHS
+Skip to main content
+Search the NHS website
+Search
+                Health A-Z
+                NHS services
+                Live Well
+                Mental health
+                Care and support
+                Pregnancy
+                Home
+                NHS services
+Browse
+                More
+Home
+Common health questions
+Medicines
+Back to 
+            Medicines
+Does grapefruit affect my medicine? Eating grapefruit or drinking grapefruit juice can affect some medicines. In most cases, it increases the level of the medicine in your blood. This can increase the risk of side effects or alter the effect the medicine has.If your usual diet includes grapefruit or grapefruit juice and you've been prescribed a medicine that's affected by grapefruit, speak to your GP or pharmacist. Do not stop taking your medicine without advice.
+ Grapefruit juice and grapefruit can affect the way your medicines work, and that food and drug interaction can be a concern. The U.S. Food and Drug Administration has required that some prescription and over-the-counter (OTC) drugs generally taken by mouth include warnings against drinking grapefruit juice or eating grapefruit while taking the drug. Here are examples of some types of drugs that grapefruit juice can cause problems (interact) with:
+Some statin drugs to lower cholesterol, such as Zocor (simvastatin) and Lipitor (atorvastatin). Some drugs that treat high blood pressure, such as Procardia and Adalat CC (both nifedipine). Some organ-transplant rejection drugs, such as Neoral and Sandimmune capsule or oral solution (both cyclosporine). Some anti-anxiety drugs, such as BuSpar (buspirone)."
+Question:Can grapefruit interfere with medication?
+Your answer:[\INST]
+
+yes
+37
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Additional information about USB-shaped e-cigarettes and actions that parents, educators, and health care providers can take to protect kids is available at CDC’s Infographic [PDF – 1.2MB]
+Top of PageWhy Is Nicotine Unsafe for Kids, Teens, and Young Adults? Most e-cigarettes (vapes) contain nicotine—the addictive drug in regular cigarettes, cigars, and other tobacco products. A CDC study found that 99% of the e-cigarettes sold in assessed venues in the United States contained nicotine.1
+Some vape product labels do not disclose that they contain nicotine, and some vape liquids marketed as containing 0% nicotine have been found to contain nicotine. Nicotine can harm the developing adolescent brain.2 The brain keeps developing until about age 25. Using nicotine in adolescence can harm the parts of the brain that control attention, learning, mood, and impulse control.2
+Each time a new memory is created or a new skill is learned, stronger connections – or synapses – are built between brain cells.
+ Quitting smoking is one of the best things you can do for your health — smoking harms nearly every organ in your body, including your heart. Nearly one-third of deaths from heart disease are the result of smoking and secondhand smoke. You might be tempted to turn to electronic cigarettes (e-cigarettes, vape pens, and other nondisposable and disposable vaping devices) as a way to ease the transition from traditional cigarettes to not smoking at all. But is smoking e-cigarettes (also called vaping) better for you than using tobacco products? Can e-cigarettes help you to stop smoking once and for all? Michael Blaha, M.D., M.P.H., director of clinical research at the Johns Hopkins Ciccarone Center for the Prevention of Heart Disease, shares health information about vaping.
+ DOI:10.1146/annurev-publhealth-040617-013757Kienhuis AS, et al. (2015). Potential harmful health effects of inhaling nicotine-free shisha-pen vapor: A chemical risk assessment of the main components propylene glycol and glycerol. DOI:10.1186/s12971-015-0038-7Kim SA, et al. (2018)."
+Question:Can vape pens be harmful?
+Your answer:[\INST]
+
+yes
+38
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"If you are taking beta-blocker medications for cardiovascular disease, you should also eat fewer bananas, as this class of medications raises potassium levels in the blood.In general, most people with diabetes can eat one or two medium-sized bananas a day, keeping in mind what other fruit you are consuming.Risks of overeating bananasEating too many bananas, especially overripe ones, can raise your blood sugar significantly. You should not eat an entire bunch of bananas at once. Bananas have also been associated with weight gain, which can contribute to the effects of diabetes. Diabetes can contribute to weight gain, and diabetic medications often have weight gain as a side effect, including insulin.However, it is not true that eating too many bananas can cause hyperkalemia. Unless you have kidney disease or are taking medicine that affects potassium levels, the amount of potassium in bananas is normally not high enough to affect your potassium levels.Unripe bananas can sometimes cause constipation, so be careful if you are prone to it. If you have constipation after eating a meal containing unripe bananas, be aware that they could be the culprit.
+ The larger the banana, the more carbs you’ll consume and the greater the rise in your blood sugar will be.Are bananas safe for those with diabetes?Most general dietary guidelines for diabetes recommend following a healthy, balanced diet that includes fruit (22, 23, 24).This is because eating fruits and vegetables has been linked to better health and a lower risk of conditions such as heart disease and some cancers (25, 26, 27, 28). People living with diabetes are at an even greater risk of these diseases, so eating enough fruits and vegetables is important (29, 30, 31, 32). Unlike refined sugar products such as candy and cake, the carbs in fruits like bananas come with fiber, antioxidants, vitamins, and minerals. More specifically, bananas provide fiber, potassium, vitamin B6, and vitamin C. They also contain some antioxidants and beneficial plant compounds (33).For most people with diabetes, fruits — including bananas — are a healthy choice.However, some people who are following low carb diets need to watch their total carbohydrate intake to stay within their daily carb allotment. This means foods higher in carbs, including bananas, have to be limited on low carb diets.If your doctor says you can eat bananas, it’s important to be mindful of the ripeness and size of a banana to reduce its effect on your blood sugar level.SummaryFruits like bananas are healthy foods that contain fiber, vitamins, and minerals. You can include bananas in your diet even if you have diabetes.
+ A person should work with a healthcare professional to define their target carb intake.A doctor or dietitian can also provide more detailed information on portion sizes and balancing intake of fiber, proteins, fats, and carbs in a practical way.A person should follow their diabetes meal plan closely.Keep in mind that eating a banana alongside another source of carbohydrates, such as a piece of toast or cereal, means that the overall carb intake from that meal is higher. Depending on a person’s meal plan and nutritional needs, a doctor or dietitian may recommend swapping out carbs in a later meal.Alternatively, after eating a meal that is lighter on carbs, a person can enjoy a small banana as a snack to balance their carb intake.Do bananas raise blood pressure?Bananas are rich in potassium, an important micronutrient that can support healthy blood pressure levels.In fact, one study found that frequent consumption of several types of fruit, including bananas, was linked to lower blood pressure levels.Furthermore, some research suggests that a potassium-rich diet could reduce the risk of stroke — a condition that is often the result of high blood pressure — by around 25%. NutritionOverall, bananas are nutrient-dense, low in saturated fat and sodium, and rich in fiber.They are also a key source of potassium, a mineral that helps balance sodium levels in the blood.Bananas provide a good mix of other nutrients, including:vitamin B6manganesemagnesiumvitamin CWho should avoid bananas?Individuals with diabetes can enjoy bananas and other fruits in moderation as part of a healthy, well-rounded diet.However, a person should be sure to consult a doctor or dietitian before making any changes to their diet plan, especially if they are taking medications for diabetes or other health conditions.For instance, certain medications used to treat high blood pressure can increase levels of potassium in the blood, which could cause negative side effects if paired with a high potassium diet.Additionally, people with chronic kidney disease may need to limit their intake of potassium-rich foods such as bananas to prevent an increase in blood potassium levels.TakeawayA person with diabetes should include a variety of fresh, whole foods in their diet, such as nutrient-dense fruits and vegetables.Bananas are a safe and nutritious fruit for people with diabetes to eat in moderation as part of a balanced, individualized eating plan.For a more precise diet plan or personalized recommendations, it is a good idea to consult a registered dietitian or diabetes specialist.Q:I know bananas contain a lot of potassium. Does this help reduce the effects of diabetes?A:Potassium is an important nutrient for many processes in the body, such as regulating nerve signals, balancing fluid levels, and supporting muscle contraction.Potassium can be helpful in decreasing complications from diabetes and managing comorbidities, including high blood pressure.It is an important nutrient for decreasing cardiovascular risks, which are often present in those with poorly managed diabetes. Including more fruits and vegetables with important micronutrients, such as potassium, can have a positive impact on diabetes management.Natalie Olsen, RD, LD, ACSM EP-C Answers represent the opinions of our medical experts. All content is strictly informational and should not be considered medical advice."
+Question:Do bananas increase the risk of diabetes?
+Your answer:[\INST]
+
+no
+39
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"These products include:
+cordless phones
+Bluetooth devices
+remote controls for garage door openers
+The radiofrequency EMF given off by Wi-Fi is a type of non-ionizing radiation. The level of radiofrequency EMF emitted from a Wi-Fi device must comply with the Canadian standards established for radiocommunication devices. Health effects of Wi-Fi
+There are no health risks from exposure to radiofrequency EMF from Wi-Fi devices in your home, in schools or other areas accessible to the public. These devices must meet standards to ensure they do not exceed radiofrequency EMF exposure limits. While some of the radiofrequency EMF emitted by Wi-Fi is absorbed in your body, the amount largely depends on:
+the strength of the signal
+how close your body is to a Wi-Fi enabled device
+Measurements of the radiofrequency EMF level from multiple Wi-Fi sources and Wi-Fi enabled devices operating at the same time in the same room were far below the human exposure limits in Safety Code 6. Based on the current scientific evidence the level of radiofrequency EMF emitted from Wi-Fi devices is not harmful to health.
+ Wi-Fi is an important threat to human health. https://www.sciencedirect.com/science/article/pii/S0013935118300355Radiation: 5G mobile networks and health. (2020). https://www.who.int/news-room/q-a-detail/radiation-5g-mobile-networks-and-healthRadiofrequency (RF) radiation. (2020). https://www.cancer.org/cancer/cancer-causes/radiation-exposure/radiofrequency-radiation.htmlSaili L, et al.
+ The intensity of electromagnetic pulses, specific intensities, and length of exposure are important considerations in determining whether WiFi is safe. Is WiFi dangerous for the human body? There are many scientific studies demonstrating the detrimental effects of WiFi on the human body. It causes oxidative stress by increasing the production of free radicals. Increased oxidative stress is responsible for oxidative damages to cellular macromolecules, such as proteins, lipids, and DNA. Some studies regarding the effects of 2.45 GHz WiFi signals on both human and animal health have demonstrated that the radiofrequency electromagnetic radiation emitted by WiFi devices can affect sperm count, motility, and DNA integrity."
+Question:Is wifi harmful for health?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Does it work? Answer From Katherine Zeratsky, R.D., L.D. Apple cider vinegar isn't likely to be effective for weight loss. Proponents of apple cider vinegar claim that it has numerous health benefits and that drinking a small amount or taking a supplement before meals helps curb appetite and burn fat. However, there's little scientific support for these claims. Studies of apple cider vinegar for weight loss have not consistently shown significant and sustainable weight loss across diverse groups of people.
+ A more recent study randomly assigned 39 study subjects to follow a restricted calorie diet with apple cider vinegar or a restricted calorie diet without apple cider vinegar for 12 weeks. While both groups lost weight, the apple cider vinegar group lost more. As with many prior studies, this one was quite small and short-term. In all, the scientific evidence that vinegar consumption (whether of the apple cider variety or not) is a reliable, long-term means of losing excess weight is not compelling. (On the other hand, a number of studies suggest that vinegar might prevent spikes in blood sugar in people with prediabetes and type 2 diabetes by blocking starch absorption — perhaps that’s a topic for another day.) Even among proponents of apple cider vinegar for weight loss or other health benefits, it’s unclear when to drink apple cider vinegar (for example, whether there is particular time of day that might be best?)
+ Timing insulin with food intake becomes a challenge because it is difficult to predict how long it will take for blood sugar to rise after a meal (5).Since apple cider vinegar has been shown to extend the time food stays in your stomach, taking it with meals could worsen gastroparesis (6).SummaryApple cider vinegar helps promote fullness, in part due to delayed stomach emptying. This may naturally lead to lower calorie intake. However, it could worsen gastroparesis for some.It may help you lose weight and body fatResults from a small but widely cited 2009 study indicate that apple cider vinegar has impressive effects on weight and body fat (7).In this 12-week study, 144 Japanese adults with obesity consumed either 1 tbsp (15 mL) of vinegar, 2 tbsp (30 mL) of vinegar, or a placebo drink every day.They were told to restrict their alcohol intake but otherwise continue their usual diet and activity throughout the study.Participants who consumed 1 tbsp of apple cider vinegar per day had — on average — the following benefits:Weight loss: 2.6 pounds (lb), or 1.2 kilograms (kg)Decrease in body fat percentage: 18%Decrease in waist circumference: 0.5 inches (in), or 1.4 centimeters (cm)Decrease in triglycerides: 26%This is what changed in participants who consumed 2 tbsp of apple cider vinegar per day:Weight loss: 4.2 lb, or 1.7 kgDecrease in body fat percentage: 0.9%Decrease in waist circumference: 0.75 in, or 1.9 cmDecrease in triglycerides: 26%The placebo group actually gained 0.9 lb (0.4 kg), and their waist circumference slightly increased.In a 2018 clinical trial involving 39 participants on restricted calorie diets, those who consumed about 2 tbsp (30 mL) of apple cider vinegar daily over 12 weeks lost significantly more weight and body fat than the participants who did not consume apple cider vinegar (8).According to this study, adding 1 or 2 tbsp of apple cider vinegar to your diet may help you lose weight. It may also reduce your body fat percentage, help you lose belly fat, and decrease your blood triglycerides.These are two of only a few human studies that have investigated apple cider vinegar’s effects on weight loss. Although the results are encouraging, additional studies are needed.SummaryIn two studies, people with obesity who took 1–2 tbsp (15–30 mL) of apple cider vinegar daily for 12 weeks lost weight and body fat.Other health benefitsIn addition to promoting weight and fat loss, apple cider vinegar has several other benefits:Lowers blood sugar and insulin: When consumed with a high carb meal, apple cider vinegar has been shown to significantly lower blood sugar and insulin levels after eating (4).Improves insulin sensitivity: Studies suggest that consuming vinegar with a high carb meal may improve insulin sensitivity (9).Lowers fasting blood sugar: Studies have found an association between consuming apple cider vinegar and a significant lowering of fasting blood glucose and glycated hemoglobin (10).Improves polycystic ovary syndrome (PCOS) symptoms: In a small 2013 study of women with PCOS who took vinegar for 90–110 days, 57% resumed ovulation, likely due to improved insulin sensitivity (11).Decreases cholesterol levels: A 2021 research review of nine clinical trials found that apple cider vinegar reduced total cholesterol and triglycerides (12).Lowers blood pressure: Animal studies suggest that vinegar may decrease blood pressure by inhibiting the enzyme responsible for constricting blood vessels. However, human studies haven’t shown significant decreases in blood pressure (13, 14).Kills harmful bacteria and viruses: Studies show that apple cider vinegar may be a powerful fighter against E. coli and S. aureus bacteria as well as resistant Escherichia coli (rE."
+Question:Does drinking apple cider vinegar help lose weight?
+Your answer:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Marx W, McCarthy AL, Ried K, et al. Protocol of a randomized double blind, placebo-controlled trial.
+ However, certain populations should be cautious about using it. It’s best to ask your medical provider for guidance. Common uses for nauseaStudies show that ginger may prevent and treat nausea and vomiting caused by various conditions (7, 14, 15). Here are some of the best-studied uses for the root in managing nausea.PregnancyAn estimated 80% of women experience nausea and vomiting during the first trimester of pregnancy. As such, most research on this application for ginger has been conducted in the first and second trimester (2). Ginger has been found to be more effective than a placebo at reducing morning sickness during pregnancy for many women (2).
+ The quick answer is yes, research has shown that ginger can increase the responsiveness of the digestive system and speed stomach emptying, which leads to reduced feelings of nausea.1 The spicy herb also has anti-inflammatory properties that also improve digestion, but also supports blood-pressure-regulating hormones that calms the body and also reduces nausea.2
+How does ginger relieve feelings of nausea? So, we already know that ginger has a positive effect on the digestive system and blood pressure, which leads to reduced feelings of nausea, but what's the science behind it all? Ginger gets most of its health benefits  from the main bioactive component gingerol and related compounds called shogaols. Gingerols and shogaols work by blocking the actions of the neurotransmitters acetylcholine and serotonin in the body."
+Question:Does ginger help with nausea?
+Your answer:[\INST]
+
+yes
+40
+
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"This fact sheet answers basic questions about genital herpes. What is genital herpes? Genital herpes is an STD caused by two types of viruses – herpes simplex virus type 1 (HSV-1) and herpes simplex virus type 2 (HSV-2). What is oral herpes? HSV-1 often causes oral herpes, which can result in cold sores or fever blisters on or around the mouth. However, most people with oral herpes do not have any symptoms.
+ Reviewed by:  Lonna P. Gordon, MD
+Adolescent Medicine at Nemours Children's Health
+Listen
+Play
+Stop
+Volume
+mp3
+Settings
+Close Player
+Larger text sizeLarge text sizeRegular text size
+ Print
+Can you get genital herpes from a cold sore? – Lucy*
+Yes — it is possible to get genital herpes from oral sex. Genital herpes is caused by the herpes simplex virus (HSV). There are two types of herpes viruses, HSV-1 and HSV-2. Oral herpes (cold sores) is usually caused by HSV-1. Someone with HSV-1 can spread the virus through oral sex, even if they don't have sores at the time.
+ Prevention steps include abstaining from oral sex, using condoms, and taking medication to suppress the herpes virus. Frequently Asked Questions
+Can a cold sore be passed to the genital area? Yes, oral herpes can cause genital herpes. In fact, roughly one-third of genital herpes cases are caused by the virus that causes cold sores. Yes, in theory."
+Question:Can a cold sore cause genital herpes?
+Your answer:[\INST]
+
+yes
+41
+
+Accuracy:0.82

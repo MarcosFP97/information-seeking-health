@@ -1,0 +1,645 @@
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Physical therapy and massage that promote gently stretching (and later strengthening) of your calf muscles can be beneficial. Wearing a compression sock, ankle brace, or walking boot to provide support and to prevent heel movement is also very helpful. There are many ankle supports designed specifically for Achilles Tendonitis to counteract irritation to the tendon, through support and compression. For more severe issues (and following surgery) a rigid boot with a 'wedge' can be used to keep the ankle in a slightly flexed (foot pointed down) position to protect the tendon from overstretching while it heals. Here are some examples of Ankle supports for Achilles Tendonitis: 
+                            VacoCast Pro Achilles Walking Boot                        
+Contact us to order
+                            Sporlastic Achillodyn Achilles Tendon Support                        
+As low as
+$152.50
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Sporlastic Achillo-Hit Achilles Support                        
+As low as
+$177.00
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Ossur Rebound Air Walker                         
+As low as
+$188.23
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Ossur Rebound Achilles Wedge Kit                        
+As low as
+$77.33
+Add to Cart
+Add to Wish List
+Add to Compare
+                            OS1st FS4 Merino Wool Socks - No Show (Pair)                        
+As low as
+$57.85
+Add to Cart
+Add to Wish List
+Add to Compare
+                            OS1st FS4 Merino Wool Socks - Crew (Pair)                        
+As low as
+$59.93
+Add to Cart
+Add to Wish List
+Add to Compare
+                            OS1st FS4 Merino Wool Socks - 1/4 Crew (Pair)                        
+As low as
+$57.90
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Medi Achimed Tendon Support                        
+As low as
+$175.21
+Add to Cart
+Add to Wish List
+Add to Compare
+                            McDavid Runners' Therapy Achilles Sleeve                        
+As low as
+$58.43
+Add to Cart
+Add to Wish List
+Add to Compare
+                            DonJoy AchiLax - Achilles Ankle Brace                        
+As low as
+$106.00
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Bauerfeind ViscoHeel Cushion (Pair)                        
+As low as
+$70.00
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Bauerfeind AchilloTrain Pro Ankle Brace                        
+As low as
+$180.00
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Bauerfeind AchilloTrain Ankle Brace                        
+As low as
+$180.00
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Aircast AirSelect Standard Walking Boot                         
+1                 Review                
+As low as
+$178.21
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Aircast AirSelect Elite Walking Boot                        
+As low as
+$264.31
+Add to Cart
+Add to Wish List
+Add to Compare
+                            Aircast Airheel                         
+As low as
+$81.47
+Add to Cart
+Add to Wish List
+Add to Compare
+Need Help Picking an Ankle Brace?"
+Question:Will wearing an ankle brace help heal achilles tendonitis? The answer must be yes or no.
+Your answer:
+yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"With an infection or other illnesses, various chemicals are released in our body. This re-adjusts the thermostat, resulting in fever. Experts from 
+      KK Women's and Children's Hospital (KKH), a member of the 
+      SingHealth group, shares facts about fevers and home remedies to help a child break a fever.Did You Know?• Fever is the body's way to fight infection. However, it is not just caused by infections alone• How high a fever it does not indicate the severity of the illness that is causing the fever• Overwrapping and a generally hot environment can cause the body temperature of a child to be slightly above normal• Fever caused by viral infections may persist for up to five to seven days and will only completely settle when the viral fever has resolved• High fever per se does not cause brain damage, though a small percentage between six months to six years may have seizures with high fever. However, febrile seizures usually do not lead to brain damageHome remedies for fevers• Tepid sponging 
+      o May help if the temperature is more than 39.5 °Co Use tap or lukewarm water to spongeo Apply the cool compress to forehead, nape of neck, armpits and groino Proceed to sponge body starting with the front then to the back. Avoid sponging for more than 30 minutes at a stretcho Stop sponging when shivering occurs, or when the child turns blueo When your child shivers, cover him up and wait a while before resuming sponging• Encourage your child to take plenty of fluids• Dress your child in light clothing to allow heat exchange• Keep the room environment cool and well-ventilated to allow the ambient temperature to help bring the fever downLearn about 
+      what to avoid giving your child during a fever and when to consult a doctor."
+Question:Is a tepid sponge bath a good way to reduce fever in children? The answer must be yes or no.
+Your answer:
+yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Just a moment...
+            www.sciencedirect.com
+            Checking if the site connection is secure
+                        Enable JavaScript and cookies to continue
+            www.sciencedirect.com needs to review the security of your connection before proceeding."
+Question:Can folic acid help improve cognition and treat dementia? The answer must be yes or no.
+Your answer:
+no
+
+1
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"1. Sandpaper and duct tape
+A combination of sandpaper and duct tape is one wart removal remedy that is more likely to work than others, so get ready to head to your local hardware store. “Keep the wart covered with duct tape 24 hours a day,” says Dr. Piliang. “If the tape falls off, you need to quickly replace it. The skin underneath will become wet, pale and wrinkled, and warts dislike that. Keep it on for two to three weeks, and if the wart looks smaller, then continue using the duct tape until it goes away.”
+Once the wart is white and soft, you can gently rub it with sandpaper to remove the outer layer."
+Question:Does duct tape work for wart removal? The answer must be yes or no.
+Your answer:
+yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Some things to avoid:
+Don’t touch the burn or apply ice. Don’t put a child with burns into a bath full of cold water. If blisters develop don’t pop them, and visit your doctor in case they need to be removed. Don’t use any ointments, creams, lotions or fat on a burn. They seal heat in and cause more damage. What are the symptoms of a burn or scald?"
+Question:Should I apply ice to a burn? The answer must be yes or no.
+Your answer:
+no
+
+2
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Other small studies show that alpha-lipoic acid, folic acid, vitamin C and vitamin B-12 plus phototherapy may restore skin color for some people. As with any nonprescription treatment, check with your health care provider before trying alternative medicine therapies to be sure they won't interfere with other treatments you're using. Coping and supportThe change in your appearance caused by vitiligo might make you feel stressed, self-conscious or sad. These self-care approaches can help you cope with vitiligo:
+Make a good connection. Find a doctor who knows a lot about the condition. A dermatologist is a doctor who specializes in the care of skin."
+Question:Can vitamin b12 and sun exposure together help treat vitiligo? The answer must be yes or no.
+Your answer:
+yes
+
+3
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"(1) Another from 2016 came upon similar results, finding moderate evidence that yoga provides some benefits to those living with asthma. (2)
+With the guidance of a yoga therapist, people with asthma can promote more effective breathing and develop their breath control through yogic breathing exercises. People with asthma often find their body has to work harder to breathe correctly, and they may develop more anxiety concerning their breath, which can exacerbate symptoms. Techniques such as diaphragmatic breathing can open airways, strengthen abdominal muscles and improve heart and lung function, potentially soothing asthma symptoms and making sufferers feel more in control. As stress is a trigger (and can exacerbate other triggers) of asthma attacks, yoga’s function of calming people’s nervous system and relieving panic can be extremely valuable for those living with asthma. For most people, having an asthma attack can be extremely frightening, and over time fear of symptoms may grow."
+Question:Does yoga improve the management of asthma? The answer must be yes or no.
+Your answer:
+yes
+
+4
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"DusanManic / Getty Images
+This, however, is a remedy of the past that should stay there. Starving is not recommended for treating any sickness. In fact, it can actually deprive your body of what it needs to fight off infection, delaying your recovery.﻿﻿
+   Why It Doesn't Work  
+When your body is combating a cold, it needs energy in the form of calories to fight off infection and recover. The same applies when you have a fever—and it may be even more important in that case. A fever is just one of the ways your immune system fights off infection. When your body temperature is higher than normal, your immune system ramps up its production of the antibodies it needs to do its job."
+Question:Is starving a fever effective? The answer must be yes or no.
+Your answer:
+no
+
+5
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"They also noted that plasma selenium levels decrease with age, possibly explaining why older men are more likely to develop prostate cancer than younger men. These results suggest that taking supplemental selenium may reduce risk of prostate cancer. However, clinical trials are needed to confirm that supplemental selenium can help prevent the development of prostate cancer.6References:Dietary Supplement Fact Sheet: Selenium. National Institutes of Health, Office of Dietary Supplements website. Page last updated November, 2009.Dennert G, Zwahlen M, Brinkman M, Vinceti M, Zeegers MPA, Horneber M. Selenium for preventing cancer. Cochrane Database of Systematic Reviews 2011, Issue 5."
+Question:Does selenium help prevent cancer? The answer must be yes or no.
+Your answer:
+yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Fortunately, birth control can also help prevent ovarian cysts and can even help to reduce the risk of ovarian cancer. If women have been diagnosed with ovarian cysts, or are at an increased risk, they should strongly consider taking birth control. Birth control, in all its forms, suppresses ovarian function and prevents ovulation. The pill, a patch, ring, injection and implant all work to achieve these goals and prevent ovarian cysts from occurring in women. Schedule a Gynecologist Appointment  
+There is no one better to help a woman with ovarian cyst prevention than a medical doctor who is board certified in obstetrics and gynecology. A gynecologist has the ability to diagnose, treat and educate patients on ovarian cysts from what they are to the best ways to prevent them."
+Question:Will taking birth control pills treat an ovarian cyst? The answer must be yes or no.
+Your answer:
+no
+
+6
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"If your doctor suspects a serious zinc depletion or you also suffer with fibroids, you may need to take as much as 30 mg to provide your body with the amount it needs. Just be sure to also take a multi-vitamin containing copper (especially if using a higher zinc dosage), since zinc can cause a copper deficiency in some people. Adding more zinc to your system may not guarantee a pregnancy, but it sure can help to ensure that you have all of the minerals your body needs to produce strong eggs and sperm and is prepared as best as it can be for the job of building a baby ahead. References
+Assisted Reproductive Technology (ART). (n.d.). Retrieved from: https://www.cdc.gov/art/index.html
+Office of Dietary Supplements – Zinc."
+Question:Will taking zinc supplements improve pregnancy? The answer must be yes or no.
+Your answer:
+no
+
+7
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Just a moment...
+            onlinelibrary.wiley.com
+            Checking if the site connection is secure
+                        Enable JavaScript and cookies to continue
+            onlinelibrary.wiley.com needs to review the security of your connection before proceeding."
+Question:Can evening primrose oil help treat eczema? The answer must be yes or no.
+Your answer:
+no
+
+8
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Ankle braces provide varying levels of support, stability, and comfort. According to Podiatry Today, there are five different types of ankle braces that your doctor or trainer may consider, depending on the severity of your injury. Sleeves – Least stable, most comfortable; often worn under a more stable brace for comfort
+Straps – Hook and loop strap braces typically wrap around the ankle; take care to not make the brace too tight
+Stirrups – Stirrup braces are designed to limit lateral motion, and are often prescribed as an alternative to a splint or boot
+Lace Ups – Usually made of rigid materials to provide more stability; newer designs are often combined with Hook and loop straps to improve comfort
+Hybrids – Combine different aspects of all of the above-mentioned braces for comfort and stability
+            What Kind Of Ankle Support Do You Need? Ankle braces provide varying levels of support, stability, and comfort. According to Podiatry Today, there are five different types of ankle braces that your doctor or trainer may consider, depending on the severity of your injury. Sleeves – Least stable, most comfortable; often worn under a more stable brace for comfort
+Straps – Hook and loop strap braces typically wrap around the ankle; take care to not make the brace too tight
+Stirrups – Stirrup braces are designed to limit lateral motion, and are often prescribed as an alternative to a splint or boot
+Lace Ups – Usually made of rigid materials to provide more stability; newer designs are often combined with Hook and loop straps to improve comfort
+Hybrids – Combine different aspects of all of the above-mentioned braces for comfort and stability
+            SOURCES
+American Orthopaedic Foot & Ankle Society | National Athletic Trainers’ Association Position Statement: Conservative Management and Prevention of Ankle Sprains in Athletes (PDF, 572.57 KB) | Podiatry Today | Well.Blogs, NY Times
+	Related Product Categories
+Ankle, Foot, & Calf
+	Articles You May Enjoy
+	Repetitive Strain Injury - Preventing RSI
+Are you at risk for RSI?"
+Question:Do ankle braces help heal an ankle fracture? The answer must be yes or no.
+Your answer:
+no
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Just a moment...
+            www.researchgate.net
+            Checking if the site connection is secure
+                        Enable JavaScript and cookies to continue
+            www.researchgate.net needs to review the security of your connection before proceeding."
+Question:Can applying vitamin E cream remove skin scars? The answer must be yes or no.
+Your answer:
+no
+
+9
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Magnesium
+This mineral, which is found in the body and in many foods, especially high-fiber ones, works by activating enzymes in the body and is crucial to nerve transmission and other important functions. People with migraines may have lower levels of magnesium than those who don't have migraines, which is why it may be effective. The best evidence comes from a 1996 study in Cephalalgia of 81 patients who were given either 600 mg of magnesium or a placebo every day for 12 weeks. In the magnesium group, the frequency of attacks was reduced by 41.6 percent during weeks 9 through 12 and by 15.8 percent in the placebo group. Those taking magnesium also had fewer migraine days and took fewer drugs to treat symptoms. Recommended dose: 600 mg daily for prevention."
+Question:Can magnesium help prevent migraine? The answer must be yes or no.
+Your answer:
+yes
+
+10
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Type 1 diabetes – Exercise and sport - NHS
+Skip to main content
+Search the NHS website
+Search
+                Health A-Z
+                NHS services
+                Live Well
+                Mental health
+                Care and support
+                Pregnancy
+                Home
+                NHS services
+Browse
+                More
+Home
+Health A to Z
+Type 1 diabetes
+Living with type 1 diabetes
+Back to 
+            Living with type 1 diabetes
+      Exercise and sport
+You can exercise and do sports if you have type 1 diabetes. You'll just have to take some extra steps to make sure you do it safely.Exercise and sport can affect your blood glucose levels. Depending on the type of activity you do, it may cause your blood glucose levels to rise (hyperglycaemia) or drop (hypoglycaemia).Moderate exercise that lasts a while, like walking or cycling, can cause a slow drop in blood glucose levels.Some exercise, like running or football, might cause your blood glucose levels to rise.There are things you can do to help you manage your blood glucose levels.You can avoid hypos by eating the right amount of carbs before, during and after exercise.You should adjust your insulin and check your blood glucose regularly. Your diabetes team can help.Exercise affects everyone differently and it might take a little while to find out what works for you. But try to stick with it.Exercise is not only good for your physical and mental health, it also helps reduce glucose spikes after meals.As a general rule:check your blood glucose level before and during exercise – this'll help you work out what you should eat and when to adjust your insulinrecord your blood glucose levels and what you eat when you exercise – share this with your diabetes team to help find what works for youcheck your blood glucose levels regularly after exercise (they can drop up to 12 hours after exercise) – you may need to take extra carbohydrate or a lower dose of insulin before bedif you exercise, it's likely you'll need extra carbohydrate to prevent hyposdrink plenty of water while you exercise
+Information: 
+Find out moreDiabetes UK has more information on sports nutrition and type 1 diabetesRunsweet offers advice on managing diabetes with sport
+          More in
+            Living with type 1 diabetes
+                    Avoiding complications
+                    What to do when you're ill
+                    Alcohol and drugs
+                    Diabetes and travel
+                    Check you're safe to drive
+                  Exercise and sport
+                    Pregnancy and giving birth
+                    Going to university
+                    Get support
+      Page last reviewed: 6 August 2021
+      Next review due: 6 August 2024
+Support links
+Home
+Health A to Z
+Live Well
+Mental health
+Care and support
+Pregnancy
+NHS services
+Coronavirus (COVID-19)
+NHS App
+Find my NHS number
+Your health records
+About the NHS
+Healthcare abroad
+Contact us
+Other NHS websites
+Profile editor login
+About us
+Accessibility statement
+Our policies
+Cookies
+© Crown copyright"
+Question:Does exercise help manage diabetes? The answer must be yes or no.
+Your answer:
+yes
+
+11
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"This fermented milk drink has been shown to bring many health benefits, and now, researchers explain how it could protect cardiovascular health.Share on PinterestKefir is a tasty, healthful drink that works wonders for our gut microbiota. This, it turns out, could also keep cardiovascular problems at bay.Kefir is a milk-based drink made by adding kefir grains — whitish grains obtained through the fermentation of specific bacteria and yeast — that allow it to obtain the specific creamy thickness and slightly sour taste.This probiotic drink has traditionally been tied to numerous benefits — especially its wholesome effects on the gut microbiome and digestion.But now we know that the bacteria in our guts influence more than just a good digestion.The microorganisms that populate our guts have been shown to communicate with the brain, which gives them the potential to influence plenty of processes in our body.A study from last year even showed that people with coronary heart disease exhibited differences in the composition of their gut microbiota, compared with people without this condition.Probiotics to the rescue?Another paper, this one published in the journal Nature, noted that a well-balanced gut microbiome could protect against high blood pressure, though the underlying biological mechanisms through which it is able to accomplish this remained unclear.Yet this discovery led the study’s authors to hypothesize that we could wield probiotic supplements as a weapon against hypertension, as they would promote healthful bacterial diversity.“I think,” said one of the scientists, “certainly there’s some promise in developing probiotics that could be targeted to possibly fixing some of the effects of a high-salt diet [responsible for high blood pressure].”However, researchers at Auburn University in Alabama and the University of Vila Velha in Espirito Santo, Brazil, are taking the question closer to home.In a recent study, they worked with a rat model to see whether kefir’s probiotic properties would influence gut health and help to lower blood pressure.Their findings were presented earlier this week at the annual Experimental Biology conference, held in San Diego, CA.From gut to brain to cardiovascular systemIn order to see whether, and how, a diet that consistently integrated kefir would influence blood pressure, the team — which was led by Mirian Silva-Cutini, of Auburn University — worked with three different groups of rats:Those in the first group had high blood pressure, and they were given kefir on a regular basis for a period of 9 weeks.Those in the second group also had high blood pressure, but they were not given kefir.Those in the third group had no blood pressure problems, and they were not given kefir (the controls).After the 9-week period, stool and blood samples were taken taken from all the rats in order to establish which changes had — or had not — occurred in their gut microbiota, and to test for specific toxins that might be released by some bacteria.Blood pressure was also measured, and the team used “immunofluorescence” to look at patterns of neural changes in the hypothalamus. This region of the brain plays an important role in regulating some basic processes in the body, including blood pressure.Silva-Cutini and colleagues discovered that the rats who had regularly been consuming kefir for 9 weeks exhibited lower levels of endotoxins, which are harmful substances that are a byproduct of bacterial disintegration. Endotoxins are known to contribute to inflammation.The same rats also presented lower blood pressure and had an improved intestinal structure, as the permeability — that is, how easily various microbes and substances can leak into the system — of the intestines was lowered.Another finding was that kefir-drinking rats had regained the balance of helpful bacteria in the gut microbiota, and the level of inflammation in their central nervous systems was reduced.The results indicate that kefir’s effect on gut bacteria is reflected in the kinds of signals transmitted by the brain to the rest of the system. Thus, a balanced gut microbiome appears to influence the brain to lower blood pressure to healthy levels.“Our data suggests that kefir antihypertensive-associated mechanisms involve gut microbiota-brain axis communication during hypertension,” the researchers conclude.HypertensionCardiovascular / CardiologyInfectious Diseases / Bacteria / VirusesNutrition / DietShare this articleBy Maria Cohut, Ph.D. on April 27, 2018 — Fact checked by Jasmin CollierLatest newsAlzheimer's: Does genetic predisposition to ADHD increase risk later in life?Are meat substitutes missing key nutrients, and if so, which?New PTSD treatment avenue? Blocking serotonin may reduce fearEczema and children: Lotions, creams, emollients may help prevent the conditionHemorrhagic stroke: Long-term statin use may significantly lower riskRelated CoverageKefir: Health benefits, risks, and how to make itMedically reviewed by Kim Chin, RDKefir is a fermented drink that traditionally contains milk and live probiotic cultures."
+Question:Can fermented milk help mitigate high blood pressure? The answer must be yes or no.
+Your answer:
+yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Eucrisa (crisaborole) ointment and Dupixent (dupilumab) injection are indicated for topical treatment of atopic dermatitis (eczema) in patients 2 years of age and older. A difference is Eucrisa is used to treat mild to moderate atopic dermatitis and Dupixent is used to treat moderate-to-severe atopic dermatitis. What Are Possible Side Effects of Eucrisa? Common side effects of Eucrisa include:
+application site pain
+What Are Possible Side Effects of Dupixent? Common side effects of Dupixent include:
+injection site reactions, 
+pink eye (conjunctivitis), 
+swollen or puffy eyelids, 
+oral herpes, 
+inflammation of the cornea (keratitis), 
+eye itching, 
+other herpes simplex virus infection, and 
+dry eye."
+Question:Can dupixent treat eczema? The answer must be yes or no.
+Your answer:
+yes
+
+12
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"It can also improve sleep habits and reduce stress. Researchers who have studied the effects of yoga on people with conditions like osteoarthritis and rheumatoid arthritis, found that weekly yoga classes significantly improved physical function and reduced pain in the study participants. Here are some basic poses for arthritis pain sufferers. But remember, these poses should be modified to compensate for specific joint disorders:
+Warrior Pose (Veerbhadrasana)
+Strengthens the knees and shoulders. It also releases stress and promotes balance. Bow Pose (Dhanurasana)
+Opens the shoulders and back and improves flexibility."
+Question:Does yoga help reduce pain from arthritis and improve physical function? The answer must be yes or no.
+Your answer:
+yes
+
+13
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"GoodRx is not available outside of the United States. If you
+        are trying to access this site from the United States and believe you have
+        received this message in error, please reach out to
+        legal@goodrx.com
+        and let us know."
+Question:Can the drug Imitrex (sumatriptan) treat acute migraine attacks? The answer must be yes or no.
+Your answer:
+no
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"It’s characterized by a long list of symptoms, similar to those of depression, that usually occur in fall and winter “due to the shortening in day length and lower light intensity,” according to Hanne M. Hoffman, an assistant professor at Michigan State University who studies how light affects our physiology. Symptoms of SAD can include feelings of hopelessness and helplessness, difficulty concentrating, and the loss of libido, to name a few, says Dr. Gail Saltz, a clinical associate professor of psychiatry at NewYork–Presbyterian Hospital. Norman E. Rosenthal, the clinician and researcher credited with discovering SAD, also says that many may feel less energetic and have a greater need for sleep and an increased appetite — “especially for sweets and starches.” If you think you might be suffering from SAD, the best first step is to talk to your doctor or therapist. The most common treatment for SAD is light therapy, a.k.a. “SAD lamps.” These lamps are specially “designed to mimic sunlight” and when used correctly, can cause chemical changes in the brain, tricking it into thinking it’s summer so it will release much-needed serotonin. But according to Janna Gordon-Elliott, a psychiatrist at Weill Cornell Medicine and NewYork–Presbyterian, SAD lamps aren’t regulated by the FDA, so it’s important to not just “buy the cheapest thing on Amazon or the thing that’s more portable.” With that said, the Center for Environmental Therapeutics, a nonprofit research and education institution and the leading authority on SAD and light therapy, does offer guidance on what to look for in a legitimate SAD lamp as well as other helpful resources."
+Question:Will buying a light therapy lamp help treat depression? The answer must be yes or no.
+Your answer:
+yes
+
+14
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"They all work best if you use them when the migraine is just beginning. Start with a non-prescription pain drug like acetylsalicylic acid (ASA), ibuprofen or acetaminophen. If these are not helpful, you can try other non-steroidal anti-inflammatory drugs (NSAIDs), some of which need a prescription, like diclofenac potassium and naproxen sodium. If these drugs do not help, or your headaches are more severe, try one of the prescription migraine drugs called triptans, such as sumatriptan (Imitrex and generic). If a triptan is helpful but not as effective as you would like, you may combine a triptan with an NSAID (take them simultaneously). If the above options are not helpful, you can try dihydroergotamine nasal spray (Migranal)."
+Question:Does Aleve relieve migraine headaches? The answer must be yes or no.
+Your answer:
+yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"We're sure you've also heard of putting toothpaste on a pimple to make it go away (Gigi Hadid swears by this trick). But this is without a doubt one of those beauty hacks that need to be put to bed. In other words, do not pass go, do not collect two hundred dollars, and do not, we repeat, do not apply toothpaste as a spot treatment. Primarily, using toothpaste as a breakout remedy plays into the whole "dry up a pimple to get rid of it" trope."
+Question:Can I get rid of a pimple overnight by applying toothpaste? The answer must be yes or no.
+Your answer:
+no
+
+15
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Accessed Oct. 24, 2020. N-acetyl glucosamine (NAG). Natural Medicines. Accessed Oct. 24, 2020."
+Question:Can chondroitin help relieve the pain of osteoarthritis? The answer must be yes or no.
+Your answer:
+no
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Kim HS, Kim H, Jeong YJ, et al. Comparative analysis of the efficacy of omega-3 fatty acids for hypertriglyceridaemia management in Korea. Tatachar A, Pio M, Yeung D, et al."
+Question:Can omega-3 help manage hypertriglyceridemia? The answer must be yes or no.
+Your answer:
+yes
+
+16
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Probiotics for the Prevention of Upper Respiratory Tract Infections | AAFP
+Advertisement
+                            search
+                            close
+        PAUL CRAWFORD, MD, AND ERIK CLAUSON, DO
+Am Fam Physician. 2015;92(7):573
+Author disclosure: No relevant financial affiliations. Number needed to treat = 8 to prevent infectionBenefitsHarms1 in 8 upper respiratory tract infections prevented over at least 3 monthsNone were harmed
+Details for This Review
+Study Population: Healthy children and adults from six countries at average risk of upper respiratory tract infection (URTI)
+Efficacy End Points: Incidence of URTI, duration of illness, work or school days lost
+Harm End Points: Medication adverse effects
+Narrative: Most treatments of URTI aim to control symptoms, because URTIs tend to self-remit in a few days to a week. It has been suggested that certain probiotic agents have the potential to prevent and mitigate URTI through immune-modulating properties. This Cochrane review examined 12 randomized trials (n = 3,720) of probiotics vs. placebo to prevent URTI.1 Included trials variably enrolled healthy children, adults, and older adults, while excluding trials examining persons at low risk (competitive athletes) and high risk (children prone to otitis). The studies demonstrated a reduction in episodes (number needed to treat to prevent one URTI = 8 during at least three months of treatment) and duration of URTI (mean difference = −1.89 days; 95% confidence interval [CI], −2.03 to −1.75)."
+Question:Can probiotics prevent respiratory infections? The answer must be yes or no.
+Your answer:
+yes
+
+17
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Field T, Diego M, Delgado J, et al. Rheumatoid arthritis in upper limbs benefits from moderate pressure massage  therapy. 2013;19(2):101–103. Tillett J, Ames D. The uses of  aromatherapy in women's health."
+Question:Can aromatherapy massage help manage rheumatoid arthritis? The answer must be yes or no.
+Your answer:
+yes
+
+18
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Croup is always worst at night. What can you do for it? There are two ways to treat croup at home, and they are exact opposites: shower steam and cold air. Shut the bathroom door and allow the room to fill with steam. Sit with your child on the floor or on the toilet, allowing her to breathe in the steam for 10-20 minutes."
+Question:Does steam from a shower help croup? The answer must be yes or no.
+Your answer:
+yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Minoxidil—a drug normally used topically to treat hair loss—is beginning to gain traction as an oral medicine for the same reason. Some dermatologists even say that the drug in its oral form regrows hair better (and for less money) than how it's commonly used. The news comes from a recent article from The New York Times, highlighting the use of low-dose oral minoxidil pills—a relatively unknown hair loss treatment by both patients and doctors. Prescribing medication in this way is what's known as off-label use. Though minoxidil is approved by the U.S. Food and Drug Administration (FDA) to treat hair loss in topical form (it's the active ingredient in Rogaine), it has not been approved for oral use for hair loss. The drug is, however, FDA-approved as an oral treatment for high blood pressure, in higher doses."
+Question:Can minoxidil treat hair loss? The answer must be yes or no.
+Your answer:
+yes
+
+19
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Enter your email address below and we will send you the reset instructions
+Email
+Cancel
+If the address matches an existing account you will receive an email with instructions to reset your password. 7, NO. 5
+                         | 
+Book Reviews
+normal
+                Book Reviews
+Published Online:
+            5 Jul 2004
+Doi:
+https://doi.org/10.1089/10755530152639800
+Article
+Article Tools TitleAdd to favoritesDownload CitationsTrack CitationsPermissionsReprints
+ShareShare onFacebookTwitterLinked InRedditEmail
+Access content
+            To read the fulltext, please use one of the options below to sign in or purchase access."
+Question:Is the Hoxsey treatment a good cure for cancer? The answer must be yes or no.
+Your answer:
+no
+
+20
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Green tea, black tea, and certain types of mushroom naturally contain L-theanine.L-theanine may affect the levels of certain chemicals in the brain. These include serotonin and dopamine, which influence mood, sleep, and emotion, and cortisol, which helps the body deal with stress.A change in the balance of these chemicals can change a person’s mood or stress levels.Small studies and tests on animals have shown that L-theanine may offer a range of benefits. Experts consider it to be generally safe, but there is currently a lack of high-quality research in humans to confirm its benefits.What are the benefits of L-theanine?The following sections discuss the existing evidence for the possible benefits of L-theanine.1. Better mental focusMany people drink black or green tea while at work, believing that it boosts their mental focus. A 2012 study supports this idea.The researchers found that people who took 100 milligrams (mg) of L-theanine made fewer errors in an attention task than those in the placebo group. Drinking 50 mg of caffeine or combining the L-theanine and caffeine also improved people’s focus.More research is necessary to determine how L-theanine might affect a person’s attention and focus.2."
+Question:Can l-theanine supplements reduce stress and anxiety? The answer must be yes or no.
+Your answer:
+yes
+
+21
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Just a moment...
+            www.sciencedirect.com
+            Checking if the site connection is secure
+                        Enable JavaScript and cookies to continue
+            www.sciencedirect.com needs to review the security of your connection before proceeding."
+Question:Does inhaling steam help treat common cold? The answer must be yes or no.
+Your answer:
+no
+
+22
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Although in another study, there were only small effect in favor of exercise in the inhibition of depression, the small sample size, a high heterogeneity in the participants, interventions and methods of measurement may limit the ability to draw positive results (73). In addition, studies from different countries and regions supported the beneficial of regular exercise on depression. A study including 312 Spanish patients with clinically significant depression over 65 years old reported that at least 60 min daily moderate-intensity regular exercise (muscle strengthening, aerobic exercise, flexibility and balance exercises) could significantly alleviate depression symptoms (60). An 8 year follow-up study in Finland found persons with dyskinesia and a sedentary lifestyle were at higher risk for depression compared with physically active individuals with intact mobility (74). A prospective cohort study from Taiwan reported that three times a week of moderate intensity (at least 15 min per time) continuous exercise could significantly decrease the risk of depressive symptoms, suggesting moderate-intensity regular exercise was beneficial way to improve mental health (61). Furthermore, a study in Myanmar and Vietnam found participant with less sedentary behavior and high physical activity were at lower risk of having depression (62)."
+Question:Does exercise improve the symptoms of depression? The answer must be yes or no.
+Your answer:
+yes
+
+23
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"If you have symptoms or just feel unwell in the weeks following a tick bite, seek medical attention and advise your healthcare provider that you have been bitten by a tick. DO NOT burn the tick or use nail polish, petroleum jelly (e.g. These methods may inject Lyme disease bacteria into the skin. All rights reserved."
+Question:Can I remove a tick by covering it with Vaseline? The answer must be yes or no.
+Your answer:
+no
+
+24
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"They cannot be caught from animals.More than half of all 4 to 11 year-olds catch head lice every year, while symptoms often include an itchy scalp or feeling that your scalp is moving, some people don’t report any symptoms.A close-up photo of a head louse [Photo: Getty]How to treat head liceSo if mayonnaise and garlic don’t work what should parents be doing to get rid of head lice?According to Shamir Patel, founder of Chemist 4 U one of the best ways to get rid of head lice is by a process known as wet combing.“The only DIY treatment I would recommend is conditioner and wet combing," he tells Yahoo UK. "Head lice can be removed by applying plenty of any type of hair conditioner to dry hair and then combing to remove live lice and eggs.Patel explains that the conditioner makes it hard for the lice to move and traps them in the teeth of the comb.“It also detangles hair, making combing easier," he adds.READ MORE: Pink dyes eight-year-old's daughter's hair, hits out at 'parenting police'The NHS advice says this method should be tried first.It should take approximately 10 minutes to comb short hair, and 20 to 30 minutes for long, frizzy or curly hair.The site advises to continue wet combing on days 1, 5, 9 and 13 to catch any newly hatched head lice before checking again that everyone's hair is free of lice on day 17.If you’ve tried wet combing for 17 days and your child is still not nit-free, the NHS says you should ask a pharmacist for advice.“They may recommend using medicated lotions and sprays,” the site explains.“These kill head lice in all types of hair, and you can buy them from pharmacies, supermarkets or online.”But in recent years there has been concerns that head lice could be becoming immune to certain treatments.Back in 2016, a US study revealed that 98 per cent of head lice have developed a resistance to pyrethrins and permethrins - the active ingredients in most remedies available in pharmacies.Last year, parents were warned there could be a big rise in head lice outbreaks in schools over the winter period.A change in NHS England guidance means GPs are now routinely prevented from prescribing treatment for the parasites, causing the health charity Community Hygiene Concern to predict that low-income families could be hit hardest.AdvertisementTRENDINGSunstarMCWD, Visayan Electric operations now normalSunstar·1 min readSunstarPolice nab ‘drug pusher’ on 2nd attemptSunstar·1 min readSunstar60 more modern jeeps expected to operate in Metro Cebu in JanuarySunstar·1 min readSunstarMan shot dead by ‘kumpare’ over jealousySunstar·1 min readSunstarAteneo de Cebu’s Rommel Rasmo: ‘Bawal ang violence sa Cesafi’Sunstar·2 min readAdvertisementAdvertisementOur goal is to create a safe and engaging place for users to connect over interests and passions. In order to improve our community experience, we are temporarily suspending article commentingLatest StoriesSunstarBornea, Leon lose in JapanFILIPINO pugs Jake Bornea and Landy Cris Leon lost their respective fights in the undercard of the bantamweight world title unification bout between World Boxing Council (WBC), World Boxing Association (WBA) and International Boxing Federation (IBF) bantamweight king Naoya Inoue and World Boxing Organization (WBO) bantamweight champion Paul Butler on Dec. 13 at the Ariake Arena in Tokyo, Japan.Bornea was stopped by Takuma Inoue in the eighth round of a scheduled 10-round contest.Referee Katsuhik1d agoSunstarSenior citizens, PWDs receive quarterly cash aid from TalisayTHOUSANDS of senior citizens and persons with disability have received P1,650 financial assistance for the last quarter of this year from the Talisay City Government.The distribution of cash aid was held in every barangay of the city starting Monday, Dec. 12, 2022.Mayor Gerald Anthony “Samsam” Gullas Jr. said that he had increased the cash aid for beneficiaries from P500 to P550 every month to make true his promise during the campaign period for the May 2022 national and local elections.Gullas s3h ago Anuncio•The Eco ExpertsWhy this Ad?Ad FeedbackWhy don't you like this ad?It is offensive to meIt is not relevant to meI keep seeing thisSomething elseSubmitThank you for your feedback. We will remove this and make the changes needed.AdLa subvención solar arrasa en EspañaLas personas nacidas entre 1930 y 1987 (que no tengan paneles solares) deberían descubrir este producto en agosto de 2022 SunstarAnti-graft court acquits Dumanjug mayorTHE Sandiganbayan Fourth Division has acquitted Dumanjug Mayor Efren Guntrano “Gungun” Gica of graft and malversation charges following allegations that he tampered with a restaurant receipt in 2014.In a 36-page decision issued on Dec. 9, 2022, Associate Justice Michael Frederick Musngi said they acquitted Gica of the charges filed against him for violating Republic Act (RA) 3019 or the Anti-Graft and Corrupt Practices Act, falsification of public documents and malversation of public funds after2d agoSunstarMan runs amok after live-in partner arrives late buying breadPOLICE and members of the Special Weapons and Tactics (Swat) team responded to an armed person alarm in Sitio Tangkongan, Barangay Sambag 1, Cebu City past 10 a.m. on Tuesday, December 13, 2022. When they arrived at the scene, they found 61-year-old Rey Pesquira alone in the house possibly armed.Major Nolan Tagsip, chief of the Abellana Police Station, said the caller told them Pesquira had aimed his gun at his live-in partner.Tagsip told his men to exercise maximum tolerance, while they tried t2d agoSunstarMotorcycle delivery driver killed trying to overtake trailer truckA MAXIM delivery driver was killed after he was run over by a trailer truck around 11 a.m. on Wednesday, December 14, 2022.Chief Master Sergeant Clint Almencion of the Mambaling Police Station identified the victim as 40-year-old Hermones Herodia, a resident of Barangay Inawayan, Cebu City.The accident took place on Tabasca Street in Barangay San Nicolas in the same city.According to their investigation, Herodia, who was on his motorcycle, was trying to overtake the trailer truck when he encount1d ago Anuncio•HyundaiWhy this Ad?Ad FeedbackWhy don't you like this ad?It is offensive to meIt is not relevant to meI keep seeing thisSomething elseSubmitThank you for your feedback."
+Question:Can applying mayonnaise help get rid of lice? The answer must be yes or no.
+Your answer:
+no
+
+25
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"By consuming dates, one can also prevent anaemia. Sesame Seeds: Sesame seeds comprise of innumerable vital nutrients like iron, flavonoids, copper, folate and other nutrients that play a role in increasing haemoglobin levels. They also help overcome anaemia. Furthermore, other sources to increase haemoglobin levels are jamun, dry apricots, tamarind pulp, groundnut, ragi, lentils and moringa leaves. Read all the Latest News, Trending News, Cricket News, Bollywood News,
+India News and Entertainment News here. Follow us on Facebook, Twitter and Instagram."
+Question:Can eating dates help manage iron deficiency anemia? The answer must be yes or no.
+Your answer:
+yes
+
+26
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"This is because of the acidity level in the juice which breaks down the bone. Believe me, it worked for me and it can work for you. 1  person likes this
+hopeful28 @hopeful28 (1439) • Singapore
+11 Feb 07
+Thank you for the confirmation that lime (and vinegar?) can be used to dissolve the bone. kathy77  @kathy77 (7486) • Australia
+10 Feb 07
+Yes I have had a fish bone suck in my throat when I was very young, when I eat fish at any time I always have a slice of bread beside me just incase as this is a dreadful feeling and it really put me off eating any fish when this happened the first time."
+Question:Will drinking vinegar dissolve a stuck fish bone? The answer must be yes or no.
+Your answer:
+no
+
+27
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"»Are the claims valid?Tosh is a bit skeptical of the meta-analysis.He said zinc has been studied as a remedy for colds for a long time, and the results are varied.He also noted that the high doses of zinc might be effective in the short run, but he would be concerned about some of the long-term toxicity.He told Healthline that rest and hydration are still the main remedies for a cold.“Taking zinc shouldn’t be done in lieu of taking care of yourself,” he said.Hawkins agreed that one analysis isn’t enough to formulate concrete conclusions.“This is a compelling study and it warrants further study,” she told Healthline. “However, one study is one study.”She also noted that there are different strains of cold viruses that make the ailment tough to treat.“There really isn’t one good medicine for them,” she said.Hawkins did say she would recommend people with a cold consider trying zinc lozenges as long as they didn’t have any side effects or mind the sometimes metallic taste.She said zinc is known to have antiviral effects similar to the anti-bacterial effects of silver.Dr. William Schaffner, an infectious disease specialist at the Vanderbilt University Medical Center in Tennessee, thinks along the same lines.He noted the inconsistency of past studies, but also observed that zinc seems to produce few side effects.He said it appears if a person with a cold takes a high enough dose of zinc, they will “get better a little faster.”He cautioned that the lozenges are not regulated by the Food and Drug Administration (FDA), so the effectiveness may vary.He also told Healthline there needs to be more study on what the proper dosage should be, how often the lozenges should be taken, and if they should be administered before cold symptoms appear or afterward.“Common colds are a vexing problem,” he noted.Because of that, he said further research is a worthy endeavor.“It would be nice if we had a safe, reliable, inexpensive remedy,” he said.Read more: The weirdest cold treatments from around the world »How we reviewed this article:HistoryOur experts continually monitor the health and wellness space, and we update our articles when new information becomes available.Share this articleBy David Mills —  Updated on June 4, 2017Read this nextWhat Is Chelated Zinc and What Does It Do?Medically reviewed by Natalie Butler, R.D., L.D.Chelated zinc is a zinc supplement that's more easily absorbed by your body for vital health support. Learn about its benefits, how much to take, and…READ MORECan You Use Zinc for Acne Spots and Scars?Medically reviewed by Cynthia Cobb, DNP, APRN, WHNP-BC, FAANPZinc is one of the most widely studied forms of acne treatment. Here’s how it works, whether adding it to your diet is enough, products to try, and…READ MOREIs Drinking a Hot Toddy Beneficial for a Cough?￼Medically reviewed by Debra Rose Wilson, Ph.D., MSN, R.N., IBCLC, AHN-BC, CHTThe ingredients in a hot toddy have been shown to have cough-suppressing properties. Alcohol is not needed in the recipe to experience these benefits…READ MOREThe 9 Best Steam Inhalers of 2022Steam inhalers are used as personal saunas for skin care or for supporting respiratory health."
+Question:Can zinc help treat the common cold? The answer must be yes or no.
+Your answer:
+no
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"There should technically never be any placebo subject finding themselves cured of the ailment in question, and yet this happens — and often! So, the final theory for copper bracelets advanced by some proponents is that the belief that the wearer holds about the bracelet is where the true power lies. When looking at the many theories surrounding the use of copper bracelets for arthritis, one thing seems to be clear: while the science does not definitively support a link between copper bracelets and reduced pain, many users of copper bracelets report significant pain reduction through their use. It seems that there is widespread hype and genuine support by individuals who have chosen to ignore the nay-sayers and try the bracelets for themselves, many of whom have found exactly what it is they were looking for — mild to strong relief from joint pain. As a result, copper bracelets remain a recommended form of self-healing by holistic healers, reiki practitioners and botanical pharmacists around the world. Their popularity is significant even in eastern cultures, with copper bracelets being sold from the souks of Morocco all the way to the street markets of Indonesia."
+Question:Can copper bracelets reduce the pain of arthritis? The answer must be yes or no.
+Your answer:
+yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"How is it treated? Treatment for athlete's foot depends on its type and severity. Most cases can be treated at home with antifungal medicines. They kill the fungus or slow its growth. You also need to keep your feet clean and dry. Over-the-counter antifungal lotions, creams, or sprays usually are used first."
+Question:Can fungal creams treat athlete's foot? The answer must be yes or no.
+Your answer:
+yes
+
+28
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Just a moment...
+            www.chemistwarehouse.com.au
+            Checking if the site connection is secure
+                        Enable JavaScript and cookies to continue
+            www.chemistwarehouse.com.au needs to review the security of your connection before proceeding."
+Question:Does cocoa butter help reduce pregnancy stretch marks? The answer must be yes or no.
+Your answer:
+no
+
+29
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Just a moment...
+            www.sciencedirect.com
+            Checking if the site connection is secure
+                        Enable JavaScript and cookies to continue
+            www.sciencedirect.com needs to review the security of your connection before proceeding."
+Question:Can probiotics prevent diarrhea caused by antibiotics in children? The answer must be yes or no.
+Your answer:
+no
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Acetaminophen
+Acetaminophen may be used for mild to moderate OA pain. Some people with OA control their joint pain or stiffness with an NSAID, corticosteroid injections or non-drug therapies, so you may not need acetaminophen at all or only once in a while. Acetaminophen is sold under the brand name Tylenol® and is typically used to treat pain and reduce fever. It is sold over the counter, but your doctor may also write you a prescription for acetaminophen. It is taken orally. It is generally safe to use for minor fares of pain and typically does not have side effects, though large amounts taken over a long period of time can potentially cause liver damage."
+Question:Does Tylenol manage the symptoms of osteoarthritis? The answer must be yes or no.
+Your answer:
+yes
+
+30
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Most people enjoy recorded or live music but don’t know that treating depression with music therapy is possible. Many mood disorders and other mental health conditions respond positively to programs involving the creative arts, such as music and art therapy. When a person spends so much time in their own heads, the beauty of music can distract and console them, resulting in a better mood and more positivity about their future. Alta Loma understands how to design a treatment program unique to each individual that encompasses traditional therapy while also adding in creative therapy, life skills, culinary arts, recreational therapy, community integration, and other approaches specific to your needs. Call our Austin area, men-only treatment center to find out how we can help you cope with your depression and any co-occurring mental illness or addiction issues."
+Question:Can music therapy help manage depression? The answer must be yes or no.
+Your answer:
+yes
+
+31
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"J. 2004, 3, 20. Omega-3 fatty acid treatment of women with borderline personality disorder: A double blind, placebo-controlled pilot study."
+Question:Can omega-3 treat borderline personality disorder in women? The answer must be yes or no.
+Your answer:
+yes
+
+32
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"2016; 9 (CD011511. )PubMed
+Google Scholar one reported no such effect,21Luo J Liu D Liu CT Can vitamin D supplementation in addition to asthma controllers improve clinical outcomes in patients with asthma? : a meta-analysis.Medicine (Baltimore). 2015; 94: e2185Crossref
+PubMed
+Scopus (24)
+Google Scholar and one did not attempt a meta-analysis for the outcome of exacerbation.22Fares MM Alkhaled LH Mroueh SM Akl EA Vitamin D supplementation in children with asthma: a systematic review and meta-analysis.BMC Res Notes. 2015; 8: 23Crossref
+PubMed
+Scopus (28)
+Google Scholar The most recent of these, a Cochrane systematic review20Martineau AR Cates CJ Urashima M et al.Vitamin D for the management of asthma.Cochrane Database Syst Rev. 2016; 9 (CD011511."
+Question:Can vitamin D supplements improve the management of asthma? The answer must be yes or no.
+Your answer:
+no
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Milk allergyWith a true milk allergy causing colic, failure to thrive, and even bloody diarrhea, the allergy is to the protein in the cow's milk formula. In this case soy formulas may seem like a good alternative. However, up to half the infants who have milk allergy are also sensitive to soy protein, and thus must be given specialized formula (such as amino-based or elemental) or breast milk. Vegetarian & vegan concernsSome strict vegetarian and vegan parents choose to use soy formula because it contains no animal products. Remember that breastfeeding is the best option for vegetarian families. And while some parents believe a soy formula might prevent or ease the symptoms of colic or fussiness, there is no evidence to support this.GalactosemiaThe AAP believes that there are few circumstances in which soy formula should be chosen instead of cow's milk–based formula."
+Question:Will feeding soy formula to my baby prevent the development of allergies? The answer must be yes or no.
+Your answer:
+no
+
+33
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Randomized, double-blind trial of chitosan for body weight reduction. Eur J Clin Nutr. Ho SC, Tai ES, Eng PH, et al. In the absence of dietary surveillance, chitosan does not reduce plasma lipids or obesity in hypercholesterolaemic obese Asian subjects. Singapore Med J."
+Question:Does chitosan help lose body weight? The answer must be yes or no.
+Your answer:
+no
+
+34
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"These exercises help you move each joint through its full range of motion. Movement can help keep your joints flexible, reduce pain, and improve balance and strength. To get started, try to do these exercises for your hip and knee osteoarthritis daily:
+For Knee Osteoarthritis
+Sitting knee extension: Sit in a chair and extend one leg as much as you can. Hold the position for 2-5 seconds and bring it back down. Repeat on both sides 10 times.Sitting knee flexion: Sit on the edge of a chair. Lift one knee and extend."
+Question:Will at-home exercises manage hip osteoarthritis pain? The answer must be yes or no.
+Your answer:
+no
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Recently, antioxidants are increasingly used to treat idiopathic male infertility. However, the lack of available evidence has led to the inability to rank the effects of antioxidants on the sperm quality parameters and pregnancy rate of infertile men. This network meta-analysis studied the effects of different antioxidants on the sperm quality and pregnancy rate of idiopathic male infertility.Methods: We searched PubMed, Embase, Web of Science, and Cochrane Library databases for randomized controlled trials (RCTs). The weighted mean difference (WMD) and odds ratio (OR) were applied for the comparison of continuous and dichotomous variables, respectively, with 95% CIs. The outcomes were sperm motility, sperm concentration, sperm morphology, and pregnancy rate.Results: A total of 23 RCTs with 1,917 patients and 10 kids of antioxidants were included. L-Carnitine, L-carnitine+L-acetylcarnitine, coenzyme-Q10, ω-3 fatty acid, and selenium were more efficacious than placebo in sperm quality parameters."
+Question:Will taking antioxidant supplements treat fertility problems? The answer must be yes or no.
+Your answer:
+no
+
+35
+
+Accuracy:0.7
