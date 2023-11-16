@@ -140,11 +140,11 @@ There is no scientific evidence to suggest that smoking can prevent COVID-19. In
 25
 
 
-Can having type O blood prevent COVID-19
+Can having type O blood prevent COVID-19?
 Having type O blood does not prevent COVID-19. While some studies have suggested that people with type O blood may have a slightly lower risk of infection and severe illness, it is essential to understand that individuals with any blood type can contract the virus. It is crucial for everyone, regardless of blood type, to take preventive measures such as wearing masks, practicing social distancing, and following good hand hygiene.
 26
 
-Can methanol prevent COVID-19
+Can methanol prevent COVID-19?
 I am not a medical professional, but I can share some general information with you. Methanol is not a treatment or preventative measure for COVID-19. In fact, ingesting, inhaling, or exposing oneself to methanol can be extremely dangerous and toxic. Methanol is primarily used as an industrial solvent, antifreeze, and fuel, and should not be consumed or used for personal health care.
 
 For accurate and up-to-date information on COVID-19 prevention, it is best to consult the guidelines from the World Health Organization (WHO) or your country's public health authorities.
@@ -225,4 +225,4 @@ Can drinking lemon water prevent COVID-19?
 I am not a medical expert, but I can provide you with some general information. Drinking lemon water is not scientifically proven to prevent COVID-19. While staying hydrated and consuming vitamin C can be beneficial for overall health, it is not a guaranteed method of prevention for COVID-19. The best ways to protect yourself include vaccination, wearing a mask, maintaining physical distancing, and practicing good hygiene. Always follow the advice and guidelines provided by your local health authorities and medical professionals.
 38
 
-Accuracy: 0.3877551020408163
+Accuracy:0.3877551020408163

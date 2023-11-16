@@ -173,8 +173,8 @@ if __name__ == "__main__":
     openai.api_key = API_KEY
     parser = argparse.ArgumentParser()
     parser.add_argument("model", nargs='?', default="../models/llama-2-13b-chat.Q8_0.gguf")
-    parser.add_argument("context", nargs='?', default="expert") 
-    parser.add_argument("year", nargs='?', default=2022)
+    parser.add_argument("context", nargs='?', default="") 
+    parser.add_argument("year", nargs='?', default=2020)
     args = parser.parse_args()
     context = load_context(args.context)
     eval = load_answers(args.year)

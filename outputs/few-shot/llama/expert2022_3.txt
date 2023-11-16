@@ -3,6 +3,10 @@
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Do tea bags help to clot blood in pulled teeth? A:[\INST]
 
 no
@@ -10,6 +14,10 @@ no
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Can crystals heal? A:[\INST]
 
@@ -19,14 +27,21 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can collagen supplements cure osteoarthritis? A:[\INST]
 
-no
-1
+yes
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Can cell phones cause cancer? A:[\INST]
 
@@ -36,13 +51,22 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can you use WD-40 for arthritis? A:[\INST]
 
-yes
+no
+1
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Can mosquito bites make you sick? A:[\INST]
 
@@ -53,6 +77,10 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can cancer be inherited? A:[\INST]
 
 yes
@@ -62,15 +90,11 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Are vaccines linked to autism? A:[\INST]
-
-yes
-<s>[INST] <<SYS>>
-<</SYS>>
-We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
-Q: Will wearing an ankle brace help heal achilles tendonitis?
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
-Q: Can baking soda help to cure cancer? A:[\INST]
+Q: Are vaccines linked to autism? A:[\INST]
 
 no
 4
@@ -78,6 +102,23 @@ no
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Can baking soda help to cure cancer? A:[\INST]
+
+no
+5
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Are squats bad for knees? A:[\INST]
 
@@ -87,14 +128,21 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Do ACE inhibitors typically cause erectile dysfunction? A:[\INST]
 
-no
-5
+yes
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Is morphine addictive? A:[\INST]
 
@@ -105,6 +153,10 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can fruit juice increase the risk of diabetes? A:[\INST]
 
 yes
@@ -114,16 +166,36 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Do magnetic wrist straps help with arthritis? A:[\INST]
 
-no
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Are sit ups bad for you? A:[\INST]
+
+yes
 8
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Are sit ups bad for you? A:[\INST]
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Can a speech problem be caused by right handed person being forced to left hand? A:[\INST]
 
 yes
 9
@@ -132,23 +204,22 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Can a speech problem be caused by right handed person being forced to left hand? A:[\INST]
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Are there health benefits to drinking your own urine? A:[\INST]
 
-yes
+no
 10
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Are there health benefits to drinking your own urine? A:[\INST]
-
-no
-11
-<s>[INST] <<SYS>>
-<</SYS>>
-We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
-Q: Will wearing an ankle brace help heal achilles tendonitis?
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Is pink salt good for you? A:[\INST]
 
@@ -158,6 +229,10 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can massage get rid of cellulite? A:[\INST]
 
 yes
@@ -165,6 +240,10 @@ yes
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Can fish oil improve your cholesterol? A:[\INST]
 
@@ -174,7 +253,24 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can you become addicted to weed? A:[\INST]
+
+yes
+11
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Can vegan diets be healthy? A:[\INST]
 
 yes
 12
@@ -183,7 +279,11 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Can vegan diets be healthy? A:[\INST]
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Is hydroquinone banned in Europe? A:[\INST]
 
 yes
 13
@@ -192,7 +292,11 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Is hydroquinone banned in Europe? A:[\INST]
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Do men get UTI infections? A:[\INST]
 
 yes
 14
@@ -201,7 +305,11 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Do men get UTI infections? A:[\INST]
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Are carrots good for your eyes? A:[\INST]
 
 yes
 15
@@ -210,7 +318,11 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Are carrots good for your eyes? A:[\INST]
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Is methanol poisonous? A:[\INST]
 
 yes
 16
@@ -219,14 +331,9 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Is methanol poisonous? A:[\INST]
-
-yes
-17
-<s>[INST] <<SYS>>
-<</SYS>>
-We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
-Q: Will wearing an ankle brace help heal achilles tendonitis?
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Can an MRI harm my baby? A:[\INST]
 
@@ -236,14 +343,22 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can exercise lower cholesterol? A:[\INST]
 
 yes
-18
+17
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Can chewing gum help lose weight? A:[\INST]
 
@@ -253,7 +368,24 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can sunglasses help prevent cataracts? A:[\INST]
+
+yes
+18
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Did AIDS come from chimps? A:[\INST]
 
 yes
 19
@@ -262,7 +394,11 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Did AIDS come from chimps? A:[\INST]
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Is too much water bad for you? A:[\INST]
 
 yes
 20
@@ -271,14 +407,9 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Is too much water bad for you? A:[\INST]
-
-yes
-21
-<s>[INST] <<SYS>>
-<</SYS>>
-We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
-Q: Will wearing an ankle brace help heal achilles tendonitis?
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Can HIV be transmitted through sweat? A:[\INST]
 
@@ -288,6 +419,10 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Do Himalayan salt lamps have health benefits? A:[\INST]
 
 yes
@@ -296,23 +431,34 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can a woman get pregnant while breastfeeding? A:[\INST]
 
 yes
-22
+21
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can statins cause permanent cognitive impairment? A:[\INST]
 
-no
-23
+yes
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Does Vitamin C prevent colds? A:[\INST]
 
@@ -322,7 +468,37 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can coffee help you lose weight? A:[\INST]
+
+yes
+22
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Does drinking lemon water help with belly fat? A:[\INST]
+
+no
+23
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Does deli meat increase your risk of colon cancer? A:[\INST]
 
 yes
 24
@@ -331,23 +507,9 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Does drinking lemon water help with belly fat? A:[\INST]
-
-no
-25
-<s>[INST] <<SYS>>
-<</SYS>>
-We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
-Q: Will wearing an ankle brace help heal achilles tendonitis?
-A: No.
-Q: Does deli meat increase your risk of colon cancer? A:[\INST]
-
-yes
-26
-<s>[INST] <<SYS>>
-<</SYS>>
-We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
-Q: Will wearing an ankle brace help heal achilles tendonitis?
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Are skin tags contagious? A:[\INST]
 
@@ -357,6 +519,10 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can oil pulling heal cavities? A:[\INST]
 
 yes
@@ -365,7 +531,37 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Does a high fiber diet help with hemorrhoids? A:[\INST]
+
+yes
+25
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Can grapefruit interfere with medication? A:[\INST]
+
+yes
+26
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
+Q: Can vape pens be harmful? A:[\INST]
 
 yes
 27
@@ -374,32 +570,21 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
-Q: Can grapefruit interfere with medication? A:[\INST]
-
-yes
-28
-<s>[INST] <<SYS>>
-<</SYS>>
-We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
-Q: Will wearing an ankle brace help heal achilles tendonitis?
-A: No.
-Q: Can vape pens be harmful? A:[\INST]
-
-yes
-29
-<s>[INST] <<SYS>>
-<</SYS>>
-We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
-Q: Will wearing an ankle brace help heal achilles tendonitis?
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Do bananas increase the risk of diabetes? A:[\INST]
 
-no
-30
+yes
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Is wifi harmful for health? A:[\INST]
 
@@ -409,25 +594,38 @@ yes
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Does drinking apple cider vinegar help lose weight? A:[\INST]
 
 no
-31
+28
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
 A: No.
 Q: Does ginger help with nausea? A:[\INST]
 
 yes
-32
+29
 <s>[INST] <<SYS>>
 <</SYS>>
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Q: Will wearing an ankle brace help heal achilles tendonitis?
 A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is starving a fever effective?
+A: No.
 Q: Can a cold sore cause genital herpes? A:[\INST]
 
-no
-Accuracy:0.64
+yes
+30
+Accuracy:0.6

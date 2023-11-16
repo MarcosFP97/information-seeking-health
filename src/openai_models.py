@@ -132,7 +132,7 @@ def ask(
   else:
     outputfile = expert + str(year) + '_3.txt'
 
-  with open('../outputs/few-shot/'+model+'/'+outputfile, 'w+') as f:
+  with open('../outputs/few-shot/llama/'+outputfile, 'w+') as f:
     hits = 0
     for k, v in eval.items():
         prompt = get_prompt(context, syst, k)

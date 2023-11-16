@@ -10,9 +10,13 @@ def get_labels(run: str) -> List[int]:
     hits = []
 
     if "llama" in run: ### different pattern to process llama files
-        pattern1 = re.compile(r'^Q: [A-Za-z0-9\(\)\-\'\"\s\!\.\,]*?\?([A-Za-z0-9\(\)\-\'\"\s\:])*(\[\\INST\])?$')
+        pattern1 = re.compile(r'^[A-Za-z0-9\(\)\-\'\"\s\!\.\,]*?\?([A-Za-z0-9\(\)\-\'\"\s\:])*(\[\\INST\])?$')
     else:
         pattern1 = re.compile(r'[A-Za-z0-9\(\)\-\'\s]*\?')
+
+    if "_" in run: ## means ICL
+            pattern1 = re.compile(r'^Q: [A-Za-z0-9\(\)\-\'\"\s\!\.\,]*?\? A:(\[\\INST\])?$')
+
     pattern2 = re.compile(r'^[0-9]+\n')
     stoppattern = re.compile(r'Accuracy:[0-9].[0-9]+\n')
     query = False
@@ -26,7 +30,7 @@ def get_labels(run: str) -> List[int]:
             is_stop = stoppattern.match(line)
 
             if is_stop and query:
-                print("Stop:", is_stop[0])
+                # print("Stop:", is_stop[0])
                 hits.append(0)
 
             elif query and is_n:
@@ -35,7 +39,7 @@ def get_labels(run: str) -> List[int]:
                 query = False
             
             if is_q:
-                print("Query:",is_q[0])
+                # print("Query:",is_q[0])
                 count+=1
                 if query:
                     hits.append(0)
