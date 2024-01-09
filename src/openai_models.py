@@ -5,7 +5,7 @@ import argparse
 import xml.etree.ElementTree as ET
 import tiktoken
 
-API_KEY="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"
+API_KEY=""
 
 '''
 This method loads a context from file.
