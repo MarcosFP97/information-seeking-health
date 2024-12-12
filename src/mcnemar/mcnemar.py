@@ -14,8 +14,8 @@ def get_labels(run: str) -> List[int]:
     else:
         pattern1 = re.compile(r'[A-Za-z0-9\(\)\-\'\s]*\?')
 
-    if "_" in run: ## means ICL
-            pattern1 = re.compile(r'^Q: [A-Za-z0-9\(\)\-\'\"\s\!\.\,]*?\? A:(\[\\INST\])?$')
+    # if "_" in run: ## means ICL
+    #         pattern1 = re.compile(r'^Q: [A-Za-z0-9\(\)\-\'\"\s\!\.\,]*?\? A:(\[\\INST\])?$')
 
     pattern2 = re.compile(r'^[0-9]+\n')
     stoppattern = re.compile(r'Accuracy:[0-9].[0-9]+\n')
@@ -25,21 +25,24 @@ def get_labels(run: str) -> List[int]:
         data = pf.readlines()
         count = 0
         for line in data:
+            #line = line.replace('\n','')
             is_q = pattern1.match(line)
             is_n = pattern2.findall(line)
             is_stop = stoppattern.match(line)
-
+            # print(f'\"{line}\"')
+            # print()
+            # print()
             if is_stop and query:
-                # print("Stop:", is_stop[0])
+                #print("Stop:", is_stop[0])
                 hits.append(0)
 
             elif query and is_n:
-                # print("Números", is_n[0])
+                #print("Números", is_n[0])
                 hits.append(1)
                 query = False
             
             if is_q:
-                # print("Query:",is_q[0])
+                #print("Query:",is_q[0])
                 count+=1
                 if query:
                     hits.append(0)
@@ -62,6 +65,8 @@ def eval_mcnemar(y_target: List, y_model1: List, y_model2: List):
         print("We cannot reject the null hypothesis and there is not significant difference between classifiers", p)
     else:
         print("There is significant difference", p)
+    print()
+    print()
 
 ''' 
 This code parses the two runs files, computes its accuracy and list of hits, and applies McNemar's test
