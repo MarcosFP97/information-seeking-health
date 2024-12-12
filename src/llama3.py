@@ -46,12 +46,12 @@ def get_prompt(
   else:
     prompt = (
         f'{context}\n'
-        # f'Q: Will wearing an ankle brace help heal achilles tendonitis?\n'
-        # f'A: No.\n'
-        # f'Q: Does yoga improve the management of asthma?\n'
-        # f'A: Yes.\n'
-        # f'Q: Is starving a fever effective?\n'
-        # f'A: No.\n'
+        f'Q: Will wearing an ankle brace help heal achilles tendonitis?\n'
+        f'A: No.\n'
+        f'Q: Does yoga improve the management of asthma?\n'
+        f'A: Yes.\n'
+        f'Q: Is starving a fever effective?\n'
+        f'A: No.\n'
         f'{question} \n'
     )
 
@@ -132,7 +132,7 @@ def ask(
   else:
     outputfile = expert + str(year) + '.txt'
 
-  with open('../outputs/zero-shot/medllama3/'+outputfile, 'w+') as f:
+  with open('../outputs/few-shot/llama3/'+outputfile+'_3', 'w+') as f:
     hits = 0
     for k, v in eval.items():
         prompt = get_prompt(context, syst, k)
