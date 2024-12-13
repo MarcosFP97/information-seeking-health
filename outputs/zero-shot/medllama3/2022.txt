@@ -20,7 +20,7 @@ No
 
 Can you use WD-40 for arthritis? 
 
-no
+No
 4
 
 Can mosquito bites make you sick? 
@@ -135,7 +135,7 @@ Yes
 
 Can chewing gum help lose weight? 
 
-no
+No
 23
 
 Can sunglasses help prevent cataracts? 
@@ -178,7 +178,7 @@ No
 
 Can coffee help you lose weight? 
 
-no
+No
 
 Does drinking lemon water help with belly fat? 
 
@@ -206,7 +206,7 @@ Yes
 
 Can grapefruit interfere with medication? 
 
-yes
+Yes
 34
 
 Can vape pens be harmful? 
@@ -221,7 +221,7 @@ No
 
 Is wifi harmful for health? 
 
-no
+No
 37
 
 Does drinking apple cider vinegar help lose weight? 

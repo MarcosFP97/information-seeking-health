@@ -14,8 +14,8 @@ def get_labels(run: str) -> List[int]:
     else:
         pattern1 = re.compile(r'[A-Za-z0-9\(\)\-\'\s]*\?')
 
-    # if "_" in run: ## means ICL
-    #         pattern1 = re.compile(r'^Q: [A-Za-z0-9\(\)\-\'\"\s\!\.\,]*?\? A:(\[\\INST\])?$')
+    #if "_" in run: ## means ICL
+    #    pattern1 = re.compile(r'^Q: [A-Za-z0-9\(\)\-\'\"\s\!\.\,]*?\? A:(\[\\INST\])?$')
 
     pattern2 = re.compile(r'^[0-9]+\n')
     stoppattern = re.compile(r'Accuracy:[0-9].[0-9]+\n')
@@ -25,13 +25,11 @@ def get_labels(run: str) -> List[int]:
         data = pf.readlines()
         count = 0
         for line in data:
-            #line = line.replace('\n','')
+            #line = line.replace('\n','').rstrip()
             is_q = pattern1.match(line)
             is_n = pattern2.findall(line)
             is_stop = stoppattern.match(line)
-            # print(f'\"{line}\"')
-            # print()
-            # print()
+            
             if is_stop and query:
                 #print("Stop:", is_stop[0])
                 hits.append(0)
@@ -49,6 +47,9 @@ def get_labels(run: str) -> List[int]:
                 else:
                     query = True
             else:
+                #print(f'Continue: \"{line}\"')
+                #print()
+                #print()
                 continue
     # print("Hits",hits) #### CHEQUEAR POR QUÉ 0.88
     print(len(hits))
@@ -101,6 +102,7 @@ if __name__=="__main__":
             ground_truth[query] = 0
 
     # The correct target (class) labels
+
     y_target = np.array(list(ground_truth.values())) #### esto lo sacaría del fichero de xml de 2022 por ejemplo
     print(len(y_target))
     # # Class labels predicted by model 1

@@ -1,3 +1,242 @@
 
 Can vitamin D cure COVID-19? 
 
+No
+1
+
+Can vitamin C cure COVID-19? 
+
+No
+2
+
+Can BCG vaccine prevent COVID-19? 
+
+No
+3
+
+Can ibuprofen worsen COVID-19? 
+
+No
+4
+
+Can gargling salt water prevent COVID-19? 
+
+No
+5
+
+Can Ginger cure COVID-19? 
+
+No
+6
+
+Can 5G antennas cause COVID-19? 
+
+No
+7
+
+Can herbal tea prevent COVID-19? 
+
+No
+8
+
+Can convalescent plasma cure COVID-19? 
+
+No
+9
+
+Can pneumococcal vaccine prevent COVID-19? 
+
+No
+10
+
+Can female sex hormones prevent COVID-19? 
+
+No
+11
+
+Can dextromethorphan worsen COVID-19? 
+
+No
+
+Can wearing masks prevent COVID-19? 
+
+Yes
+12
+
+Can drinking cow urine cure COVID-19? 
+
+No
+13
+
+Can social distancing prevent COVID-19? 
+
+Yes
+14
+
+Can vinegar prevent COVID-19? 
+
+No
+15
+
+Can lopinavir-ritonavir cure COVID-19? 
+
+No
+16
+
+Can ayurveda cure COVID-19? 
+
+No
+17
+
+Can exposure to UV light prevent COVID-19? 
+
+No
+18
+
+Can black seed oil treat COVID-19? 
+
+No
+19
+
+Can Tamiflu help COVID-19? 
+
+No
+20
+
+Can burning neem leaves treat COVID-19? 
+
+No
+21
+
+Can drinking alcohol worsen COVID-19? 
+
+Yes
+22
+
+Can high temperatures and humidity prevent COVID-19? 
+
+No
+23
+
+Can remdesivir cure COVID-19? 
+
+No
+24
+
+Can turmeric treat COVID-19? 
+
+No
+25
+
+Can a vegetarian diet prevent COVID-19? 
+
+No
+26
+
+Can getting a flu shot prevent COVID-19? 
+
+No
+27
+
+Can ACE and ARBs worsen COVID-19? 
+
+No
+28
+
+Can smoking prevent COVID-19? 
+
+No
+29
+
+Can having type O blood prevent COVID-19? 
+
+No
+30
+
+Can methanol prevent COVID-19?
+
+No
+31
+
+Can handwashing prevent COVID-19? 
+
+Yes
+32
+
+Can Nicotine help COVID-19? 
+
+No
+
+Can Cannabis help COVID-19? 
+
+No
+33
+
+Can Hydroxychloroquine worsen COVID-19? 
+
+No
+
+Can monoclonal antibodies cure COVID-19? 
+
+No
+34
+
+Can bleach prevent COVID-19? 
+
+No
+
+Can breast milk prevent COVID-19? 
+
+No
+35
+
+Can Hib vaccine prevent COVID-19? 
+
+No
+36
+
+Can inhalers help COVID-19? 
+
+No
+37
+
+Can Omega-3 prevent COVID-19? 
+
+No
+38
+
+Can IVIG cure COVID-19? 
+
+No
+39
+
+Can remestemcel-l cure COVID-19? 
+
+No
+40
+
+Can mosquitos cause COVID-19? 
+
+No
+41
+
+Can Homemade Vodka Sanitizer prevent COVID-19? 
+
+No
+42
+
+Can Ribavirin help COVID-19? 
+
+No
+43
+
+Can Echinacea prevent COVID-19? 
+
+No
+44
+
+Can drinking lemon water prevent COVID-19? 
+
+No
+45
+Accuracy:0.9183673469387755

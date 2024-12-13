@@ -1,7 +1,9 @@
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Can vitamin D cure COVID-19?
+
 no. while vitamin d is important for overall health, there is no current evidence to suggest that vitamin d can cure covid-19. while some studies have suggested a potential association between low vitamin d levels and increased risk of severe covid-19 outcomes, there is currently no definitive evidence to support vitamin d supplementation as a treatment for covid-19. the current standard of care for covid-19 involves supportive care and, in certain cases, antiviral or anti-inflammatory medications, as recommended by a qualified medical professional.
 1
+
 We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
 Can vitamin C cure COVID-19?
 no. while vitamin c is an important nutrient that supports immune function, there is no evidence to suggest that vitamin c can cure covid-19. covid-19 is caused by a virus, and a virus cannot be cured by a single nutrient or supplement. the most effective way to prevent and treat covid-19 is to follow public health guidelines, such as wearing masks, washing hands frequently, practicing social distancing, and getting vaccinated. if you have covid-19, you should follow the advice of your healthcare provider and seek medical treatment if necessary.
