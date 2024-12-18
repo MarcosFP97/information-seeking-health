@@ -1,0 +1,429 @@
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"That means they cause the blood to coagulate, form clots and stops the bleeding. Tannins are also astringent. They cause blood vessels and body tissue to constrict and shrink together. This helps stop bleeding after tooth extraction. How To Use The Tea Bag To Stop Bleeding From Pulled Tooth
+First, let the tea bag steep for two to three minutes in boiling water. Black tea is best because it has more tannin than other types of tea."
+Question:Do tea bags help to clot blood in pulled teeth?
+Your answer:
+yes
+1
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"For the uninitiated, crystals (fossilized minerals) are believed to contain several healing properties. From bringing peace to the mind to fighting depression, the list seems to be endless. A lot of celebrities are using them and vouching for their efficacy. They have also been used in ancient forms of medicine and by priests to align the body chakras. And now, using crystals as an effective form of practicing self-care is becoming incredibly popular.Scientifically, there is no science backing to the power of crystal healing in treating or curing conditions. However, using healing crystals can be very relaxing as they induce a sense of relaxation in the environment."
+Question:Can crystals heal?
+Your answer:
+no
+2
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Our Members Asked:
+Does collagen taken as a supplement help with arthritis? I'm seeing it in products for joint health. Written by Tod Cooperman, M.D. Last Updated: 10/08/2019
+                            Initially Posted: 07/31/2014
+Answer:
+Collagen hydrolysate (enzymatically hydrolyzed collagen or collagen peptide) may help reduce the pain of osteoarthritis (worn joints) according to some preliminary studies. There is also evidence that a branded collagen that has not been hydrolyzed, UC-II, may be helpful. For details, see the Joint Pain section of the Collagen Supplements Review, which includes our tests of products containing UC-II and other collagen ingredients, and our Top Picks for collagen supplements for joints."
+Question:Can collagen supplements cure osteoarthritis?
+Your answer:
+no
+3
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Photograph: VOISIN/Getty Images/CanopyMark Hertsgaard and Mark DowieSat 14 Jul 2018 15.00 BSTLast modified on Mon 23 Jul 2018 12.48 BSTOn 28 March this year, the scientific peer review of a landmark United States government study concluded that there is “clear evidence” that radiation from mobile phones causes cancer, specifically, a heart tissue cancer in rats that is too rare to be explained as random occurrence.Eleven independent scientists spent three days at Research Triangle Park, North Carolina, discussing the study, which was done by the National Toxicology Program of the US Department of Health and Human Services and ranks among the largest conducted of the health effects of mobile phone radiation. NTP scientists had exposed thousands of rats and mice (whose biological similarities to humans make them useful indicators of human health risks) to doses of radiation equivalent to an average mobile user’s lifetime exposure.The peer review scientists repeatedly upgraded the confidence levels the NTP’s scientists and staff had attached to the study, fuelling critics’ suspicions that the NTP’s leadership had tried to downplay the findings. Thus the peer review also found “some evidence” – one step below “clear evidence” – of cancer in the brain and adrenal glands.Not one major news organisation in the US or Europe reported this scientific news. But then, news coverage of mobile phone safety has long reflected the outlook of the wireless industry. For a quarter of a century now, the industry has been orchestrating a global PR campaign aimed at misleading not only journalists, but also consumers and policymakers about the actual science concerning mobile phone radiation. Indeed, big wireless has borrowed the very same strategy and tactics big tobacco and big oil pioneered to deceive the public about the risks of smoking and climate change, respectively."
+Question:Can cell phones cause cancer?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Baltimore Sun - We are currently unavailable in your region
+Unfortunately, our website is currently unavailable in your country. We are engaged on the issue and committed to looking at options that support our full range of digital offerings to your market. We continue to identify technical compliance solutions that will provide all readers with our award-winning journalism. Copyright © 2021, The Baltimore Sun"
+Question:Can you use WD-40 for arthritis?
+Your answer:
+no
+4
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Another reason for the change may be that you’re highly allergic to the saliva of one type of mosquito but not to another. With skeeter syndrome, people may develop fever as well as a large local allergic reaction. Skeeter syndrome may be confused with cellulitis in some cases, especially when the bites happen to young children. Providers may prescribe antibiotics, but antibiotics won’t help skeeter syndrome. Cellulitis, an infection, can happen days after a bite when scratching results in infection."
+Question:Can mosquito bites make you sick?
+Your answer:
+yes
+5
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Current research suggests that environmental factors such as tobacco, diet, infection, alcohol, drugs, radiation and chemicals are more important than genetic (hereditary) factors in determining development of most cancers. All cancer is triggered by altered genes. However, only five to 10 per cent of cancers are actually hereditary. Heredity may sometimes appear to be the reason for a cancer, especially when the same types of cancers run in families. Cancers with a genetic component These cancers do appear to have some genetic link: Breast cancer Bowel cancer Stomach cancer Prostate cancer. Genetics and breast cancer Breast cancer is the most common cancer in Australia women."
+Question:Can cancer be inherited?
+Your answer:
+yes
+6
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Dispelling the autism myth
+Vaccines do not cause autism. A small study in 1998 suggested a link between vaccinations and autism spectrum disorder. The study was reviewed further and retracted. In addition, the author's medical license was revoked due to falsified information. Since then, numerous studies have debunked a connection between autism and the measles, mumps and rubella (MMR) vaccine. In April 2015, JAMA published the largest study to date, analyzing the health records of over 95,000 children."
+Question:Are vaccines linked to autism?
+Your answer:
+no
+7
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Hanan Abumanhal del Technion (Technion)
+Baking soda, the simple household product familiar to everybody, may revolutionize the treatment of breast cancer, researchers at Israel’s Technion Institute have discovered. A graduate research student at the Technion Institute has found a revolutionary solution for the treatment of breast cancer, showing that sodium bicarbonate – baking soda – can increase the effectiveness of chemotherapy treatment because this natural substance changes the acidity of the cancerous tumor and thus increases the effectiveness of chemotherapy. “Many studies show and emphasize the importance of the environment of the tumor in supporting cancer cells and the ability of the cells to penetrate nearby tissues and send metastases to other organs of the body,” explained Dr. Hanan Abumanhal, a resident of northern Israel who got her PhD degree last week at the prestigious institution. Dr. Abumanhal knew that environmental changes in the cancerous tumor tissue can affect the response of cells to treatments and encourage the development of resistance to anti-cancer treatment. “That is why it is important to develop a synergistic treatment that changes the entire environmental balance and thus ‘suffocate’ the tumor,” she explained. Dr. Abumanhal focused on a particularly aggressive version of breast cancer, a version created from a combination of mutations and therefore relatively resistant to existing treatments."
+Question:Can baking soda help to cure cancer?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Are Squats Bad For Your Knees? The Muscle PhD - Are Squats Bad For Your Knees? Search for:
+ByCharlie Ottinger
+Articles, Training
+Facebook
+Twitter
+LinkedIn
+Reading Time: 5 minutes
+Introduction
+The squat. The one exercise that strength coaches and Instagram booty building programs agree on the most. It’s also one of the most controversial exercises – every bro with bad knees and every doctor who’s never touched a weight seems to have an opinion as to why you shouldn’t do them and even more reasons why you should NEVER squat below parallel."
+Question:Are squats bad for knees?
+Your answer:
+no
+8
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"But that temporary side effect only affected 3% of study participants. According to the U.S. Food and Drug Administration label data for lisinopril prescriptions, erectile dysfunction is not listed as a potential side effect. ACE inhibitors like lisinopril are hypertension medications that are not likely to cause ED. Talk to a doctor online
+Refill medications and get certain necessary prescriptions. Lisinopril is an angiotensin-converting enzyme inhibitor (ACE inhibitor)."
+Question:Do ACE inhibitors typically cause erectile dysfunction?
+Your answer:
+no
+9
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Morphine addiction will come with physical and behavioral signs and symptoms. The acute effects of morphine abuse may include drowsiness, loss of motor control, loss of consciousness, itchiness, and constipation. As abuse grows into morphine addiction, it can start to affect multiple areas of your life, like your health, relationships, and finances. Addiction is characterized by compulsive drug use despite serious consequences. If you try and fail to stop or cut back after experiencing health issues or financial problems as a result of morphine use, you may be addicted. Other signs include:
+Hiding morphine use
+Doctor shopping
+Lying about drug use
+Isolation
+Loss of interest in regular activities
+Strange sleep patterns
+Anxiety
+Depression
+Financial instability
+Medical issues
+Frequent scratching
+Struggling at work or school
+Legal issues
+What Is Involved in Morphine Addiction Treatment?"
+Question:Is morphine addictive?
+Your answer:
+yes
+10
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Juices are low in fibre and high in sugar. The whole fruit gives you higher satiety and keeps you full for longer due to its fibre content. Fruit juices, on the other hand, when consumed regularly, can increase the risk of metabolic syndromes and type 2 diabetes.The Healthify Take on Fruit Juices Fruit juices are a source of free sugars. However, it is undeniable that fruit juices provide plant bioactives and bioavailable micronutrients at levels similar to those found in whole fruits. Yet, a review of country-based dietary guidelines found that only 23% clarified their role in a balanced diet. Avoiding a food item that confers conflicting viewpoints is always better."
+Question:Can fruit juice increase the risk of diabetes?
+Your answer:
+yes
+11
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"osteoarthritis (hip)osteoarthritis (knee)painmagneticsHarlow T, Greaves C, White A, et al. Randomised controlled trial of magnetic bracelets for relieving pain in osteoarthritis of the hip and knee. BMJ 2004;329:1450–4.OpenUrlAbstract/FREE Full Text
+Q Does short term use of magnetic bracelets reduce pain in patients with osteoarthritis of the hip and knee? *
+Blinding:blinded (patients, healthcare providers, data analysts, {data collectors, outcome assessors, statistician, and monitoring committee}*).Follow up period:12 weeks.Setting:5 rural general practices in Mid Devon, UK.Patients:194 patients 45–80 years of age (mean age 67 y, 62% men) with osteoarthritis of the hip or knee (diagnosed by an orthopaedic surgeon, rheumatologist, or general practitioner and confirmed by radiological evidence) and scores of 8–20 on the Western Ontario and McMaster University osteoarthritis index (WOMAC A). Exclusion criteria were use of cardiac pacemakers, current use of magnetic bracelets, surgery to the index joint (except arthroscopy), haemophilia, pregnancy, and breast feeding.Intervention:66 patients were allocated to standard neodymium magnets set in a steel backing cup, with the open side facing the ventral wrist, creating a fluctuating magnetic pattern across the bracelet and a field strength of 170–200 mTesla."
+Question:Do magnetic wrist straps help with arthritis?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Are Sit-Ups Actually Bad for Your Back?The A.V. But sit-ups themselves are fine.ByBeth SkwareckiPublishedJune 3, 2022Comments (7)AlertsWe may earn a commission from links on this page.Photo: Stephen McCluskey (Shutterstock)If you’ve ever trained for a military fitness test or been made to do the presidential fitness test in gym class, you know the sit-up. Somebody holds down your feet, and you sit up as many times as you can before the test is over. But then again, you may have also heard that sit-ups are bad for your back, and that all those gym teachers were wrong and we should be doing crunches or planks instead."
+Question:Are sit ups bad for you?
+Your answer:
+no
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"problems in reading and writing)
+spatial disorientation (uncertainty concerning the left and right)
+disorders in fine motor skills that manifest themselves in handwriting
+disturbances in speech (ranging from stammering through stuttering)
+These primary consequences can then transform into various differing secondary consequences:
+inferiority complexes
+insecurity
+introversion
+overcompensation through heightened performance
+contrariness; an oppositional and provocational manner; (e.g. the class clown in school; and the persistent, compulsive wise-cracker in adulthood)
+various distinctive disorders in behavior
+bedwetting and nail-biting
+emotional problems lasting into adulthood with neurotic and/or psycho-somatic symptomology
+disorders in the personality profile
+Of course, all of the primary and secondary difficulties listed above could also appear without the converting of handedness and they are just as prevalent in left-handers as in right-handers. However, as has been found in practice, through the additional converting of handedness these difficulties, are incalculably increased. Thus, the converting of handedness negatively intervenes into and inhibits the course of the cerebral processes. It drives people to continually use more energy to mobilize their intelligence than left-handed or right-handed people who have not been disabled by the consequences of converting would find necessary. The level of intelligence itself is not diminished."
+Question:Can a speech problem be caused by right handed person being forced to left hand?
+Your answer:
+yes
+12
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Despite the ongoing debate in the medical world as to the efficacy of this claim, one begins to wonder why urine therapy is quickly catching on. Below are some of the listed benefits:
+Drinking urine strengthens a person’s immunity and cleanses the system. It detoxifies the system of harmful toxins. However, the process of detoxification varies in humans. It is, rather, largely dependent on how much toxins are in a person’s body. A lot of people claim that urine as an exfoliator and facial cleanser helps get rid of acne and eczema."
+Question:Are there health benefits to drinking your own urine?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Image: UnsplashNot only pretty to look at, pink salt has been touted as having more minerals and micronutrients than regular white table salt. But a new study has debunked the idea that pink salt is better for you – with some pretty alarming findings.If you’re into all things wellbeing, chances are, you’ve got a salt shaker filled to the brim with pretty pink salt sitting in your pantry. After all, it’s healthier than plain white salt, right? Well, not really...The deal with pink saltA quick Google search will tell you that pink salt can do anything from improve your sleep to fight ageing, and even boost your libido. You’ll also find claims that pink salt offers far more micronutrients than standard white salt, and so is nutritionally superior."
+Question:Is pink salt good for you?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Even women with slim figure may experience the problem of “orange peel” skin. Learn how to do ant-cellulite massage which will firm your skin and help get rid of unnecessary fat reserves.Cellulite, called also the „orange peel”, is nothing else than the localized clusters of fat which accumulates in our body just under the skin. Cellulite occurs most often on the tummy, buttocks and thighs. You can combat it in several ways:physical exercise,proper diet,special treatments oranti-cellulite massagesAs for the massages, you can have them done in a professional massage salon, but you can also do them yourself at home. When you are doing the anti-cellulite massage, don’t be afraid of applying force – the massages of this type should be performed with firm, strong movements.Rule 2."
+Question:Can massage get rid of cellulite?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Consider our new Heart product as a replacement for the discontinued Cholesterol product. Same great formula but with a new label and updated claims. Nourish your heart with true EPA from algae. Brain
+Get brighter brain energy from nourishing fats and key vitamins in this clever blend. bundle and save up to 20%
+take the quiz
+shop all
+why iwi life algae
+Learn more
+better nutrition
+the science
+sustainability
+who we are
+Algae Oil vs Fish Oil: Which One Is Right for You?"
+Question:Can fish oil improve your cholesterol?
+Your answer:
+no
+13
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"But that’s not the case for everyone. For some, marijuana use poses a substantial likelihood of developing an addiction.The National Institute on Drug Abuse recently released data that suggests that 30 percent of those who use marijuana may have some degree of “marijuana use disorder.”They add that people who use marijuana before age 18 are 4 to 7 times more likely to develop this use disorder than adults.Researchers estimated that 4 million people in the United States met the criteria for marijuana use disorder in 2015. Of them, 138,000 voluntarily sought treatment.The use disorder, according to researchers, can morph into an addiction when the person can’t stop using the drug even when it interferes with their daily activities.The Canyon, a treatment center in Malibu, California, lists 10 signs that someone might have an addiction to marijuana. Among the signals is a growing tolerance for the drug’s effects, as well as using more marijuana than they initially intended to use.Who becomes addicted to marijuana and why?Genes are one strong predictor of developing an addiction, said Dr. Alex Stalcup, medical director of the New Leaf Treatment Center in Lafayette, California.Studies of identical twins raised in different families support this theory. They have higher rates of an addiction co-occurring, which means that if one of them develops an addiction, the other is at greater risk for developing one, than fraternal twins raised apart.But family ties may also help some people avoid progressing to a state of addiction.“When we look at the criteria for addiction, it has a lot to do with people tempering their behavior,” explained Carl Hart, PhD, an associate professor of psychology at Columbia University in New York and author of “High Price,” in a 2016 interview with Healthline. “It has a lot to do with responsibility skills… It’s not perfect, but when you look at the people who are addicted, and you look at people who have jobs and families, they have responsibilities, they’re plugged into their societies, they have a social network, the addiction rates within those kind of groups are dramatically decreased from people who are not plugged in with jobs, families, social networks.”Those who don’t become addicted also tend to have more options.“Most of us have a lot of choice in life of things that make us feel good,” said Gantt Galloway, PharmD, executive and research director of the New Leaf Treatment Center and senior scientist at the California Pacific Medical Center Research Institute, in a 2016 interview with Healthline.“Those who have fewer choices, who perhaps don’t have as rich a set of social interactions because their family life is difficult or because they have emotional problems that are stopping them from forming close friendships… those people may find drugs such as marijuana more attractive and be at greater risk for addiction.”Mental health conditions, which have both genetic and environmental causes play a large one in a person’s chance of developing an addiction.“Mental health is a huge risk factor for addiction,” said Stalcup."
+Question:Can you become addicted to weed?
+Your answer:
+yes
+14
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"If planned and supplemented (as needed) appropriately, vegan diets can certainly be a part of a healthy lifestyle. However, you do not need to be on a vegan diet to be living a healthy lifestyle. Would you consider it a healthier diet than one that incorporates meat/animal products? I would not consider a vegan diet a healthier diet that those that incorporate meat and animal products. As a general rule of thumb, a healthy diet should be one that is robust in a colorful variety of plant-based foods, including fresh vegetables, fruits, legumes, nuts/seeds & whole grains. By prioritizing plant-based foods at your meals, there is certainly space to incorporate meat/animal products while maintaining the benefits of those plant-based foods."
+Question:Can vegan diets be healthy?
+Your answer:
+yes
+15
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Instead, she recommended something with Thiamidol. Agnes is Polish, and before coming to work at SB Skin she spent several years training and treating skin in Europe. Hydroquinone is banned in the EU (of which Poland is a part), and when Thiamidol hit the market a few years ago Agnes started suggesting it to clients in hydroquinone’s stead. She swore it worked even better at lightening melasma specifically, and was also suitable for sensitive skin and people who had adverse reactions to hydroquinone in the past. Agnes scribbled down some info on a piece of paper, along with a few products with Thiamidol in them and a website that would ship from Europe, handed it to my mom, and sent her on her way."
+Question:Is hydroquinone banned in Europe?
+Your answer:
+yes
+16
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"K Health’s AI-powered app is HIPAA compliant and based on 20 years of clinical data. Frequently Asked Questions                                            
+                                                            How do men get a UTI? Several factors can encourage bacterial growth and spread in the male urinary tract. This includes infrequent urination, poor toilet hygiene, bacteria transmitted through sexual contact, prostate problems, and diabetes. Can you prevent UTI in men? A few behaviors may reduce the likelihood of getting a UTI: Stay hydrated, practice safe sex, don’t hold in your urine, and wipe front to back after bowel movements."
+Question:Do men get UTI infections?
+Your answer:
+yes
+17
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"But the idea is rooted in a little myth and an established campaign attributing carrots to good eye health because they contain compounds that are good for the eyes. Myths and True facts about eating carrots
+                Though carrots and eyesight are linked, if you have poor vision, carrots won't help your visual acuity. and won't give a blind person eyesight. However, the vegetable's vitamins do support overall eye health. Beta-carotene, an antioxidant found in carrots, is a compound that the body transforms into vitamin A, a crucial ingredient for eye health. Insufficient vitamin A can result in blindness."
+Question:Are carrots good for your eyes?
+Your answer:
+yes
+18
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Methanol toxicity remains a common problem in many parts of the developing world, especially among members of lower socioeconomic classes. (See Etiology and Pathophysiology and Presentation.) [1] 
+Sophisticated imaging techniques have enabled a better understanding of the clinical manifestations of methanol intoxication. Additionally, neurologic complications are recognized more frequently. This is possible because of early recognition of the toxicity and because of advances in supportive care. Hemodialysis and better management of acid-base disturbances remain the most important therapeutic improvements."
+Question:Is methanol poisonous?
+Your answer:
+yes
+19
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"The safety of your unborn child is not at risk by having an MRI done during your second and third trimester of pregnancy. In fact, it can help avoid neonatal death. Currently, there are no recognized dangers to pregnant women who get an MRI scan. Many pregnant patients have undergone MRI tests in the last few years. A baby’s development appears to be unaffected by exposure to the radiation they emit. If the thought of having an MRI while expecting makes you uneasy, there are other imaging examinations you may choose for, such as an ultrasound."
+Question:Can an MRI harm my baby?
+Your answer:
+no
+20
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Exercise  - HEART UK
+Get healthy living and recipes sent straight to your inbox
+Sign up to our FREE monthly newsletter for tips, information and practical help to manage cholesterol. By getting a simple cholesterol test and making positive lifestyle changes, most people can keep their cholesterol levels healthy. Latest newsContact us
+Donate
+CholesterolHealthy livingGet involvedHealth professionals 
+Donate
+Exercise 
+Home > Healthy living > Exercise 
+Exercise can improve your health in many ways
+Being active is a major part of looking after your cholesterol levels and keeping your heart healthy. It can:
+raise your HDL cholesterol levels, the good cholesterol which removes fat from your arteries 
+lower your LDL cholesterol, the type of cholesterol that gets laid down in your arteries 
+help you to lose weight or stay a healthy weight 
+help you lose fat from around your middle, which is important for heart health 
+lower your blood pressure
+lower the risk of Type 2 diabetes or help control it. How much physical activity should I do? Adults should aim to do at least 150 minutes of moderate intensity activity or 75 minutes of intense activity every week."
+Question:Can exercise lower cholesterol?
+Your answer:
+yes
+21
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Let's find out
+Let us find out if it is a myth or a truth that chewing gum can help us shed some weight. Is it really helpful in weight loss or not. Written By: Aparupa Devnath
+New Delhi
+Updated on: September 23, 2022 14:20 IST  
+URL copied 
+ Follow us on 
+ Image Source : FREEPIK Does Chewing gum help in weight loss? It is still a debate whether chewing gum can actually make you shed some inches. Well, let's find out if it is a myth or a truth. Chewing gum can be good for our health if done within a limit."
+Question:Can chewing gum help lose weight?
+Your answer:
+no
+22
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"You can't control everything, but here are four things you can do to potentially reduce your risk.1. Wear sunglasses
+When too much UV light tries to enter your eye, your body will instinctively try to prevent it. Because focusing too much light through your lens and onto your retina can be extremely damaging to the eye. Not only has overexposure been linked to cataracts, but developing other eye conditions can also increase your risk.On bright sunny days, wear sunglasses and a wide-brim hat. Your eyes will thank you for it."
+Question:Can sunglasses help prevent cataracts?
+Your answer:
+yes
+23
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"^ "HIV's ancestry traced to wild chimps in Cameroon". USA Today. 25 May 2006. Retrieved 20 May 2010. ^ a b c Van Heuverswyn F, Li Y, Neel C, Bailes E, Keele BF, Liu W, Loul S, Butel C, Liegeois F, Bienvenue Y, Ngolle EM, Sharp PM, Shaw GM, Delaporte E, Hahn BH, Peeters M (2006)."
+Question:Did AIDS come from chimps?
+Your answer:
+yes
+24
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Eat foods that are high in water content, like fruits and vegetables. During these hot summer months, take frequent water breaks, especially while being active. Is it possible to drink too much water? Healthy people are able to control their water consumption, so most people will not drink too much water. In fact, it’s not harmful for healthy people to chronically drink large amounts of water as long as it’s balanced by water losses. Occasionally, people drink more than needed so quickly that their bodies cannot get rid of the excess."
+Question:Is too much water bad for you?
+Your answer:
+no
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"You can only get it when certain fluids from someone who's infected get into your body.So, how does that happen?From a Hug?No. HIV is only spread through specific body fluids: blood, semen, pre-seminal fluid (secreted from penis before ejaculation), vaginal and rectal fluid, and breast milk. Hugging and shaking hands are safe.From Kissing?It's possible, but it hardly ever happens. HIV isn't spread through saliva.But if you kiss someone who's infected and has bleeding gums or sores, you could get the virus if you also have cuts or sores around or in your mouth -- because of the blood-to-blood contact.From Someone's Cough or Sneeze?No, the virus doesn't travel through air.From Someone's Tears, Sweat, Vomit, or Pee?Not like that. Sweat and tears don't carry HIV. And even though they might have a trace of blood, there have been no reported cases of HIV from vomit or pee.From Vaginal Sex?Yes, and either partner can get it!Women can get HIV through the tissue that lines their vagina and cervix."
+Question:Can HIV be transmitted through sweat?
+Your answer:
+no
+25
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Just looking at the glow of a Himalayan sea salt lamp can be calming, which is therapeutic in and of itself, but what about the other health claims? To date, there aren’t any scientific studies focusing specifically on benefits of Himalayan salt crystal lamps. However, there is good reason to believe that a real Himalayan salt crystal lamp may provide some health benefits given the other salt research out there as well as many encouraging user testimonies. According to the Lung Institute, salt (in general) has the following health properties:
+Antibacterial
+Anti-inflammatory
+Loosens excessive mucus and speeds up mucociliary transport
+Removes pathogens (ie., airborne pollen)
+Reduces IgE level (immune system oversensitivity)
+Does It Really Generate Negative Ions? Makers of salt lamps commonly claim that they generate negative ions. Unfortunately, there is no definitive evidence that a Himalayan rock salt lamp can produce a measurable number of negative ions."
+Question:Do Himalayan salt lamps have health benefits?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"In this post, we’ll unpack fertility while nursing, the chances of getting pregnant while breastfeeding, and how tracking your temperature holds the key to your fertility. Get comfy, grab a coffee, and join us as we answer ‘can you get pregnant while breastfeeding?’ This article is also available in Spanish. How soon can you get pregnant after giving birth while breastfeeding? If you’re not breastfeeding, you can get pregnant again as soon as three weeks after giving birth. However, a review of studies in 2011 found that most women did not ovulate until six weeks after giving birth, this is different if you choose to breastfeed. If you are exclusively breastfeeding (i.e."
+Question:Can a woman get pregnant while breastfeeding?
+Your answer:
+yes
+26
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Cognitive impairment associated with atorvastatin and simvastatin. Physician response to patient reports of adverse drug effects: implications for patient-targeted adverse effect surveillance. Statins and cognition: a systematic review and meta-analysis of short- and long-term cognitive effects."
+Question:Can statins cause permanent cognitive impairment?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"However, research about this claim is conflicting.Although not fully proven, large doses of vitamin C may help reduce how long a cold lasts. They do not protect against getting a cold. Vitamin C may also be helpful for those exposed to brief periods of severe or extreme physical activity.The likelihood of success may vary from person to person. Some people improve, while others do not. Taking 1000 to 2000 mg per day can be safely tried by most people. Taking too much can cause stomach upset.People with kidney disease should NOT take vitamin C supplements.Large doses of vitamin C supplementation are not recommended during pregnancy.A balanced diet almost always provides the required vitamins and minerals for the day.Alternative Names
+Colds and vitamin CImages
+Vitamin C and colds
+References
+National Institutes of Health, Office of Dietary Supplements website."
+Question:Does Vitamin C prevent colds?
+Your answer:
+no
+27
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Yes, you did read correctly! Coffee can help you to lose weight. This caffeine drink contains powerful nutrients like magnesium, potassium, niacin, and antioxidants that enhance your metabolism. Coffee lovers will agree that there is nothing better than sipping a good cup of coffee. A steaming cup of cappuccino calms and warms the insides on rainy days. An iced frappuccino simply beats the heat on typically hot days."
+Question:Can coffee help you lose weight?
+Your answer:
+yes
+28
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"But if you are using this not-so-tasty beverage to replace other calorie-laden milky beverages or fruit juices, then it might help you create that calorie deficit required to lose weight.Keeping yourself hydrated is another important component of losing weight. This is because our body sometimes interprets thirst as hunger and thus we end up eating more than the required amount of calories. readmore03/5​StudyA study published in the Journal of Clinical Biochemistry and Nutrition found that polyphenols (plant-based compounds, which act like antioxidants) found in the lemon juice, as well as its peel, can stimulate the liver to burn fat.The study was conducted on rats that were being fed a high-fat diet and so the results don’t exactly apply to humans until you are on a ketogenic diet. readmore04/5​VerdictLemon water can actually help in reducing the bloated belly as it acts like a mild diuretic. But if you are experiencing bloating from a long time, lemon water might not help.No drink can magically help you lose weight and slim down."
+Question:Does drinking lemon water help with belly fat?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"In 2015, the International Agency for Research on Cancer (IARC), affiliated with the World Health Organization, deemed processed meat carcinogenic. Research data suggested the colorectal cancer risk increased by 18% for someone who ate about 2 ounces of processed meat daily — think a couple of salami slices. A 2021 study from Harvard’s T. H. Chan School of Public Health found that these meats can damage DNA, leaving what the researchers called a “mutational signature.”
+There are several possible reasons for this relationship between meat and colon cancer. It’s been suggested that grilling red meat over high heat can produce carcinogenic compounds. With processed meats, the nitrates and other preservatives used in, say, ham or bologna deli meats, may be responsible. We are still trying to pinpoint the exact cause, so this is an important area of evolving scientific research."
+Question:Does deli meat increase your risk of colon cancer?
+Your answer:
+yes
+29
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Skin tags are small growths on the skin that look a bit like warts. They are connected to the skin by a small, thin stalk. Skin tags are common, especially as a person ages. They don’t cause any harm, but if you have a skin tag that is bothering you, you should talk to your doctor about having it removed. They are usually less than 2mm in size, but they can grow much larger. They feel soft, and can be smooth and round, wrinkly and uneven, or look like a grain of rice."
+Question:Are skin tags contagious?
+Your answer:
+no
+30
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"| Terra & Co. | Terra & Co. 
+        Free domestic shipping 📦 with orders of $45 or more! May 20, 2021
+·
+               Terra & Co. Collaborator
+May 20, 2021
+·
+             Terra & Co. Collaborator
+Oil pulling with coconut oil does not reverse existing tooth decay and should not be treated as a substitute for brushing, flossing, or professional dental cleanings."
+Question:Can oil pulling heal cavities?
+Your answer:
+no
+31
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"The high fiber diet has long outlived the standard life of a fad diet, and now commonly receives the attention it deserves as a generally healthy dietary habit…”High-Fiber Foods and Daily IntakeAlthough there is no diet that can cure hemorrhoids, a high-fiber diet can be effective. Each day, you should try to consume about 25-30 grams of fiber. Increase your intake of fiber through your diet or taking supplements. Avoid red meat, hot dogs, fried foods, alcohol, and caffeine. Foods high in fiber include:Beans (black beans, lima beans, baked beans…)Whole Grains (bran cereal, oatmeal, brown rice…)Vegetables (broccoli, Brussels sprouts, artichoke, peas…)Fruit (apples, bananas, pears, raspberries…)“Hemorrhoids are swollen veins that enlarge and develop in the lower portion of the rectum or anus. This is a common condition that results from increased pressure on the veins in the anorectal region.”Fiber is beneficial to treat and prevent hemorrhoids."
+Question:Does a high fiber diet help with hemorrhoids?
+Your answer:
+yes
+32
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"How does grapefruit interact with medicines? Eating grapefruit or drinking grapefruit juice can cause some medicines to enter your body faster. This makes it more likely that you will have side effects from the medicine. Interactions can happen up to three days after eating or drinking grapefruit. This means you cannot drink grapefruit juice in the morning and take your medications later in the day to stop possible medicine interactions. Do all medicines interact with grapefruit?"
+Question:Can grapefruit interfere with medication?
+Your answer:
+yes
+33
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"There is no good evidence that second-hand vapour from e-cigarettes is harmful. As vapes are still relatively new, we can’t be sure there aren’t any long-term effects to people who breathe in someone else’s vapour. But this is unlikely to be harmful. Passive vaping is not the same as passive smoking. This is because e-cigarettes do not contain tobacco."
+Question:Can vape pens be harmful?
+Your answer:
+yes
+34
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"While buying a bunch, choose bananas that are entirely bright yellow if you plan on enjoying them immediately. Look for bright yellow with some greening toward each end if it’ll be a day or two before you get to eat them. Are Bananas Good for People with Diabetes? All fruits are excellent sources of blood sugar-balancing fiber and disease-fighting minerals and vitamins—and bananas are no exception. Bananas, in particular, are high in potassium, a mineral that is known to help lower blood pressure."
+Question:Do bananas increase the risk of diabetes?
+Your answer:
+no
+35
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"It is the assessment of ARPANSA and other national and international health authorities, including the World Health Organization (WHO), that there is no established scientific evidence of adverse health effects below current exposure limits. Wi-fi devices and access points are low powered, typically 0.1 watt (100 milliwatts). A measurement study conducted by ARPANSA showed that exposure to RF EME from wi-fi in schools is much lower than the limit for public exposure specified in the ARPANSA Standard. There is no established scientific evidence of adverse health effects from the Wi-fi RF exposure."
+Question:Is wifi harmful for health?
+Your answer:
+no
+36
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Can Apple Cider Vinegar Help You Lose Weight? - HealthifyMe                    DOWNLOAD THE APP                  No Result    View All Result              Weight LossDietWeb StoriesHealth                                                                                               No Result    View All Result            Home  Diet  Weight Loss Is Apple Cider Vinegar Effective for Weight LossbyParul DubeJanuary 12, 2023inWeight Loss 0Like the famous adage “an apple a day, keeps the doctor away”, we can coin another: “an apple cider drink a day keeps the fat away”. We all know that apples are rich in vitamins, minerals, and antioxidants. So the offshoot, apple cider vinegar, has gained tremendous popularity among health enthusiasts. After all, it has several advantages."
+Question:Does drinking apple cider vinegar help lose weight?
+Your answer:
+yes
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"1. Ginger is often marketed as a natural product, with few side effects, to help relieve nausea or soothe an upset stomach. In fact, the ability to reduce nausea is known as the main use of ginger. 2. How it works
+ Ginger derives its medicinal properties from gingerol, the main bioactive ingredient in fresh ginger, as well as related compounds known as shogaols, which give it its characteristic pungent taste."
+Question:Does ginger help with nausea?
+Your answer:
+yes
+37
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"I have cold sores in my mouth. Yes. Cold sores are usually caused by HSV I. People who have HSV I are susceptible to becoming infected with HSV II, the common cause of genital herpes. How is genital herpes diagnosed?"
+Question:Can a cold sore cause genital herpes?
+Your answer:
+yes
+38
+
+Accuracy:0.76

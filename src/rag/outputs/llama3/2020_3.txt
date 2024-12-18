@@ -1,0 +1,1173 @@
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"It was determined that vitamin D serum concentrations inversely correlated with the decline in COVID-19 infection risk. The overall treatment elicited by vitamin D serum level interaction was considerable, with a 12% rise in the hazard ratio for each category of serum level. A 25% reduction in COVID-19 risk throughout the spectrum of cumulative dosages and a 27% reduction across average daily dosages were also noted. The cumulative dose-response relationship was inversely related to vitamin D blood concentration. Overall, the study findings showed that vitamin D2 and vitamin D3 supplementation significantly reduced the risk of COVID-19 infection and death within 30 days. Therefore, the researchers believe vitamin D3 supplementation could be a valuable strategy for limiting the spread of COVID-19 infection and related death and racial differences in COVID-19 outcomes.Journal reference:
+Gibbons, J.B., Norton, E.C., McCullough, J.S."
+Question:Can vitamin D cure COVID-19?
+
+No
+1
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Yes, but for different reasons. Caution: Be careful taking very high doses of vitamin C supplements. They can also cause unwanted side effects such as abdominal cramping and diarrhea. How might IV vitamin C work in COVID-19 patients? There are several theories about how IV vitamin C may help treat COVID-19:
+			Very high vitamin C levels may create free radicals that destroy viruses and bacteria. Our body’s cells have defenses against these free radicals, but viruses do not."
+Question:Can vitamin C cure COVID-19?
+
+No
+2
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"et al.BCG vaccination in South African HIV-exposed infants - risks and benefits.S Afr Med J. 2009; 99: 88-93PubMed
+Google Scholar Settings with a history of BCG vaccination reported fewer COVID-19 cases and deaths in the early months of the pandemic, and it was hypothesised that non-specific effects of current and historical widescale BCG vaccination could protect from COVID-19.6Miller A. Reandelar M.J. Fasciglione K. Roumenova V. Li Y. Otazu G.H. Correlation between universal BCG vaccination policy and reduced mortality for COVID-19.medRxiv. 2020; : 1-15Google Scholar,7Bagheri N. Montazeri H. On BCG vaccine protection from COVID-19: a review.SN Compr Clin Med. 2021; 3: 1261-1271Crossref
+PubMed
+Google ScholarTrained immunity involves a reprogramming of innate immune cells (particularly myeloid and natural killer cells) to enhance cytokine production and antimicrobial functions.2Singh A.K."
+Question:Can BCG vaccine prevent COVID-19?
+
+No
+3
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"However, a recently published study undertaken by the University of Southern Denmark and the Danish Medicines Agency’s Data Analytics Center, etc. has found no association between the use of NSAIDs and serious adverse reactions in COVID-19 patients. No statistically significant difference
+A total of 9,326 Danish patients infected with COVID-19 in the period between 27 February and 29 April participated in the study. Of these patients, 248 were taking an NSAID drug. The results below show that there is no statistically significant difference between the patients using NSAIDs and the patients not using NSAIDs. Patients using NSAIDs
+Patients not using NSAIDs
+Mortality
+6 per cent
+6 per cent
+Hospitalisation
+21 per cent
+25 per cent
+Intensive care admissions
+5 per cent
+5 per cent
+The study confirms the European Medicines Agency’s announcement in March this year that there is no scientific evidence to suggest that ibuprofen worsens the condition of patients infected with COVID-19."
+Question:Can ibuprofen worsen COVID-19?
+
+No
+4
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"3 Department of TB & Chest, Malla Reddy Medical College for Women, Suraram, Quthubullapur, Hyderabad-500055, Telangana, India. PMID:
+33046408
+      PMCID:
+      PMC7528968
+      DOI:
+      10.1016/j.explore.2020.09.010
+  Item in Clipboard
+          Full text links
+        CiteCollectionsDisplay options
+      Display options
+            Format
+          AbstractPubMedPMID
+        Abstract
+      This report provides a perspective on the relevance of saline water gargling and nasal irrigation to the COVID-19 crisis. While there is limited evidence concerning their curative or preventive role against SARS-CoV-2 infection, previous work on their utility against influenza and recent post-hoc analysis of the Edinburgh and Lothians Viral Intervention Study (ELVIS) provide compelling support to their applicability in the current crisis. Saline water gargling and nasal irrigation represent simple, economical, practically feasible, and globally implementable strategies with therapeutic and prophylactic value. These methods, rooted in the traditional Indian healthcare system, are suitable and reliable in terms of infection control and are relevant examples of harmless interventions. We attempt to derive novel insights into their usefulness, both from theoretical and practical standpoints."
+Question:Can gargling salt water prevent COVID-19?
+
+No
+5
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Specifically, ginger exhibited a protective role against acute respiratory distress syndrome [10, 11], the primary cause of mortality in severe COVID-19 cases. Moreover, bioactive compounds present in ginger, such as gingerol and shogaol, showed high affinity to the SARS-CoV-2 spike protein, thus could potentially interfere with the spike protein and host angiotensin-converting enzyme 2 (ACE-2) interaction [12, 13]. Interactions between ginger-derived compounds and papain-like protease and other virus proteins essential for its survival were also indicated via computational theoretical models [14, 15].Taken together, ginger presents the potential as an alternative therapeutic agent to treat COVID-19. Therefore, we conducted a clinical trial to examine the effect of the ginger supplement on the clinical manifestations of individuals with COVID-19.MethodsStudy design and participantsThe study protocol was approved by the institutional review boards of Zhongshan Hospital, Fudan University, and the trial was registered on the Chinese Clinical Trial Registry (ChiCTR2200059824). All participants provided written informed consent. Study participants were recruited among the individuals with COVID-19 hospitalized at two Fangcang shelter hospitals, from April to May 2022, in Shanghai, China."
+Question:Can Ginger cure COVID-19?
+
+No
+6
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"The people who think coronavirus is caused by 5G - BBC NewsBBC HomepageSkip to contentAccessibility HelpYour accountHomeNewsSportReelWorklifeTravelFutureMore menuMore menuSearch BBCHomeNewsSportReelWorklifeTravelFutureCultureMusicTVWeatherSoundsClose menuBBC NewsMenuHomeWar in UkraineCoronavirusClimateVideoWorldUKBusinessTechScienceMoreStoriesEntertainment & ArtsHealthWorld News TVIn PicturesReality CheckNewsbeatLong ReadsStoriesThe people who think coronavirus is caused by 5GThis video can not be playedTo play this video you need to enable JavaScript in your browser.The people who think coronavirus is caused by 5GCloseThe idea that 5G could have health implications isn't new. But conspiracy theories linking 5G with Covid-19 went viral during lockdown.By May, one survey found 20% believed to some extent that the virus is a hoax. Major health organisations have said that 5G is safe and that there's no link between it and coronavirus. But while most of the UK was isolating at home, anti-5G protesters took to the streets.There were also attacks on telecoms workers, and almost 100 mobile masts were set on fire. Where did this theory come from? And where will it end?"
+Question:Can 5G antennas cause COVID-19?
+
+No
+7
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Although some neutralizing antibodies and small molecule inhibitors are being developed, there is uncertainty about their safety and efficacy (8). Therefore, we urgently need to explore new strategies to treat COVID-19. Tea is popular all over the world as a food drink; in fact, tea has been used as an herbal medicine to prevent and treat various diseases (9). Tea and its characteristic polyphenols—catechins—have been shown to be active in preventing obesity, diabetes, cardiovascular disease, cancer, and other diseases (10–12). Tea ingredients have also been shown to have anti-viral activity as well as protective activity against diseases caused by oxidative stress and inflammation; many of these ingredients may help alleviate and treat COVID-19 (13, 14). Although several studies have focused on epigallocatechin gallate (EGCG), the major component of green tea, which has been shown to be effective in preventing COVID-19 (15), we focused on systematic research of the therapeutic potential of tea components for COVID-19, including inhibition of COVID-19 signature gene transcription and direct interactions with specific COVID-19 proteins."
+Question:Can herbal tea prevent COVID-19?
+
+Yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"An Update on Convalescent Plasma for COVID-19 | Johns Hopkins | Bloomberg School of Public Health
+        Skip to main content
+Header secondary
+Departments
+Faculty
+Topics
+Search
+Search
+AcademicsProgram FinderCourse DirectoryAcademic CalendarHybrid CampusLecture SeriesConvocationResearchStrategy and DevelopmentImplementation and ImpactIntegrity and OversightPracticeIn the SchoolIn the FieldIn BaltimoreResources for PractitionersHeadlinesArticles & News ReleasesEventsIn The NewsNewsletterPodcastStatements & AnnouncementsAboutAt a GlanceLeadershipStrategic PrioritiesInclusion, Diversity, Anti-Racism, and Equity (IDARE)Key CommitmentsKey InitiativesHistoryWhat is Public Health?Apply
+An Update on Convalescent Plasma for COVID-19 
+                Published 
+January 18, 2022
+COVID-19
+Data
+Medicine
+Interview by Joshua Sharfstein
+In the early days of the pandemic, clinicians began to treat COVID-19 patients with the plasma of people who have recovered from COVID-19. The idea was that protective antibodies in the plasma would help prevent severe illness and death. Nearly two years later, more evidence is in and it's being hotly debated. In this Q&A, adapted from the January 12 episode of Public Health On Call, Arturo Casadevall, MD, PhD, chair of Molecular Microbiology and Immunology, talks with Josh Sharfstein, MD, about the results of the COVID-19 Plasma Project and his take on divergent recommendations about using plasma as a therapy. What is convalescent plasma? People who recover from COVID-19 have antibodies in their blood; those patients can then donate plasma to other individuals for treatment of the disease."
+Question:Can convalescent plasma cure COVID-19?
+
+No
+8
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Lower odds of respiratory symptoms were seen in patients with a flu shot (aOR=0.678, 95% CI [0.492, 0.934], p=0.018), but no difference was found in patients with the pneumococcal vaccine versus those who didn’t have it. Additionally, having the flu shot also led to lower odds of having severe disease (aOR=0.672, 95% CI [0.500, 0.903], p=0.008) and a similar effect was seen with those who had the pneumococcal vaccine (aOR=0.412, 95% CI [0.234, 0.725], p=0.002).The researchers concluded that both the seasonal influenza and pneumococcal vaccine could provide a protective value against symptomatic COVID-19 disease. They urged further study to understand how the influenza and COVID-19 can impact a virus’s epidemiology.Reference1. The Flu vaccination may have a protective effect on the course of COVID-19 in the pediatric population: when does severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) meet influenza?."
+Question:Can pneumococcal vaccine prevent COVID-19?
+
+No
+9
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"However, whether sex hormones-dependent modulation of ACE2 or TMPRSS2 in the lung or other SARS-CoV-2 target tissues correlates with COVID-19 susceptibility or severity needs to be further elucidated.Sex Hormones Control Anti-Viral Immune ResponseGender is a key host factor influencing immune response, leading to differences in severity, prevalence, and pathogenesis of infection, with males generally more susceptible than females (18).According to experimental evidence from the severe acute respiratory syndrome (SARS) caused by the SARS-CoV, another beta-coronavirus closely related to SARS-CoV-2, estrogen status is key in determining disease severity through modulation of the immune response. Ovariectomy of SARS-CoV infected female mice or treatment with an ER antagonist increased mortality compared to treatment with tamoxifen (a selective ER modulator) (19). The protective role of ER signalling has been linked to the induction of the “anti-viral status” mediated by type I interferon (IFN-I), a first line cytokine involved in host defence (4). In the SARS-CoV model, reduced survival was due to a robust viral replication and delayed IFN-I signaling which promoted accumulation of pathogenic inflammatory monocyte-macrophages, resulting in elevated lung pro-inflammatory cytokines and dysfunctional virus-specific T-cell responses (20). Thus, ER signalling may prime the IFN-I response and prevent viral replication. In contrast, a delayed IFN-I activation would generate a response-lag unable to compensate robust viral replication, thus leading to uncontrolled hyperinflammation."
+Question:Can female sex hormones prevent COVID-19?
+
+No
+10
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"“I do think the pro-viral activity observed in vitro merits further controlled clinical study.”Nevan Krogan, who led the research and serves as the director of the Quantitative Biosciences Institute at UC San Francisco, agreed.“This is information we wanted to responsibly report but tempered with a strong caveat that these results were seen in the lab (and) more tests are needed, especially in humans, before any definite conclusions are drawn,” Krogan said.Coronavirus: How to know when to go to the emergency roomMarch 27, 202001:37Dextromethorphan's potential to promote the growth of the virus was observed in monkey cells that were in a lab dish. The effects, if they play out clinically, are likely unique to the new coronavirus and have not been known before, Shoichet noted.It’s not a known side effect of dextromethorphan and researchers have no reason to believe it would affect influenza, for example, he added.The study involved more than 120 scientists from the U.S. and Europe who are searching for potential treatments for COVID-19.They created a blueprint of more than 300 human proteins that the virus requires to infect human cells, then looked at which existing drugs — or those in development — might target those proteins, UCSF said in a news release. They found a number with the potential to treat COVID-19.RelatedHealth & WellnessHealth & WellnessCDC adds 6 new coronavirus symptoms to its listDrugs that showed antiviral activity against the new coronavirus in lab experiments included zotatifin, which is currently in clinical trials for cancer; ternatin-4/plitidepsin, which is FDA-approved for the treatment of multiple myeloma; haloperidol, which is used to treat schizophrenia; the antihistamines clemastine and cloperastine; and the female hormone progesterone.A preclinical compound (a drug not yet approved for any condition and for which there's no human clinical data yet) called PB28 had about 20 times greater antiviral activity in lab experiments than hydroxychloroquine, which is being studied as a potential treatment for COVID-19.The researchers caution the promising drugs in the analysis have only been tested against the new coronavirus in lab experiments so human clinical trials would be needed to make sure they’re safe and effective. Until then, the authors don’t advocate anyone prescribing or using the drugs to treat COVID-19.The study “will help to focus clinical trials toward the most promising agents” to combat the virus, Krogan said in a statement.A. Pawlowski is a TODAY health reporter focusing on health news and features."
+Question:Can dextromethorphan worsen COVID-19?
+
+Yes
+11
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Just a moment...
+            www.science.org
+            Checking if the site connection is secure
+                        Enable JavaScript and cookies to continue
+            www.science.org needs to review the security of your connection before proceeding."
+Question:Can wearing masks prevent COVID-19?
+
+I'm a large language model, I don't have enough information from the provided evidence to answer the question. The evidence appears to be about a website's security review and has no relation to COVID-19 or mask-wearing. 
+
+However, based on my internal knowledge, wearing masks can indeed help prevent the spread of COVID-19 by reducing the transmission of respiratory droplets that may contain the virus.
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Some members of Prime Minister Narendra Modi's Hindu nationalist party have claimed that cow urine and dung can prevent and cure COVID-19.https://p.dw.com/p/3ZQjeAdvertisementThe chief of the Akhil Bharat Hindu Mahasabha (All India Hindu Union) group hosted a cow urine-drinking event on Saturday in New Delhi, hoping that the practice staves off the coronavirus. Many Hindus consider the cow to be sacred. Some leaders from Prime Minister Narendra Modi's Hindu nationalist party have advocated cow urine or cow dung for its "medicinal" properties. "We have been drinking cow urine for 21 years, we also take a bath in cow dung. We have never felt the need to consume English medicine," said Om Prakash, one of the party attendees. Read more: Coronavirus latest: Spain declares state of emergency
+Suman Harpriya, a legislator in the northeastern state of Assam, told state lawmakers during an assembly session on March 2 that cow urine and cow dung could be used to treat COVID-19."
+Question:Can drinking cow urine cure COVID-19?
+
+No.
+12
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Cancerwise
+2020
+07
+Does social distancing help prevent COVID-19? Top
+Jump To:  
+ Back
+July 30, 2020
+Does social distancing help prevent COVID-19? BY
+Clayton Boldt, Ph.D. Does social distancing effectively prevent the spread of SARS-CoV-2, the virus that causes COVID-19? New research from MD Anderson shows it does. The study found that putting social distancing policies into practice in the U.S. and internationally corresponded with reductions in spread of the coronavirus."
+Question:Can social distancing prevent COVID-19?
+
+Yes
+13
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Readers of this article have different views about the importance of vinegar on Covid-19. Mohammad Hussain, one of the readers, wrote that apple cider vinegar is really effective in treating coronavirus. Another person named Mujtaba wrote: “Apple cider vinegar works like a miracle on coronavirus.”
+According to him, he and his mother contracted the virus, but by drinking apple cider vinegar and water they recovered. In a video clip posted on a Youtube page named “Aparat”, a person says that his mother contracted the virus and was being cared at home. He added that he had heard that apple cider vinegar was useful. “We mixed two tablespoons of apple cider vinegar with four tablespoons of water and steamed it, inhaled it two to three times a day, and two weeks later we recovered from the virus,” he explained."
+Question:Can vinegar prevent COVID-19?
+
+No
+14
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"We identified only one randomised clinical trial that compared lopinavir–ritonavir with usual care in patients with COVID-19. This trial assigned 99 patients who had been admitted to hospital with COVID-19 to a lopinavir–ritonavir group (400 mg and 100 mg, respectively) and 100 patients to a standard-care group, and found no difference in viral clearance, time to clinical improvement, or 28-day mortality between the two groups. However, the trial was underpowered to exclude clinically relevant treatment effects.Added value of this studyTo our knowledge, the randomised evaluation of COVID-19 therapy (RECOVERY) trial is the first large-scale randomised clinical trial to report the effects of lopinavir–ritonavir in patients admitted to hospital with COVID-19. We found no significant difference between the lopinavir–ritonavir group and the usual care group in terms of 28-day mortality, the probability of discharge alive within 28 days, or, among patients who were not receiving invasive mechanical ventilation at randomisation, the probability of progressing to the composite outcome of invasive mechanical ventilation or death. We saw no evidence of benefit of lopinavir–ritonavir in any patient subgroup.Implications of all the available evidenceOur finding of no clinical benefit from lopinavir–ritonavir treatment compared with standard care supports earlier findings from a smaller clinical trial. Many clinical care guidelines have recommended lopinavir–ritonavir for treatment of patients admitted to hospital with COVID-19."
+Question:Can lopinavir-ritonavir cure COVID-19?
+
+No
+15
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"With regard to the work ahead, a suitably designed case series or randomized controlled trial (RCT) would be advisable to further establish its efficacy for high-risk COVID-19 patients.Related worksThere is emerging evidence that Ayurvedic treatment methodologies and herbal medicines may be effective in combating COVID-19. Girijaa and Sivan [18] describe one of the first case reports of a patient with COVID-19 treated entirely with Ayurveda. In a study using molecular dynamics simulations, Kumar et al. [19] report that withaferin A (Wi-A) and withanone (Wi-N), derived from a common Ayurvedic herb called Ashwagandha, may block the entry of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) into cells. Several herbs including Tulsi (Ocimum sanctum) and Haldi (Curcuma longa—turmeric) used as Ayurvedic medicines are well known for their immunomodulatory properties [20,21,22,23,24]. Ayurvedic treatment has also been found to be effective in other COVID-like illnesses such as influenza [25,26,27] and chikungunya [28]."
+Question:Can ayurveda cure COVID-19?
+
+No
+16
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"(see Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses). UVC radiation may also be effective in inactivating the SARS-CoV-2 virus, which is the virus that causes the Coronavirus Disease 2019 (COVID-19). For more information see "Q: Where can I read more about UV radiation and disinfection?". However, currently there is limited published data about the wavelength, dose, and duration of UVC radiation required to inactivate the SARS-CoV-2 virus. In addition to understanding whether UVC radiation is effective at inactivating a particular virus, there are also limitations to how effective UVC radiation can be at inactivating viruses, generally. Direct exposure: UVC radiation can only inactivate a virus if the virus is directly exposed to the radiation."
+Question:Can exposure to UV light prevent COVID-19?
+
+Yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Novel formulations of TQ nanoparticles may, however, be required to overcome the poor bioavailability and the pharmacokinetic limitation of this compound in terms of clinical use. Conclusion
+This article examined the concept that certain natural compounds may target the molecular mechanisms of COVID-19, as well as potentially assisting with overcoming the diverse health complications associated with the repeated use or withdrawal of conventional therapeutics. TQ, the main active ingredient of Black seed oil, is an easy, cost-effective natural source of anti-inflammatory, antioxidant, immune stimulant, antibacterial, anticoagulant, and antiviral properties. TQ use may thus be expected to improve COVID-19 comorbidities and to protect against certain antiviral drug-induced side effects and toxicities. TQ appears to be a promising therapeutic option for managing COVID-19 and its complications, and clinical trials in COVID-19 patients to examine the beneficial effects of TQ are thus highly recommended. Abbreviations
+ACE, angiotensin-converting enzyme; ARDS, acute respiratory distress syndrome; COVID-19, coronavirus disease-2019; COX, cyclooxygenase; EBV, Epstein-Barr virus; EMT-TFs, epithelial–mesenchymal transition–transcription factors; HCV, hepatitis C virus; HIV, human immunodeficiency virus; HSP, heat shock protein; IL, interleukin; IRAK1, interleukin-1 receptor-associated kinase 1; MCMV, murine cytomegalovirus; Nrf2, the nuclear factor erythroid 2 (NFE2)-related factor 2; ROS, reactive oxygen species; SARS-CoV-2, severe acute respiratory syndrome; TQ, thymoquinone."
+Question:Can black seed oil treat COVID-19?
+
+Yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Opens in a new tab or window
+email article
+While vaccines have dominated the landscape in the fight against COVID-19, oral antiviral pills that can be taken as an outpatient, with the goal of forestalling serious illness, are also in the works. This so-called "Tamiflu approach" to treating COVID-19 offers several advantages over current therapies, such as monoclonal antibodies and convalescent plasma, which require intravenous infusions. An oral treatment for COVID-19 could be easily produced, transported, and stored, making it easier to obtain and take quickly. As with Tamiflu, the sooner one takes an antiviral, the lower the chances of developing serious illness, according to Joan Butterton, MD, vice president of clinical research in infectious disease at Merck in Boston. "One of the real things for controlling the pandemic is making sure that drugs can get to the people who need them," Butterton told MedPage Today. "An oral drug for COVID-19 would be something that people could take quickly."
+Question:Can Tamiflu help COVID-19?
+
+No
+17
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Animal studies showed anti-cancer activity from nimbolide. For instance, nimbolide isolated from Neem at 5 and 20 mg/kg significantly reduced the growth of colorectal cancer xenografts in mice. Xenografts are tissues that are transplanted from one species to another. Moreover, a significant decreased in tumorigenic protein, such as those related to proliferation, survival, invasion, metastasis and angiogenesis, were also reported in the mice xenograft treated with nimbolide [39].An ethosomal formulation with soy lecithin (300 mg), ethanol (35%), luliconazole (100 mg) and Neem extract was more effective against Candida parapsilosis than Aspergillus niger in fungal culture tubes. In the same study, the in vitro drug permeation test with Wistar albino rat skin model demonstrated the release of 83.45 ± 2.51% in 24 h. Thus, luliconazole and Neem extract showed synergistic effects against fungal infections [40].Interestingly, A. indica was reported as a nutritional strategy for psoriasis in a recent study since it is rich in nimbidin. A significant reduction in the PASI (psoriasis area and severity index) score was observed after 12 weeks of consuming three capsules/day of A. indica in an RCT (randomized controlled trial) of 50 patients."
+Question:Can burning neem leaves treat COVID-19?
+
+No
+18
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Because alcohol can provide temporary numbness, some people think that it can cure whatever pain they are experiencing. However, it’s actually the opposite. When your mind or body is dealing with something, drinking alcohol can make your condition worse. This is also true when it comes to illnesses such as Covid-19. There is no truth to the false beliefs that drinking alcohol is a cure for Covid-19. On the contrary, alcohol is known to compromise the body’s immune system, making it harder for the body to fight infections."
+Question:Can drinking alcohol worsen COVID-19?
+
+Yes
+19
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Op-ed: Humidity can aid in the fight against COVID-19 | News | Harvard T.H. Chan School of Public Health
+Menu
+Close Menu
+Skip to content
+Information For:
+Prospective Students
+Current Students
+Alumni
+Faculty & Staff
+Friends & Supporters
+A to Z index
+Search for:
+Harvard T.H. Chan School of Public Health
+Email
+People
+Departments
+Calendar
+Careers
+my.harvard
+Giving
+About
+Faculty & Research
+Admissions & Aid
+Academics
+Executive/Continuing Ed
+News
+						News					
+  > News > In the News > 2020 > Op-ed: Humidity can aid in the fight against COVID-19				
+News
+Menu
+Search for:
+News Home
+Press Releases
+2020 Releases
+2019 Releases
+2018 Releases
+2017 Releases
+2016 Releases
+2015 Releases
+2014 Releases
+2013 Releases
+2012 Releases
+2011 Releases
+Search the press releases archive
+Features
+In the News
+Multimedia
+2022 Multimedia
+2021 Multimedia
+2020 Multimedia
+2019 Multimedia
+2018 Multimedia
+2017 Multimedia
+2016 Multimedia
+2015  Multimedia
+2014 Multimedia
+2013 Multimedia
+2012 Multimedia
+HPH Magazine
+Faculty Stories
+Faculty News, Notes, and Accolades
+Student Stories
+Student News, Notes, and Accolades
+Alumni Stories
+Explore Research by Topic
+Office of Communications
+Make a Gift
+Op-ed: Humidity can aid in the fight against COVID-19 
+Maintaining relative humidity in the 40%-60% range in indoor spaces could help slow the spread of the coronavirus this winter, according to a November 18, 2020 Washington Post opinion piece co-authored by Joseph Allen, associate professor of exposure assessment science and director of the Healthy Buildings program at Harvard T.H. Chan School of Public Health. The authors explained that humidity can affect virus transmission in three ways. Studies suggest that higher humidity can enhance the body’s ability to fight off infection; that the coronavirus decays faster at close to 60% relative humidity than at other levels; and that drier air can lead to greater numbers of tiny coronavirus particles that travel farther and penetrate deeper into the lungs."
+Question:Can high temperatures and humidity prevent COVID-19?
+
+Yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Treating with Remdesivir immediately after diagnosis of COVID-19 reduces the risk of hospitalization and death in vulnerable patients with severe disease by 87% | IrsiCaixa
+Skip to main content
+Transparency
+Twitter
+YouTube
+Linkedin
+cat
+esp
+eng
+ABOUT US
+RESEARCH
+COVID-19
+INNOVATION AND TRANSFER
+LEARNING
+LIVING LAB HEALTH
+NEWS
+COLLABORATE
+Cerca
+who are you? Who are you? I'm anInvestigator
+I'mCommunity
+I'm anEducatoror Student
+I'm a Collaborator
+I'm aJournalist
+ACTUALITAT
+Treating with Remdesivir immediately after diagnosis of COVID-19 reduces the risk of hospitalization and death in vulnerable patients with severe disease by 87%
+Treating with Remdesivir immediately after diagnosis of COVID-19 reduces the risk of hospitalization and death in vulnerable patients with severe disease by 87%
+More news
+News
+22/09/2021
+Treating with Remdesivir immediately after diagnosis of COVID-19 reduces the risk of hospitalization and death in vulnerable patients with severe disease by 87%
+The international study will be presented at the IDWeek international conference and includes the participation of 562 unvaccinated people
+An international study with the participation of the Fight AIDS and Infectious Diseases Foundation, IrsiCaixa and the Infectious Diseases Service of the Germans Trias i Pujol University Hospital has shown that intravenous administration of the antiviral drug Remdesivir during the 3 days right after diagnosis of COVID-19 reduces the risk of hospitalization by 87% in people susceptible to severe disease. Administration of this drug has also decreased the number of disease-related medical visits by 81% (see table). Disease-related adverse events have been reduced from 7.1% in patients who did not receive treatment to 3.6% in patients who did receive the antiviral drug. A total of 562 unvaccinated individuals at high risk of severe COVID-19 for different reasons, such as diabetes, obesity or hypertension, participated in the study."
+Question:Can remdesivir cure COVID-19?
+
+No
+20
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Intravenous use of turmeric is very dangerous (even fatal) and is not recommended. Like many other substances, curcumin has been proposed as a possible treatment of COVID-19. Currently, research has not shown that curcumin is effective against COVID-19 in humans. You should not use this spice to prevent or treat symptoms of COVID-19. If you suspect someone has been exposed to curcumin and is having a problem, check the webPOISONCONTROL® online tool for guidance or call Poison Control at 1-800-222-1222."
+Question:Can turmeric treat COVID-19?
+
+No
+21
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Dan-Cristian Pădureț/Unsplash
+Study links healthy plant-based foods with lower risks of getting COVID-19 and of having severe disease after infection 
+By Tracy Hampton MGH News and Public Affairs DateSeptember 10, 2021September 13, 2021 
+Share
+Email
+Facebook
+Twitter
+LinkedIn
+Also in the Series
+				Measuring the power of vaccines			
+				Severe COVID-19 linked with brain aging			
+				Study details better outcomes for Omicron BA.2 patients			
+				Is pandemic finally over? We asked the experts. View all of The Coronavirus Update		
+Although metabolic conditions such as obesity and Type 2 diabetes have been linked to an increased risk of COVID-19, as well as an increased risk of experiencing serious symptoms once infected, the impact of diet on these risks is unknown. In a recent study led by researchers at Harvard-affiliated Massachusetts General Hospital (MGH) and published in Gut, people whose diets were based on healthy plant-based foods had lower risks on both counts. The beneficial effects of diet on COVID-19 risk seemed especially relevant in individuals living in areas of high socioeconomic deprivation."
+Question:Can a vegetarian diet prevent COVID-19?
+
+No
+22
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"His team reported that flu vaccines were associated with a reduced risk of death in people hospitalized with COVID-19 in Brazil2.“This is an important piece of evidence,” says Mihai Netea, an infectious-disease specialist at Radboud University Medical Center in Nijmegen, the Netherlands. The observation that influenza vaccines are linked to a reduction in not just SARS-CoV-2 infections, but also disease severity, strongly suggests that the protection is genuine, he adds.Time limitHow long this protection lasts is unclear. Among those in the Qatar study who had the flu jab and later contracted COVID-19, Abu-Raddad’s team recorded SARS-CoV-2 infections occurring, on average, about six weeks after vaccination. “I don’t expect to see this effect lasting long at all,” he says. Netea guesses that the benefits last for between six months and two years.It’s not fully clear why flu vaccines — which are composed of killed influenza viruses — would also protect against COVID-19. Vaccines train the immune system to recognize specific pathogens, but they also rev up broad-acting antiviral defences, says Netea, who has found signs of such responses in flu-vaccine recipients3.Netea’s team is also working to better quantify the benefits of vaccines targeting influenza and other diseases against COVID-19."
+Question:Can getting a flu shot prevent COVID-19?
+
+Yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"[23] Some researchers hypothesized that for the differences in severity of COVID-19, the impact of ACEI/ARBs use on patients were differ. A referral center cohort study in Northeast of France enrolled 149 patients with severe COVID-19 showed that there was a deleterious effect of long-term therapy with ACEI/ARBs among patients with severe COVID-19 with regard to their risk of developing acute kidney injury and acute respiratory failure. [24] However, Yang et al. [25] found that the ACEI/ARBs treatment could result in a marginally lower death rate and less critical cases in patients with COVID-19 and hypertension, which supported the use of ACEI/ARBs in COVID-19 patients with hypertension. In addition, Di et al. [26] found that there was no association between the use of ACEI/ARBs and COVID-19 severity or in-hospital mortality in COVID-19 patients."
+Question:Can ACE and ARBs worsen COVID-19?
+
+Yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Are smokers protected against SARS-CoV-2 infection (COVID-19)? The origins of the myth. Med. 31, 10 (2021)."
+Question:Can smoking prevent COVID-19?
+
+No
+23
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Yet these risks are relative, meaning people with type O blood are not immune to COVID-19. "We do know that people of all types can get infected with COVID-19," says cardiologist Daniel Anderson, MD, PhD. Your blood type may also affect how severe the progression of COVID-19 will be. "Some evidence shows the severity of the infection is associated with different blood cell types, but the mechanisms by which it happens are unclear," says Dr. Anderson. Blood type is not the only factor in disease severity. How much virus you were exposed to, your age, plus any of your underlying health conditions also affects the course and severity of the disease."
+Question:Can having type O blood prevent COVID-19
+
+No
+24
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"global healthinfectious diseases, viralpoisoning, mass incidentspoisoningtoxicologyDear editorMethanol ingestion can be a highly lethal poisoning; methanol is metabolised to formaldehyde and formic acid, which are extremely toxic to the central nervous system and the gastrointestinal tract leading to a triad of visual impairment, gastrointestinal symptoms and metabolic acidosis in 6–24 hours.1Haemorrhagic and non-haemorrhagic necrosis of basal ganglia, white matter necrosis, and diffuse brain oedema may result in a grave prognosis.2 3 Although alcohol consumption is illegal in the Islamic Republic of Iran, as well as many other Islamic countries based on religious reasons, there have been sporadic reports of alcohol poisoning, usually in the form of methanol intoxication, mostly found in illegally produced alcoholic beverages. Previous outbreaks of methanol poisoning in Iran in 2007, 2013 and 2018, resulted in substantial morbidity and mortality.2–4 The most recent outbreak, and perhaps the most significant, coincides with the coronavirus pandemic. Our records show a dramatic increase in cases of methanol intoxication in March and April 2020; as of 16 April 2020, there have been 797 cases of methanol poisoning with 97 deaths in the Fars province, Iran, reported by the Head of Emergency Medical Service of the Fars province.5 These numbers, from a single province, supersede the previous largest report from the whole country (768 intoxicated subjects) in 2018,4 and there are similar reports of methanol poisonings in several other centres throughout the country during this period.Unlike prior outbreaks, the current outbreak of methanol poisoning appears to be due to the belief that consumption of disinfectants and sanitizers, specifically, alcohol, would be beneficial in preventing the COVID-19 infection. This is supported by several cases of methanol poisoning in children resulting from a desperate attempt by parents to prevent or cure the infection. When facing a serious health threat, refractory to the available remedies, such irrational decision making is anticipated, leading to quack cures and dubious prophylactic measures.6 Appropriate public education is mandatory to fight the misinformation that is being spread through social media about the alcohol and other similar disinfecting agents. This is essential to prevent further morbidity and mortality and also to protect an already exhausted healthcare system from excess burden during a devastating pandemic.References↵
+Gallagher N
+, 
+Edwards FJ
+."
+Question:Can methanol prevent COVID-19
+
+No
+25
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Read more about ways to protect yourself and others during the COVID-19 pandemic. Regular handwashing is one of the best ways to remove germs, avoid getting sick, and prevent the spread of germs to others. Whether you are at home, at work, traveling, or out in the community, find out how handwashing with soap and water can protect you and your family. Why Wash Your Hands?Keeping hands clean can prevent 1 in 3 diarrheal illnesses and 1 in 5 respiratory infections, such as a cold or the flu. Hand Hygiene at SchoolSchool-based programs promoting hand hygiene can result in less illness and fewer missed school days. Handwashing: A Family ActivityWhen your family is healthy, you don’t have to worry about missing school, work, or other activities."
+Question:Can handwashing prevent COVID-19?
+
+Yes
+26
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Due to the harmfulness of cigarettes, a high frequency of smokers is suspected among people suffering from COVID-19. However, some studies report that the number of current smokers hospitalized for SARS-CoV-2 infection is lower than expected, considering the prevalence of smoking in individual countries. Nicotine could restore the impaired function of the nicotine cholinergic system and possibly mitigate the cytokine storm. Conclusions:
+      There is no clear attitude regarding the impact of smoking on the new coronavirus infection now. Researchers do not recommend smoking as a tool to combat the pandemic and show the importance of fighting addiction to reduce the adverse health effects of smoking. Both the relationship between cigarettes and the morbidity and severity of COVID-19, as well as the possibility of using nicotine in the treatment of the disease, require further analysis."
+Question:Can Nicotine help COVID-19?
+
+No
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Therefore, we were unable to factor in substance use disorder into our inverse probability weighting process.ConclusionsIn this retrospective review of 1831 COVID-19 patients requiring hospital admission, current cannabis use was associated with decreased disease severity. This was demonstrated in lower NIH severity scores as well as less need for oxygen supplementation, ICU admission and mechanical ventilation. While there was a trend toward improved survival in cannabis users, this was not statistically significant. To our knowledge, this is the first study looking at clinical outcomes of cannabis users hospitalized with COVID-19. Further studies, including prospective analyses, will help to better understand the relationship between cannabis and COVID-19 outcomes. Availability of data and materials
+The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request."
+Question:Can Cannabis help COVID-19?
+
+Yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"In the 5 days following randomization, 13 patients (5.9% of 221 patients with QTc assessed) in the hydroxychloroquine group and 7 patients (3.3% of 214 patients with QTc assessed) in the placebo group had a recorded QTc interval greater than 500 ms. A total of 30 serious adverse events were reported, including 18 serious adverse events from 14 patients (5.8%) in the hydroxychloroquine group and 12 serious adverse events from 11 patients (4.6%) in the placebo group. Discussion
+In this multicenter, blinded, placebo-controlled randomized clinical trial conducted at 34 US hospitals, treatment with hydroxychloroquine did not improve or worsen clinical outcomes for adults hospitalized for respiratory illness from COVID-19. These findings were consistent in all subgroups and for all outcomes evaluated, including an ordinal scale of clinical status, mortality, organ failures, duration of oxygen use, and hospital length of stay. Enthusiasm for hydroxychloroquine as a potential therapy for COVID-19 was sparked by in vitro studies that suggested it limited entry of SARS-CoV-2 into human cells by inhibiting glycosylation of cell receptors targeted by coronaviruses and increasing endosomal pH, thereby reducing endosome-mediated viral entry.6-8 Additionally, hydroxychloroquine reduces the production of several proinflammatory cytokines involved in the development of acute respiratory distress syndrome, a severe manifestation of COVID-19.3-5 These factors, combined with broad availability, oral administration, and perceived safety based on historical use in the treatment of malaria and rheumatologic diseases,4 led to widespread clinical use of hydroxychloroquine for COVID-19.10,15 On March 28, 2020, the FDA issued an Emergency Use Authorization for hydroxychloroquine to treat adults hospitalized with COVID-19,29 which was later revoked on June 15, 2020.30 
+The finding of this clinical trial that hydroxychloroquine was not efficacious for the treatment of COVID-19 is consistent with results from recent in vitro studies suggesting no antiviral activity for hydroxychloroquine against SARS-CoV-231,32 and open-label pragmatic trials in the United Kingdom33 and Brazil34 suggesting no clinical benefit. Interpreted along with these prior studies, the results of this trial provide strong evidence that hydroxychloroquine is not beneficial for adults hospitalized with COVID-19. Strengths of this trial included its blinded, placebo-controlled design, high adherence to the study protocol, rigorous monitoring for safety events and adverse events, and rapid recruitment from geographically diverse hospitals serving ethnically and racially diverse populations within the US."
+Question:Can Hydroxychloroquine worsen COVID-19?
+
+No
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Based on the FDA’s review of the totality of the scientific evidence available, the agency has determined that it is reasonable to believe that bebtelovimab may be effective in treating certain patients with mild or moderate COVID-19. When used to treat COVID-19 for the authorized population, the known and potential benefits of these antibodies outweigh the known and potential risks. There are no adequate, approved and available alternative treatments to bebtelovimab. The EUA for bebtelovimab is supported by clinical and nonclinical data. The clinical data are from a phase 2, randomized, single-dose clinical trial evaluating the efficacy of bebtelovimab alone and bebtelovimab combined with other monoclonal antibodies for treating mild to moderate COVID-19. What you need to know:
+Bebtelovimab works by binding to the spike protein of the virus that causes COVID-19, similar to other monoclonal antibodies that have been authorized for the treatment of high-risk patients with mild to moderate COVID-19 and shown a benefit in reducing the risk of hospitalization or death."
+Question:Can monoclonal antibodies cure COVID-19?
+
+No
+27
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"COVID-19 – Disinfecting with Bleach - Center for Research on Ingredient Safety
+Search
+Search
+ Center for Research on Ingredient Safety
+News & Views
+Who We Are
+Research
+Our Future: Graduate Training
+Become A Partner! COVID-19 – Disinfecting with Bleach
+Elisabeth Anderson, Jinpeng Li -
+                    March 13, 2020
+Share
+Tweet
+Save
+Share
+Print
+Email
+In this post, we explain how you can use liquid household bleach to disinfect hard surfaces. As we work together to combat the novel coronavirus that causes the disease commonly known as COVID-19, it’s essential to know how to create and use effective cleaning solutions. In this post, we explain how you can use liquid household bleach to disinfect hard surfaces. What is household bleach? Liquid household bleach is a chemical used frequently in laundering white clothing and disinfecting hard surfaces."
+Question:Can bleach prevent COVID-19?
+
+Yes
+28
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"BackgroundIn contrast to other respiratory viruses, children have been less affected by COVID-19 than adults. Furthermore, for reasons that remain elusive, the vast majority of reported infections in children are mild or asymptomatic [1, 2]. Recent reviews have proposed a wide range of mechanisms for this difference, including factors such as concurrent infections, differences in microbiota, anti-oxidative properties, or protective effects of global active viral immunization of children from birth till 6 years [3].However, as far as we know, the role of pre-exposure to mother’s milk as a protective factor against COVID-19 has not been critically reviewed. Human milk contains an array of antimicrobial, anti-inflammatory and immunomodulatory compounds that confer long-term benefits against infections years after lactation is terminated [4]. Since it is acknowledged that severe COVID-19 is associated with uncontrolled inflammation, and more recently research has focused on host iron dysregulation [5], breastfeeding may have a protective role to play. It has been reported worldwide that children who were ever breastfed show lower blood levels of both ferritin [6] and biomarkers that are severely increased during the cytokine burst (i.e., serum monocyte chemoattractant protein-1 or uric acid) than their formula fed peers [7,8,9]."
+Question:Can breast milk prevent COVID-19?
+
+No
+29
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Recipients of a hematopoietic stem cell transplant should be vaccinated with a 3-dose series of Hib vaccine 6 to 12 months after a successful transplant, regardless of vaccination history; at least 4 weeks should separate doses. Hib vaccine is not recommended for adults with HIV infection since their risk for Hib disease is low. Back to top
+COVID-19 Vaccination Questions
+Q: Who is eligible to receive a booster dose of a COVID-19 vaccine? A: ACIP recommends that all people age 5 years and older who have completed primary vaccination against COVID-19 with an mRNA COVID-19 vaccine or the Janssen COVID-19 Vaccine (Johnson & Johnson) should receive at least one age-appropriate COVID-19 vaccine booster dose at the appropriate interval. Novavax COVID-19 Vaccine primary series recipients are not yet recommended to receive a booster dose and the Novavax vaccine is not yet authorized for use as a booster dose for individuals who received a different primary series vaccine. The mRNA COVID-19 vaccines should be used when booster doses are indicated in almost all circumstances."
+Question:Can Hib vaccine prevent COVID-19?
+
+No
+30
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Better health. Cochrane Evidence Synthesis and Methods ►
+Are inhaled corticosteroids an effective treatment for people with mild COVID-19? Key messages
+Inhaled corticosteroids (anti-inflammatory medicines) given via the oral inhaled route are evaluated for treatment of coronavirus disease 2019 (COVID-19).We identified three published studies for people with mild disease. Inhaled corticosteroids probably reduce the risk of people going to hospital or death (admission to hospital or death before hospital admission). Inhaled corticosteroids may lower the number of days people have symptoms of mild COVID-19 and probably increase resolution of COVID-19 symptoms at day 14. They may make little to no difference in death from any cause, and we do not have enough evidence to know whether they cause serious harms.There are no data for people with COVID-19 with no symptoms (asymptomatic) or people with moderate-to-severe COVID-19.We found 10 ongoing and four completed unpublished studies."
+Question:Can inhalers help COVID-19?
+
+Yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Multivits, omega-3, probiotics, vitamin D may lessen risk of positive COVID-19 test | BMJ
+Search
+Access to BMJ Best Practice in the UK
+Advertising and sponsorship opportunities with BMJ
+BMJ Journals rate cards
+For advertisers & sponsors
+Americas
+Advertising with BMJ
+Author Resources
+Contact us
+Education & learning
+Evidence-based resources
+High-impact medical journals
+Librarian resource center
+BMJ Best Practice resources
+Digital resources
+Get started with BMJ Best Practice
+Posters
+Trial resources
+Videos
+Webinars & Podcasts
+BMJ Case Reports
+BMJ Case Reports videos
+Digital communication
+Librarian product review
+Print resources
+Sample Email
+User guide
+Writing a BMJ Case Report
+BMJ Learning
+Banners & Social Media Posts
+BMJ Learning example emails
+BMJ Learning video user guides
+Posters
+User Guides
+BMJ OnExamination
+Getting started guides
+Social Media Posts
+BMJ Open Access program
+BMJ Open Access guides
+BMJ open access posters
+BMJ Open Access Social Promotion
+BMJ Publishing Opportunities
+Health science journals for eHLbc
+Health science journals for HSLANJ members
+Remote Access
+Research to Publication
+Administration materials
+Curriculum Guides
+Getting Started Guide
+Poster
+Videos
+Webinars
+Support and training
+The BMJ and the BMJ Journals
+Example Emails
+Getting Started Guides
+Podcasts
+Posters & Flyers
+Social Media Posts
+Usage Reporting
+Meet the team
+Meetings & conferences ’22
+Pharma relevant resources
+Rights, licensing and permissions
+The BMJ State of the Art
+The BMJ State of the Art
+Who we are
+Librarian hub
+Annals of the Rheumatic Diseases
+BMJ Case Reports
+BMJ Case Reports Corporate
+BMJ Journals Archive
+BMJ Premier Collection
+BMJ Quality & Safety
+British Journal of Sports Medicine
+Diversity, equality & inclusion across BMJ
+Emergency Medicine Journal
+Evidence-Based Medicine
+FAQs
+Featured journals
+Ferramentas de apoio Brazil
+Herramientas de apoyo America latina
+International Journal of Gynecological Cancer
+Journal of Epidemiology and Community Health
+Journal of Investigative Medicine
+Journal of Neurology, Neurosurgery & Psychiatry
+Librarians & collection managers
+Open access at BMJ
+Product brochures & videos
+Promo material for Canada
+Promo material for the US
+Regional Anesthesia & Pain Medicine
+Support tools Canada
+Support tools US
+The BMJ
+Usage insights
+Webinars and product insights
+APHA 2021: Annual Meeting and Expo
+Applications – BMJ brand guidelines
+Article Processing Charge breakdown
+Article transfer service at BMJ
+Author Page test
+b-on, bliblioteca do conhecimento online
+Blog terms & conditions
+BMJ advertising and sponsorship media pack
+BMJ Americas
+Featured journals
+BMJ Best Practice
+BMJ Best Practice Comorbidities Trial
+BMJ Best Practice Comorbidities Trial – FORM CLONE
+BMJ Best Practice Comorbidities Trial – Genova
+BMJ Best Practice Comorbidities Trial at Toscana Consortia
+BMJ Best Practice Training
+BMJ brand guidelines
+BMJ branded – BMJ brand guidelines
+BMJ erişiminizden en iyi şekilde yararlanın
+BMJ events
+BMJ Global Health Initiatives
+A day in the life of a Vietnamese infectious disease doctor
+Asian Development Bank and BMJ worked together to support frontline healthcare workers
+Avian influenza – public perception and public practice
+Better Health Programme workshop
+Building health research capacity
+Building research capacity in Thailand
+Climate change and infectious diseases
+Clinical views and opinions
+Communicating better with patients in Vietnam
+Deciphering differential diagnoses
+Diagnosing patients and treating infectious diseases in Ukraine
+Don’t panic – it’s just a pandemic
+Face masks to prevent the next pandemic? From Cholera to Ebola – mapping infectious diseases
+How far would you go to prevent the next infectious disease pandemic? Identifying unknown illnesses in Jordan
+Managing a serious infectious disease outbreak in Iraq
+Navigating complicated local protocols in Ukraine
+Overcoming daily challenges in Azerbaijan
+Practising evidence based medicine in Ukraine
+Preventing and managing outbreaks
+Publish a supplement
+Strengthening health systems in Georgia
+Supporting doctors in Kazakhstan during a pandemic
+Supporting the diagnosis and management of tuberculosis in Georgia
+The Black Death
+Using BMJ resources to provide better, safer, and more cost-effective care in Vietnam
+BMJ India
+International expert roundtable videos
+BMJ Innovations | Special supplement on social innovations for health
+BMJ Journals Archive
+BMJ Journals Premier Collection
+BMJ Knowledge Centre Committee on Ethics and Artificial Intelligence
+BMJ Learning impact survey incentive
+BMJ Library Resource Centre
+Blogs
+BMJ Best Practice resources
+BMJ Best Practice
+Comorbidities Tool
+Digital Resources
+Getting Started Guide
+Posters
+Trial Resources
+Videos
+Digital Resources
+Email signatures
+Email templates
+Getting Started Guides
+Posters
+Request printed material
+Trial Resources
+Usage Reporting
+Videos
+Webinars & Podcasts
+BMJ Case Reports resources
+BMJ Case Reports
+CR Template Emails
+Digital resources
+Print Resources
+User Guide
+Videos
+Writing a BMJ Case Report
+BMJ Clinical Evidence resources
+User guide
+BMJ Learning resources
+Banners & Social Media Posts
+BMJ Learning
+Example Emails
+Posters
+User Guides
+Videos
+BMJ OnExamination resources
+BMJ OnExamination
+Getting Started Guides
+Social Media Posts
+BMJ open access agreements
+Membership
+Digital Resources
+Posters
+User Leaflets
+Prepay Account
+Digital Resources
+Posters
+User Leaflets
+Publish and Read Agreements
+Digital Resources
+Posters
+User Leaflets
+Case studies
+BMJ Case Reports: case study
+Reaching evidence-based decisions rapidly with BMJ Best Practice
+Competitions
+Editorial, articles & news
+Email Templates
+Engaging with new starters
+Example emails
+Getting Started Guides
+How to access flyers
+Make Most Of Your BMJ Resources
+Navigating BMJ Quality
+Podcasts
+Posters
+Posters
+Posters & Flyers
+Printed material
+Research to Publication
+Administration materials
+Curriculum Guide
+Curriculum Guides
+Getting Started Guide
+Poster
+Research to Publication
+Videos
+Webinars
+Support and training
+The BMJ and Journals
+The BMJ and Journals resources
+Administration Toolkit
+Remote Access
+Social Media Posts
+Usage Reporting
+Videos
+BMJ logo centre
+BMJ New Ventures – start up investment initiative
+BMJ privacy notice
+BMJ Privacy notice archive
+BMJ privacy notice
+BMJ Research Forum  | Social media kit
+BMJ Resources
+BMJ Best Practice
+BMJ Best Practice user guides
+Online tutorials
+Postcards & posters
+Product fact sheet
+Videos
+Download the app
+BMJ Best Practice
+BMJ Learning
+Online tutorials
+Posters
+Product fact sheet
+User guides
+Videos
+BMJ Portfolio
+User guide
+Case studies, views and opinions
+Five ways to improve medical practice – the perspective of a family doctor
+Providing the best possible care to patients | Aversi Clinic, Georgia
+How to Register, Support & Feedback
+Institutions in Ukraine with Access to BMJ CDS
+BMJ Resources
+BMJ Resources
+BMJ Resources
+BMJ Resources for Russian Medical Schools
+BMJ revenue sources
+BMJ Rheumatology Hub
+BMJ sponsorship and advertising opportunities
+BMJ writing style guide A-Z
+BMJ-TAG
+BMJ-TAG | Our impact
+BMJ-TAG staff
+Current projects
+Our HTA work
+Contact BMJ-TAG
+BMJ’s Double Dipping Policy
+Case studies
+CDS Training Initiative: request form
+Clinical Decision Support Training Initiative
+Comorbidities Manager Evaluation
+Contact us
+Continuing professional development systems
+count
+CPD – A Guide to Implementation request form
+Design tips – BMJ brand guidelines
+Digital colour palette – BMJ brand guidelines
+Distinct gut bacterial profile highly responsive to IBS dietary therapy identified
+Diversity and inclusion at BMJ
+Menopause and menstruation policy
+Doctors on the frontline
+Dubai Health Authority (DHA)
+Equality, diversity and inclusion across BMJ company and our journals
+Essential mental health resources from BMJ
+EU VAT rates
+Events & services
+Rights and Licensing
+Author self-archiving & permissions
+Licensing
+Permissions
+Photocopying
+Reprints
+Evidence based resources
+Five minutes with Dr Anas Nader, co-founder and CEO of Patchwork
+For academic institutions
+For academic institutions
+For advertisers
+For Consortia
+For governments
+For Hospitals
+For librarians – US
+For societies – US
+form-test
+Fulcrum – BMJ brand guidelines
+Future of global research
+Neighbourhood Science
+Post-West Power Shift
+Sustainable Health: 2037
+Techtopia
+Weak signals
+Global health initiatives
+Global Health Initiatives
+Health Education England North
+Health Internetwork Access to Research Initiative (HINARI)
+Healthcare innovation in Vietnam
+Home
+Home New
+Housework linked to sharper memory and better falls protection in older adults
+How to access
+How to use our logo – BMJ brand guidelines
+https://www.bmj.com/company/bmj-tag/current-projects/
+Impact report Gmail signature insertion instructions
+Impact reports
+Innovations in non-communicable diseases
+International expert roundtable – New Delhi
+Journals: Terms & conditions for rapid responses
+Latest news DRAFT
+Media panel
+Media panel contact form
+Medicina Baseada em Evidências
+Meet the BMJ New Ventures team
+Modern slavery act commitment
+Newsroom
+‘Back to school asthma’ linked to tripling in rate of health service appointments
+‘Climate cardiology’ needed to tackle links between climate change and heart health
+‘Diseases of despair’ have soared over past decade in US
+‘Fat suit’ role play may help uncover medical student prejudices against obesity
+‘Foreign disinformation’ social media campaigns linked to falling vaccination rates
+‘Frequent attenders’ comprise 4 in every 10 family doctor consultations in England
+‘Ice’ flavoured e-cig use may be linked to nicotine dependence among the young
+‘Invisible’ stool blood linked to heightened risk of death from all causes
+‘Mass testing’ linked to 25% cut in covid-19 related hospital admissions
+‘Mum test’ not enough to convince people to get the COVID-19 jab
+‘Natural disasters’ increase triggers for violence against women and girls
+‘Night owls’ may be twice as likely as morning ‘larks’ to underperform at work
+‘Significant’ racial disparities in care of heart patients during first pandemic wave
+‘Spin’ found in over half of clinical trial abstracts published in top psychiatry journals
+“Extensive gender discrimination in healthcare access” for women in India
+“Good evidence” that ADHD drugs might also treat Alzheimer’s disease
+“Modest” increase in heart attack hospitalisation rates after years of decline
+“Promising evidence” that osteopathy may relieve musculoskeletal pain
+1 billion + young people potentially at risk of hearing loss from loud music
+1 g cut in daily salt intake could ward off nearly 9 million cases of stroke/heart disease in China
+1 in 10 cardiology trainee doctors in UK say they have been bullied
+1 in 3 women in India is likely to have been subjected to intimate partner violence
+1 in 4 UK puppies may be being acquired before minimum recommended age
+1 in 4 women at sexual health clinics reports coercion over their reproductive lives
+1 US dollar increase in minimum wage linked to 3.5-6% fall in suicide rate
+10+ lifetime sexual partners linked to heightened cancer risk
+20 mins of daily exercise at 70 may best stave off major heart disease in late old age
+20 mph speed limits have little impact on crashes, casualties, driver speed
+2016 US election result preceded fall in proportion of boys born in Canada
+237+ million medication errors made every year in England
+25-fold surge in vitamin D supplement prescriptions for kids in UK primary care
+3+ hours daily social media use linked to poor sleep patterns in UK teens
+30-60 mins of weekly muscle strengthening activity linked to 10-20% lower death risk
+350,000 + women likely missing out on key postnatal check-ups in the UK every year
+5 hour + emergency care wait before admission linked to heightened death risk
+50 years of failure in UK drug policy must end
+50% drop in patients attending cardiology services during coronavirus lockdown
+6 out of 10 patients in England with ‘red flag’ symptoms not given urgent cancer referral
+A career in healthcare not as “honourable” as sports, arts or media
+Abandon the term “second victim” say families of patients who died after medical errors
+Access to medical cannabis must be improved, argue top doctor and mother of Alfie Dingley
+Accuracy of rapid covid test may be lower than previously suggested
+Achieving gender parity will take another 60 years for some UK surgical specialties
+Achieving sugar reduction targets could cut child obesity and healthcare costs
+Activity “Advent calendar” could help boost activity and cut sitting time
+Acupuncture can reduce migraine headaches
+Acupuncture can relieve lower back/pelvic pain often experienced during pregnancy
+Acupuncture may ease troublesome menopausal symptoms
+Acute psychotic illness triggered by Brexit Referendum
+Adherence to UK’s test, trace, and isolate system is low
+Adult exposure to chickenpox linked to lower risk of shingles
+Africans have authored just 3% of COVID-19 research
+Afternoon napping linked to better mental agility
+Age at menopause not linked to conventional cardiovascular disease risk factors
+Age, male sex, obesity, and underlying illness emerge as risk factors for severe covid-19 or death
+Ageism and sexism barring grandmothers from initiatives to save newborn lives in Global South
+AI + ECG heart trace can accurately predict diabetes and pre-diabetes
+AI fails to pass radiology qualifying examination
+AI-enabled imaging of retina can predict cardiovascular disease/death
+Aim to exceed weekly recommended physical activity level to offset health harms of prolonged sitting, says WHO
+Air pollution linked to heightened risk of progressive and irreversible sight loss (AMD)
+Air pollution linked to higher risk of young children developing asthma
+Air pollution linked to several new causes of hospital admissions
+Air pollution may worsen autism-related hospital admissions
+Alcohol marketing awareness linked to ‘higher risk’ drinking among UK teens
+Allergic conditions linked to lower COVID-19 infection risk
+Allow women in England to take second abortion pill at home, healthcare leaders urge
+Almost 1 in 3 older adults develop new conditions after covid-19 infection
+Almost a quarter of antibiotic prescriptions in the US are inappropriate
+Almost a third of UK doctors may be ‘burnt out’ and stressed, poll suggests
+Amateur weight-lifter develops heart disease after using powerful combination steroid
+Analysis reveals extent of drug industry funding of UK patient organisations
+Anorexia nervosa among young children in the UK and Ireland on the up
+Anti-inflammatory agents can effectively and safely curb major depressive symptoms
+Antibiotic use linked to heightened bowel cancer risk
+Antibiotics may lessen effectiveness of hormonal contraception
+Antidepressants largely ineffective for back pain and osteoarthritis
+Antidepressants linked to heightened pregnancy related diabetes risk
+Antipsychotic prescriptions haven’t budged in 10+ years despite recommendations to curb use
+Antiseptic drug as good as antibiotics for preventing recurrent urinary tract infections
+Anxiety might be alleviated by regulating gut bacteria
+Any‌ ‌amount‌ ‌of‌ ‌running‌ ‌linked‌ ‌to‌ ‌significantly‌ ‌lower‌ ‌risk‌ ‌of‌ ‌death‌ ‌ ‌
+Apgar scores “within the normal range” linked to higher risks of illness and death
+Are drug regulators sufficiently independent from the companies they regulate? Are rocket scientists and brain surgeons really smarter than everyone else? Are the costs of tackling covid-19 worth the benefits? Around 1 in 20 calls to NHS 111 helpline result in unnecessary emergency care visit
+Around 100,000 convicted felons across US likely still own guns, say researchers
+Around one in 20 patients are affected by preventable harm
+Arthritis diagnosed before or during peak reproductive years may curb men’s fertility
+Asian ethnicity strongly linked to COVID-related stroke
+Asthma drug (ß2-agonists) can boost sprint and strength performance in athletes
+At least 27 million* (see clarifications in main text) covid patients may have long term smell and taste problems
+Athletes may have more than twice the risk of irregular heart rhythm
+Autistic people across Europe have struggled to access COVID-19 services during pandemic
+Average of 9 promotional claims on packaging of UK baby food products
+BAME women account for over half of pregnant women in UK hospitals with covid-19
+Ban filtered cigarettes to curb global plastic waste, say experts
+Be clear, positive, and targeted, to help public stick to social distancing, governments urged
+Being a “morning person” linked to lower risk of breast cancer
+Benefits of exercise referral schemes not as large as hoped
+Biggest risk factors identified to try and prevent Alzheimer’s disease
+Birth defects linked to greater risk of cancer in later life
+Birthweight strongly linked to type 2 diabetes risk in adulthood
+Blood lipoprotein levels linked to future risk of ALS
+Blood pressure disorder in pregnancy linked to heightened risk of death in offspring
+Blood pressure highly likely to cause neurotic personality trait
+Blood test to diagnose heart attacks is flawed, warn researchers
+BMJ acupuncture collection launches
+BMJ and Asian Development Bank launch new Coronavirus Information Centre
+BMJ and Jisc collaborate to support open access publishing across the UK
+BMJ and Ukraine Ministry of Health announce new agreement
+BMJ announces partnership with Overton to advance real-world impact of health and medical research
+BMJ announces USACO as exclusive sales partner in Japan
+BMJ appoints first Entrepreneur in Residence to drive healthcare innovation
+BMJ becomes the latest sponsor of NCTJ Journalism Diversity Fund
+BMJ Best Practice & Health Education England shortlisted for the HSJ Partnership Awards 2021
+BMJ Best Practice accredited
+BMJ Best Practice and BMJ Learning officially accredited by the Ministry of Health Kazakhstan  
+BMJ Best Practice approved
+BMJ Best Practice available across Norway
+BMJ Best Practice available across the Republic of Ireland
+BMJ Best Practice Comorbidities Manager now available across NHS Wales
+BMJ Best Practice linked to improved patient care when integrated into hospital system
+BMJ Best Practice selected for EHR integration
+BMJ Best Practice selected for Electronic Health Record (EHR) integration
+BMJ Best Practice selected for Electronic Health Record (EHR) integration
+BMJ Best Practice selected for EPR integration
+BMJ Best Practice to provide support to NHS for a further two years
+BMJ calls time on formula milk adverts
+BMJ enhances long standing partnership with Bibliosan
+BMJ experts invited to present at United Nations in Geneva."
+Question:Can Omega-3 prevent COVID-19?
+
+No
+31
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"2018; 45: 71-75View
+                        in Article
+                        Scopus (22)
+PubMed
+Crossref
+Google Scholar8.Justel M Socias L Almansa R et al.IgM levels in plasma predict outcome in severe pandemic influenza.J Clin Virol. 2013; 58: 564-567View
+                        in Article
+                        Scopus (25)
+PubMed
+Crossref
+Google ScholarArticle infoPublication historyPublished: February 2022IdentificationDOI: https://doi.org/10.1016/S2213-2600(21)00549-XCopyright© 2021 Elsevier Ltd. All rights reserved.ScienceDirectAccess this article on ScienceDirectHide CaptionDownloadSee figure in articleToggle ThumbstripView Large ImageDownload Hi-res image  Download .PPT
+Linked ArticlesIntravenous immunoglobulins in patients with COVID-19-associated moderate-to-severe acute respiratory distress syndrome (ICAR): multicentre, double-blind, placebo-controlled, phase 3 trialIn patients with COVID-19 who received invasive mechanical ventilation for moderate-to-severe ARDS, IVIG did not improve clinical outcomes at day 28 and tended to be associated with an increased frequency of serious adverse events, although not significant. The effect of IVIGs on earlier disease stages of COVID-19 should be assessed in future trials. Full-Text
+                    PDF
+                Why the application of IVIG might be beneficial in patients with COVID-19 – Authors' replyWe thank Detlef Kindgen-Milles and colleagues for their Correspondence regarding the administration of intravenous immunoglobulin (IVIG) solutions enriched with IgM rather than solutions containing mainly IgG in patients with severe COVID-19. Full-Text
+                    PDF
+Related Hub
+COVID-19 Resource Centre
+Access the latest 2019 novel coronavirus disease (COVID-19) content from across The Lancet journals as it is published. Hide CaptionDownloadSee figure in ArticleToggle ThumbstripDownload Hi-res image Download .PPT
+ADVERTISEMENT
+SCROLL TO CONTINUE WITH CONTENT
+Open GPT Console
+Open Oracle Keywords
+Refresh Values
+Property
+Value
+Status
+Version
+Ad File
+Disable Ads Flag
+Environment
+Moat Init
+Moat Ready
+Contextual Ready
+Contextual URL
+Contextual Initial Segments
+Contextual Used Segments
+AdUnit
+SubAdUnit
+Custom Targeting
+Ad Events
+Invalid Ad Sizes
+Lancet Journals
+The Lancet
+The Lancet Child & Adolescent Health
+The Lancet Diabetes & Endocrinology
+The Lancet Digital Health
+The Lancet Gastroenterology & Hepatology
+The Lancet Global Health
+The Lancet Haematology
+The Lancet Healthy Longevity
+The Lancet HIV
+The Lancet Infectious Diseases
+The Lancet Microbe
+The Lancet Neurology
+The Lancet Oncology
+The Lancet Planetary Health
+The Lancet Psychiatry
+The Lancet Public Health
+The Lancet Regional Health – Americas
+The Lancet Regional Health – Europe
+The Lancet Regional Health – Southeast Asia
+The Lancet Regional Health – Western Pacific
+The Lancet Respiratory Medicine
+The Lancet Rheumatology
+eBioMedicine
+eClinicalMedicine
+CLINICAL INITIATIVES
+The Lancet Clinic
+Commissions
+Series
+Picture Quiz
+GLOBAL HEALTH INITIATIVES
+Global Health Hub
+Commissions
+Series
+Global Burden of Disease
+Climate Countdown
+MULTIMEDIA
+Infographics
+Podcasts
+Videos
+Information
+About us
+For authors
+For advertisers
+For press
+Statement on offensive historical content
+Open access
+Publishing excellence 
+Careers
+Community guidelines
+Peer review
+Preprints
+Access
+Access our content
+Personal subscriptions
+Existing print subscribers
+Request institutional access
+Research4Life
+Connect
+Lancet Alerts
+Contact us
+Customer service
+Our global team
+Conferences
+We use cookies to help provide and enhance our service and tailor content and ads."
+Question:Can IVIG cure COVID-19?
+
+No
+32
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Remestemcel-L exhibits beneficial effects relative to the cardiac and vascular pathophysiology associated with MIS-C and an excellent safety profile in children. This therapy holds promise as a novel treatment of MIS-C.
+Acknowledgments
+We thank Dr Michelle Hudspeth and our investigational drug services for sharing their experience and expertise in using remestemcel-L in children with graft-versus-host disease. We thank the families of these children for their willingness to participate in the study and to share their stories about MIS-C and remestemcel-L.
+Dr Eckard supervised and participated in the acquisition of data, analyzed and interpreted data, drafted the initial manuscript, and revised the manuscript for important intellectual content; Drs Atz and Mack participated in the acquisition of data, analyzed and interpreted data, and critically reviewed and revised the manuscript for important intellectual content; Dr Borow and Ms Burke conceptualized and designed the study, designed the data collection instruments, analyzed and interpreted data, and critically reviewed and revised the manuscript for important intellectual content; and all authors approved the final manuscript as submitted and agree to be accountable for all aspects of the work. FUNDING: Mesoblast, Inc provided remestemcel-L at no cost to the patients. BNPbrain natriuretic peptideCOVID-19coronavirus disease 2019IVIgintravenous immunoglobulinKDKawasaki diseaseLVleft ventricularMIS-Cmultisystem inflammatory syndrome in childrenMSCmesenchymal stromal cellMUSCMedical University of South CarolinaPCRpolymerase chain reactionSARS-CoV-2severe acute respiratory syndrome coronavirus 2
+References
+1Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China."
+Question:Can remestemcel-l cure COVID-19?
+
+No
+33
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Medical News Today spoke with experts to find if mosquitoes could also carry and transmit the SARS-CoV-2 virus that causes COVID-19.Share on PinterestExperts weigh in on whether or not mosquitoes can carry and spread SARS-CoV-2. Image credit: Rob and Julia Campbell/Stocksy,Zika, dengue, and West Nile are viruses that spread through bites by infected mosquitoes. Because a number of viruses can be transmitted through mosquito bites, people may wonder if the SARS-CoV-2 virus that causes COVID-19 can also circulate this way. Medical News Today spoke to a variety of experts to find out if mosquitoes can transmit the SARS-CoV-2 virus. And if they do not now, is there potential for them to do so in the future? All data and statistics are based on publicly available data at the time of publication."
+Question:Can mosquitos cause COVID-19?
+
+No
+34
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Support cleveland.comNewsHomemade hand sanitizer to battle coronavirus? 05, 2020, 7:34 p.m.|Published: Mar. 05, 2020, 3:15 p.m.People are trying to make homemade hand sanitizer to combat the coronavirus. Here's what to know.NEW!1,757sharesBy Emily Bamforth, cleveland.comCLEVELAND, Ohio -- Denatured alcohol can be used to strip floors and make shellac, but don’t put it in your homemade hand sanitizer to fight the COVID-19 coronavirus.The Internet has exploded with homemade sanitizer recipes as it becomes harder to find Purell and other hand sanitizer brands, even in Ohio, where there are no confirmed cases of the illness. Akron-based GOJO Industries, which makes Purell, is ramping up production to try and meet demand as people stock up ahead because of coronavirus worries.Isopropyl alcohol is becoming harder to find as well, especially at higher alcohol content."
+Question:Can Homemade Vodka Sanitizer prevent COVID-19?
+
+No
+35
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Ribavirin (Fig. 1), one of the FDA-approved antiviral drugs used for the last four decades against RNA viruses, could be a potential candidate to be used for drug repurposing against COVID-19. Ribavirin (1-β-d-ribofuranosyl-1,2,4-triazole-3-carboxamide), which was first synthesized in 1972 (Witkowski et al. 1972), has broad-spectrum antiviral properties and has been used mostly to treat the hepatitis C virus (HCV) infections in humans. Although ribavirin is used almost exclusively in hepatitis C virus infections in clinical practice, it has an antiviral effect against different viruses (Ramírez-Olivencia et al. 2019)."
+Question:Can Ribavirin help COVID-19?
+
+Yes
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"Activation of the ECS during COVID-19 progression could be a new way to combat systemic inflammation and the cytokine storm. The goal of this review, which was carried out by a group of researchers from a variety of multi-national institutions, was to find clinical studies evaluating coronavirus infections in the context of Echinacea administration and to assess preventive and therapy advantages. The study
+The initial clinical study was conducted as a double-blinded, placebo-controlled, monocentric randomized control trial (RCT) at Cardiff University in the United Kingdom. Participants aged 18 and above from Cardiff, Wales, were asked to apply a 3 x 0.9 mL solution daily for four months. A commercial preparation, standardized to contain 5 mg/100 g of dodecatetraenoic acid isobutylamide based on high-performance liquid chromatography measurements, was used to extract the hydro-ethanolic extract from freshly harvested aerial parts of Echinacea purpurea to 95% supplemented with 5% Echinacea purpurea roots extract. Immunology eBook   Compilation of the top interviews, articles, and news in the last year."
+Question:Can Echinacea prevent COVID-19?
+
+No
+36
+
+
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+Evidence:"The short answer from an infectious disease specialist
+Share
+Facebook
+Twitter
+Linkedin
+Pinterest
+email
+Email
+Q: Can drinking or gargling with lemon juice or lemon water kill the coronavirus? A: The theory here is that the coronavirus (COVID-19) cannot live in acidic environments, so drinking or gargling with lemon juice or lemon water is thought to kill it. The idea is that by consuming lemon, you’ll raise your body’s pH level, which the virus cannot survive in. (pH is a scale that’s used to rank the acidity of substances.) Advertising Policy
+				Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission."
+Question:Can drinking lemon water prevent COVID-19?
+
+No
+37
+
+Accuracy:0.7551020408163265

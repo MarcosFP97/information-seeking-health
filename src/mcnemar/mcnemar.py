@@ -11,6 +11,8 @@ def get_labels(run: str) -> List[int]:
 
     if "llama" in run: ### different pattern to process llama files
         pattern1 = re.compile(r'^[A-Za-z0-9\(\)\-\'\"\s\!\.\,]*?\?([A-Za-z0-9\(\)\-\'\"\s\:])*(\[\\INST\])?$')
+    if "rag" in run:
+        pattern1 = re.compile(r'Question:[A-Za-z0-9\(\)\-\'\s]*\?')
     else:
         pattern1 = re.compile(r'[A-Za-z0-9\(\)\-\'\s]*\?')
 
@@ -21,7 +23,7 @@ def get_labels(run: str) -> List[int]:
     stoppattern = re.compile(r'Accuracy:[0-9].[0-9]+\n')
     query = False
 
-    with open("../../outputs/"+run, 'r') as pf:
+    with open(run, 'r') as pf:
         data = pf.readlines()
         count = 0
         for line in data:
@@ -51,7 +53,7 @@ def get_labels(run: str) -> List[int]:
                 #print()
                 #print()
                 continue
-    # print("Hits",hits) #### CHEQUEAR POR QUÉ 0.88
+            #print("Hits",hits, "len", len(hits)) #### CHEQUEAR POR QUÉ 0.88
     print(len(hits))
     print(np.mean(hits))
     return hits
@@ -62,6 +64,7 @@ def eval_mcnemar(y_target: List, y_model1: List, y_model2: List):
                    y_model2=y_model2)
     # print(tb)
     _, p = mcnemar(ary=tb, corrected=True)
+    print(p)
     if p>0.05:
         print("We cannot reject the null hypothesis and there is not significant difference between classifiers", p)
     else:

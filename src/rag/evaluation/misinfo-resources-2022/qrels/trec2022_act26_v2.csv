@@ -1,0 +1,426 @@
+ID,Topic ID,Is Completed,Grade,Document UUID,task id
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,1,en.noclean.c4-train.06631-of-07168.111685,114
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,2,en.noclean.c4-train.04230-of-07168.126458,114
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,3,en.noclean.c4-train.02565-of-07168.81396,114
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,4,en.noclean.c4-train.06283-of-07168.138753,114
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,5,en.noclean.c4-train.00676-of-07168.33355,114
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,6,en.noclean.c4-train.01491-of-07168.75847,114
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,6,en.noclean.c4-train.05932-of-07168.106603,114
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,7,en.noclean.c4-train.05786-of-07168.113365,114
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,8,en.noclean.c4-train.01590-of-07168.137646,114
+a1,Does deli meat increase your risk of colon cancer? (Answer is Yes),TRUE,8,en.noclean.c4-train.06584-of-07168.10936,114
+a1,Is wifi harmful for health? (Answer is No),TRUE,1,en.noclean.c4-train.03434-of-07168.101723,113
+a1,Is wifi harmful for health? (Answer is No),TRUE,2,en.noclean.c4-train.03097-of-07168.115179,113
+a2,Does drinking lemon water help with belly fat? (Answer is No),TRUE,1,en.noclean.c4-train.06239-of-07168.56329,111
+a2,Does drinking lemon water help with belly fat? (Answer is No),TRUE,2,en.noclean.c4-train.00900-of-07168.62569,111
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,1,en.noclean.c4-train.00689-of-07168.141930,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,1,en.noclean.c4-train.01864-of-07168.129923,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,1,en.noclean.c4-train.06062-of-07168.137833,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,2,en.noclean.c4-train.05530-of-07168.91181,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,3,en.noclean.c4-train.04263-of-07168.125036,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,3,en.noclean.c4-train.03491-of-07168.50144,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,4,en.noclean.c4-train.06397-of-07168.102558,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,5,en.noclean.c4-train.06467-of-07168.58332,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,6,en.noclean.c4-train.05630-of-07168.58526,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,6,en.noclean.c4-train.01120-of-07168.54458,110
+a3,Can statins cause permanent cognitive impairment? (Answer is No),TRUE,6,en.noclean.c4-train.03211-of-07168.69504,110
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,1,en.noclean.c4-train.00858-of-07168.123143,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,2,en.noclean.c4-train.04473-of-07168.104937,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,2,en.noclean.c4-train.00746-of-07168.105008,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,2,en.noclean.c4-train.06288-of-07168.5160,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,2,en.noclean.c4-train.06642-of-07168.80149,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,3,en.noclean.c4-train.04892-of-07168.43126,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,4,en.noclean.c4-train.06628-of-07168.111887,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,4,en.noclean.c4-train.03669-of-07168.42829,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,5,en.noclean.c4-train.05744-of-07168.85487,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,5,en.noclean.c4-train.00405-of-07168.137021,108
+a2,Does Vitamin C prevent colds? (Answer is No),TRUE,5,en.noclean.c4-train.01613-of-07168.86359,108
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,1,en.noclean.c4-train.03750-of-07168.73390,107
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,1,en.noclean.c4-train.00116-of-07168.99649,107
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,1,en.noclean.c4-train.00444-of-07168.137595,107
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,1,en.noclean.c4-train.01118-of-07168.37195,107
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,1,en.noclean.c4-train.03611-of-07168.44649,107
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,1,en.noclean.c4-train.02375-of-07168.84058,107
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,1,en.noclean.c4-train.05094-of-07168.82333,107
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,1,en.noclean.c4-train.02169-of-07168.95222,107
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,1,en.noclean.c4-train.05603-of-07168.21669,107
+a3,Can sunglasses help prevent cataracts? (Answer is Yes),TRUE,2,en.noclean.c4-train.01538-of-07168.53450,107
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,1,en.noclean.c4-train.04138-of-07168.133882,106
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,1,en.noclean.c4-train.03017-of-07168.30371,106
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,1,en.noclean.c4-train.01489-of-07168.126449,106
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,2,en.noclean.c4-train.00184-of-07168.19078,106
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,2,en.noclean.c4-train.00083-of-07168.102242,106
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,3,en.noclean.c4-train.06947-of-07168.127484,106
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,3,en.noclean.c4-train.00160-of-07168.87010,106
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,3,en.noclean.c4-train.02703-of-07168.143811,106
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,3,en.noclean.c4-train.01942-of-07168.89650,106
+a4,Do ACE inhibitors typically cause erectile dysfunction? (Answer is No),TRUE,4,en.noclean.c4-train.03951-of-07168.129091,106
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,1,en.noclean.c4-train.06710-of-07168.45797,105
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,2,en.noclean.c4-train.04167-of-07168.86222,105
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,2,en.noclean.c4-train.06977-of-07168.72396,105
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,2,en.noclean.c4-train.01102-of-07168.13782,105
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,2,en.noclean.c4-train.00895-of-07168.135059,105
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,2,en.noclean.c4-train.02541-of-07168.71519,105
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,2,en.noclean.c4-train.00128-of-07168.19297,105
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,3,en.noclean.c4-train.06494-of-07168.38926,105
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,3,en.noclean.c4-train.05071-of-07168.111604,105
+a3,Are carrots good for your eyes? (Answer is Yes),TRUE,4,en.noclean.c4-train.05864-of-07168.8701,105
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,1,en.noclean.c4-train.03622-of-07168.26727,104
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,2,en.noclean.c4-train.01750-of-07168.60555,104
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,2,en.noclean.c4-train.01140-of-07168.31609,104
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,3,en.noclean.c4-train.02427-of-07168.111289,104
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,4,en.noclean.c4-train.03384-of-07168.24037,104
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,5,en.noclean.c4-train.05404-of-07168.87183,104
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,6,en.noclean.c4-train.06741-of-07168.126849,104
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,6,en.noclean.c4-train.03747-of-07168.132679,104
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,7,en.noclean.c4-train.00797-of-07168.90481,104
+a5,Does a high fiber diet help with hemorrhoids? (Answer is Yes),TRUE,8,en.noclean.c4-train.05519-of-07168.90624,104
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,1,en.noclean.c4-train.02439-of-07168.7877,102
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,2,en.noclean.c4-train.03400-of-07168.14952,102
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,3,en.noclean.c4-train.00587-of-07168.115507,102
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,4,en.noclean.c4-train.05795-of-07168.75932,102
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,5,en.noclean.c4-train.00330-of-07168.104621,102
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,6,en.noclean.c4-train.00485-of-07168.121130,102
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,7,en.noclean.c4-train.00253-of-07168.32330,102
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,8,en.noclean.c4-train.00753-of-07168.9599,102
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,9,en.noclean.c4-train.04051-of-07168.11844,102
+a5,Does ginger help with nausea? (Answer is Yes),TRUE,10,en.noclean.c4-train.00628-of-07168.54847,102
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,1,en.noclean.c4-train.02238-of-07168.40831,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,1,en.noclean.c4-train.06711-of-07168.127876,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,1,en.noclean.c4-train.00244-of-07168.84901,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,1,en.noclean.c4-train.03039-of-07168.83914,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,1,en.noclean.c4-train.02747-of-07168.62499,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,1,en.noclean.c4-train.07068-of-07168.40726,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,1,en.noclean.c4-train.02760-of-07168.52137,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,2,en.noclean.c4-train.01435-of-07168.109872,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,3,en.noclean.c4-train.02575-of-07168.143442,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,3,en.noclean.c4-train.04123-of-07168.78578,101
+a2,Can a cold sore cause genital herpes? (Answer is Yes),TRUE,3,en.noclean.c4-train.05262-of-07168.146949,101
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,1,en.noclean.c4-train.03242-of-07168.113134,98
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,2,en.noclean.c4-train.04234-of-07168.67302,98
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,2,en.noclean.c4-train.02344-of-07168.32729,98
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,3,en.noclean.c4-train.03801-of-07168.92287,98
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,3,en.noclean.c4-train.02530-of-07168.90473,98
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,4,en.noclean.c4-train.04447-of-07168.111561,98
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,4,en.noclean.c4-train.00821-of-07168.977,98
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,5,en.noclean.c4-train.02264-of-07168.90851,98
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,6,en.noclean.c4-train.02834-of-07168.28889,98
+a2,Can vape pens be harmful? (Answer is Yes),TRUE,7,en.noclean.c4-train.05482-of-07168.138421,98
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,1,en.noclean.c4-train.04920-of-07168.68393,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,1,en.noclean.c4-train.00687-of-07168.89515,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,1,en.noclean.c4-train.00390-of-07168.99916,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,1,en.noclean.c4-train.04037-of-07168.63721,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,2,en.noclean.c4-train.03143-of-07168.87081,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,2,en.noclean.c4-train.05048-of-07168.997,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,3,en.noclean.c4-train.06319-of-07168.141396,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,4,en.noclean.c4-train.06248-of-07168.132345,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,4,en.noclean.c4-train.06198-of-07168.98632,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,4,en.noclean.c4-train.00674-of-07168.115940,97
+a3,Can fruit juice increase the risk of diabetes? (Answer is Yes),TRUE,4,en.noclean.c4-train.03958-of-07168.63284,97
+a1,Is too much water bad for you? (Answer is Yes),TRUE,1,en.noclean.c4-train.05119-of-07168.107887,94
+a1,Is too much water bad for you? (Answer is Yes),TRUE,1,en.noclean.c4-train.06076-of-07168.340,94
+a1,Is too much water bad for you? (Answer is Yes),TRUE,2,en.noclean.c4-train.06600-of-07168.131390,94
+a1,Is too much water bad for you? (Answer is Yes),TRUE,2,en.noclean.c4-train.04605-of-07168.131034,94
+a1,Is too much water bad for you? (Answer is Yes),TRUE,3,en.noclean.c4-train.04947-of-07168.59487,94
+a1,Is too much water bad for you? (Answer is Yes),TRUE,4,en.noclean.c4-train.00492-of-07168.68203,94
+a1,Is too much water bad for you? (Answer is Yes),TRUE,5,en.noclean.c4-train.01252-of-07168.54433,94
+a1,Is too much water bad for you? (Answer is Yes),TRUE,6,en.noclean.c4-train.03367-of-07168.147165,94
+a1,Is too much water bad for you? (Answer is Yes),TRUE,7,en.noclean.c4-train.04580-of-07168.107612,94
+a1,Is too much water bad for you? (Answer is Yes),TRUE,8,en.noclean.c4-train.03295-of-07168.105153,94
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,1,en.noclean.c4-train.06984-of-07168.147849,93
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,2,en.noclean.c4-train.04247-of-07168.136159,93
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,3,en.noclean.c4-train.01716-of-07168.46725,93
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,3,en.noclean.c4-train.03873-of-07168.11066,93
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,4,en.noclean.c4-train.00355-of-07168.111733,93
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,4,en.noclean.c4-train.00184-of-07168.76318,93
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,5,en.noclean.c4-train.00467-of-07168.81845,93
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,6,en.noclean.c4-train.04355-of-07168.140547,93
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,7,en.noclean.c4-train.05503-of-07168.66869,93
+a5,Can oil pulling heal cavities? (Answer is No),TRUE,8,en.noclean.c4-train.00314-of-07168.38329,93
+a6,Are skin tags contagious? (Answer is No),TRUE,1,en.noclean.c4-train.04067-of-07168.31582,92
+a6,Are skin tags contagious? (Answer is No),TRUE,2,en.noclean.c4-train.06381-of-07168.117910,92
+a6,Are skin tags contagious? (Answer is No),TRUE,3,en.noclean.c4-train.02007-of-07168.15788,92
+a6,Are skin tags contagious? (Answer is No),TRUE,4,en.noclean.c4-train.02898-of-07168.101879,92
+a6,Are skin tags contagious? (Answer is No),TRUE,5,en.noclean.c4-train.02869-of-07168.105580,92
+a6,Are skin tags contagious? (Answer is No),TRUE,6,en.noclean.c4-train.04391-of-07168.24622,92
+a6,Are skin tags contagious? (Answer is No),TRUE,6,en.noclean.c4-train.06018-of-07168.40721,92
+a6,Are skin tags contagious? (Answer is No),TRUE,6,en.noclean.c4-train.03362-of-07168.27605,92
+a6,Are skin tags contagious? (Answer is No),TRUE,7,en.noclean.c4-train.00220-of-07168.113948,92
+a6,Are skin tags contagious? (Answer is No),TRUE,8,en.noclean.c4-train.03459-of-07168.45537,92
+a4,Are vaccines linked to autism? (Answer is No),TRUE,1,en.noclean.c4-train.03922-of-07168.16571,88
+a4,Are vaccines linked to autism? (Answer is No),TRUE,2,en.noclean.c4-train.02083-of-07168.31051,88
+a4,Are vaccines linked to autism? (Answer is No),TRUE,3,en.noclean.c4-train.07073-of-07168.49431,88
+a4,Are vaccines linked to autism? (Answer is No),TRUE,4,en.noclean.c4-train.05381-of-07168.23246,88
+a4,Are vaccines linked to autism? (Answer is No),TRUE,4,en.noclean.c4-train.07054-of-07168.86795,88
+a4,Are vaccines linked to autism? (Answer is No),TRUE,5,en.noclean.c4-train.02126-of-07168.105349,88
+a4,Are vaccines linked to autism? (Answer is No),TRUE,6,en.noclean.c4-train.06953-of-07168.101188,88
+a4,Are vaccines linked to autism? (Answer is No),TRUE,7,en.noclean.c4-train.05244-of-07168.110352,88
+a4,Are vaccines linked to autism? (Answer is No),TRUE,7,en.noclean.c4-train.03715-of-07168.77920,88
+a4,Are vaccines linked to autism? (Answer is No),TRUE,7,en.noclean.c4-train.00610-of-07168.112686,88
+a4,Do men get UTI infections? (Answer is Yes),TRUE,1,en.noclean.c4-train.04257-of-07168.1685,87
+a4,Do men get UTI infections? (Answer is Yes),TRUE,2,en.noclean.c4-train.03622-of-07168.101387,87
+a4,Do men get UTI infections? (Answer is Yes),TRUE,3,en.noclean.c4-train.06837-of-07168.52338,87
+a4,Do men get UTI infections? (Answer is Yes),TRUE,4,en.noclean.c4-train.02366-of-07168.63317,87
+a4,Do men get UTI infections? (Answer is Yes),TRUE,5,en.noclean.c4-train.00475-of-07168.138850,87
+a4,Do men get UTI infections? (Answer is Yes),TRUE,6,en.noclean.c4-train.04468-of-07168.45313,87
+a4,Do men get UTI infections? (Answer is Yes),TRUE,7,en.noclean.c4-train.04269-of-07168.83013,87
+a4,Do men get UTI infections? (Answer is Yes),TRUE,8,en.noclean.c4-train.03737-of-07168.119430,87
+a4,Do men get UTI infections? (Answer is Yes),TRUE,9,en.noclean.c4-train.03178-of-07168.100474,87
+a4,Do men get UTI infections? (Answer is Yes),TRUE,10,en.noclean.c4-train.05843-of-07168.52140,87
+a1,Can coffee help you lose weight? (Answer is Yes),TRUE,1,en.noclean.c4-train.03827-of-07168.23789,84
+a1,Can coffee help you lose weight? (Answer is Yes),TRUE,2,en.noclean.c4-train.00488-of-07168.5565,84
+a1,Can coffee help you lose weight? (Answer is Yes),TRUE,2,en.noclean.c4-train.04790-of-07168.33851,84
+a1,Can coffee help you lose weight? (Answer is Yes),TRUE,2,en.noclean.c4-train.01116-of-07168.51794,84
+a1,Can coffee help you lose weight? (Answer is Yes),TRUE,3,en.noclean.c4-train.02033-of-07168.114860,84
+a1,Can coffee help you lose weight? (Answer is Yes),TRUE,3,en.noclean.c4-train.02338-of-07168.112698,84
+a1,Can coffee help you lose weight? (Answer is Yes),TRUE,4,en.noclean.c4-train.02709-of-07168.11846,84
+a1,Can you become addicted to weed? (Answer is Yes),TRUE,1,en.noclean.c4-train.06509-of-07168.147998,82
+a1,Can you become addicted to weed? (Answer is Yes),TRUE,2,en.noclean.c4-train.05479-of-07168.148127,82
+a1,Can you become addicted to weed? (Answer is Yes),TRUE,3,en.noclean.c4-train.01153-of-07168.98856,82
+a1,Can you become addicted to weed? (Answer is Yes),TRUE,4,en.noclean.c4-train.01470-of-07168.120545,82
+a1,Can you become addicted to weed? (Answer is Yes),TRUE,5,en.noclean.c4-train.06223-of-07168.96060,82
+a1,Can you become addicted to weed? (Answer is Yes),TRUE,6,en.noclean.c4-train.05393-of-07168.127141,82
+a1,Are sit ups bad for you? (Answer is Yes),TRUE,1,en.noclean.c4-train.04754-of-07168.131097,81
+a1,Are sit ups bad for you? (Answer is Yes),TRUE,2,en.noclean.c4-train.06021-of-07168.68412,81
+a1,Are sit ups bad for you? (Answer is Yes),TRUE,3,en.noclean.c4-train.06407-of-07168.111376,81
+a1,Is morphine addictive? (Answer is Yes),TRUE,1,en.noclean.c4-train.05815-of-07168.35972,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,2,en.noclean.c4-train.04620-of-07168.79210,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,3,en.noclean.c4-train.03282-of-07168.127163,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.01377-of-07168.68998,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.03198-of-07168.69048,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.04161-of-07168.61672,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.00500-of-07168.20757,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.02970-of-07168.80264,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.05986-of-07168.56487,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.04139-of-07168.4515,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.06051-of-07168.67493,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.06816-of-07168.53211,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.06417-of-07168.33623,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.05637-of-07168.110779,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.05791-of-07168.18795,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.01103-of-07168.115984,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.00744-of-07168.118816,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.06378-of-07168.127419,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.02510-of-07168.123587,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.04118-of-07168.52952,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.06186-of-07168.112761,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.06339-of-07168.59060,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.03285-of-07168.99882,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.01169-of-07168.139210,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.07112-of-07168.58478,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.00981-of-07168.120511,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.01005-of-07168.73180,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.01554-of-07168.135778,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.03541-of-07168.60705,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.05363-of-07168.50148,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.05330-of-07168.118148,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.04904-of-07168.101643,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.00353-of-07168.24345,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.04030-of-07168.95896,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.04096-of-07168.7155,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.06403-of-07168.25168,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.04595-of-07168.126188,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.03024-of-07168.23273,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.06327-of-07168.117279,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.05462-of-07168.108142,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.01898-of-07168.140873,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.01825-of-07168.146220,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.06163-of-07168.141438,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.02619-of-07168.138062,80
+a1,Is morphine addictive? (Answer is Yes),TRUE,4,en.noclean.c4-train.04557-of-07168.110114,80
+a5,Can HIV be transmitted through sweat? (Answer is No),TRUE,1,en.noclean.c4-train.05390-of-07168.124912,73
+a5,Can HIV be transmitted through sweat? (Answer is No),TRUE,2,en.noclean.c4-train.03032-of-07168.73360,73
+a6,Can an MRI harm my baby? (Answer is No),TRUE,1,en.noclean.c4-train.06811-of-07168.113554,72
+a6,Can an MRI harm my baby? (Answer is No),TRUE,2,en.noclean.c4-train.01140-of-07168.81281,72
+a6,Can an MRI harm my baby? (Answer is No),TRUE,2,en.noclean.c4-train.02971-of-07168.70853,72
+a6,Can an MRI harm my baby? (Answer is No),TRUE,3,en.noclean.c4-train.00240-of-07168.57203,72
+a6,Can an MRI harm my baby? (Answer is No),TRUE,4,en.noclean.c4-train.01044-of-07168.119699,72
+a6,Can an MRI harm my baby? (Answer is No),TRUE,5,en.noclean.c4-train.02316-of-07168.147078,72
+a6,Can an MRI harm my baby? (Answer is No),TRUE,6,en.noclean.c4-train.01793-of-07168.48322,72
+a6,Can an MRI harm my baby? (Answer is No),TRUE,7,en.noclean.c4-train.05457-of-07168.96888,72
+a6,Can an MRI harm my baby? (Answer is No),TRUE,7,en.noclean.c4-train.01481-of-07168.56630,72
+a6,Can an MRI harm my baby? (Answer is No),TRUE,8,en.noclean.c4-train.06643-of-07168.128482,72
+a2,Is methanol poisonous? (Answer is Yes),TRUE,1,en.noclean.c4-train.03431-of-07168.92596,71
+a2,Is methanol poisonous? (Answer is Yes),TRUE,2,en.noclean.c4-train.04403-of-07168.148062,71
+a2,Is methanol poisonous? (Answer is Yes),TRUE,3,en.noclean.c4-train.03592-of-07168.117169,71
+a2,Is methanol poisonous? (Answer is Yes),TRUE,4,en.noclean.c4-train.06618-of-07168.25197,71
+a2,Is methanol poisonous? (Answer is Yes),TRUE,5,en.noclean.c4-train.00620-of-07168.65805,71
+a2,Is methanol poisonous? (Answer is Yes),TRUE,5,en.noclean.c4-train.01907-of-07168.87349,71
+a2,Is methanol poisonous? (Answer is Yes),TRUE,6,en.noclean.c4-train.05031-of-07168.121215,71
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,1,en.noclean.c4-train.05302-of-07168.79944,67
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,1,en.noclean.c4-train.00017-of-07168.71863,67
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,1,en.noclean.c4-train.06065-of-07168.4847,67
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,1,en.noclean.c4-train.03635-of-07168.85961,67
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,2,en.noclean.c4-train.05865-of-07168.62961,67
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,2,en.noclean.c4-train.00547-of-07168.91577,67
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,2,en.noclean.c4-train.00869-of-07168.66872,67
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,2,en.noclean.c4-train.06114-of-07168.37198,67
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,2,en.noclean.c4-train.05105-of-07168.3397,67
+a2,Can grapefruit interfere with medication? (Answer is Yes),TRUE,2,en.noclean.c4-train.02385-of-07168.13517,67
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,1,en.noclean.c4-train.04533-of-07168.119229,66
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,1,en.noclean.c4-train.04170-of-07168.26486,66
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,2,en.noclean.c4-train.03182-of-07168.128319,66
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,3,en.noclean.c4-train.02029-of-07168.55144,66
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,4,en.noclean.c4-train.03757-of-07168.52305,66
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,5,en.noclean.c4-train.03489-of-07168.38060,66
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,6,en.noclean.c4-train.06598-of-07168.125284,66
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,6,en.noclean.c4-train.03815-of-07168.111208,66
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,7,en.noclean.c4-train.05837-of-07168.8470,66
+a5,Can a woman get pregnant while breastfeeding? (Answer is Yes),TRUE,8,en.noclean.c4-train.05641-of-07168.76608,66
+a6,Can chewing gum help lose weight? (Answer is No),TRUE,1,en.noclean.c4-train.06282-of-07168.45677,65
+a6,Can chewing gum help lose weight? (Answer is No),TRUE,2,en.noclean.c4-train.05398-of-07168.95043,65
+a6,Can chewing gum help lose weight? (Answer is No),TRUE,3,en.noclean.c4-train.05939-of-07168.45060,65
+a4,Can cancer be inherited? (Answer is Yes),TRUE,1,en.noclean.c4-train.04752-of-07168.13637,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,1,en.noclean.c4-train.05165-of-07168.147851,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,1,en.noclean.c4-train.05611-of-07168.21094,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,1,en.noclean.c4-train.00566-of-07168.10690,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,1,en.noclean.c4-train.05508-of-07168.43365,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,1,en.noclean.c4-train.00918-of-07168.89042,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,1,en.noclean.c4-train.00717-of-07168.51322,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,1,en.noclean.c4-train.04132-of-07168.128308,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,2,en.noclean.c4-train.05003-of-07168.1021,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,2,en.noclean.c4-train.01891-of-07168.93732,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,2,en.noclean.c4-train.03442-of-07168.130758,47
+a4,Can cancer be inherited? (Answer is Yes),TRUE,2,en.noclean.c4-train.04736-of-07168.69807,47
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,1,en.noclean.c4-train.02320-of-07168.77135,44
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,2,en.noclean.c4-train.06050-of-07168.48635,44
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,3,en.noclean.c4-train.06319-of-07168.16458,44
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,4,en.noclean.c4-train.06576-of-07168.35403,44
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,5,en.noclean.c4-train.00519-of-07168.33397,44
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,6,en.noclean.c4-train.00351-of-07168.45102,44
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,7,en.noclean.c4-train.02463-of-07168.98432,44
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,8,en.noclean.c4-train.01489-of-07168.98593,44
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,9,en.noclean.c4-train.05371-of-07168.17410,44
+a6,Can fish oil improve your cholesterol? (Answer is No),TRUE,10,en.noclean.c4-train.03380-of-07168.1256,44
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,1,en.noclean.c4-train.01759-of-07168.113662,42
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,2,en.noclean.c4-train.03894-of-07168.22832,42
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,3,en.noclean.c4-train.03705-of-07168.98102,42
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,4,en.noclean.c4-train.00315-of-07168.90110,42
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,5,en.noclean.c4-train.04680-of-07168.124872,42
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,5,en.noclean.c4-train.01576-of-07168.102183,42
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,6,en.noclean.c4-train.02535-of-07168.70275,42
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,7,en.noclean.c4-train.02849-of-07168.127690,42
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,8,en.noclean.c4-train.05208-of-07168.71095,42
+a5,Did AIDS come from chimps? (Answer is Yes),TRUE,9,en.noclean.c4-train.03856-of-07168.99267,42
+a6,Are squats bad for knees? (Answer is No),TRUE,1,en.noclean.c4-train.02386-of-07168.55510,38
+a6,Are squats bad for knees? (Answer is No),TRUE,1,en.noclean.c4-train.03020-of-07168.20767,38
+a6,Are squats bad for knees? (Answer is No),TRUE,2,en.noclean.c4-train.00354-of-07168.22706,38
+a6,Are squats bad for knees? (Answer is No),TRUE,2,en.noclean.c4-train.01901-of-07168.91275,38
+a6,Are squats bad for knees? (Answer is No),TRUE,3,en.noclean.c4-train.05083-of-07168.112930,38
+a6,Are squats bad for knees? (Answer is No),TRUE,4,en.noclean.c4-train.03507-of-07168.125548,38
+a6,Are squats bad for knees? (Answer is No),TRUE,5,en.noclean.c4-train.02221-of-07168.4842,38
+a6,Are squats bad for knees? (Answer is No),TRUE,5,en.noclean.c4-train.04699-of-07168.134144,38
+a6,Are squats bad for knees? (Answer is No),TRUE,5,en.noclean.c4-train.03144-of-07168.2165,38
+a6,Are squats bad for knees? (Answer is No),TRUE,6,en.noclean.c4-train.03020-of-07168.19552,38
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,1,en.noclean.c4-train.05499-of-07168.49855,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,1,en.noclean.c4-train.04743-of-07168.70977,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,2,en.noclean.c4-train.03182-of-07168.35004,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,2,en.noclean.c4-train.01109-of-07168.56511,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,3,en.noclean.c4-train.03441-of-07168.12496,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,4,en.noclean.c4-train.02577-of-07168.139362,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,5,en.noclean.c4-train.01076-of-07168.82438,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,6,en.noclean.c4-train.01976-of-07168.84293,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,7,en.noclean.c4-train.02892-of-07168.9671,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,8,en.noclean.c4-train.06203-of-07168.101385,32
+a5,Can exercise lower cholesterol? (Answer is Yes),TRUE,8,en.noclean.c4-train.03102-of-07168.38390,32
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,1,en.noclean.c4-train.05921-of-07168.53291,26
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,1,en.noclean.c4-train.02369-of-07168.81115,26
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,1,en.noclean.c4-train.03882-of-07168.50287,26
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,1,en.noclean.c4-train.03632-of-07168.135792,26
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,2,en.noclean.c4-train.06308-of-07168.29720,26
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,3,en.noclean.c4-train.04441-of-07168.118790,26
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,4,en.noclean.c4-train.01266-of-07168.761,26
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,4,en.noclean.c4-train.00493-of-07168.103831,26
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,4,en.noclean.c4-train.01494-of-07168.78723,26
+a5,Is hydroquinone banned in Europe? (Answer is Yes),TRUE,4,en.noclean.c4-train.05391-of-07168.122029,26
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,1,en.noclean.c4-train.03805-of-07168.133145,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,1,en.noclean.c4-train.06670-of-07168.143827,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,2,en.noclean.c4-train.03504-of-07168.101328,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,2,en.noclean.c4-train.01479-of-07168.103008,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,3,en.noclean.c4-train.00866-of-07168.143736,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,3,en.noclean.c4-train.03506-of-07168.3941,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,4,en.noclean.c4-train.05924-of-07168.145853,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,4,en.noclean.c4-train.01759-of-07168.133166,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,5,en.noclean.c4-train.06505-of-07168.96051,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,6,en.noclean.c4-train.00286-of-07168.102294,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,6,en.noclean.c4-train.06819-of-07168.135606,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,6,en.noclean.c4-train.07069-of-07168.48303,17
+a2,Do magnetic wrist straps help with arthritis? (Answer is No),TRUE,6,en.noclean.c4-train.06951-of-07168.89426,17
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,1,en.noclean.c4-train.04632-of-07168.11315,16
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,1,en.noclean.c4-train.05173-of-07168.75365,16
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,2,en.noclean.c4-train.05364-of-07168.104966,16
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,3,en.noclean.c4-train.01454-of-07168.36905,16
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,4,en.noclean.c4-train.03565-of-07168.89746,16
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,5,en.noclean.c4-train.01724-of-07168.31666,16
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,5,en.noclean.c4-train.04286-of-07168.11624,16
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,5,en.noclean.c4-train.03001-of-07168.131613,16
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,6,en.noclean.c4-train.00145-of-07168.97880,16
+a5,Are there health benefits to drinking your own urine? (Answer is No),TRUE,6,en.noclean.c4-train.03464-of-07168.141329,16
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,1,en.noclean.c4-train.05377-of-07168.60016,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,1,en.noclean.c4-train.02455-of-07168.38462,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,2,en.noclean.c4-train.01484-of-07168.132100,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,2,en.noclean.c4-train.05768-of-07168.16045,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,2,en.noclean.c4-train.00058-of-07168.67073,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,2,en.noclean.c4-train.06883-of-07168.144068,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,2,en.noclean.c4-train.04490-of-07168.146221,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.06180-of-07168.65692,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.05698-of-07168.86883,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.05975-of-07168.79462,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.06103-of-07168.23150,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.01647-of-07168.92878,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.03022-of-07168.129840,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.00910-of-07168.122352,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.07046-of-07168.92123,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.03666-of-07168.35087,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.02732-of-07168.55696,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.02705-of-07168.66136,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.02568-of-07168.51936,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.00643-of-07168.42491,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.01967-of-07168.146506,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.05928-of-07168.103220,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.05282-of-07168.147514,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.04954-of-07168.61180,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.00818-of-07168.89176,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.06073-of-07168.123091,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.01884-of-07168.91540,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.05484-of-07168.55377,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.06686-of-07168.138979,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.06496-of-07168.23332,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.04988-of-07168.124585,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.01198-of-07168.57141,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.06599-of-07168.7305,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.07104-of-07168.114321,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.01471-of-07168.121218,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.04964-of-07168.35822,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.02254-of-07168.110585,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.03017-of-07168.137869,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.00834-of-07168.2415,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.05123-of-07168.16936,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.00079-of-07168.100085,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.04740-of-07168.54049,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.02545-of-07168.10274,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.06493-of-07168.131258,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.00166-of-07168.91873,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.06903-of-07168.94013,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.06214-of-07168.95917,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.07002-of-07168.145676,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.03765-of-07168.76420,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.07068-of-07168.129903,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.04335-of-07168.142791,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.05047-of-07168.61554,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.05454-of-07168.88482,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.01378-of-07168.16383,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.02537-of-07168.76121,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.04782-of-07168.15881,14
+a4,Do tea bags help to clot blood in pulled teeth? (Answer is Yes),TRUE,3,en.noclean.c4-train.03452-of-07168.52853,14
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,1,en.noclean.c4-train.01260-of-07168.81584,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.05329-of-07168.136916,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.05592-of-07168.46484,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.01064-of-07168.128187,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.05592-of-07168.52259,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.02722-of-07168.48555,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.03604-of-07168.132474,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.04603-of-07168.59313,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.03847-of-07168.88299,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.04838-of-07168.94008,13
+a6,Can baking soda help to cure cancer? (Answer is No),TRUE,2,en.noclean.c4-train.00068-of-07168.2128,13

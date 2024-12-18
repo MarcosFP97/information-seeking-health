@@ -1,0 +1,19 @@
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"You might wonder: what do tea bags have to do with pulled teeth?Why the tea bag? Tea bags are a natural way to stop bleeding after dental surgery. This is why they work:Black tea is full of tannins, which are hemostatic (i.e. they cause blood to coagulate, which in turn makes the bleeding stop).Tannins are also astringent. An astringent is something that causes body tissues, including blood vessels, to shrink or constrict."
+Question:Do tea bags help to clot blood in pulled teeth? The answer must be yes or no.
+Your answer:[\INST]
+
+yes
+1
+
+<s>[INST] <<SYS>>
+<</SYS>>
+Provide an answer to the question using the provided evidence and contrasting it with your internal knowledge.
+
+Evidence:"The Scarecrow Press. p. 81. ISBN 978-1-60590-735-2 "There is no scientific evidence that crystal healing has any effect. It has been called a pseudoscience. Pleasant feelings or the apparent successes of crystal healing can be attributed to the placebo effect or cognitive bias—a believer wanting it to be true.""
+Question:Can crystals heal? The answer must be yes or no.
+Your answer:[\INST]
+
