@@ -1,0 +1,543 @@
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Do tea bags help to clot blood in pulled teeth? A:[\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can crystals heal? A:[\INST]
+
+no
+1
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can collagen supplements cure osteoarthritis? A:[\INST]
+
+no
+2
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can cell phones cause cancer? A:[\INST]
+
+no
+3
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can you use WD-40 for arthritis? A:[\INST]
+
+no
+4
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can mosquito bites make you sick? A:[\INST]
+
+yes
+5
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can cancer be inherited? A:[\INST]
+
+yes
+6
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Are vaccines linked to autism? A:[\INST]
+
+no
+7
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can baking soda help to cure cancer? A:[\INST]
+
+no
+8
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Are squats bad for knees? A:[\INST]
+
+no
+9
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Do ACE inhibitors typically cause erectile dysfunction? A:[\INST]
+
+no
+10
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is morphine addictive? A:[\INST]
+
+yes
+11
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can fruit juice increase the risk of diabetes? A:[\INST]
+
+yes
+12
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Do magnetic wrist straps help with arthritis? A:[\INST]
+
+no
+13
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Are sit ups bad for you? A:[\INST]
+
+yes
+14
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can a speech problem be caused by right handed person being forced to left hand? A:[\INST]
+
+yes
+15
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Are there health benefits to drinking your own urine? A:[\INST]
+
+no
+16
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is pink salt good for you? A:[\INST]
+
+no
+17
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can massage get rid of cellulite? A:[\INST]
+
+no
+18
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can fish oil improve your cholesterol? A:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can you become addicted to weed? A:[\INST]
+
+yes
+19
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can vegan diets be healthy? A:[\INST]
+
+yes
+20
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is hydroquinone banned in Europe? A:[\INST]
+
+yes
+21
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Do men get UTI infections? A:[\INST]
+
+yes
+22
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Are carrots good for your eyes? A:[\INST]
+
+yes
+23
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is methanol poisonous? A:[\INST]
+
+yes
+24
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can an MRI harm my baby? A:[\INST]
+
+no
+25
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can exercise lower cholesterol? A:[\INST]
+
+yes
+26
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can chewing gum help lose weight? A:[\INST]
+
+no
+27
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can sunglasses help prevent cataracts? A:[\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Did AIDS come from chimps? A:[\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is too much water bad for you? A:[\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can HIV be transmitted through sweat? A:[\INST]
+
+no
+28
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Do Himalayan salt lamps have health benefits? A:[\INST]
+
+no
+29
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can a woman get pregnant while breastfeeding? A:[\INST]
+
+yes
+30
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can statins cause permanent cognitive impairment? A:[\INST]
+
+no
+31
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Does Vitamin C prevent colds? A:[\INST]
+
+no
+32
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can coffee help you lose weight? A:[\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Does drinking lemon water help with belly fat? A:[\INST]
+
+no
+33
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Does deli meat increase your risk of colon cancer? A:[\INST]
+
+yes
+34
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Are skin tags contagious? A:[\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can oil pulling heal cavities? A:[\INST]
+
+no
+35
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Does a high fiber diet help with hemorrhoids? A:[\INST]
+
+yes
+36
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can grapefruit interfere with medication? A:[\INST]
+
+yes
+37
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can vape pens be harmful? A:[\INST]
+
+yes
+38
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Do bananas increase the risk of diabetes? A:[\INST]
+
+no
+39
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Is wifi harmful for health? A:[\INST]
+
+no
+40
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Does drinking apple cider vinegar help lose weight? A:[\INST]
+
+no
+41
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Does ginger help with nausea? A:[\INST]
+
+yes
+42
+<s>[INST] <<SYS>>
+<</SYS>>
+
+Q: Will wearing an ankle brace help heal achilles tendonitis?
+A: No.
+Q: Does yoga improve the management of asthma?
+A: Yes.
+Q: Can a cold sore cause genital herpes? A:[\INST]
+
+no
+Accuracy:0.84

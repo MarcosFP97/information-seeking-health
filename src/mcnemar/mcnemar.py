@@ -5,6 +5,7 @@ import numpy as np
 import argparse
 import re
 from typing import List
+import pickle
 
 def get_labels(run: str) -> List[int]:
     hits = []
@@ -54,6 +55,11 @@ def get_labels(run: str) -> List[int]:
                 #print()
                 continue
             #print("Hits",hits, "len", len(hits)) #### CHEQUEAR POR QUÉ 0.88
+    pf = run.split('/')
+    pf = pf[-2] + '_' + pf[-1].replace('.txt','')
+    with open('../rag/pickle_hits/'+pf, "wb") as f:
+        pickle.dump(hits,f)
+
     print(len(hits))
     print(np.mean(hits))
     return hits
@@ -81,7 +87,7 @@ if __name__=="__main__":
     parser.add_argument("run1")
     parser.add_argument("run2")
     args = parser.parse_args()
-    root = ET.parse("../../evaluation/misinfo-resources-"+str(args.year)+"/topics/misinfo-"+str(args.year)+"-topics.xml").getroot()
+    root = ET.parse("../rag/evaluation/misinfo-resources-"+str(args.year)+"/topics/misinfo-"+str(args.year)+"-topics.xml").getroot()
     
     ground_truth = {}
     for topic in root.findall('topic'):

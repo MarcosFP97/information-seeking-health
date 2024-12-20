@@ -870,7 +870,7 @@ Provide an answer to the question using the provided evidence and contrasting it
 Evidence:"In 2020, scientists started talking about a link between blood type and Covid. That year, research in the journal PLOS Genetics revealed that people with Type A blood are more likely to have a severe case of Covid-19. A previous study in the journal Blood Advances from 2020 also affirmed this research, adding that people with Type O blood seem to be more protected from Covid.Researchers in China first shared this idea in March 2020, and the findings were echoed by a paper out of Columbia University a month later. Even DNA testing company 23andMe tapped their customers and found that among 750,000 people who were diagnosed and hospitalized for Covid (this was prior to vaccines), those with type O were more protected.Then, a study published in the New England Journal of Medicine confirmed the idea with a peer-reviewed study: Folks with Type A blood were 45 percent more likely to become infected with Covid than those with other blood types, while those with Type O were 35 percent less likely.Where are we now, in 2022, on blood type and Covid? Additional research and review papers have confirmed that we're in more or less the same place: It looks like there really is an association between Type A blood and susceptibility to Covid and Type O blood and less susceptibility. Yet no research so far has been able to pin down the molecular goings on that explain the mechanism behind why this might be so.
  In this cohort, the majority (74%) of COVID-19–positive subjects had mild disease and did not require inpatient hospitalization. Data from tested subjects were compared with 2,204,742 nontested individuals, which accounted for nearly 40% of the total Danish population. The authors found that individuals with type O blood were relatively protected from viral infection (relative risk (RR) = 0.87; 95% CI, 0.82–0.91). Unlike previous studies, however, there was no difference between ABO blood type and progression of illness to hospitalization or mortality (each, P > .40). Rh typing was not collected in this analysis.In our investigation, we performed a multi-institutional analysis across 5 hospitals in the New England region [18]. A total of 7,648 patients were tested for SARS-CoV-2 during the study period, of which 1,289 (16.9%) were positive.
  Yet these risks are relative, meaning people with type O blood are not immune to COVID-19. "We do know that people of all types can get infected with COVID-19," says cardiologist Daniel Anderson, MD, PhD. Your blood type may also affect how severe the progression of COVID-19 will be. "Some evidence shows the severity of the infection is associated with different blood cell types, but the mechanisms by which it happens are unclear," says Dr. Anderson. Blood type is not the only factor in disease severity. How much virus you were exposed to, your age, plus any of your underlying health conditions also affects the course and severity of the disease."
-Question:Can having type O blood prevent COVID-19
+Question:Can having type O blood prevent COVID-19?
 
 No.
 24
@@ -888,7 +888,7 @@ Gallagher N
 , 
 Edwards FJ
 ."
-Question:Can methanol prevent COVID-19
+Question:Can methanol prevent COVID-19?
 
 No
 25

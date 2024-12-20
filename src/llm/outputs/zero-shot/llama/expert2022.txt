@@ -1,0 +1,343 @@
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do tea bags help to clot blood in pulled teeth? [\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can crystals heal? [\INST]
+
+no
+1
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can collagen supplements cure osteoarthritis? [\INST]
+
+no
+2
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can cell phones cause cancer? [\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can you use WD-40 for arthritis? [\INST]
+
+no
+3
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can mosquito bites make you sick? [\INST]
+
+yes
+4
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can cancer be inherited? [\INST]
+
+yes
+5
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are vaccines linked to autism? [\INST]
+
+no
+6
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can baking soda help to cure cancer? [\INST]
+
+no
+7
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are squats bad for knees? [\INST]
+
+no
+8
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do ACE inhibitors typically cause erectile dysfunction? [\INST]
+
+no
+9
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is morphine addictive? [\INST]
+
+yes
+10
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can fruit juice increase the risk of diabetes? [\INST]
+
+yes
+11
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do magnetic wrist straps help with arthritis? [\INST]
+
+no
+12
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are sit ups bad for you? [\INST]
+
+yes
+13
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can a speech problem be caused by right handed person being forced to left hand? [\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are there health benefits to drinking your own urine? [\INST]
+
+no
+14
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is pink salt good for you? [\INST]
+
+no
+15
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can massage get rid of cellulite? [\INST]
+
+no
+16
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can fish oil improve your cholesterol? [\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can you become addicted to weed? [\INST]
+
+yes
+17
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can vegan diets be healthy? [\INST]
+
+yes
+18
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is hydroquinone banned in Europe? [\INST]
+
+yes
+19
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do men get UTI infections? [\INST]
+
+yes
+20
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are carrots good for your eyes? [\INST]
+
+yes
+21
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is methanol poisonous? [\INST]
+
+yes
+22
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can an MRI harm my baby? [\INST]
+
+no
+23
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can exercise lower cholesterol? [\INST]
+
+yes
+24
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can chewing gum help lose weight? [\INST]
+
+no
+25
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can sunglasses help prevent cataracts? [\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Did AIDS come from chimps? [\INST]
+
+no
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is too much water bad for you? [\INST]
+
+yes
+26
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can HIV be transmitted through sweat? [\INST]
+
+no
+27
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do Himalayan salt lamps have health benefits? [\INST]
+
+no
+28
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can a woman get pregnant while breastfeeding? [\INST]
+
+yes
+29
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can statins cause permanent cognitive impairment? [\INST]
+
+no
+30
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does Vitamin C prevent colds? [\INST]
+
+yes
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can coffee help you lose weight? [\INST]
+
+yes
+31
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does drinking lemon water help with belly fat? [\INST]
+
+no
+32
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does deli meat increase your risk of colon cancer? [\INST]
+
+yes
+33
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Are skin tags contagious? [\INST]
+
+no
+34
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can oil pulling heal cavities? [\INST]
+
+no
+35
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does a high fiber diet help with hemorrhoids? [\INST]
+
+yes
+36
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can grapefruit interfere with medication? [\INST]
+
+yes
+37
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can vape pens be harmful? [\INST]
+
+yes
+38
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Do bananas increase the risk of diabetes? [\INST]
+
+no
+39
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Is wifi harmful for health? [\INST]
+
+no
+40
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does drinking apple cider vinegar help lose weight? [\INST]
+
+no
+41
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Does ginger help with nausea? [\INST]
+
+yes
+42
+<s>[INST] <<SYS>>
+<</SYS>>
+We are a committee of leading scientific experts and medical doctors reviewing the latest and highest quality of research from PubMED. For each question, we have chosen an answer, either 'yes' or 'no', based on our best understanding of current medical practice and literature.
+Can a cold sore cause genital herpes? [\INST]
+
+no
+Accuracy:0.84
