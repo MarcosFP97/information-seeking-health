@@ -19,7 +19,7 @@ def get_incorrect_queries(
     is_query = False
 
     qs = []
-    with open("../../outputs/zero-shot/"+model+'/'+context+year+extension, 'r') as pf:
+    with open("../outputs/zero-shot/"+model+'/'+context+year+extension, 'r') as pf:
         data = pf.readlines()
         
         query = ""    
@@ -30,8 +30,8 @@ def get_incorrect_queries(
             if is_q:
                 # print("Query:",is_q[0])
                 if is_query:
-                    if "llama":
-                        query = query.replace(" [\\INST]","")
+                    if "llama": 
+                        query = query.replace("\n","").rstrip()
                     qs.append(query)
                     # is_query = False
                     query = is_q[0]
@@ -53,12 +53,14 @@ def get_incorrect_queries(
 if __name__=="__main__":
     params = sys.argv
     year = sys.argv[1]
-    llama_qs = get_incorrect_queries("llama", year, "")
+    med_llama_qs = get_incorrect_queries("medllama3", year, "")
+    llama_qs = get_incorrect_queries("llama3", year, "")
     gpt4_qs = get_incorrect_queries("gpt-4", year, "")
     gpt35_qs = get_incorrect_queries("gpt-3.5-turbo", year, "")
-    print(f'COMMON INCORRECT QUERIES FOR NO CONTEXT:{set(llama_qs) & set(gpt4_qs) & set(gpt35_qs)}')
+    print(f'COMMON INCORRECT QUERIES FOR NO CONTEXT:{set(med_llama_qs) & set(llama_qs) & set(gpt4_qs) & set(gpt35_qs)}')
 
-    llama_qs = get_incorrect_queries("llama", year, "expert")
+    med_llama_qs = get_incorrect_queries("medllama3", year, "expert")
+    llama_qs = get_incorrect_queries("llama3", year, "expert")
     gpt4_qs = get_incorrect_queries("gpt-4", year, "expert")
     gpt35_qs = get_incorrect_queries("gpt-3.5-turbo", year, "expert")
-    print(f'COMMON INCORRECT QUERIES FOR EXPERT CONTEXT:{set(llama_qs) & set(gpt4_qs) & set(gpt35_qs)}')
+    print(f'COMMON INCORRECT QUERIES FOR EXPERT CONTEXT:{set(med_llama_qs) & set(llama_qs) & set(gpt4_qs) & set(gpt35_qs)}')

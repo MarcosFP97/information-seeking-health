@@ -1,6 +1,6 @@
 
 
-python mcnemar.py 2020 ../rag/outputs/medllama3/expert2020_123.txt ../llm/outputs/zero-shot/llama3/expert2020.txt 
+python mcnemar.py 2022 ../rag/outputs/medllama3/expert2022_123.txt "" # ../llm/outputs/zero-shot/llama3/expert2021.txt 
 # python mcnemar.py 2021 ../rag/outputs/gpt-4/2021_2.txt ../../outputs/zero-shot/gpt-4/2021_verbose.txt 
 # python mcnemar.py 2021 ../rag/outputs/gpt-4/2021_3.txt ../../outputs/zero-shot/gpt-4/2021_verbose.txt 
 # python mcnemar.py 2021 ../rag/outputs/gpt-4/2021_4.txt ../../outputs/zero-shot/gpt-4/2021_verbose.txt 

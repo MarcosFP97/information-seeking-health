@@ -1,8 +1,7 @@
-import typer
+import sys
 import pandas as pd
 import xml.etree.ElementTree as ET
-
-app = typer.Typer()
+import numpy as np
 
 def calculate_precision_k(df, max_k):
     results = {}
@@ -22,9 +21,9 @@ def calculate_precision_k(df, max_k):
 
     return results
 
-@app.command()
-def individual(se:str=typer.Argument("Duckduckgo"), 
-               year:int=typer.Argument(2022)) \
+def individual(se:str, 
+               year:int,
+               question:str) \
                -> None:
     
     root = ET.parse("../llm/evaluation/misinfo-resources-"+str(year)+"/topics/misinfo-"+str(year)+"-topics.xml").getroot() ## open queries file
@@ -32,13 +31,21 @@ def individual(se:str=typer.Argument("Duckduckgo"),
     
     ####### ADAPTAR ESTO A VARIOS AÑOS
     for topic in root.findall('topic'):
-        query = topic.find("question").text
-        answer = topic.find("answer").text
+        query=""
+        if year==2021:
+            query = topic.find("description").text
+            answer = topic.find("stance").text
+            if answer=="helpful":
+                answer = 'yes'
+            else:
+                answer = 'no'
+        else:
+            if year==2022:
+                query = topic.find("question").text
+            elif year==2020:
+                query = topic.find("description").text
+            answer = topic.find("answer").text
         query_ans[query.rstrip()] = answer
-        # if answer=="unhelpful": ##### ADAPTAR ESTO A VARIOS AÑOS
-        #     query_ans[query.rstrip()] = "no"
-        # else:
-        #     query_ans[query.rstrip()] = "yes"
     
     #print(query_ans)
     results = pd.read_csv("results/stance_prediction_"+se.lower()+"_"+str(year)+".csv", names=["query", "link", "passage", "answer", "label1", "label2"])
@@ -74,31 +81,30 @@ def individual(se:str=typer.Argument("Duckduckgo"),
     #print(results)
     #results.to_csv("results/stance_prediction_"+se+"_"+str(year)+"_hits.csv", header=True, index=False)
     precision_results = calculate_precision_k(results,20)
-    print(type(precision_results))
-    # precision_df = pd.DataFrame.from_dict(precision_results, orient='index')
-    # precision_df.columns = [f"P@{k}" for k in range(1, precision_df.shape[1] + 1)]
-    # precision_df.index.name = "Query"
-    # precision_df.reset_index(inplace=True)
-    # print(precision_df)
-    precision_averages = []
-    num_queries_per_k = []  # Para registrar cuántas queries contribuyen a cada k
-
-    for k in range(20):
-        values_at_k = [precision_results[query][k] for query in precision_results if len(precision_results[query]) > k]
-        # if values_at_k:
-        precision_averages.append(sum(values_at_k) / len(values_at_k))
-        num_queries_per_k.append(len(values_at_k))
-
-    print(precision_averages)
-    print(num_queries_per_k)
-    final_df = pd.DataFrame({
-    "top": range(1, 20 + 1),
-    "Precision_Average": precision_averages,
-    "se": [se] * 20,  # Cambia 42 por el valor constante que necesites
-    "Num_Queries_Contributing": num_queries_per_k,
-    })
-    print(final_df)
-    # final_df.to_csv(f'./precision_results/precision_{se.lower()}_{year}.csv', index=False, header=True)
+    #print(precision_results)
+    return precision_results[question][9]
 
 if __name__ == "__main__":
-	app()
+    year = int(sys.argv[1])
+
+    if year==2020: ### This are the queries identified as difficult for the LLMs
+        queries = ['Can bleach prevent COVID-19?', 'Can Nicotine help COVID-19?']
+    elif year==2021:
+        queries = ['Can fermented milk help mitigate high blood pressure?', 'Can evening primrose oil help treat eczema?', 'Can omega-3 treat borderline personality disorder in women?', 'Do ankle braces help heal an ankle fracture?']
+    elif year==2022:
+        queries = ['Can fish oil improve your cholesterol?', 'Can a speech problem be caused by right handed person being forced to left hand?']
+    avg_ses = {}
+    for query in queries:
+        if not query in avg_ses:
+            avg_ses[query] = []
+
+        avg_ses[query].append(individual("Google", year, query))
+        avg_ses[query].append(individual("Duckduckgo", year, query))
+        avg_ses[query].append(individual("Yahoo", year, query))
+        avg_ses[query].append(individual("Bing", year, query))
+    
+    query_difficulties = []
+    for k,v in avg_ses.items():
+        mean = np.mean(v)
+        query_difficulties.append(mean)
+    print("Difficult queries in",year,"have an average p@10 of",np.mean(query_difficulties))

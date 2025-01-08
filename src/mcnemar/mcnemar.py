@@ -57,7 +57,7 @@ def get_labels(run: str) -> List[int]:
             #print("Hits",hits, "len", len(hits)) #### CHEQUEAR POR QUÉ 0.88
     pf = run.split('/')
     pf = pf[-2] + '_' + pf[-1].replace('.txt','')
-    with open('../rag/pickle_hits/'+pf, "wb") as f:
+    with open('../rag/pickle_hits/2022/'+pf, "wb") as f:
         pickle.dump(hits,f)
 
     print(len(hits))

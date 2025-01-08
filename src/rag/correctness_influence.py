@@ -24,7 +24,7 @@ def load_answers(
         elif str(year)=="2020":
             query = topic.find("description").text 
             answer = topic.find("answer").text
-            answers[query.rstrip()] = answer
+        answers[query.rstrip()] = answer
     return answers
 
 if __name__=="__main__":
@@ -47,22 +47,39 @@ if __name__=="__main__":
     
     aux = pd.DataFrame(corr_pass.items(), columns=['Query', 'Perc_Corr'])
     
-    for f in os.listdir('./pickle_hits/2020/'):
+    for f in os.listdir('./pickle_hits/'+year+'/'):
         model = f.split('_')
-        with open('./pickle_hits/2020/'+f, 'rb') as f:
+        with open('./pickle_hits/'+year+'/'+f, 'rb') as f:
             hits = pickle.load(f)
             aux[model[0]] = hits
 
     gpt4 = aux.groupby("Perc_Corr")["gpt-4"].mean().reset_index()
+    print(gpt4)
     llama3 = aux.groupby("Perc_Corr")["llama3"].mean().reset_index()
+    print(llama3)
     medllama3 = aux.groupby("Perc_Corr")["medllama3"].mean().reset_index()
+    print(medllama3)
     gpt35 = aux.groupby("Perc_Corr")["gpt-3.5-turbo"].mean().reset_index()
+    print(gpt35)
     d002 = aux.groupby("Perc_Corr")["text-davinci-002"].mean().reset_index()
-    plt.figure(figsize=(8,5))
-    plt.plot(gpt4['Perc_Corr'].values, gpt4['gpt-4'].values)
-    plt.plot(llama3['Perc_Corr'].values, llama3['llama3'].values)
-    plt.plot(medllama3['Perc_Corr'].values, medllama3['medllama3'].values)
-    plt.plot(gpt35['Perc_Corr'].values, gpt35["gpt-3.5-turbo"].values)
-    plt.plot(d002['Perc_Corr'].values, d002["text-davinci-002"].values)
-    plt.legend()
+    print(d002)
+    x_ticks = [0/3, 1/3, 2/3, 3/3]
+    plt.figure(figsize=(8, 5))
+    plt.plot(x_ticks, gpt4['gpt-4'].values, marker='o', label='GPT-4')
+    plt.plot(x_ticks, llama3['llama3'].values, marker='x', label='Llama3')
+    plt.plot(x_ticks, medllama3['medllama3'].values, marker='^', label='MedLlama3')
+    plt.plot(x_ticks, gpt35['gpt-3.5-turbo'].values, marker='s', label='ChatGPT')
+    plt.plot(x_ticks, d002['text-davinci-002'].values, linewidth=1.5, marker='d', label='text-davinci-002')
+
+    plt.xlabel('Proportion of correct passages in RAG', fontsize=16)
+    plt.ylabel('Accuracy', fontsize=16)
+    # plt.title(f'Model Performance for {year}')
+    plt.xticks(x_ticks, labels=['0/3', '1/3', '2/3', '3/3'], fontsize=16)
+    plt.ylim(0, 1.05)
+    plt.yticks(fontsize=16)
+    plt.legend(loc='lower right', fontsize=16)
+    plt.grid(False)
+    plt.gca().spines['top'].set_visible(False)
+    plt.gca().spines['right'].set_visible(False)
+    plt.savefig('./figs/' + year + '.png', bbox_inches='tight')
     plt.show()
