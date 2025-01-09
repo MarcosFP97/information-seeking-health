@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Datos
-categories = ['Incorrect medical consensus', 'Misinterpretation of the question', 'Ambiguous Answer']
+categories = ['Incorrect medical\nconsensus', 'Misinterpretation', 'Ambiguous']
 no_context = [75, 25,  0]  # Porcentajes de errores para 'no context'
 expert = [57, 14,  29]      # Porcentajes de errores para 'expert'
 
@@ -24,7 +24,7 @@ ax.spines['top'].set_visible(False)
 ax.spines['right'].set_visible(False)
 
 # Mostrar gráfico
-plt.xticks(rotation=45)
+plt.xticks(rotation=35)
 plt.yticks(fontsize=16)
 plt.ylim(0,100)
 plt.savefig('perc_errors.png', bbox_inches='tight')
