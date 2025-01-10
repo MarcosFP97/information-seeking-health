@@ -47,7 +47,10 @@ Currently, we have a journal paper **under review** with all the add-ons to the 
 3. Run the Jupyter notebooks and scripts in `src/` folder as needed.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the GPL-v3 License. See the `LICENSE` file for details.
+
+## Credits
+This project uses [Search Engines Scraper ](https://github.com/tasos-py/Search-Engines-Scraper) developed by [@tasos-py](https://github.com/tasos-py).
 
 ## Contributions
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request for review. 
