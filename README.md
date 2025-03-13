@@ -1,10 +1,24 @@
-# Information-Seeking in Health with LLMs, Search Engines and RAG approaches
+# Evaluating search engines and large language models for answering health questions
 
 ## Overview
-This repository evaluates four well-known search engines, seven Large Language Models (LLMs) and "online" RAG experiments for health information seeking. The evaluation leverages TREC Health Misinformation datasets as benchmarks.
+This repository contains the code for the experiments detailed in the paper ``Evaluating search engines and large language models for answering health questions'' published in NPJ Digital Medicine. In this paper, we evaluate four well-known search engines, seven Large Language Models (LLMs) and "online" RAG experiments for health information seeking. The evaluation leverages TREC Health Misinformation datasets as benchmarks.
 
 ## Citation
-We have already published a conference paper. Please **cite us** if you use this repo.
+ Please **cite us** if you use this repo:
+
+```bibtex
+@article{fernandez2025evaluating,
+  title={Evaluating search engines and large language models for answering health questions},
+  author={Fern{\'a}ndez-Pichel, Marcos and Pichel, Juan C and Losada, David E},
+  journal={npj Digital Medicine},
+  volume={8},
+  number={1},
+  pages={153},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+```
+ We also have a previously published conference paper containing only the LLMs' evaluation:
 
 ```bibtex
 @inproceedings{fernandez2024binaryQA,
@@ -18,7 +32,6 @@ We have already published a conference paper. Please **cite us** if you use this
   doi={10.1007/978-3-031-63772-8_29}
 }
 ```
-Currently, we have a journal paper **under review** with all the add-ons to the first publication.
 
 ### Key Features
 - **Health-Related QA**: Focused on binary questions to address health misinformation.
