@@ -1,0 +1,145 @@
+mode      model             file                       uniq found noans hits   mine  stored  flag
+zero-shot flan-t5           2020.txt                     49    49    31    9 0.1837 0.1836734693877551  
+zero-shot flan-t5           2021.txt                     50    50    14   21   0.42    0.42  
+zero-shot flan-t5           2022.txt                     50    50    10   28   0.56    0.56  
+zero-shot flan-t5           expert2020.txt               49    49     0   39 0.7959 0.7959183673469388  
+zero-shot flan-t5           expert2021.txt               50    50     0   32   0.64    0.64  
+zero-shot flan-t5           expert2022.txt               50    50     0   37   0.74    0.74  
+zero-shot flan-t5           nonexpert2020.txt            49    49     3   15 0.3061 0.30612244897959184  
+zero-shot flan-t5           nonexpert2021.txt            50    50     2   26   0.52    0.52  
+zero-shot flan-t5           nonexpert2022.txt            50    50     4   27   0.54    0.54  
+zero-shot gpt-3.5-turbo     2020_verbose.txt             49    49     9   36 0.7347 0.7346938775510204  
+zero-shot gpt-3.5-turbo     2021_verbose.txt             50    50    25   19   0.38    0.38  
+zero-shot gpt-3.5-turbo     2022_verbose.txt             50    50    14   31   0.62    None  NO-STORED
+zero-shot gpt-3.5-turbo     expert2020_verbose.txt       49    49     1   44  0.898    0.84  DIFF
+zero-shot gpt-3.5-turbo     expert2021_verbose.txt       50    50     5   35    0.7     0.7  
+zero-shot gpt-3.5-turbo     expert2022_verbose.txt       50    50     0   46   0.92    0.92  
+zero-shot gpt-3.5-turbo     nonexpert2020.txt            49    49     9   36 0.7347 0.7346938775510204  
+zero-shot gpt-3.5-turbo     nonexpert2021.txt            50    50    31   11   0.22    0.22  
+zero-shot gpt-3.5-turbo     nonexpert2022.txt            50    50    18   31   0.62    0.62  
+zero-shot gpt-4             2020_verbose.txt             49    49    28   19 0.3878 0.3877551020408163  
+zero-shot gpt-4             2021_verbose.txt             50    50    43    7   0.14    0.14  
+zero-shot gpt-4             2022_verbose.txt             50    50    24   25    0.5     0.5  
+zero-shot gpt-4             expert2020_verbose.txt       49    49     3   43 0.8776 0.8775510204081632  
+zero-shot gpt-4             expert2021_verbose.txt       50    50     2   35    0.7     0.7  
+zero-shot gpt-4             expert2022_verbose.txt       50    50     1   44   0.88    0.88  
+zero-shot gpt-4             nonexpert2020.txt            49    49    27   21 0.4286 0.42857142857142855  
+zero-shot gpt-4             nonexpert2021.txt            50    50    46    4   0.08    0.08  
+zero-shot gpt-4             nonexpert2022.txt            50    50    44    6   0.12    0.12  
+zero-shot llama             2020.txt                     49    49     0   45 0.9184 0.9183673469387755  
+zero-shot llama             2021.txt                     50    50     0   38   0.76    0.76  
+zero-shot llama             2022.txt                     50    50     0   37   0.74    0.74  
+zero-shot llama             expert2020.txt               49    49     0   45 0.9184 0.9183673469387755  
+zero-shot llama             expert2021.txt               50    50     0   36   0.72    0.72  
+zero-shot llama             expert2022.txt               50    50     0   42   0.84    0.84  
+zero-shot llama             nonexpert2020.txt            49    49     0   42 0.8571 0.8571428571428571  
+zero-shot llama             nonexpert2021.txt            50    50     0   35    0.7     0.7  
+zero-shot llama             nonexpert2022.txt            50    50     0   34   0.68    0.68  
+zero-shot llama3            2020.txt                     49    49     0   45 0.9184 0.9183673469387755  
+zero-shot llama3            2021.txt                     50    50     0   36   0.72    0.72  
+zero-shot llama3            2022.txt                     50    50     0   41   0.82    0.82  
+zero-shot llama3            expert2020.txt               49    49     0   45 0.9184 0.9183673469387755  
+zero-shot llama3            expert2021.txt               50    50     0   40    0.8     0.8  
+zero-shot llama3            expert2022.txt               50    50     0   40    0.8     0.8  
+zero-shot llama3            nonexpert2020.txt            49    49     0   45 0.9184 0.9183673469387755  
+zero-shot llama3            nonexpert2021.txt            50    50     0   39   0.78    0.78  
+zero-shot llama3            nonexpert2022.txt            50    50     0   40    0.8     0.8  
+zero-shot medllama3         2020.txt                     49    49     0   45 0.9184 0.9183673469387755  
+zero-shot medllama3         2021.txt                     50    50     0   40    0.8     0.8  
+zero-shot medllama3         2022.txt                     50    50     0   39   0.78    0.78  
+zero-shot medllama3         expert2020.txt               49    49     0   45 0.9184 0.9183673469387755  
+zero-shot medllama3         expert2021.txt               50    50     0   40    0.8     0.8  
+zero-shot medllama3         expert2022.txt               50    50     0   40    0.8     0.8  
+zero-shot medllama3         nonexpert2020.txt            49    49     0   45 0.9184 0.9183673469387755  
+zero-shot medllama3         nonexpert2021.txt            50    50     0   41   0.82    0.82  
+zero-shot medllama3         nonexpert2022.txt            50    50     0   38   0.76    0.76  
+zero-shot text-davinci-002  2020.txt                     49    49     2   40 0.8163 0.8163265306122449  
+zero-shot text-davinci-002  2021.txt                     50    50    23   20    0.4    0.34  DIFF
+zero-shot text-davinci-002  2022.txt                     50    50    10   33   0.66    0.66  
+zero-shot text-davinci-002  expert2020.txt               49    49     0   44  0.898 0.8571428571428571  DIFF
+zero-shot text-davinci-002  expert2021.txt               50    50    21   24   0.48    0.36  DIFF
+zero-shot text-davinci-002  expert2022.txt               50    50     4   39   0.78    None  NO-STORED
+zero-shot text-davinci-002  nonexpert2020.txt            49    49     0   41 0.8367 0.7755102040816326  DIFF
+zero-shot text-davinci-002  nonexpert2021.txt            50    50    12   24   0.48     0.4  DIFF
+zero-shot text-davinci-002  nonexpert2022.txt            50    50     5   29   0.58    None  NO-STORED
+zero-shot text-davinci-003  2020.txt                     49    49     1   44  0.898 0.8979591836734694  
+zero-shot text-davinci-003  2021.txt                     50    50     8   34   0.68    None  NO-STORED
+zero-shot text-davinci-003  2022.txt                     50    50    10   33   0.66    0.66  
+zero-shot text-davinci-003  expert2020.txt               49    49     0    8 0.1633 0.8979591836734694  DIFF
+zero-shot text-davinci-003  expert2021.txt               50    50     0   40    0.8     0.8  
+zero-shot text-davinci-003  expert2022.txt               50    50     0   36   0.72    0.72  
+zero-shot text-davinci-003  nonexpert2020.txt            49    49     3   43 0.8776 0.8775510204081632  
+zero-shot text-davinci-003  nonexpert2021.txt            50    50    22   23   0.46    0.46  
+zero-shot text-davinci-003  nonexpert2022.txt            50    50    10   32   0.64    0.64  
+few-shot  flan-t5           2022_1.txt                   50    50     3   33   0.66    0.66  
+few-shot  flan-t5           2022_2.txt                   50    50     1   32   0.64    0.64  
+few-shot  flan-t5           2022_3.txt                   50    50     1   35    0.7     0.7  
+few-shot  flan-t5           expert2022_1.txt             50    50     0   34   0.68    0.68  
+few-shot  flan-t5           expert2022_2.txt             50    50     0   36   0.72    0.72  
+few-shot  flan-t5           expert2022_3.txt             50    50     0   36   0.72    0.72  
+few-shot  flan-t5           nonexpert2022_1.txt          50    50     0   34   0.68    0.68  
+few-shot  flan-t5           nonexpert2022_2.txt          50    50     0   33   0.66    0.66  
+few-shot  flan-t5           nonexpert2022_3.txt          50    50     0   32   0.64    0.64  
+few-shot  gpt-3.5-turbo     2022_1.txt                   50    50     0   41   0.82    0.82  
+few-shot  gpt-3.5-turbo     2022_2.txt                   50    50     0   44   0.88    0.88  
+few-shot  gpt-3.5-turbo     2022_3.txt                   50    50     0   42   0.84    0.84  
+few-shot  gpt-3.5-turbo     expert2022_1.txt             50    50     0   42   0.84    0.84  
+few-shot  gpt-3.5-turbo     expert2022_2.txt             50    50     0   44   0.88    0.88  
+few-shot  gpt-3.5-turbo     expert2022_3.txt             50    50     0   44   0.88    0.88  
+few-shot  gpt-3.5-turbo     nonexpert2022_1.txt          50    50     0   40    0.8     0.8  
+few-shot  gpt-3.5-turbo     nonexpert2022_2.txt          50    50     0   44   0.88    0.88  
+few-shot  gpt-3.5-turbo     nonexpert2022_3.txt          50    50     0   43   0.86    0.86  
+few-shot  gpt-4             2022_1.txt                   50    50     0   42   0.84    0.84  
+few-shot  gpt-4             2022_2.txt                   50    50     0   43   0.86    0.86  
+few-shot  gpt-4             2022_3.txt                   50    50     0   43   0.86    0.86  
+few-shot  gpt-4             expert2022_1.txt             50    50     0   44   0.88    0.88  
+few-shot  gpt-4             expert2022_2.txt             50    50     0   46   0.92    0.92  
+few-shot  gpt-4             expert2022_3.txt             50    50     0   45    0.9     0.9  
+few-shot  gpt-4             nonexpert2022_1.txt          50    50     0   43   0.86    0.86  
+few-shot  gpt-4             nonexpert2022_2.txt          50    50     0   44   0.88    0.88  
+few-shot  gpt-4             nonexpert2022_3.txt          50    50     0   44   0.88    0.88  
+few-shot  llama             2022_1.txt                   50    50     0   35    0.7     0.7  
+few-shot  llama             2022_2.txt                   50    50     0   42   0.84    0.84  
+few-shot  llama             expert2022_1.txt             50    50     0   32   0.64    0.64  
+few-shot  llama             expert2022_2.txt             50    50     0   38   0.76    0.76  
+few-shot  llama             expert2022_3.txt             50    50     0   30    0.6     0.6  
+few-shot  llama             nonexpert2022_1.txt          50    50     0   36   0.72    0.72  
+few-shot  llama             nonexpert2022_2.txt          50    50     0   37   0.74    0.74  
+few-shot  llama             nonexpert2022_3.txt          50    50     0   31   0.62    0.62  
+few-shot  llama3            2020.txt_3                   49     1     1    0    0.0    None  NO-STORED
+few-shot  llama3            2022.txt_1                   50    50     0   43   0.86    0.86  
+few-shot  llama3            2022.txt_2                   50    50     0   42   0.84    0.84  
+few-shot  llama3            2022.txt_3                   50    50     0   40    0.8     0.8  
+few-shot  llama3            expert2022.txt_1             50    50     0   38   0.76    0.76  
+few-shot  llama3            expert2022.txt_2             50    50     0   41   0.82    0.82  
+few-shot  llama3            expert2022.txt_3             50    50     0   39   0.78    0.78  
+few-shot  llama3            nonexpert2022.txt_1          50    50     0   38   0.76    0.76  
+few-shot  llama3            nonexpert2022.txt_2          50    50     0   40    0.8     0.8  
+few-shot  llama3            nonexpert2022.txt_3          50    50     0   40    0.8     0.8  
+few-shot  medllama3         2022.txt_1                   50    50     0   40    0.8     0.8  
+few-shot  medllama3         2022.txt_2                   50    50     0   38   0.76    0.76  
+few-shot  medllama3         2022.txt_3                   50    50     0   38   0.76    0.76  
+few-shot  medllama3         expert2022.txt_1             50    50     0   41   0.82    0.82  
+few-shot  medllama3         expert2022.txt_2             50    50     0   40    0.8     0.8  
+few-shot  medllama3         expert2022.txt_3             50    50     0   40    0.8     0.8  
+few-shot  medllama3         nonexpert2022.txt_1          50    50     0   39   0.78    0.78  
+few-shot  medllama3         nonexpert2022.txt_2          50    50     0   39   0.78    0.78  
+few-shot  medllama3         nonexpert2022.txt_3          50    50     0   41   0.82    0.82  
+few-shot  text-davinci-002  2022_1.txt                   50    50     0   35    0.7     0.7  
+few-shot  text-davinci-002  2022_2.txt                   50    50     0   39   0.78    0.78  
+few-shot  text-davinci-002  2022_3.txt                   50    50     0   39   0.78    0.78  
+few-shot  text-davinci-002  expert2022_1.txt             50    50     0   37   0.74    0.74  
+few-shot  text-davinci-002  expert2022_2.txt             50    50     0   38   0.76    0.76  
+few-shot  text-davinci-002  expert2022_3.txt             50    50     0   39   0.78    0.78  
+few-shot  text-davinci-002  nonexpert2022_1.txt          50    50     0   32   0.64    0.64  
+few-shot  text-davinci-002  nonexpert2022_2.txt          50    50     0   37   0.74    0.74  
+few-shot  text-davinci-002  nonexpert2022_3.txt          50    50     0   38   0.76    0.76  
+few-shot  text-davinci-003  2022_1.txt                   50    50     0   43   0.86    0.86  
+few-shot  text-davinci-003  2022_2.txt                   50    50     0   43   0.86    0.86  
+few-shot  text-davinci-003  2022_3.txt                   50    50     0   43   0.86    0.86  
+few-shot  text-davinci-003  expert2022_1.txt             50    50     0   41   0.82    0.82  
+few-shot  text-davinci-003  expert2022_2.txt             50    50     0   42   0.84    0.84  
+few-shot  text-davinci-003  expert2022_3.txt             50    50     0   42   0.84    0.84  
+few-shot  text-davinci-003  nonexpert2022_1.txt          50    50     0   41   0.82    0.82  
+few-shot  text-davinci-003  nonexpert2022_2.txt          50    50     0   41   0.82    0.82  
+few-shot  text-davinci-003  nonexpert2022_3.txt          50    50     0   42   0.84    0.84  
