@@ -1,0 +1,4 @@
+prompt,questions,paper_accuracy,reproduced_accuracy,difference_pp,original_correct,reproduced_correct,identical_predictions,different_predictions,agreement,both_correct,original_only_correct,reproduction_only_correct,both_incorrect,mcnemar_p_value,significant,runtime_seconds,seconds_per_question
+no-context,50,0.82,0.88,6,41,44,47,3,0.94,41,0,3,6,0.25,false,17.1264,0.3425
+non-expert,50,0.80,0.82,2,40,41,49,1,0.98,40,0,1,9,1.0,false,15.7368,0.3147
+expert,50,0.80,0.84,4,40,42,46,4,0.92,39,1,3,7,0.625,false,13.8547,0.2771

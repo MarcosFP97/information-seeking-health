@@ -1,0 +1,6 @@
+questions: 50 | identical answers: 46 | different: 4
+accuracy authors: 0.80 | accuracy ours: 0.84
+  Q13: authors=no ours=yes correct=yes | Can fruit juice increase the risk of diabetes?
+  Q16: authors=no ours=yes correct=yes | Can a speech problem be caused by right handed person being forced to left hand?
+  Q25: authors=no ours=yes correct=yes | Are carrots good for your eyes?
+  Q32: authors=yes ours=no correct=yes | Is too much water bad for you?

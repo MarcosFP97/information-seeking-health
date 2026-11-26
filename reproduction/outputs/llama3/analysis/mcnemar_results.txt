@@ -1,0 +1,21 @@
+
+Prompt: no-context
+Original only correct: 0
+Reproduction only correct: 3
+P-value: 0.2500
+Statistically significant: False
+Stored p-value verified: True
+
+Prompt: non-expert
+Original only correct: 0
+Reproduction only correct: 1
+P-value: 1.0000
+Statistically significant: False
+Stored p-value verified: True
+
+Prompt: expert
+Original only correct: 1
+Reproduction only correct: 3
+P-value: 0.6250
+Statistically significant: False
+Stored p-value verified: True

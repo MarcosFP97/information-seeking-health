@@ -1,0 +1,5 @@
+questions: 50 | identical answers: 47 | different: 3
+accuracy authors: 0.82 | accuracy ours: 0.88
+  Q14: authors=yes ours=no correct=no | Do magnetic wrist straps help with arthritis?
+  Q23: authors=no ours=yes correct=yes | Is hydroquinone banned in Europe?
+  Q40: authors=no ours=yes correct=yes | Does deli meat increase your risk of colon cancer?

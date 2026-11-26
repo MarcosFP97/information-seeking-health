@@ -1,0 +1,23 @@
+Experiment: Llama 3.1 8B Pilot
+Date: 2026-11-26
+Chip: Apple M5
+RAM: 16 GB
+macOS: 27.0.1
+Python: 3.12.16
+Ollama: 0.40.18
+Ollama Python package: 0.6.3
+Model: llama3.1:8b-instruct-q8_0
+Model ID: b158ded76fa0
+Dataset: TREC HM 2022
+Prompt: No-context
+Temperature: 0
+Context size: 8192
+Few-shot examples: 0
+Questions: 3
+Correct answers: 2
+Incorrect answers: 1
+Accuracy: 0.6667
+Total runtime: 9.48 seconds
+Time per question: 3.16 seconds
+Errors: None
+Changes: Input paths, output directory and overwrite protection.

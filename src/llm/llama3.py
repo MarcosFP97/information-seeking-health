@@ -6,6 +6,11 @@ import xml.etree.ElementTree as ET
 import tiktoken
 from ollama import chat
 from ollama import ChatResponse
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+REPO_DIR = BASE_DIR.parents[1]
+
 
 API_KEY=""
 
@@ -20,7 +25,7 @@ def load_context(
   context:str
 )-> str:
   if context:
-    with open('../contexts/'+context+'.txt') as f:
+    with open(BASE_DIR / "contexts" / (context + ".txt")) as f:
       context = f.read()
   return context
 
@@ -69,7 +74,12 @@ def load_answers(
   year:int
 )-> dict:
   answers = {}
-  root = ET.parse('../evaluation/misinfo-resources-'+str(year)+'/topics/misinfo-'+str(year)+'-topics.xml').getroot()
+  root = ET.parse(
+    BASE_DIR / "evaluation" /
+    f"misinfo-resources-{year}" /
+    "topics" /
+    f"misinfo-{year}-topics.xml"
+  ).getroot()
   for topic in root.findall('topic'):
     if str(year)=="2022":
       query = topic.find("question").text 
@@ -133,9 +143,19 @@ def ask(
     outputfile = expert + str(year) + '.txt'
 
   import os
-  outdir = os.environ.get('OUTDIR', '../outputs/zero-shot/medllama3/')  # reproduction: configurable output folder
-  os.makedirs(outdir, exist_ok=True)
-  with open(os.path.join(outdir, outputfile), 'w+') as f:
+  outdir = Path(os.environ.get(
+    "OUTDIR",
+    str(REPO_DIR / "reproduction" / "outputs" / "llama3")
+  ))
+  outdir = outdir.resolve()
+
+  outdir.relative_to(
+    (REPO_DIR / "reproduction" / "outputs" / "llama3").resolve()
+  )
+
+  outdir.mkdir(parents=True, exist_ok=True)
+
+  with open(outdir / outputfile, 'x') as f:
     hits = 0
     for k, v in eval.items():
         prompt = get_prompt(context, syst, k)

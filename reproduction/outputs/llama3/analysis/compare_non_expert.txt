@@ -1,0 +1,3 @@
+questions: 50 | identical answers: 49 | different: 1
+accuracy authors: 0.80 | accuracy ours: 0.82
+  Q13: authors=no ours=yes correct=yes | Can fruit juice increase the risk of diabetes?
