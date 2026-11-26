@@ -1,0 +1,10 @@
+=== no-context
+questions: 50 | identical answers: 50 | different: 0
+accuracy authors: 0.78 | accuracy ours: 0.78
+=== nonexpert
+questions: 50 | identical answers: 49 | different: 1
+accuracy authors: 0.76 | accuracy ours: 0.78
+  Q31: authors=no ours=yes correct=yes | Did AIDS come from chimps?
+=== expert
+questions: 50 | identical answers: 50 | different: 0
+accuracy authors: 0.80 | accuracy ours: 0.80
