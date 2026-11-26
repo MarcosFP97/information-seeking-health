@@ -132,7 +132,10 @@ def ask(
   else:
     outputfile = expert + str(year) + '.txt'
 
-  with open('../outputs/zero-shot/medllama3/'+outputfile, 'w+') as f:
+  import os
+  outdir = os.environ.get('OUTDIR', '../outputs/zero-shot/medllama3/')  # reproduction: configurable output folder
+  os.makedirs(outdir, exist_ok=True)
+  with open(os.path.join(outdir, outputfile), 'w+') as f:
     hits = 0
     for k, v in eval.items():
         prompt = get_prompt(context, syst, k)
@@ -145,7 +148,7 @@ def ask(
             'content': prompt + '\nYou are only allowed to respond with either \'yes\' or \'no\'. Do not provide any other text or explanation.',
           },
           
-        ],options={'temperature': 0})
+        ],options={'temperature': 0, 'num_ctx': 8192})  # reproduction: num_ctx set explicitly
 
         result = response['message']['content']
 
